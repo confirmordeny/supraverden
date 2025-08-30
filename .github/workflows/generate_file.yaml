@@ -116,6 +116,7 @@ jobs:
           
           print('Generating Markdown table...')
           markdown_content = generate_markdown_table(org_data)
+          os.makedirs(os.path.dirname(output_file), exist_ok=True)
           
           with open(output_file, 'w', encoding='utf-8') as f:
               f.write('# UN Bodies and Affiliates\\n\\n')
