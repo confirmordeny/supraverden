@@ -8,8 +8,11 @@ on:
   push:
     branches:
       - main
+    paths:
+      # To save resources, only run the workflow when the data file changes
+      - 'data/united_nations.yaml'
   
-  # Allows this workflow to be ran manually from the Actions tab
+  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
 jobs:
@@ -17,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checks out the repository under $GITHUB_WORKSPACE, so the job can access it
+      # 1. Checks out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout repository
         uses: actions/checkout@v4
 
@@ -27,11 +30,95 @@ jobs:
         with:
           python-version: '3.x'
 
-      # 3. Runs the Python script to generate the Markdown file
-      - name: Run script to generate Markdown table
+      # 3. Runs an inline Python script to generate the Markdown file
+      - name: Generate Markdown Table
         run: |
-          # The script takes the input file path and the desired output file path
-          python scripts/generate_table.py un_bodies_list.txt UN_BODIES.md
+          python -c """
+          import os
+          import sys
+
+          # Define input and output file paths
+          input_file = 'data/united_nations.yaml'
+          output_file = 'UN_BODIES.md'
+
+          def parse_file(filepath):
+              '''Parses the custom YAML-like file format.'''
+              if not os.path.exists(filepath):
+                  print(f'Error: Input file not found at {filepath}')
+                  sys.exit(1)
+              
+              organizations = []
+              with open(filepath, 'r', encoding='utf-8') as f:
+                  current_org = None
+                  for line in f:
+                      stripped_line = line.strip()
+                      # Skip comments and empty lines
+                      if not stripped_line or stripped_line.startswith('#'):
+                          continue
+                      
+                      # A new organization is a non-indented line
+                      if not line.startswith(' '):
+                          if current_org:
+                              organizations.append(current_org)
+                          org_name = stripped_line.rstrip(':')
+                          current_org = {'_main_name': org_name}
+                      # A property for the current organization
+                      elif current_org is not None and ':' in stripped_line:
+                          try:
+                              key, value = stripped_line.split(':', 1)
+                              current_org[key.strip()] = value.strip()
+                          except ValueError:
+                              print(f'Warning: Skipping malformed line: {stripped_line}')
+              
+              # Append the last organization in the file
+              if current_org:
+                  organizations.append(current_org)
+              return organizations
+
+          def generate_markdown_table(organizations):
+              '''Generates a Markdown table from the parsed data.'''
+              header = '| English Name | Wikidata Code | Source URL |\\n|---|---|---|'
+              rows = [header]
+              
+              for org in sorted(organizations, key=lambda x: x.get('Name-en') or x.get('_main_name')):
+                  name = org.get('Name-en') or org.get('_main_name', 'N/A')
+                  
+                  wikidata = org.get('Wikidata_code', 'N/A')
+                  if not wikidata or 'No code' in wikidata:
+                      wikidata_display = 'N/A'
+                  else:
+                      wikidata_display = f'[{wikidata}](https://www.wikidata.org/wiki/{wikidata})'
+                  
+                  source = org.get('Source', 'N/A')
+                  if source.startswith('http'):
+                      try:
+                          domain = source.split('//')[1].split('/')[0]
+                      except IndexError:
+                          domain = 'Link'
+                      source_display = f'[{domain}]({source})'
+                  else:
+                      source_display = 'N/A'
+                      
+                  rows.append(f'| {name} | {wikidata_display} | {source_display} |')
+              return '\\n'.join(rows)
+
+          # --- Main execution block ---
+          print(f'Reading data from \\'{input_file}\\'...')
+          org_data = parse_file(input_file)
+          print(f'Found {len(org_data)} organizations.')
+          
+          print('Generating Markdown table...')
+          markdown_content = generate_markdown_table(org_data)
+          
+          with open(output_file, 'w', encoding='utf-8') as f:
+              f.write('# UN Bodies and Affiliates\\n\\n')
+              f.write('> [!WARNING]\\n')
+              f.write('> This file is auto-generated. Do not edit it directly as your changes will be overwritten.\\n')
+              f.write(f'> Please edit the source file `{input_file}` instead.\\n\\n')
+              f.write(markdown_content)
+              
+          print(f'Successfully wrote Markdown table to \\'{output_file}\\'')
+          """
 
       # 4. Commits the generated file back to the repository if there are any changes
       - name: Commit and push if changed
