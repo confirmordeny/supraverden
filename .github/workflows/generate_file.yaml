@@ -18,6 +18,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # Add write permissions for the contents of the repository
+    permissions:
+      contents: write
 
     steps:
       # 1. Checks out your repository under $GITHUB_WORKSPACE, so your job can access it
