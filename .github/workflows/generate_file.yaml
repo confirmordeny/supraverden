@@ -42,7 +42,7 @@ jobs:
 
           # Define input and output file paths
           input_file = 'data/united_nations.yaml'
-          output_file = 'UN_BODIES.md'
+          output_file = 'dist/UN_BODIES.md'
 
           def parse_file(filepath):
               '''Parses the custom YAML-like file format.'''
