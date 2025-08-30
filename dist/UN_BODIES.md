@@ -59,12 +59,12 @@
 | United Nations Development Programme | [Q161718](https://www.wikidata.org/wiki/Q161718) | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
 | United Nations Disarmament Commission | [Q4229685](https://www.wikidata.org/wiki/Q4229685) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations Division for Sustainable Development | N/A | [www.un.org](https://www.un.org/en/about-us/main-bodies) |
-| United Nations Economic and Social Council, the | [Q170075](https://www.wikidata.org/wiki/Q170075) | [www.un.org](https://www.un.org/en/about-us/main-bodies) |
+| United Nations Economic and Social Council | [Q170075](https://www.wikidata.org/wiki/Q170075) | [www.un.org](https://www.un.org/en/about-us/main-bodies) |
 | United Nations Educational, Scientific and Cultural Organization | [Q7809](https://www.wikidata.org/wiki/Q7809) | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
 | United Nations Environment Management Group | N/A | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
 | United Nations Environment Programme | [Q182016](https://www.wikidata.org/wiki/Q182016) | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
 | United Nations Forum on Forests | [Q1433762](https://www.wikidata.org/wiki/Q1433762) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
-| United Nations General Assembly, the | [Q47423](https://www.wikidata.org/wiki/Q47423) | [www.un.org](https://www.un.org/en/about-us/main-bodies) |
+| United Nations General Assembly | [Q47423](https://www.wikidata.org/wiki/Q47423) | [www.un.org](https://www.un.org/en/about-us/main-bodies) |
 | United Nations Human Rights Council | [Q205650](https://www.wikidata.org/wiki/Q205650) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations Human Settlements Programme | [Q487883](https://www.wikidata.org/wiki/Q487883) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations Industrial Development Organization | [Q386120](https://www.wikidata.org/wiki/Q386120) | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
