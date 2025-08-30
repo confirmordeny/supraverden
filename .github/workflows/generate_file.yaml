@@ -3,6 +3,8 @@
 
 name: Generate UN Bodies Table
 
+# DEBUG FIX 1: Corrected indentation using standard spaces.
+# The original file had non-standard whitespace characters that break YAML parsing.
 on:
   # Triggers the workflow on push events for the "main" branch
   push:
@@ -11,14 +13,13 @@ on:
     paths:
       # To save resources, only run the workflow when the data file changes
       - 'data/united_nations.yaml'
-  
+
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    # Add write permissions for the contents of the repository
     permissions:
       contents: write
 
@@ -116,6 +117,8 @@ jobs:
           
           print('Generating Markdown table...')
           markdown_content = generate_markdown_table(org_data)
+          
+          # DEBUG FIX 2: Ensure the output directory exists before writing to it.
           os.makedirs(os.path.dirname(output_file), exist_ok=True)
           
           with open(output_file, 'w', encoding='utf-8') as f:
@@ -133,6 +136,8 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "docs: Auto-update UN bodies table"
-          # Specify the file to check for changes and commit
-          file_pattern: UN_BODIES.md
+          # DEBUG FIX 3: The file pattern MUST include the directory.
+          file_pattern: "dist/UN_BODIES.md"
+
+
 
