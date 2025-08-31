@@ -40,7 +40,7 @@ jobs:
           import sys
 
           # Define input and output file paths
-          input_file = 'data/united_nations.yaml'
+          input_file = 'data/north_south_bodies.yaml'
           output_file = 'dist/NORTH_SOUTH_IMPLEMENTATION_BODIES.md'
 
           def parse_file(filepath):
