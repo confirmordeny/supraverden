@@ -124,11 +124,15 @@ jobs:
           os.makedirs(os.path.dirname(output_file), exist_ok=True)
           
           with open(output_file, 'w', encoding='utf-8') as f:
-              f.write('# UN Bodies and Affiliates\\n\\n')
-              f.write('> [!WARNING]\\n')
-              f.write('> This file is auto-generated. Do not edit it directly as your changes will be overwritten.\\n')
-              f.write(f'> Please edit the source file `{input_file}` instead.\\n\\n')
-              f.write(markdown_content)
+            f.write('# UN Bodies and Affiliates\\n\\n')
+            # Use an HTML comment block for the warning.
+            # This will be visible in the raw .md file but not in the rendered output.
+            f.write('<!--\\n')
+            f.write('  **WARNING!**\\n')
+            f.write('  This file is auto-generated. Do not edit it directly as your changes will be overwritten.\\n')
+            f.write(f'  Please edit the source file `{input_file}` instead.\\n')
+            f.write('-->\\n\\n')
+            f.write(markdown_content)
               
           print(f'Successfully wrote Markdown table to \\'{output_file}\\'')
           """
