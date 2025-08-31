@@ -27,28 +27,28 @@
 | High-Level Political Forum on Sustainable Development | [Q17078095](https://www.wikidata.org/wiki/Q17078095) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Indian Ocean Fishery Commission | [Q96186510](https://www.wikidata.org/wiki/Q96186510) | [Statutory Bodies by subject matter](https://www.fao.org) |
 | Indian Ocean Tuna Commission | [Q12613354](https://www.wikidata.org/wiki/Q12613354) | [Statutory Bodies by subject matter](https://www.fao.org) |
-| International Atomic Energy Agency | [Q41984](https://www.wikidata.org/wiki/Q41984) | [Specialized Agencies](https://www.fao.org) |
+| International Atomic Energy Agency | [Q41984](https://www.wikidata.org/wiki/Q41984) | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
 | International Civil Aviation Organization | [Q125761](https://www.wikidata.org/wiki/Q125761) | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
 | International Court of Justice | [Q7801](https://www.wikidata.org/wiki/Q7801) | [www.un.org](https://www.un.org/en/about-us/main-bodies) |
-| International Criminal Court | [Q47488](https://www.wikidata.org/wiki/Q47488) | [Specialized Agencies](https://www.fao.org) |
+| International Criminal Court | [Q47488](https://www.wikidata.org/wiki/Q47488) | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
 | International Development Association | N/A | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | International Finance Corporation | [Q656801](https://www.wikidata.org/wiki/Q656801) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | International Fund for Agricultural Development | [Q689859](https://www.wikidata.org/wiki/Q689859) | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
-| International Labour Organization | [Q54129](https://www.wikidata.org/wiki/Q54129) | [Specialized Agencies](https://www.fao.org) |
+| International Labour Organization | [Q54129](https://www.wikidata.org/wiki/Q54129) | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
 | International Law Commission | [Q684656](https://www.wikidata.org/wiki/Q684656) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | International Maritime Organization | [Q201054](https://www.wikidata.org/wiki/Q201054) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
-| International Monetary Fund | [Q7804](https://www.wikidata.org/wiki/Q7804) | [Specialized Agencies](https://www.fao.org) |
+| International Monetary Fund | [Q7804](https://www.wikidata.org/wiki/Q7804) | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
 | International Narcotics Control Board | [Q667217](https://www.wikidata.org/wiki/Q667217) | [ecosoc.un.org](https://ecosoc.un.org/en/about-us/ecosoc-subsidiary-bodies) |
-| International Organization for Migration | [Q472311](https://www.wikidata.org/wiki/Q472311) | [Specialized Agencies](https://www.fao.org) |
+| International Organization for Migration | [Q472311](https://www.wikidata.org/wiki/Q472311) | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
 | International Residual Mechanism for Criminal Tribunals | [Q1667632](https://www.wikidata.org/wiki/Q1667632) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
-| International Seabed Authority | [Q333727](https://www.wikidata.org/wiki/Q333727) | [Specialized Agencies](https://www.fao.org) |
+| International Seabed Authority | [Q333727](https://www.wikidata.org/wiki/Q333727) | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
 | International Telecommunication Union | [Q376150](https://www.wikidata.org/wiki/Q376150) | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
 | International Trade Centre | [Q1184878](https://www.wikidata.org/wiki/Q1184878) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
-| International Tribunal for the Law of the Sea | [Q639118](https://www.wikidata.org/wiki/Q639118) | [Specialized Agencies](https://www.fao.org) |
+| International Tribunal for the Law of the Sea | [Q639118](https://www.wikidata.org/wiki/Q639118) | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
 | Joint Inspection Unit of the United Nations System | [Q1500903](https://www.wikidata.org/wiki/Q1500903) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Office of the United Nations High Commissioner for Refugees | [Q28606331](https://www.wikidata.org/wiki/Q28606331) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Organisation for the Prohibition of Chemical Weapons | [Q842490](https://www.wikidata.org/wiki/Q842490) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
-| Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organization | [Q15211422](https://www.wikidata.org/wiki/Q15211422) | [Specialized Agencies](https://www.fao.org) |
+| Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organization | [Q15211422](https://www.wikidata.org/wiki/Q15211422) | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
 | Statistical Commission | [Q15042419](https://www.wikidata.org/wiki/Q15042419) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | UN Women | [Q641576](https://www.wikidata.org/wiki/Q641576) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | UNAIDS Programme Coordinating Board | [Q588982](https://www.wikidata.org/wiki/Q588982) | [ecosoc.un.org](https://ecosoc.un.org/en/about-us/ecosoc-subsidiary-bodies) |
@@ -60,14 +60,14 @@
 | United Nations Disarmament Commission | [Q4229685](https://www.wikidata.org/wiki/Q4229685) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations Division for Sustainable Development | N/A | [www.un.org](https://www.un.org/en/about-us/main-bodies) |
 | United Nations Economic and Social Council | [Q170075](https://www.wikidata.org/wiki/Q170075) | [www.un.org](https://www.un.org/en/about-us/main-bodies) |
-| United Nations Educational, Scientific and Cultural Organization | [Q7809](https://www.wikidata.org/wiki/Q7809) | [Specialized Agencies](https://www.fao.org) |
+| United Nations Educational, Scientific and Cultural Organization | [Q7809](https://www.wikidata.org/wiki/Q7809) | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
 | United Nations Environment Management Group | N/A | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
 | United Nations Environment Programme | [Q182016](https://www.wikidata.org/wiki/Q182016) | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
 | United Nations Forum on Forests | [Q1433762](https://www.wikidata.org/wiki/Q1433762) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations General Assembly | [Q47423](https://www.wikidata.org/wiki/Q47423) | [www.un.org](https://www.un.org/en/about-us/main-bodies) |
 | United Nations Human Rights Council | [Q205650](https://www.wikidata.org/wiki/Q205650) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations Human Settlements Programme | [Q487883](https://www.wikidata.org/wiki/Q487883) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
-| United Nations Industrial Development Organization | [Q386120](https://www.wikidata.org/wiki/Q386120) | [Specialized Agencies](https://www.fao.org) |
+| United Nations Industrial Development Organization | [Q386120](https://www.wikidata.org/wiki/Q386120) | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
 | United Nations Institute for Disarmament Research | [Q3152150](https://www.wikidata.org/wiki/Q3152150) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations Institute for Training and Research | [Q131878](https://www.wikidata.org/wiki/Q131878) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations Interregional Crime and Justice Research Institute | [Q1427752](https://www.wikidata.org/wiki/Q1427752) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
@@ -88,8 +88,8 @@
 | Universal Postal Union | [Q17495](https://www.wikidata.org/wiki/Q17495) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Western Central Atlantic Fishery Commission | [Q134724817](https://www.wikidata.org/wiki/Q134724817) | [Statutory Bodies by subject matter](https://www.fao.org) |
 | Western and Central Pacific Fisheries Commission | [Q2565027](https://www.wikidata.org/wiki/Q2565027) | [Statutory Bodies by subject matter](https://www.fao.org) |
-| World Bank | [Q7164](https://www.wikidata.org/wiki/Q7164) | [Specialized Agencies](https://www.fao.org) |
-| World Health Organization | [Q7817](https://www.wikidata.org/wiki/Q7817) | [Specialized Agencies](https://www.fao.org) |
-| World Intellectual Property Organization | [Q177773](https://www.wikidata.org/wiki/Q177773) | [Specialized Agencies](https://www.fao.org) |
-| World Meteorological Organization | [Q170424](https://www.wikidata.org/wiki/Q170424) | [Specialized Agencies](https://www.fao.org) |
+| World Bank | [Q7164](https://www.wikidata.org/wiki/Q7164) | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
+| World Health Organization | [Q7817](https://www.wikidata.org/wiki/Q7817) | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
+| World Intellectual Property Organization | [Q177773](https://www.wikidata.org/wiki/Q177773) | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
+| World Meteorological Organization | [Q170424](https://www.wikidata.org/wiki/Q170424) | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
 | World Trade Organization | [Q7825](https://www.wikidata.org/wiki/Q7825) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
