@@ -29,7 +29,7 @@
 | Indian Ocean Tuna Commission | [Q12613354](https://www.wikidata.org/wiki/Q12613354) | [Statutory Bodies by subject matter](https://www.fao.org) |
 | International Atomic Energy Agency | [Q41984](https://www.wikidata.org/wiki/Q41984) | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
 | International Civil Aviation Organization | [Q125761](https://www.wikidata.org/wiki/Q125761) | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
-| International Court of Justice | [Q7801](https://www.wikidata.org/wiki/Q7801) | [www.un.org](https://www.un.org/en/about-us/main-bodies) |
+| International Court of Justice | [Q7801](https://www.wikidata.org/wiki/Q7801) | [Main Bodies](https://www.un.org/en/about-us/main-bodies) |
 | International Criminal Court | [Q47488](https://www.wikidata.org/wiki/Q47488) | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
 | International Development Association | N/A | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | International Finance Corporation | [Q656801](https://www.wikidata.org/wiki/Q656801) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
@@ -52,19 +52,19 @@
 | Statistical Commission | [Q15042419](https://www.wikidata.org/wiki/Q15042419) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | UN Women | [Q641576](https://www.wikidata.org/wiki/Q641576) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | UNAIDS Programme Coordinating Board | [Q588982](https://www.wikidata.org/wiki/Q588982) | [ecosoc.un.org](https://ecosoc.un.org/en/about-us/ecosoc-subsidiary-bodies) |
-| United Nations | [Q1065](https://www.wikidata.org/wiki/Q1065) | [www.un.org](https://www.un.org/en/about-us/main-bodies) |
+| United Nations | [Q1065](https://www.wikidata.org/wiki/Q1065) | [Main Bodies](https://www.un.org/en/about-us/main-bodies) |
 | United Nations Capital Development Fund | [Q356037](https://www.wikidata.org/wiki/Q356037) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations Children’s Fund | [Q740308](https://www.wikidata.org/wiki/Q740308) | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
 | United Nations Commission on International Trade Law | [Q698232](https://www.wikidata.org/wiki/Q698232) | [legal.un.org](https://legal.un.org/ola/div_itld.aspx) |
 | United Nations Development Programme | [Q161718](https://www.wikidata.org/wiki/Q161718) | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
 | United Nations Disarmament Commission | [Q4229685](https://www.wikidata.org/wiki/Q4229685) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
-| United Nations Division for Sustainable Development | N/A | [www.un.org](https://www.un.org/en/about-us/main-bodies) |
-| United Nations Economic and Social Council | [Q170075](https://www.wikidata.org/wiki/Q170075) | [www.un.org](https://www.un.org/en/about-us/main-bodies) |
+| United Nations Division for Sustainable Development | N/A | [Main Bodies](https://www.un.org/en/about-us/main-bodies) |
+| United Nations Economic and Social Council | [Q170075](https://www.wikidata.org/wiki/Q170075) | [Main Bodies](https://www.un.org/en/about-us/main-bodies) |
 | United Nations Educational, Scientific and Cultural Organization | [Q7809](https://www.wikidata.org/wiki/Q7809) | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
 | United Nations Environment Management Group | N/A | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
 | United Nations Environment Programme | [Q182016](https://www.wikidata.org/wiki/Q182016) | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
 | United Nations Forum on Forests | [Q1433762](https://www.wikidata.org/wiki/Q1433762) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
-| United Nations General Assembly | [Q47423](https://www.wikidata.org/wiki/Q47423) | [www.un.org](https://www.un.org/en/about-us/main-bodies) |
+| United Nations General Assembly | [Q47423](https://www.wikidata.org/wiki/Q47423) | [Main Bodies](https://www.un.org/en/about-us/main-bodies) |
 | United Nations Human Rights Council | [Q205650](https://www.wikidata.org/wiki/Q205650) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations Human Settlements Programme | [Q487883](https://www.wikidata.org/wiki/Q487883) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations Industrial Development Organization | [Q386120](https://www.wikidata.org/wiki/Q386120) | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
@@ -77,11 +77,11 @@
 | United Nations Population Fund | [Q623036](https://www.wikidata.org/wiki/Q623036) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations Relief and Works Agency for Palestine Refugees in the Near East | [Q846656](https://www.wikidata.org/wiki/Q846656) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations Research Institute For Social Development | [Q962612](https://www.wikidata.org/wiki/Q962612) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
-| United Nations Secretariat | [Q220563](https://www.wikidata.org/wiki/Q220563) | [www.un.org](https://www.un.org/en/about-us/main-bodies) |
-| United Nations Security Council | [Q37470](https://www.wikidata.org/wiki/Q37470) | [www.un.org](https://www.un.org/en/about-us/main-bodies) |
+| United Nations Secretariat | [Q220563](https://www.wikidata.org/wiki/Q220563) | [Main Bodies](https://www.un.org/en/about-us/main-bodies) |
+| United Nations Security Council | [Q37470](https://www.wikidata.org/wiki/Q37470) | [Main Bodies](https://www.un.org/en/about-us/main-bodies) |
 | United Nations System Staff College | [Q16959083](https://www.wikidata.org/wiki/Q16959083) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations Tourism | [Q61923](https://www.wikidata.org/wiki/Q61923) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
-| United Nations Trusteeship Council | [Q219693](https://www.wikidata.org/wiki/Q219693) | [www.un.org](https://www.un.org/en/about-us/main-bodies) |
+| United Nations Trusteeship Council | [Q219693](https://www.wikidata.org/wiki/Q219693) | [Main Bodies](https://www.un.org/en/about-us/main-bodies) |
 | United Nations University | [Q492442](https://www.wikidata.org/wiki/Q492442) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations Volunteers | [Q488065](https://www.wikidata.org/wiki/Q488065) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations World Food Programme | [Q204344](https://www.wikidata.org/wiki/Q204344) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
