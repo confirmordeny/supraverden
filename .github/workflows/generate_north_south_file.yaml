@@ -137,7 +137,7 @@ jobs:
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "docs: Auto-update UN bodies table"
+          commit_message: "docs: Auto-update North South implementation bodies table"
           # The file pattern MUST include the directory.
           file_pattern: "dist/NORTH_SOUTH_IMPLEMENTATION_BODIES.md"
 
