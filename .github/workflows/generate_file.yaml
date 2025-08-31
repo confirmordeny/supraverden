@@ -98,6 +98,8 @@ jobs:
                       source_display = '[UN system chart](https://www.un.org/en/delegate/page/un-system-chart)'
                   elif 'fao.org/unfao/govbodies' in source:
                       source_display = '[Statutory Bodies by subject matter](https://www.fao.org)'
+                  elif 'un.org/en/about-us/specialized-agencies' in source:
+                      source_display = '[Specialized Agencies](https://www.fao.org)'
                   elif source.startswith('http'):
                       try:
                           domain = source.split('//')[1].split('/')[0]
