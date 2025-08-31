@@ -8,27 +8,27 @@
 
 | English Name | Wikidata Code | Source URL |
 |---|---|---|
-| Asia-Pacific Fishery Commission | [Q4806252](https://www.wikidata.org/wiki/Q4806252) | [Statutory Bodies by subject matter](https://www.fao.org) |
-| Commission for Inland Fisheries of Latin America | N/A | [Statutory Bodies by subject matter](https://www.fao.org) |
+| Asia-Pacific Fishery Commission | [Q4806252](https://www.wikidata.org/wiki/Q4806252) | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies) |
+| Commission for Inland Fisheries of Latin America | N/A | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies) |
 | Commission for Social Development | [Q3684758](https://www.wikidata.org/wiki/Q3684758) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Commission on Crime Prevention and Criminal Justice | [Q104842946](https://www.wikidata.org/wiki/Q104842946) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Commission on Narcotic Drugs | [Q469618](https://www.wikidata.org/wiki/Q469618) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Commission on Population and Development | [Q5152731](https://www.wikidata.org/wiki/Q5152731) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Commission on Science and Technology for Development | [Q5152737](https://www.wikidata.org/wiki/Q5152737) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Commission on the Status of Women | [Q2614097](https://www.wikidata.org/wiki/Q2614097) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
-| Committee for Inland Fisheries and Aquaculture of Africa | [Q134723795](https://www.wikidata.org/wiki/Q134723795) | [Statutory Bodies by subject matter](https://www.fao.org) |
+| Committee for Inland Fisheries and Aquaculture of Africa | [Q134723795](https://www.wikidata.org/wiki/Q134723795) | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies) |
 | Economic Commission for Africa | [Q1144508](https://www.wikidata.org/wiki/Q1144508) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Economic Commission for Europe | [Q659012](https://www.wikidata.org/wiki/Q659012) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Economic Commission for Latin America and the Caribbean | [Q32874](https://www.wikidata.org/wiki/Q32874) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Economic and Social Commission for Asia and the Pacific | [Q1142901](https://www.wikidata.org/wiki/Q1142901) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Economic and Social Commission for Western Asia | [Q1355485](https://www.wikidata.org/wiki/Q1355485) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
-| European Inland Fisheries and Aquaculture Advisory Commission | [Q114965341](https://www.wikidata.org/wiki/Q114965341) | [Statutory Bodies by subject matter](https://www.fao.org) |
-| Fishery Committee for the Eastern Central Atlantic | [Q12617572](https://www.wikidata.org/wiki/Q12617572) | [Statutory Bodies by subject matter](https://www.fao.org) |
+| European Inland Fisheries and Aquaculture Advisory Commission | [Q114965341](https://www.wikidata.org/wiki/Q114965341) | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies) |
+| Fishery Committee for the Eastern Central Atlantic | [Q12617572](https://www.wikidata.org/wiki/Q12617572) | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies) |
 | Food and Agriculture Organization | [Q82151](https://www.wikidata.org/wiki/Q82151) | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
-| General Fisheries Council for the Mediterranean | N/A | [Statutory Bodies by subject matter](https://www.fao.org) |
+| General Fisheries Council for the Mediterranean | N/A | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies) |
 | High-Level Political Forum on Sustainable Development | [Q17078095](https://www.wikidata.org/wiki/Q17078095) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
-| Indian Ocean Fishery Commission | [Q96186510](https://www.wikidata.org/wiki/Q96186510) | [Statutory Bodies by subject matter](https://www.fao.org) |
-| Indian Ocean Tuna Commission | [Q12613354](https://www.wikidata.org/wiki/Q12613354) | [Statutory Bodies by subject matter](https://www.fao.org) |
+| Indian Ocean Fishery Commission | [Q96186510](https://www.wikidata.org/wiki/Q96186510) | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies) |
+| Indian Ocean Tuna Commission | [Q12613354](https://www.wikidata.org/wiki/Q12613354) | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies) |
 | International Atomic Energy Agency | [Q41984](https://www.wikidata.org/wiki/Q41984) | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
 | International Civil Aviation Organization | [Q125761](https://www.wikidata.org/wiki/Q125761) | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
 | International Court of Justice | [Q7801](https://www.wikidata.org/wiki/Q7801) | [Main Bodies](https://www.un.org/en/about-us/main-bodies) |
@@ -88,8 +88,8 @@
 | United Nations Volunteers | [Q488065](https://www.wikidata.org/wiki/Q488065) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations World Food Programme | [Q204344](https://www.wikidata.org/wiki/Q204344) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Universal Postal Union | [Q17495](https://www.wikidata.org/wiki/Q17495) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
-| Western Central Atlantic Fishery Commission | [Q134724817](https://www.wikidata.org/wiki/Q134724817) | [Statutory Bodies by subject matter](https://www.fao.org) |
-| Western and Central Pacific Fisheries Commission | [Q2565027](https://www.wikidata.org/wiki/Q2565027) | [Statutory Bodies by subject matter](https://www.fao.org) |
+| Western Central Atlantic Fishery Commission | [Q134724817](https://www.wikidata.org/wiki/Q134724817) | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies) |
+| Western and Central Pacific Fisheries Commission | [Q2565027](https://www.wikidata.org/wiki/Q2565027) | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies) |
 | World Bank | [Q7164](https://www.wikidata.org/wiki/Q7164) | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
 | World Health Organization | [Q7817](https://www.wikidata.org/wiki/Q7817) | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
 | World Intellectual Property Organization | [Q177773](https://www.wikidata.org/wiki/Q177773) | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
