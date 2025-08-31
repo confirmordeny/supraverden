@@ -24,18 +24,18 @@
 | Economic and Social Commission for Western Asia | [Q1355485](https://www.wikidata.org/wiki/Q1355485) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | European Inland Fisheries and Aquaculture Advisory Commission | [Q114965341](https://www.wikidata.org/wiki/Q114965341) | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Fishery Committee for the Eastern Central Atlantic | [Q12617572](https://www.wikidata.org/wiki/Q12617572) | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
-| Food and Agriculture Organization | [Q82151](https://www.wikidata.org/wiki/Q82151) | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
+| Food and Agriculture Organization | [Q82151](https://www.wikidata.org/wiki/Q82151) | [UN Organisations](https://www.un.org/Depts/ptd/about-us/un-organisations) |
 | General Fisheries Council for the Mediterranean | N/A | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | High-Level Political Forum on Sustainable Development | [Q17078095](https://www.wikidata.org/wiki/Q17078095) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Indian Ocean Fishery Commission | [Q96186510](https://www.wikidata.org/wiki/Q96186510) | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Indian Ocean Tuna Commission | [Q12613354](https://www.wikidata.org/wiki/Q12613354) | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | International Atomic Energy Agency | [Q41984](https://www.wikidata.org/wiki/Q41984) | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
-| International Civil Aviation Organization | [Q125761](https://www.wikidata.org/wiki/Q125761) | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
+| International Civil Aviation Organization | [Q125761](https://www.wikidata.org/wiki/Q125761) | [UN Organisations](https://www.un.org/Depts/ptd/about-us/un-organisations) |
 | International Court of Justice | [Q7801](https://www.wikidata.org/wiki/Q7801) | [Main Bodies](https://www.un.org/en/about-us/main-bodies) |
 | International Criminal Court | [Q47488](https://www.wikidata.org/wiki/Q47488) | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
 | International Development Association | N/A | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | International Finance Corporation | [Q656801](https://www.wikidata.org/wiki/Q656801) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
-| International Fund for Agricultural Development | [Q689859](https://www.wikidata.org/wiki/Q689859) | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
+| International Fund for Agricultural Development | [Q689859](https://www.wikidata.org/wiki/Q689859) | [UN Organisations](https://www.un.org/Depts/ptd/about-us/un-organisations) |
 | International Labour Organization | [Q54129](https://www.wikidata.org/wiki/Q54129) | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
 | International Law Commission | [Q684656](https://www.wikidata.org/wiki/Q684656) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | International Maritime Organization | [Q201054](https://www.wikidata.org/wiki/Q201054) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
@@ -44,7 +44,7 @@
 | International Organization for Migration | [Q472311](https://www.wikidata.org/wiki/Q472311) | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
 | International Residual Mechanism for Criminal Tribunals | [Q1667632](https://www.wikidata.org/wiki/Q1667632) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | International Seabed Authority | [Q333727](https://www.wikidata.org/wiki/Q333727) | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
-| International Telecommunication Union | [Q376150](https://www.wikidata.org/wiki/Q376150) | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
+| International Telecommunication Union | [Q376150](https://www.wikidata.org/wiki/Q376150) | [UN Organisations](https://www.un.org/Depts/ptd/about-us/un-organisations) |
 | International Trade Centre | [Q1184878](https://www.wikidata.org/wiki/Q1184878) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | International Tribunal for the Law of the Sea | [Q639118](https://www.wikidata.org/wiki/Q639118) | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
 | Joint Inspection Unit of the United Nations System | [Q1500903](https://www.wikidata.org/wiki/Q1500903) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
@@ -56,15 +56,15 @@
 | UNAIDS Programme Coordinating Board | [Q588982](https://www.wikidata.org/wiki/Q588982) | [ecosoc.un.org](https://ecosoc.un.org/en/about-us/ecosoc-subsidiary-bodies) |
 | United Nations | [Q1065](https://www.wikidata.org/wiki/Q1065) | [Main Bodies](https://www.un.org/en/about-us/main-bodies) |
 | United Nations Capital Development Fund | [Q356037](https://www.wikidata.org/wiki/Q356037) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
-| United Nations Children’s Fund | [Q740308](https://www.wikidata.org/wiki/Q740308) | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
+| United Nations Children’s Fund | [Q740308](https://www.wikidata.org/wiki/Q740308) | [UN Organisations](https://www.un.org/Depts/ptd/about-us/un-organisations) |
 | United Nations Commission on International Trade Law | [Q698232](https://www.wikidata.org/wiki/Q698232) | [legal.un.org](https://legal.un.org/ola/div_itld.aspx) |
-| United Nations Development Programme | [Q161718](https://www.wikidata.org/wiki/Q161718) | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
+| United Nations Development Programme | [Q161718](https://www.wikidata.org/wiki/Q161718) | [UN Organisations](https://www.un.org/Depts/ptd/about-us/un-organisations) |
 | United Nations Disarmament Commission | [Q4229685](https://www.wikidata.org/wiki/Q4229685) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations Division for Sustainable Development | N/A | [Main Bodies](https://www.un.org/en/about-us/main-bodies) |
 | United Nations Economic and Social Council | [Q170075](https://www.wikidata.org/wiki/Q170075) | [Main Bodies](https://www.un.org/en/about-us/main-bodies) |
 | United Nations Educational, Scientific and Cultural Organization | [Q7809](https://www.wikidata.org/wiki/Q7809) | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
-| United Nations Environment Management Group | N/A | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
-| United Nations Environment Programme | [Q182016](https://www.wikidata.org/wiki/Q182016) | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
+| United Nations Environment Management Group | N/A | [UN Organisations](https://www.un.org/Depts/ptd/about-us/un-organisations) |
+| United Nations Environment Programme | [Q182016](https://www.wikidata.org/wiki/Q182016) | [UN Organisations](https://www.un.org/Depts/ptd/about-us/un-organisations) |
 | United Nations Forum on Forests | [Q1433762](https://www.wikidata.org/wiki/Q1433762) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations General Assembly | [Q47423](https://www.wikidata.org/wiki/Q47423) | [Main Bodies](https://www.un.org/en/about-us/main-bodies) |
 | United Nations Human Rights Council | [Q205650](https://www.wikidata.org/wiki/Q205650) | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
