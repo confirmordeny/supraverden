@@ -95,7 +95,7 @@ jobs:
                   if 'un_system_chart' in source:
                       source_display = '[UN system chart](https://www.un.org/en/delegate/page/un-system-chart)'
                   elif 'fao.org/unfao/govbodies' in source:
-                      source_display = '[Statutory Bodies by subject matter](https://www.fao.org)'
+                      source_display = '[Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies)'
                   elif 'un.org/en/about-us/specialized-agencies' in source:
                       source_display = '[Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies)'
                   elif 'un.org/en/about-us/main-bodies' in source:
