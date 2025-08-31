@@ -79,7 +79,7 @@ jobs:
 
           def generate_markdown_table(organizations):
               '''Generates a Markdown table from the parsed data.'''
-              header = '| English Name | Wikidata Code | Source URL |\\n|---|---|---|'
+              header = '| English Name | Wikidata Code | Family | Source URL |\\n|---|---|---|---|'
               rows = [header]
               
               for org in sorted(organizations, key=lambda x: x.get('Name-en') or x.get('_main_name')):
@@ -90,6 +90,8 @@ jobs:
                       wikidata_display = 'N/A'
                   else:
                       wikidata_display = f'[{wikidata}](https://www.wikidata.org/wiki/{wikidata})'
+                  
+                  family = org.get('org_family', 'N/A')
                   
                   source = org.get('Source', 'N/A')
                   if 'un_system_chart' in source:
@@ -111,7 +113,7 @@ jobs:
                   else:
                       source_display = 'N/A'
                       
-                  rows.append(f'| {name} | {wikidata_display} | {source_display} |')
+                  rows.append(f'| {name} | {wikidata_display} | {family} | {source_display} |')
               return '\\n'.join(rows)
 
           # --- Main execution block ---
@@ -146,6 +148,4 @@ jobs:
           commit_message: "docs: Auto-update UN bodies table"
           # DEBUG FIX 3: The file pattern MUST include the directory.
           file_pattern: "dist/UN_BODIES.md"
-
-
 
