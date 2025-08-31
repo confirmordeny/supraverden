@@ -10,7 +10,7 @@ on:
       - main
     paths:
       # To save resources, only run the workflow when the data file changes
-      - 'data/united_nations.yaml'
+      - 'data/north_south_bodies.yaml'
 
   # Allows this workflow to run manually from the Actions tab
   workflow_dispatch:
