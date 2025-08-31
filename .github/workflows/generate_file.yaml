@@ -91,7 +91,7 @@ jobs:
                   else:
                       wikidata_display = f'[{wikidata}](https://www.wikidata.org/wiki/{wikidata})'
                   
-                  family = org.get('org_family', 'N/A')
+                  family = org.get('Org_family', 'N/A')
                   
                   source = org.get('Source', 'N/A')
                   if 'un_system_chart' in source:
