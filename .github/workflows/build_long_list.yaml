@@ -1,31 +1,31 @@
 name: Generate Combined Table
 
 on:
-push:
-paths:
-- 'NORTH_SOUTH_IMPLEMENTATION_BODIES.md'
-- 'UN_BODIES.md'
+  push:
+    paths:
+      - 'NORTH_SOUTH_IMPLEMENTATION_BODIES.md'
+      - 'UN_BODIES.md'
 
 jobs:
-build:
-runs-on: ubuntu-latest
-steps:
-- name: Checkout repository
-uses: actions/checkout@v4
-
-  - name: Set up Python
-    uses: actions/setup-python@v5
-    with:
-      python-version: '3.x'
-  
-  - name: Run script to combine tables
-    run: |
-      python combine_tables.py
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
       
-  - name: Commit and push changes
-    run: |
-      git config user.name "github-actions"
-      git config user.email "github-actions@github.com"
-      git add combined_table.md
-      git commit -m "Generated combined_table.md after markdown file change" || echo "No changes to commit"
-      git push
+      - name: Run script to combine tables
+        run: |
+          python combine_tables.py
+          
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add combined_table.md
+          git commit -m "Generated combined_table.md after markdown file change" || echo "No changes to commit"
+          git push
