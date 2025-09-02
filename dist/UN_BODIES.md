@@ -54,7 +54,7 @@
 | Statistical Commission | [Q15042419](https://www.wikidata.org/wiki/Q15042419) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | UN Women | [Q641576](https://www.wikidata.org/wiki/Q641576) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | UNAIDS Programme Coordinating Board | [Q588982](https://www.wikidata.org/wiki/Q588982) | UN and affiliates | [ecosoc.un.org](https://ecosoc.un.org/en/about-us/ecosoc-subsidiary-bodies) |
-| United Nations | [Q1065](https://www.wikidata.org/wiki/Q1065) | UN and affiliates | [Main Bodies](https://www.un.org/en/about-us/main-bodies) |
+| United Nations | [Q1065](https://www.wikidata.org/wiki/Q1065) | UN and affiliates_ | [Main Bodies](https://www.un.org/en/about-us/main-bodies) |
 | United Nations Capital Development Fund | [Q356037](https://www.wikidata.org/wiki/Q356037) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations Children’s Fund | [Q740308](https://www.wikidata.org/wiki/Q740308) | UN and affiliates | [UN Organisations](https://www.un.org/Depts/ptd/about-us/un-organisations) |
 | United Nations Commission on International Trade Law | [Q698232](https://www.wikidata.org/wiki/Q698232) | UN and affiliates | [legal.un.org](https://legal.un.org/ola/div_itld.aspx) |
