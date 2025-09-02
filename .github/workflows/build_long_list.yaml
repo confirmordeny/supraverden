@@ -1,10 +1,10 @@
 name: Generate Combined Table
 
 on:
+  workflow_dispatch: # Allows you to run the workflow manually from the UI
   push:
-    paths:
-      - 'NORTH_SOUTH_IMPLEMENTATION_BODIES.md'
-      - 'UN_BODIES.md'
+    branches:
+      - main # Runs on every push to the 'main' branch
 
 jobs:
   build:
