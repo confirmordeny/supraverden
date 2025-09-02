@@ -34,24 +34,19 @@ def combine_markdown_tables(input_files, output_file):
             table_start = -1
             for i, line in enumerate(lines):
                 if line.strip().startswith('|'):
-                    # Assume the first line with a '|' is the header
                     table_start = i
                     break
 
             if table_start != -1:
                 # Add all rows from the table, skipping the header and separator
                 for line in lines[table_start + 2:]:
-                    # Only add non-empty table rows
                     if line.strip().startswith('|'):
                         all_rows.append(line)
 
     # Sort the rows by the English Name (the first column)
-    # We first parse each row string into a list of its cells.
     parsed_rows = []
     for row_str in all_rows:
-        # Strip leading/trailing '|' and whitespace, then split by '|'
         cells = [cell.strip() for cell in row_str.strip().strip('|').split('|')]
-        # Make sure the row has the expected number of columns (4)
         if len(cells) == 4:
             parsed_rows.append(cells)
 
@@ -74,18 +69,3 @@ def combine_markdown_tables(input_files, output_file):
         print(f"Successfully combined and sorted tables into '{output_file}'.")
     except IOError as e:
         print(f"Error writing to file: {e}")
-
-# --- Example Usage ---
-# List the markdown files you want to combine.
-source_files = [
-    'NORTH_SOUTH_IMPLEMENTATION_BODIES.md',
-    'UN_BODIES.md',
-    'additional_file.md', # Add more file names here as needed
-]
-
-# Set the name of the new combined file.
-output_file_name = 'combined_table.md'
-
-# Run the function to create the combined file.
-if __name__ == "__main__":
-    combine_markdown_tables(source_files, output_file_name)
