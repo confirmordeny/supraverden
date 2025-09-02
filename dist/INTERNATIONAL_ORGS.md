@@ -1,0 +1,91 @@
+import os
+
+def combine_markdown_tables(input_files, output_file):
+    """
+    Combines tables from multiple markdown files into a single new file,
+    and sorts the combined table alphabetically by the English Name.
+
+    Args:
+        input_files (list): A list of file paths to the source markdown files.
+        output_file (str): The file path for the output markdown file.
+    """
+    all_rows = []
+    
+    # This is the header and separator for the final table.
+    final_header_row = "| English Name | Wikidata Code | Family | Source URL |\n"
+    final_separator_row = "|---|---|---|---|\n"
+
+    # Warning to add at the top of the output file.
+    warning_text = (
+        "<!-- WARNING: This file is generated automatically. "
+        "Do not edit it directly. "
+        "See the source files for modifications. -->\n\n"
+    )
+
+    # Process each input file
+    for filename in input_files:
+        if not os.path.exists(filename):
+            print(f"Warning: File not found: {filename}. Skipping.")
+            continue
+
+        with open(filename, 'r', encoding='utf-8') as f:
+            lines = f.readlines()
+            # Find the start of the table
+            table_start = -1
+            for i, line in enumerate(lines):
+                if line.strip().startswith('|'):
+                    # Assume the first line with a '|' is the header
+                    table_start = i
+                    break
+
+            if table_start != -1:
+                # Add all rows from the table, skipping the header and separator
+                for line in lines[table_start + 2:]:
+                    # Only add non-empty table rows
+                    if line.strip().startswith('|'):
+                        all_rows.append(line)
+
+    # Sort the rows by the English Name (the first column)
+    # We first parse each row string into a list of its cells.
+    parsed_rows = []
+    for row_str in all_rows:
+        # Strip leading/trailing '|' and whitespace, then split by '|'
+        cells = [cell.strip() for cell in row_str.strip().strip('|').split('|')]
+        # Make sure the row has the expected number of columns (4)
+        if len(cells) == 4:
+            parsed_rows.append(cells)
+
+    # Sort the parsed rows alphabetically by the first cell (English Name)
+    parsed_rows.sort(key=lambda x: x[0])
+
+    # Re-format the sorted rows back into markdown strings
+    sorted_markdown_rows = []
+    for row_cells in parsed_rows:
+        sorted_markdown_rows.append(f"| {' | '.join(row_cells)} |\n")
+        
+    # Write the combined table to the output file
+    try:
+        with open(output_file, 'w', encoding='utf-8') as f:
+            f.write(warning_text)
+            f.write(final_header_row)
+            f.write(final_separator_row)
+            for row in sorted_markdown_rows:
+                f.write(row)
+        print(f"Successfully combined and sorted tables into '{output_file}'.")
+    except IOError as e:
+        print(f"Error writing to file: {e}")
+
+# --- Example Usage ---
+# List the markdown files you want to combine.
+source_files = [
+    'NORTH_SOUTH_IMPLEMENTATION_BODIES.md',
+    'UN_BODIES.md',
+    'additional_file.md', # Add more file names here as needed
+]
+
+# Set the name of the new combined file.
+output_file_name = 'combined_table.md'
+
+# Run the function to create the combined file.
+if __name__ == "__main__":
+    combine_markdown_tables(source_files, output_file_name)
