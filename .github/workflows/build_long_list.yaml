@@ -1,31 +1,84 @@
-name: Generate Combined Table
+import os
 
-on:
-  workflow_dispatch: # Allows you to run the workflow manually from the UI
-  push:
-    branches:
-      - main # Runs on every push to the 'main' branch
+def combine_markdown_tables(input_files, output_file):
+    """
+    Combines tables from multiple markdown files into a single new file,
+    and sorts the combined table alphabetically by the English Name.
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+    Args:
+        input_files (list): A list of file paths to the source markdown files.
+        output_file (str): The file path for the output markdown file.
+    """
+    all_rows = []
+    
+    # This is the header and separator for the final table.
+    final_header_row = "| English Name | Wikidata Code | Family | Source URL |\n"
+    final_separator_row = "|---|---|---|---|\n"
+
+    # Warning to add at the top of the output file.
+    warning_text = (
+        "<!-- WARNING: This file is generated automatically. "
+        "Do not edit it directly. "
+        "See the source files for modifications. -->\n\n"
+    )
+
+    # Process each input file
+    for filename in input_files:
+        if not os.path.exists(filename):
+            print(f"Warning: File not found: {filename}. Skipping.")
+            continue
+
+        with open(filename, 'r', encoding='utf-8') as f:
+            lines = f.readlines()
+            # Find the start of the table
+            table_start = -1
+            for i, line in enumerate(lines):
+                if line.strip().startswith('|'):
+                    table_start = i
+                    break
+
+            if table_start != -1:
+                # Add all rows from the table, skipping the header and separator
+                for line in lines[table_start + 2:]:
+                    if line.strip().startswith('|'):
+                        all_rows.append(line)
+
+    # Sort the rows by the English Name (the first column)
+    parsed_rows = []
+    for row_str in all_rows:
+        cells = [cell.strip() for cell in row_str.strip().strip('|').split('|')]
+        if len(cells) == 4:
+            parsed_rows.append(cells)
+
+    # Sort the parsed rows alphabetically by the first cell (English Name)
+    parsed_rows.sort(key=lambda x: x[0])
+
+    # Re-format the sorted rows back into markdown strings
+    sorted_markdown_rows = []
+    for row_cells in parsed_rows:
+        sorted_markdown_rows.append(f"| {' | '.join(row_cells)} |\n")
         
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
-      
-      - name: Run script to combine tables
-        run: |
-          python combine_tables.py
-          
-      - name: Commit and push changes
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add combined_table.md
-          git commit -m "Generated combined_table.md after markdown file change" || echo "No changes to commit"
-          git push
+    # Write the combined table to the output file
+    try:
+        with open(output_file, 'w', encoding='utf-8') as f:
+            f.write(warning_text)
+            f.write(final_header_row)
+            f.write(final_separator_row)
+            for row in sorted_markdown_rows:
+                f.write(row)
+        print(f"Successfully combined and sorted tables into '{output_file}'.")
+    except IOError as e:
+        print(f"Error writing to file: {e}")
+
+# List the markdown files you want to combine.
+source_files = [
+    'NORTH_SOUTH_IMPLEMENTATION_BODIES.md',
+    'UN_BODIES.md',
+]
+
+# Set the name of the new combined file.
+output_file_name = 'LIST_OF_INTERNATIONAL_ORGS.md'
+
+# Run the function to create the combined file.
+if __name__ == "__main__":
+    combine_markdown_tables(source_files, output_file_name)
