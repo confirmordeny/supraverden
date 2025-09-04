@@ -140,5 +140,5 @@ jobs:
         with:
           commit_message: "docs: Auto-update EU bodies table"
           # DEBUG FIX 3: The file pattern MUST include the directory.
-          file_pattern: "dist/UN_BODIES.md"
+          file_pattern: "dist/EU_BODIES.md"
 
