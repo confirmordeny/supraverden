@@ -1,7 +1,7 @@
 # SupraVerden
 Curated lists of international organisations with privileges and immunities.
 
-In the very early stages.
+This repo is in the very early stages.
 
 ## Contributing
 
