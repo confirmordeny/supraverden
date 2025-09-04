@@ -82,8 +82,8 @@ jobs:
               header = '| English Name | Wikidata Code | Family | Source URL |\\n|---|---|---|---|'
               rows = [header]
               
-              for org in sorted(organizations, key=lambda x: x.get('Name-en') or x.get('_main_name')):
-                  name = org.get('Name-en') or org.get('_main_name', 'N/A')
+              for org in sorted(organizations, key=lambda x: x.get('Name_en') or x.get('_main_name')):
+                  name = org.get('Name_en') or org.get('_main_name', 'N/A')
                   
                   wikidata = org.get('Wikidata_code', 'N/A')
                   if not wikidata or 'No code' in wikidata:
