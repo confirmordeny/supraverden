@@ -80,7 +80,7 @@
 | United Nations Relief and Works Agency for Palestine Refugees in the Near East | [Q846656](https://www.wikidata.org/wiki/Q846656) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations Research Institute For Social Development | [Q962612](https://www.wikidata.org/wiki/Q962612) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations Secretariat | [Q220563](https://www.wikidata.org/wiki/Q220563) | UN and affiliates | [Main Bodies](https://www.un.org/en/about-us/main-bodies) |
-| United Nations Security Council | [Q37470](https://www.wikidata.org/wiki/Q37470) | UN and affiliates. | [Main Bodies](https://www.un.org/en/about-us/main-bodies) |
+| United Nations Security Council | [Q37470](https://www.wikidata.org/wiki/Q37470) | UN and affiliates | [Main Bodies](https://www.un.org/en/about-us/main-bodies) |
 | United Nations System Staff College | [Q16959083](https://www.wikidata.org/wiki/Q16959083) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations Tourism | [Q61923](https://www.wikidata.org/wiki/Q61923) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations Trusteeship Council | [Q219693](https://www.wikidata.org/wiki/Q219693) | UN and affiliates | [Main Bodies](https://www.un.org/en/about-us/main-bodies) |
