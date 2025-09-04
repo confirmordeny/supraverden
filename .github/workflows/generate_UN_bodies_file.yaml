@@ -79,7 +79,7 @@ jobs:
 
           def generate_markdown_table(organizations):
               '''Generates a Markdown table from the parsed data.'''
-              header = '| English Name | Wikidata Code | Family | Source URL |\\n|---|---|---|---|'
+              header = '| English Name | Wikidata Code | Family | Source |\\n|---|---|---|---|'
               rows = [header]
               
               for org in sorted(organizations, key=lambda x: x.get('Name_en') or x.get('_main_name')):
