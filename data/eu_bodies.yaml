@@ -2,15 +2,122 @@
 # *** Not complete ***
 #
 #
-#
+European Union:
+  Wikidata_code: Q458
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Union
+  Abbreviation_en: EU
+  Type: EU itself
+  Source: https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT
+Council of the European Union:
+  Wikidata_code: Q8896
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: Council of the European Union
+  Other_name_en: Council of the EU
+  Other_name_2_en: Council of ministers
+  Type: EU institution
+  Source: https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT
+Court of Justice of the European Union:
+  Wikidata_code: Q4951
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: Court of Justice of the European Union
+  Abbreviation_en: CJEU
+  Other_name_en: European Court of Justice
+  Type: EU institution
+  Source: https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT
+European Central Bank:
+  Wikidata_code: Q8901
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Central Bank
+  Abbreviation_en: ECB
+  Type: EU institution
+  Source: https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT
+European Commission:
+  Wikidata_code: Q8880
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Commission
+  Type: EU institution
+  Source: https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT
+European Council:
+  Wikidata_code: Q8886
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Council
+  Abbreviation_en: EUCO
+  Type: EU institution
+  Source:
+European Court of Auditors:
+  Wikidata_code: Q8900
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Court of Auditors
+  Abbreviation_en: ECA
+  Type: EU institution
+  Source: https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT
 European Parliament:
   Wikidata_code: Q8889
-  Org_family: EU and affiliates
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
   Country: eu
   Name_en: European Parliament
   Name_fr: Parlement européen
-  Abbreviation_en:
-  Abbreviation_fr: 
+  Abbreviation_en: EP
   Other_name_en: 
-  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/types-institutions-and-bodies_en
-  Archived_source: https://web.archive.org/web/20250827094704/https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/types-institutions-and-bodies_en
+  Type: EU institution
+  Source: https://web.archive.org/web/20250827094704/https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/types-institutions-and-bodies_en
+European Investment Bank:
+  Wikidata_code: Q192247
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Investment Bank
+  Type: EU body formed by treaty
+  Source:
+European University Institute:
+  Wikidata_code: Q1378099
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European University Institute
+  Type: EU body formed by treaty
+  Source:
+European Atomic Energy Community:
+  Wikidata_code: Q8919
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Atomic Energy Community
+  Abbreviation_en: EAEC
+  Other_name_en: Euratom
+  Type: EU body formed by treaty
+  Source:
+Unified Patent Court:
+  Wikidata_code: Q7884942
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: Unified Patent Court
+  Abbreviation_en: UPC
+  Type: EU body formed by treaty
+  Source:
+European Stability Mechanism:
+  Wikidata_code: Q1130098
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Stability Mechanism
+  Abbreviation_en: ESM
+  Type: EU body formed by treaty
+  Source:
