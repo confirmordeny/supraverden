@@ -1,0 +1,156 @@
+# This workflow automates the process of generating a combined Markdown table
+# from all three data files. It runs on every push to the main branch.
+
+name: Generate combined bodies table
+
+on:
+  # Triggers the workflow on push events for the "main" branch
+  push:
+    branches:
+      - main
+    paths:
+      # Run when any of the data files change
+      - 'data/eu_bodies.yaml'
+      - 'data/north_south_bodies.yaml'
+      - 'data/united_nations.yaml'
+
+  # Allows this workflow to run manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      # 1. Checks out repository under $GITHUB_WORKSPACE, so job can access it
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Sets up Python 3.x environment
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      # 3. Runs an inline Python script to generate the combined Markdown file
+      - name: Generate Combined Markdown Table
+        run: |
+          python -c """
+          import os
+          import sys
+
+          # Define input and output file paths
+          input_files = [
+              'data/eu_bodies.yaml',
+              'data/north_south_bodies.yaml', 
+              'data/united_nations.yaml'
+          ]
+          output_file = 'dist/ALL_BODIES.md'
+
+          def parse_file(filepath):
+              '''Parses the custom YAML-like file format.'''
+              if not os.path.exists(filepath):
+                  print(f'Error: Input file not found at {filepath}')
+                  return []
+              
+              organizations = []
+              with open(filepath, 'r', encoding='utf-8') as f:
+                  current_org = None
+                  for line in f:
+                      stripped_line = line.strip()
+                      # Skip comments and empty lines
+                      if not stripped_line or stripped_line.startswith('#'):
+                          continue
+                      
+                      # A new organization is a non-indented line
+                      if not line.startswith(' '):
+                          if current_org:
+                              organizations.append(current_org)
+                          org_name = stripped_line.rstrip(':')
+                          current_org = {'_main_name': org_name}
+                      # A property for the current organization
+                      elif current_org is not None and ':' in stripped_line:
+                          try:
+                              key, value = stripped_line.split(':', 1)
+                              current_org[key.strip()] = value.strip()
+                          except ValueError:
+                              print(f'Warning: Skipping malformed line: {stripped_line}')
+              
+              # Append the last organization in the file
+              if current_org:
+                  organizations.append(current_org)
+              return organizations
+
+          def generate_markdown_table(organizations):
+              '''Generates a Markdown table from the parsed data.'''
+              header = '| English Name | Wikidata Code | Family | Source |\\n|---|---|---|---|'
+              rows = [header]
+              
+              for org in sorted(organizations, key=lambda x: x.get('Name_en') or x.get('_main_name')):
+                  name = org.get('Name_en') or org.get('_main_name', 'N/A')
+                  
+                  wikidata = org.get('Wikidata_code', 'N/A')
+                  if not wikidata or 'No code' in wikidata:
+                      wikidata_display = 'N/A'
+                  else:
+                      wikidata_display = f'[{wikidata}](https://www.wikidata.org/wiki/{wikidata})'
+                  
+                  family = org.get('Org_family', 'N/A')
+                  
+                  source = org.get('Source', 'N/A')
+                  if not source or source == 'N/A' or source.strip() == '':
+                      source_display = 'N/A'
+                  elif 'un_system_chart' in source:
+                      source_display = '[UN system chart](https://www.un.org/en/delegate/page/un-system-chart)'
+                  elif 'fao.org/unfao/govbodies' in source:
+                      source_display = '[Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/)'
+                  elif source.startswith('http'):
+                      try:
+                          domain = source.split('//')[1].split('/')[0]
+                      except IndexError:
+                          domain = 'Link'
+                      source_display = f'[{domain}]({source})'
+                  else:
+                      source_display = 'N/A'
+                      
+                  rows.append(f'| {name} | {wikidata_display} | {family} | {source_display} |')
+              return '\\n'.join(rows)
+
+          # --- Main execution block ---
+          all_organizations = []
+          
+          for input_file in input_files:
+              print(f'Reading data from \\'{input_file}\\'...')
+              org_data = parse_file(input_file)
+              print(f'Found {len(org_data)} organizations in {input_file}.')
+              all_organizations.extend(org_data)
+          
+          print(f'Total organizations: {len(all_organizations)}')
+          print('Generating combined Markdown table...')
+          markdown_content = generate_markdown_table(all_organizations)
+          
+          # Ensure the output directory exists before writing to it.
+          os.makedirs(os.path.dirname(output_file), exist_ok=True)
+          
+          with open(output_file, 'w', encoding='utf-8') as f:
+            f.write('# All Supranational Bodies\\n\\n')
+            # Use an HTML comment block for the warning.
+            # This will be visible in the raw .md file but not in the rendered output.
+            f.write('<!--\\n')
+            f.write('  **WARNING!**\\n')
+            f.write('  This file is auto-generated. Do not edit it directly as your changes will be overwritten.\\n')
+            f.write('  Please edit the source files in the data/ directory instead.\\n')
+            f.write('-->\\n\\n')
+            f.write(markdown_content)
+              
+          print(f'Successfully wrote combined Markdown table to \\'{output_file}\\'')
+          """
+
+      # 4. Commits the generated file back to the repository if there are any changes
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: Auto-update combined bodies table"
+          file_pattern: "dist/ALL_BODIES.md"
