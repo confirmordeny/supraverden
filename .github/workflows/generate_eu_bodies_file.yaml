@@ -94,7 +94,7 @@ jobs:
                   family = org.get('Org_family', 'N/A')
                   
                   source = org.get('Source', 'N/A')
-                  if not source or source == 'N/A' or source.strip() == '';
+                  if not source or source == 'N/A' or source.strip() == '':
                       source_display = 'N/A'
                   elif 'un_system_chart' in source:
                       source_display = '[UN system chart](https://www.un.org/en/delegate/page/un-system-chart)'
