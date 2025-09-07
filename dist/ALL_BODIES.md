@@ -72,7 +72,7 @@
 | Tourism Ireland | [Q7829093](https://www.wikidata.org/wiki/Q7829093) | North South bodies | [www.northsouthministerialcouncil.org](https://www.northsouthministerialcouncil.org/north-south-implementation-bodies) |
 | UN Women | [Q641576](https://www.wikidata.org/wiki/Q641576) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | UNAIDS Programme Coordinating Board | [Q588982](https://www.wikidata.org/wiki/Q588982) | UN and affiliates | [ecosoc.un.org](https://ecosoc.un.org/en/about-us/ecosoc-subsidiary-bodies) |
-| Unified Patent Court | [Q7884942](https://www.wikidata.org/wiki/Q7884942) | EU institutions and bodies | N/A |
+| Unified Patent Court | [Q7884942](https://www.wikidata.org/wiki/Q7884942) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20230515032632/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:42013A0620(01)) |
 | United Nations | [Q1065](https://www.wikidata.org/wiki/Q1065) | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/main-bodies) |
 | United Nations Capital Development Fund | [Q356037](https://www.wikidata.org/wiki/Q356037) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations Children’s Fund | [Q740308](https://www.wikidata.org/wiki/Q740308) | UN and affiliates | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
