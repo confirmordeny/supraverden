@@ -25,7 +25,7 @@
 | Economic Commission for Latin America and the Caribbean | [Q32874](https://www.wikidata.org/wiki/Q32874) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Economic and Social Commission for Asia and the Pacific | [Q1142901](https://www.wikidata.org/wiki/Q1142901) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Economic and Social Commission for Western Asia | [Q1355485](https://www.wikidata.org/wiki/Q1355485) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
-| European Atomic Energy Community | [Q8919](https://www.wikidata.org/wiki/Q8919) | EU institutions and bodies | N/A |
+| European Atomic Energy Community | [Q8919](https://www.wikidata.org/wiki/Q8919) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20240828070935/https://eur-lex.europa.eu/EN/legal-content/summary/treaty-on-the-european-atomic-energy-community-euratom.html) |
 | European Central Bank | [Q8901](https://www.wikidata.org/wiki/Q8901) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT) |
 | European Commission | [Q8880](https://www.wikidata.org/wiki/Q8880) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT) |
 | European Council | [Q8886](https://www.wikidata.org/wiki/Q8886) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250823025229/https://publications.europa.eu/resource/cellar/688a7a98-3110-4ffe-a6b3-8972d8445325.0007.01/DOC_19) |
