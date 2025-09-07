@@ -80,6 +80,7 @@ Food and Agriculture Organization:
   Abbreviation_en: FAO
   Abbreviation_fr: 
   Other_name_en: 
+  Type: UN specialized agency
   Source: https://www.un.org/Depts/ptd/about-us/un-organisations
 International Civil Aviation Organization:
   Wikidata_code: Q125761
@@ -250,6 +251,7 @@ United Nations Educational, Scientific and Cultural Organization:
   Abbreviation_en: UNESCO
   Abbreviation_fr: 
   Other_name_en: 
+  Type: UN specialized agency
   Source: https://www.un.org/en/about-us/specialized-agencies
 International Labour Organization:
   Wikidata_code: Q54129
@@ -260,6 +262,7 @@ International Labour Organization:
   Abbreviation_en: ILO
   Abbreviation_fr: 
   Other_name_en: 
+  Type: UN specialized agency
   Source: https://www.un.org/en/about-us/specialized-agencies
 Universal Postal Union:
   Wikidata_code: Q17495
@@ -360,6 +363,7 @@ United Nations Tourism:
   Abbreviation_en: UN Tourism
   Abbreviation_fr: 
   Other_name_en: UN Tourism
+  Type: UN specialized agency
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
 United Nations Industrial Development Organization:
   Wikidata_code: Q386120
