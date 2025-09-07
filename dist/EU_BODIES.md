@@ -20,4 +20,4 @@
 | European Stability Mechanism | [Q1130098](https://www.wikidata.org/wiki/Q1130098) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250615150335/https://www.esm.europa.eu/system/files/document/2023-10/05-TESM2-HR1.en12.pdf) |
 | European Union | [Q458](https://www.wikidata.org/wiki/Q458) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT) |
 | European University Institute | [Q1378099](https://www.wikidata.org/wiki/Q1378099) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250527174136/https://www.eui.eu/Documents/AboutEUI/Convention/English.pdf) |
-| Unified Patent Court | [Q7884942](https://www.wikidata.org/wiki/Q7884942) | EU institutions and bodies | N/A |
+| Unified Patent Court | [Q7884942](https://www.wikidata.org/wiki/Q7884942) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20230515032632/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:42013A0620(01)) |
