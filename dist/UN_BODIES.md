@@ -6,7 +6,7 @@
   Please edit the source file  instead.
 -->
 
-| English Name | Wikidata Code | Family | Source URL |
+| English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
 | Asia-Pacific Fishery Commission | [Q4806252](https://www.wikidata.org/wiki/Q4806252) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Commission for Inland Fisheries of Latin America | N/A | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
