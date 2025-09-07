@@ -91,6 +91,7 @@ International Civil Aviation Organization:
   Abbreviation_en: ICAO
   Abbreviation_fr: 
   Other_name_en: 
+  Type: UN specialized agency
   Source: https://www.un.org/Depts/ptd/about-us/un-organisations
 International Fund for Agricultural Development:
   Wikidata_code: Q689859
@@ -101,6 +102,7 @@ International Fund for Agricultural Development:
   Abbreviation_en: IFAD
   Abbreviation_fr: 
   Other_name_en: 
+  Type: UN specialized agency
   Source: https://www.un.org/Depts/ptd/about-us/un-organisations
 International Telecommunication Union:
   Wikidata_code: Q376150
@@ -111,6 +113,7 @@ International Telecommunication Union:
   Abbreviation_en: ITU
   Abbreviation_fr: 
   Other_name_en: 
+  Type: UN specialized agency
   Source: https://www.un.org/Depts/ptd/about-us/un-organisations
 United Nations Children’s Fund:
   Wikidata_code: Q740308
@@ -211,6 +214,7 @@ World Bank:
   Abbreviation_en: 
   Abbreviation_fr: 
   Other_name_en: 
+  Type: UN specialized agency
   Source: https://www.un.org/en/about-us/specialized-agencies
 World Health Organization:
   Wikidata_code: Q7817
@@ -221,6 +225,7 @@ World Health Organization:
   Abbreviation_en: WHO
   Abbreviation_fr: 
   Other_name_en: 
+  Type: UN specialized agency
   Source: https://www.un.org/en/about-us/specialized-agencies
 World Intellectual Property Organization:
   Wikidata_code: Q177773
@@ -231,6 +236,7 @@ World Intellectual Property Organization:
   Abbreviation_en: WIPO
   Abbreviation_fr: 
   Other_name_en: 
+  Type: UN specialized agency
   Source: https://www.un.org/en/about-us/specialized-agencies
 International Maritime Organization:
   Wikidata_code: Q201054
@@ -241,6 +247,7 @@ International Maritime Organization:
   Abbreviation_en: IMO
   Abbreviation_fr: 
   Other_name_en: International Maritime Organisation
+  Type: UN specialized agency
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
 United Nations Educational, Scientific and Cultural Organization:
   Wikidata_code: Q7809
@@ -273,6 +280,7 @@ Universal Postal Union:
   Abbreviation_en: UPU
   Abbreviation_fr: 
   Other_name_en: 
+  Type: UN specialized agency
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
 International Monetary Fund:
   Wikidata_code: Q7804
@@ -283,6 +291,7 @@ International Monetary Fund:
   Abbreviation_en: IMF
   Abbreviation_fr: 
   Other_name_en: 
+  Type: UN specialized agency
   Source: https://www.un.org/en/about-us/specialized-agencies
 International Atomic Energy Agency:
   Wikidata_code: Q41984
@@ -303,6 +312,7 @@ World Meteorological Organization:
   Abbreviation_en: WMO
   Abbreviation_fr: 
   Other_name_en: 
+  Type: UN specialized agency
   Source: https://www.un.org/en/about-us/specialized-agencies
 International Organization for Migration:
   Wikidata_code: Q472311
@@ -374,6 +384,7 @@ United Nations Industrial Development Organization:
   Abbreviation_en: UNIDO
   Abbreviation_fr: 
   Other_name_en: UN Industrial Development Organization
+  Type: UN specialized agency
   Source: https://www.un.org/en/about-us/specialized-agencies
 International Law Commission:
   Wikidata_code: Q684656
