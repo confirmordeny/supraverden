@@ -17,7 +17,7 @@
 | European Court of Auditors | [Q8900](https://www.wikidata.org/wiki/Q8900) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT) |
 | European Investment Bank | [Q192247](https://www.wikidata.org/wiki/Q192247) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250828040215/https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:11957E/TXT) |
 | European Parliament | [Q8889](https://www.wikidata.org/wiki/Q8889) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250827094704/https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/types-institutions-and-bodies_en) |
-| European Stability Mechanism | [Q1130098](https://www.wikidata.org/wiki/Q1130098) | EU institutions and bodies | N/A |
+| European Stability Mechanism | [Q1130098](https://www.wikidata.org/wiki/Q1130098) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250615150335/https://www.esm.europa.eu/system/files/document/2023-10/05-TESM2-HR1.en12.pdf) |
 | European Union | [Q458](https://www.wikidata.org/wiki/Q458) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT) |
 | European University Institute | [Q1378099](https://www.wikidata.org/wiki/Q1378099) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250527174136/https://www.eui.eu/Documents/AboutEUI/Convention/English.pdf) |
 | Unified Patent Court | [Q7884942](https://www.wikidata.org/wiki/Q7884942) | EU institutions and bodies | N/A |
