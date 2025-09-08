@@ -577,3 +577,12 @@ European Data Protection Board:
   Abbreviation_en: EDPB
   Type: EU body
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY
+European Defence Agency:
+  Wikidata_code: Q1134173
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Defence Agency
+  Abbreviation_en: EDA
+  Type: EU common foreign and security policy agency or body
+  Source: https://web.archive.org/web/20230503174334/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32015D1835
