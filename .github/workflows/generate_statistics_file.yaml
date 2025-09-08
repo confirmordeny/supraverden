@@ -1,37 +1,37 @@
 name: Count Markdown Table Rows
 
 on:
-push:
-branches:
-- main
-pull_request:
-branches:
-- main
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
 
 jobs:
-count_rows:
-runs-on: ubuntu-latest
-steps:
-- name: Checkout repository
-uses: actions/checkout@v4
+  count_rows:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-  - name: Set up Python
-    uses: actions/setup-python@v5
-    with:
-      python-version: '3.x'
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
 
-  - name: Create Python script
-    run: |
-      echo "${{ secrets.SCRIPT_CONTENT }}" > count_table_rows.py
-    env:
-      SCRIPT_CONTENT: |
-        ${{ secrets.SCRIPT_CONTENT }}
+      - name: Create Python script
+        run: |
+          echo "${{ secrets.SCRIPT_CONTENT }}" > count_table_rows.py
+        env:
+          SCRIPT_CONTENT: |
+            ${{ secrets.SCRIPT_CONTENT }}
 
-  - name: Count table rows
-    id: count
-    env:
-      GITHUB_TABLE_FILE: 'dist/ALL_BODIES.md'
-    run: python count_table_rows.py
+      - name: Count table rows
+        id: count
+        env:
+          GITHUB_TABLE_FILE: 'dist/ALL_BODIES.md'
+        run: python count_table_rows.py
 
-  - name: Display row count
-    run: echo "The number of rows in the table is ${{ steps.count.outputs.table-row-count }}"
+      - name: Display row count
+        run: echo "The number of rows in the table is ${{ steps.count.outputs.table-row-count }}"
