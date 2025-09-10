@@ -594,7 +594,8 @@ European Union Satellite Centre:
   Name_en: European Union Satellite Centre
   Abbreviation_en: EUSC
   Other_name_en: SATCEN
-  Other_name_2_en: EU Satellite Centre
+  
+  EU Satellite Centre
   Type: EU common foreign and security policy agency or body
   Source: https://web.archive.org/web/20230514042152/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014D0401
 Supply Agency of the European Atomic Energy Community:
@@ -607,3 +608,14 @@ Supply Agency of the European Atomic Energy Community:
   Other_name_en: Euratom Supply Agency
   Type: Euratom agencies and bodies
   Source: https://www.legislation.gov.uk/eut/euratom/title/II/chapter/6
+Fusion for Energy Joint Undertaking:
+  Wikidata_code: Q5510278
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en:
+  Abbreviation_en: F4E
+  Other_name_en: Fusion for Energy
+  Other_name_2_en: The European Joint Undertaking for ITER and the Development of Fusion Energy (Fusion for Energy)
+  Type: Euratom agencies and bodies
+  Source: https://web.archive.org/web/20240305173612/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32007D0198
