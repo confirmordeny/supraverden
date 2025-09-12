@@ -613,9 +613,19 @@ Fusion for Energy Joint Undertaking:
   Entity_type: International organisation
   Org_family: EU institutions and bodies
   Country: eu
-  Name_en:
+  Name_en: Fusion for Energy Joint Undertaking
   Abbreviation_en: F4E
   Other_name_en: Fusion for Energy
   Other_name_2_en: The European Joint Undertaking for ITER and the Development of Fusion Energy (Fusion for Energy)
   Type: Euratom agencies and bodies
   Source: https://web.archive.org/web/20240305173612/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32007D0198
+Chips Joint Undertaking:
+  Wikidata_code: Q133884004
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: Chips Joint Undertaking
+  Abbreviation_en: 
+  Other_name_en: Chips JU
+  Type: EU joint undertaking
+  Source: https://web.archive.org/web/20231025101944/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1782
