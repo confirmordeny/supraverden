@@ -30,6 +30,7 @@
 | Indian Ocean Fishery Commission | [Q96186510](https://www.wikidata.org/wiki/Q96186510) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Indian Ocean Tuna Commission | [Q12613354](https://www.wikidata.org/wiki/Q12613354) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | International Atomic Energy Agency | [Q41984](https://www.wikidata.org/wiki/Q41984) | UN and affiliates | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
+| International Bank for Reconstruction and Development | [Q191384](https://www.wikidata.org/wiki/Q191384) | UN and affiliates | [timeline.worldbank.org](https://timeline.worldbank.org/content/dam/sites/timeline/docs/migrated/event12-UNagt-agreement-30151254.pdf) |
 | International Civil Aviation Organization | [Q125761](https://www.wikidata.org/wiki/Q125761) | UN and affiliates | [UN Organisations](https://www.un.org/Depts/ptd/about-us/un-organisations) |
 | International Court of Justice | [Q7801](https://www.wikidata.org/wiki/Q7801) | UN and affiliates | [Main Bodies](https://www.un.org/en/about-us/main-bodies) |
 | International Criminal Court | [Q47488](https://www.wikidata.org/wiki/Q47488) | UN and affiliates | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
