@@ -82,6 +82,17 @@ Food and Agriculture Organization:
   Other_name_en: 
   Type: UN specialized agency
   Source: https://www.un.org/Depts/ptd/about-us/un-organisations
+International Bank for Reconstruction and Development:
+  Wikidata_code: Q191384
+  Org_family: UN and affiliates
+  Country: zz
+  Name_en: International Bank for Reconstruction and Development
+  Name_fr: Banque internationale pour la reconstruction et le développement
+  Abbreviation_en: IBRD
+  Abbreviation_fr: BIRD
+  Other_name_en: 
+  Type: UN specialized agency
+  Source: https://timeline.worldbank.org/content/dam/sites/timeline/docs/migrated/event12-UNagt-agreement-30151254.pdf
 International Civil Aviation Organization:
   Wikidata_code: Q125761
   Org_family: UN and affiliates
