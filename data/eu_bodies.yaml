@@ -594,8 +594,7 @@ European Union Satellite Centre:
   Name_en: European Union Satellite Centre
   Abbreviation_en: EUSC
   Other_name_en: SATCEN
-  
-  EU Satellite Centre
+  Other_name_2_en: EU Satellite Centre
   Type: EU common foreign and security policy agency or body
   Source: https://web.archive.org/web/20230514042152/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014D0401
 Supply Agency of the European Atomic Energy Community:
@@ -629,3 +628,94 @@ Chips Joint Undertaking:
   Other_name_en: Chips JU
   Type: EU joint undertaking
   Source: https://web.archive.org/web/20231025101944/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1782
+Circular Bio-based Europe Joint Undertaking:
+  Wikidata_code: Q133884431
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: Circular Bio-based Europe Joint Undertaking:
+  Other_name_en: Circular Bio-based Europe JU:
+  Abbreviation_en: CBE JU
+  Type: EU joint undertaking
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085
+Clean Aviation Joint Undertaking:
+  Wikidata_code: Q133884512
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: Clean Aviation Joint Undertaking:
+  Other_name_en: Clean Aviation JU:
+  Abbreviation_en: CAJU
+  Type: EU joint undertaking
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085
+Clean Hydrogen Joint Undertaking:
+  Wikidata_code: Q133884630
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: Clean Hydrogen Joint Undertaking:
+  Other_name_en: Clean Hydrogen JU:
+  Abbreviation_en: 
+  Type: EU joint undertaking
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085
+Europe’s Rail Joint Undertaking:
+  Wikidata_code: Q133884985
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: Europe’s Rail Joint Undertaking:
+  Other_name_en: Europe’s Rail JU:
+  Abbreviation_en: 
+  Type: EU joint undertaking
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085
+Global Health EDCTP3 Joint Undertaking:
+  Wikidata_code: Q30296681
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: Global Health EDCTP3 Joint Undertaking:
+  Other_name_en: Global Health EDCTP3 JU:
+  Abbreviation_en: 
+  Type: EU joint undertaking
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085
+Innovative Health Initiative Joint Undertaking:
+  Wikidata_code: Q118695652
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: Innovative Health Initiative Joint Undertaking:
+  Other_name_en: Innovative Health Initiative JU:
+  Abbreviation_en: 
+  Type: EU joint undertaking
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085
+European High Performance Computing Joint Undertaking:
+  Wikidata_code: Q60983149
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European High Performance Computing Joint Undertaking:
+  Other_name_en: European High Performance Computing JU:
+  Abbreviation_en: EuroHPC JU
+  Type: EU joint undertaking
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32021R1173
+SESAR 3 Joint Undertaking:
+  Wikidata_code: Q3055255
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: SESAR 3 Joint Undertaking:
+  Other_name_en: SESAR 3 JU:
+  Other_name_2_en: Single European Sky ATM Research 3 Joint Undertaking
+  Abbreviation_en: 
+  Type: EU joint undertaking
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085
+Smart Networks and Services Joint Undertaking:
+  Wikidata_code: Q133886014
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: Smart Networks and Services Joint Undertaking:
+  Other_name_en: Smart Networks and Services JU:
+  Abbreviation_en: 
+  Type: EU joint undertaking
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085
