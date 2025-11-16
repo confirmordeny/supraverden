@@ -46,7 +46,7 @@ Organization for Security and Co-operation in Europe:
   Country: zz
   Name_en: Organization for Security and Co-operation in Europe
   Abbreviation_en: OSCE
-  Treaty_url: [N/A OSCE]"
+  Treaty_url: [N/A OSCE]
 North Atlantic Treaty Organisation:
   Wikidata_code: Q7184
   Entity_type: International organisation
@@ -88,7 +88,7 @@ Arctic Council:
   Country: zz
   Name_en: Arctic Council
   Abbreviation_en: 
-  Treaty_url: https://oaarchive.arctic-council.org/server/api/core/bitstreams/bdc15f51-fb91-4e0d-9037-3e8618e7b98f/content"
+  Treaty_url: https://oaarchive.arctic-council.org/server/api/core/bitstreams/bdc15f51-fb91-4e0d-9037-3e8618e7b98f/content
 Eurasian Economic Union:
   Wikidata_code: Q4173083
   Entity_type: International organisation
@@ -130,7 +130,7 @@ European Court of Human Rights:
   Country: zz
   Name_en: European Court of Human Rights
   Abbreviation_en: ECHR
-  Treaty_url: https://www.echr.coe.int/documents/d/echr/convention_ENG"
+  Treaty_url: https://www.echr.coe.int/documents/d/echr/convention_ENG
 International Hydrographic Organisation:
   Wikidata_code: Q233611
   Entity_type: International organisation
@@ -173,43 +173,43 @@ International Sugar Organisation:
   Name_en: International Sugar Organisation
   Abbreviation_en: 
   Treaty_url: https://treaties.un.org/doc/Treaties/1993/01/19930120%2004-38%20AM/Ch_XIX_37p.pdf
-"International Cocoa Organization:
- Wikidata_code: Q1667326
+International Cocoa Organization:
+  Wikidata_code: Q1667326
   Entity_type: International organisation
   Country: zz
   Name_en: International Cocoa Organization
   Abbreviation_en: 
   Treaty_url: https://www.icco.org/wp-content/uploads/2019/06/ICA-1986-English.pdf
-"International Whaling Commission:
- Wikidata_code: Q1053889
+International Whaling Commission:
+  Wikidata_code: Q1053889
   Entity_type: International organisation
   Country: zz
   Name_en: International Whaling Commission
   Abbreviation_en: 
   Treaty_url: https://archive.iwc.int/pages/download.php?direct=1&noattach=true&ref=3607&ext=pdf&k="
-"International Rubber Study Group:
- Wikidata_code: Q131542072
+International Rubber Study Group:
+  Wikidata_code: Q131542072
   Entity_type: International organisation
   Country: zz
   Name_en: International Rubber Study Group
   Abbreviation_en: IRSG
   Treaty_url: https://www.rubberstudy.org/storage/uploads/contentfile/18902/yVf21ESEis.pdf
-"International Lead and Zinc Study Group:
- Wikidata_code: Q12131043
+International Lead and Zinc Study Group:
+  Wikidata_code: Q12131043
   Entity_type: International organisation
   Country: zz
   Name_en: International Lead and Zinc Study Group
   Abbreviation_en: ILSZC
   Treaty_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A32001D0221"
-"International Telecommunications Satellite Organisation:
- Wikidata_code: Q15546770
+International Telecommunications Satellite Organisation:
+  Wikidata_code: Q15546770
   Entity_type: International organisation
   Country: zz
   Name_en: International Telecommunications Satellite Organisation
   Abbreviation_en: ITSO
   Treaty_url: https://itso.int/wp-content/uploads/2018/01/ITSO-Agreement-Booklet-new-version-FINAL-EnFrEs.pdf
-"Oslo and Paris Commissions:
- Wikidata_code: Q125870138
+Oslo and Paris Commissions:
+  Wikidata_code: Q125870138
   Entity_type: International organisation
   Country: zz
   Name_en: Oslo and Paris Commissions
