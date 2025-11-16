@@ -4,7 +4,7 @@ Council of Europe:
   Country: zz
   Name_en: Council of Europe
   Abbreviation_en: 
-  Treaty_url: https://rm.coe.int/1680a1c6b3"
+  Treaty_url: https://rm.coe.int/1680a1c6b3
 Benelux:
   Wikidata_code: Q13116
   Entity_type: International organisation
@@ -25,21 +25,21 @@ Arab League:
   Country: zz
   Name_en: Arab League
   Abbreviation_en: 
-  Treaty_url: https://www.refworld.org/legal/constinstr/las/1945/en/13854"
+  Treaty_url: https://www.refworld.org/legal/constinstr/las/1945/en/13854
 Commonwealth of Independent States:
   Wikidata_code: Q7779
   Entity_type: International organisation
   Country: zz
   Name_en: Commonwealth of Independent States
   Abbreviation_en: CIS
-  Treaty_url: https://www.coe.int/en/web/venice-commission/-/CDL(1994)054-e"
+  Treaty_url: https://www.coe.int/en/web/venice-commission/-/CDL(1994)054-e
 Organisation of Eastern Caribbean States:
   Wikidata_code: Q392770
   Entity_type: International organisation
   Country: zz
   Name_en: Organisation of Eastern Caribbean States
   Abbreviation_en: OECS
-  Treaty_url: https://caricom.org/documents/legaldocuments/9240-treaty-oecs.htm"
+  Treaty_url: https://caricom.org/documents/legaldocuments/9240-treaty-oecs.htm
 Organization for Security and Co-operation in Europe:
   Wikidata_code: Q81299
   Entity_type: International organisation
@@ -53,7 +53,7 @@ North Atlantic Treaty Organisation:
   Country: zz
   Name_en: North Atlantic Treaty Organisation
   Abbreviation_en: NATO
-  Treaty_url: https://www.nato.int/cps/en/natohq/official_texts_17120.htm"
+  Treaty_url: https://www.nato.int/cps/en/natohq/official_texts_17120.htm
 Caribbean Community:
   Wikidata_code: Q205995
   Entity_type: International organisation
