@@ -101,6 +101,9 @@
 | Indian Ocean Fishery Commission | [Q96186510](https://www.wikidata.org/wiki/Q96186510) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Indian Ocean Tuna Commission | [Q12613354](https://www.wikidata.org/wiki/Q12613354) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Innovative Health Initiative Joint Undertaking | [Q118695652](https://www.wikidata.org/wiki/Q118695652) | EU institutions and bodies | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085) |
+| Inter-American Commission on Human Rights | [Q1589444](https://www.wikidata.org/wiki/Q1589444) | none | N/A |
+| Inter-American Court of Human Rights | [Q1547804](https://www.wikidata.org/wiki/Q1547804) | none | N/A |
+| Inter-American Development Bank | [Q1153087](https://www.wikidata.org/wiki/Q1153087) | OAS institutions and bodies | N/A |
 | InterTradeIreland | [Q13157417](https://www.wikidata.org/wiki/Q13157417) | North South bodies | [www.northsouthministerialcouncil.org](https://www.northsouthministerialcouncil.org/north-south-implementation-bodies) |
 | International Atomic Energy Agency | [Q41984](https://www.wikidata.org/wiki/Q41984) | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
 | International Bank for Reconstruction and Development | [Q191384](https://www.wikidata.org/wiki/Q191384) | UN and affiliates | [timeline.worldbank.org](https://timeline.worldbank.org/content/dam/sites/timeline/docs/migrated/event12-UNagt-agreement-30151254.pdf) |
