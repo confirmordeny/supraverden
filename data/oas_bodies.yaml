@@ -78,7 +78,7 @@ Inter‐American Commission of Women:
   Abbreviation_fr: CIM
   Type: OAS specialised organisations
   Source: https://www.oas.org/xxxivga/english/reference_docs/Estatuto_CIM.pdf
-Inter‐American Court on Human Rights
+Inter‐American Court on Human Rights:
   Wikidata_code: Q1547804
   Entity_type: International organisation
   Org_family: OAS institutions and bodies
@@ -92,7 +92,7 @@ Inter‐American Court on Human Rights
   Abbreviation_fr: Cour interaméricaine des droits de l'homme
   Type: OAS court
   Source: https://web.archive.org/web/20250928032120/https://www.oas.org/dil/treaties_b-32_american_convention_on_human_rights.pdf
-Justice Studies Center for the Americas
+Justice Studies Center for the Americas:
   Wikidata_code: [No code found.]
   Entity_type: International organisation
   Org_family: OAS institutions and bodies
@@ -105,3 +105,27 @@ Justice Studies Center for the Americas
   Abbreviation_fr: 
   Type: OAS entity
   Source: https://web.archive.org/web/20050418013202/https://www.oas.org/juridico/english/ga-res99/agres1.htm
+Inter-American Development Bank:
+  Wikidata_code: Q1153087
+  Entity_type: International organisation
+  Org_family: OAS institutions and bodies
+  Country: zz
+  Name_en: Inter-American Development Bank
+  Abbreviation_en: IDB
+  Treaty_url: https://www.oas.org/dil/treaties_C-15_Agreement_Establishing_the_Inter-American_Development_Bank.htm
+Inter-American Court of Human Rights:
+  Wikidata_code: Q1547804
+  Entity_type: International organisation
+  Org_family: none
+  Country: zz
+  Name_en: Inter-American Court of Human Rights
+  Abbreviation_en: 
+  Treaty_url: https://www.oas.org/dil/treaties_b-32_american_convention_on_human_rights.pdf
+Inter-American Commission on Human Rights:
+  Wikidata_code: Q1589444
+  Entity_type: International organisation
+  Org_family: none
+  Country: zz
+  Name_en: Inter-American Commission on Human Rights
+  Abbreviation_en: IACHR
+  Treaty_url: https://www.oas.org/dil/treaties_b-32_american_convention_on_human_rights.pdf
