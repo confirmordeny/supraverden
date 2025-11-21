@@ -814,14 +814,6 @@ Great Lakes Fishery Commission:
   Name_en: Great Lakes Fishery Commission
   Abbreviation_en: 
   Treaty_url: https://laws-lois.justice.gc.ca/eng/acts/F-17/FullText.html
-Inter-American Development Bank:
- Wikidata_code: Q1153087
-  Entity_type: International organisation
-  Org_family: none
-  Country: zz
-  Name_en: Inter-American Development Bank
-  Abbreviation_en: IDB
-  Treaty_url: https://www.oas.org/dil/treaties_C-15_Agreement_Establishing_the_Inter-American_Development_Bank.htm
 European Patent Organisation:
  Wikidata_code: Q685547
   Entity_type: International organisation
@@ -1062,22 +1054,6 @@ South East Atlantic Fisheries Organisation:
   Name_en: South East Atlantic Fisheries Organisation
   Abbreviation_en: 
   Treaty_url: http://www.seafo.org/About/Convention-Text
-Inter-American Court of Human Rights:
- Wikidata_code: Q1547804
-  Entity_type: International organisation
-  Org_family: none
-  Country: zz
-  Name_en: Inter-American Court of Human Rights
-  Abbreviation_en: 
-  Treaty_url: https://www.oas.org/dil/treaties_b-32_american_convention_on_human_rights.pdf
-Inter-American Commission on Human Rights:
- Wikidata_code: Q1589444
-  Entity_type: International organisation
-  Org_family: none
-  Country: zz
-  Name_en: Inter-American Commission on Human Rights
-  Abbreviation_en: IACHR
-  Treaty_url: https://www.oas.org/dil/treaties_b-32_american_convention_on_human_rights.pdf
 Baltic Marine Environment Protection Commission:
  Wikidata_code: Q1563503
   Entity_type: International organisation
