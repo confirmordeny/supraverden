@@ -161,7 +161,7 @@ International Hydrographic Organisation:
 European Free Trade Association:
   Wikidata_code: Q166546
   Entity_type: International organisation
-  Org_family: none
+  Org_family: European Free Trade Association
   Country: zz
   Name_en: European Free Trade Association
   Abbreviation_en: EFTA
@@ -1841,7 +1841,7 @@ African, Carribean and Pacific Group of States:
 Surveillance Authority of the European Free Trade Association:
  Wikidata_code: Q3775266
   Entity_type: International organisation
-  Org_family: none
+  Org_family: European Free Trade Association
   Country: zz
   Name_en: Surveillance Authority of the European Free Trade Association
   Abbreviation_en: 
@@ -2198,7 +2198,7 @@ OPEC Fund for International Development:
   Org_family: none
   Country: zz
   Name_en: OPEC Fund for International Development
-  Abbreviation_en: OPEC
+  Abbreviation_en: Organization of the Petroleum Exporting Countries
   Treaty_url: https://publications.opecfund.org/view/586730821/6/
 Eurasian Development Bank:
  Wikidata_code: Q498991
