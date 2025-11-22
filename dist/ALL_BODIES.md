@@ -8,151 +8,151 @@
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
-| ANZUS | [Q295875](https://www.wikidata.org/wiki/Q295875) | none | N/A |
-| ASEAN Free Trade Area | [Q297472](https://www.wikidata.org/wiki/Q297472) | Association of Southeast Asian Nations | N/A |
-| Advisory Centre on World Trade Organization Law | [Q3664799](https://www.wikidata.org/wiki/Q3664799) | none | N/A |
-| Africa Finance Corporation | [Q23578910](https://www.wikidata.org/wiki/Q23578910) | none | N/A |
-| African Court on Human and Peoples' Rights | [Q1036440](https://www.wikidata.org/wiki/Q1036440) | African Union | N/A |
-| African Development Bank | [Q340195](https://www.wikidata.org/wiki/Q340195) | African Union | N/A |
-| African Development Fund | [Q100411453](https://www.wikidata.org/wiki/Q100411453) | African Union | N/A |
-| African Export-Import Bank | [Q4689766](https://www.wikidata.org/wiki/Q4689766) | none | N/A |
-| African Groundnut Council | [Q4689777](https://www.wikidata.org/wiki/Q4689777) | none | N/A |
-| African Regional Intellectual Property Organization | [Q384434](https://www.wikidata.org/wiki/Q384434) | none | N/A |
-| African Trade and Investment Development Insurance | [Q60742417](https://www.wikidata.org/wiki/Q60742417) | Common Market for Eastern and Southern Africa | N/A |
-| African Union | [Q7159](https://www.wikidata.org/wiki/Q7159) | African Union | N/A |
-| African, Caribbean and Pacific Group of States | [[No specific code.]](https://www.wikidata.org/wiki/[No specific code.]) | none | N/A |
-| Agency for Aerial Navigation Safety in Africa and Madagascar | [Q2826699](https://www.wikidata.org/wiki/Q2826699) | none | N/A |
+| ANZUS | [Q295875](https://www.wikidata.org/wiki/Q295875) | none | [Treaty](https://history.state.gov/milestones/1945-1952/anzus) |
+| ASEAN Free Trade Area | [Q297472](https://www.wikidata.org/wiki/Q297472) | Association of Southeast Asian Nations | [Treaty](https://web.archive.org/web/20070614155734/http://www.worldtradelaw.net/fta/agreements/afta.pdf) |
+| Advisory Centre on World Trade Organization Law | [Q3664799](https://www.wikidata.org/wiki/Q3664799) | none | [Treaty](https://web.archive.org/web/20140224004105/http://www.minbuza.nl/en/key-topics/treaties/search-the-treaty-database/1999/11/009244.html) |
+| Africa Finance Corporation | [Q23578910](https://www.wikidata.org/wiki/Q23578910) | none | [Treaty](http://www.parliament.go.ke/sites/default/files/2025-02/Agreement%20for%20the%20Establishment%20of%20the%20Africa%20Finance%20Corporation%20and%20Explanantory%20Memorandum%20from%20the%20Foreign%20%26%20Diaspora%20Affairs.pdf) |
+| African Court on Human and Peoples' Rights | [Q1036440](https://www.wikidata.org/wiki/Q1036440) | African Union | [Treaty](https://www.african-court.org/wpafc/wp-content/uploads/2020/10/2-PROTOCOL-TO-THE-AFRICAN-CHARTER-ON-HUMAN-AND-PEOPLES-RIGHTS-ON-THE-ESTABLISHMENT-OF-AN-AFRICAN-COURT-ON-HUMAN-AND-PEOPLES-RIGHTS.pdf) |
+| African Development Bank | [Q340195](https://www.wikidata.org/wiki/Q340195) | African Union | [Treaty](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Legal-Documents/Agreement_establishing_the_African_development_bank_-_2016_edition.pdf) |
+| African Development Fund | [Q100411453](https://www.wikidata.org/wiki/Q100411453) | African Union | [Treaty](https://www.afdb.org/en/documents/agreement-establishing-african-development-fund-2016-edition) |
+| African Export-Import Bank | [Q4689766](https://www.wikidata.org/wiki/Q4689766) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201890/volume-1890-I-32192-English.pdf) |
+| African Groundnut Council | [Q4689777](https://www.wikidata.org/wiki/Q4689777) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%20846/volume-846-I-12123-English.pdf) |
+| African Regional Intellectual Property Organization | [Q384434](https://www.wikidata.org/wiki/Q384434) | none | [Treaty](https://www.wipo.int/wipolex/en/text/588142) |
+| African Trade and Investment Development Insurance | [Q60742417](https://www.wikidata.org/wiki/Q60742417) | Common Market for Eastern and Southern Africa | [Treaty](https://www.atidi.africa/wp-content/uploads/2023/10/ATI-Treaty-2022-001-Certified-091023-Stamped.pdf) |
+| African Union | [Q7159](https://www.wikidata.org/wiki/Q7159) | African Union | [Treaty](https://au.int/sites/default/files/treaties/7758-treaty-0021_-_CONSTITUTIVE_ACT_OF_THE_AFRICAN_UNION_E.pdf) |
+| African, Caribbean and Pacific Group of States | [[No specific code.]](https://www.wikidata.org/wiki/[No specific code.]) | none | [Treaty](https://www.wipo.int/wipolex/en/text/594415) |
+| Agency for Aerial Navigation Safety in Africa and Madagascar | [Q2826699](https://www.wikidata.org/wiki/Q2826699) | none | [Treaty](https://www.asecna.aero/images/Docs/Publications/Convention/Convention_ASECNA_Version_Anglaise.pdf) |
 | Agency for Support for BEREC | [Q107658738](https://www.wikidata.org/wiki/Q107658738) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | Agency for the Cooperation of Energy Regulators | [Q392883](https://www.wikidata.org/wiki/Q392883) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
-| Agreement on the Conservation of Albatrosses and Petrels | [Q331541](https://www.wikidata.org/wiki/Q331541) | none | N/A |
-| Amazon Cooperation Treaty Organization | [Q602399](https://www.wikidata.org/wiki/Q602399) | none | N/A |
-| Andrés Bello convention for the educational, scientific and cultural integration of Latin America and Spain | [[No specific code.]](https://www.wikidata.org/wiki/[No specific code.]) | none | N/A |
-| Arab Bank for Economic Development in Africa | [Q4783148](https://www.wikidata.org/wiki/Q4783148) | Arab League | N/A |
-| Arab Center for the Studies of Arid Zones and Dry Lands | [Q30289729](https://www.wikidata.org/wiki/Q30289729) | Arab League | N/A |
-| Arab Fund for Economic and Social Development | [Q1137381](https://www.wikidata.org/wiki/Q1137381) | Arab League | N/A |
-| Arab Industrial Development Standardization and Mining Organization | [Q4783189](https://www.wikidata.org/wiki/Q4783189) | Arab League | N/A |
-| Arab League | [Q7172](https://www.wikidata.org/wiki/Q7172) | Arab League | N/A |
-| Arab Maghreb Union | [Q370862](https://www.wikidata.org/wiki/Q370862) | none | N/A |
-| Arctic Council | [Q674182](https://www.wikidata.org/wiki/Q674182) | none | N/A |
+| Agreement on the Conservation of Albatrosses and Petrels | [Q331541](https://www.wikidata.org/wiki/Q331541) | none | [Treaty](https://www.acap.aq/agreement-text/206-agreement-on-the-conservation-of-albatrosses-and-petrels/file) |
+| Amazon Cooperation Treaty Organization | [Q602399](https://www.wikidata.org/wiki/Q602399) | none | [Treaty](http://www.paclii.org/pits/en/treaty_database/1999/1.html) |
+| Andrés Bello convention for the educational, scientific and cultural integration of Latin America and Spain | [[No specific code.]](https://www.wikidata.org/wiki/[No specific code.]) | none | [Treaty](https://convenioandresbello.org/wp-content/uploads/2021/08/tratado_constitutivo_cab_firmado.pdf) |
+| Arab Bank for Economic Development in Africa | [Q4783148](https://www.wikidata.org/wiki/Q4783148) | Arab League | [Treaty](https://data.qanoon.om/treaties/1974-0017AEN.pdf) |
+| Arab Center for the Studies of Arid Zones and Dry Lands | [Q30289729](https://www.wikidata.org/wiki/Q30289729) | Arab League | [Treaty](https://unesdoc.unesco.org/ark:/48223/pf0000056473) |
+| Arab Fund for Economic and Social Development | [Q1137381](https://www.wikidata.org/wiki/Q1137381) | Arab League | [Treaty](https://www.arabfund.org/wp-content/uploads/2023/12/agreement0000.pdf) |
+| Arab Industrial Development Standardization and Mining Organization | [Q4783189](https://www.wikidata.org/wiki/Q4783189) | Arab League | [Treaty](https://www.lloc.gov.bh/FullEn/L2479.docx) |
+| Arab League | [Q7172](https://www.wikidata.org/wiki/Q7172) | Arab League | [Treaty](https://www.refworld.org/legal/constinstr/las/1945/en/13854) |
+| Arab Maghreb Union | [Q370862](https://www.wikidata.org/wiki/Q370862) | none | [Treaty](https://wits.worldbank.org/GPTAD/PDF/archive/MAGHREB.pdf) |
+| Arctic Council | [Q674182](https://www.wikidata.org/wiki/Q674182) | none | [Treaty](https://oaarchive.arctic-council.org/server/api/core/bitstreams/bdc15f51-fb91-4e0d-9037-3e8618e7b98f/content) |
 | Asia-Pacific Fishery Commission | [Q4806252](https://www.wikidata.org/wiki/Q4806252) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
-| Asian Clearing Union | [Q2150936](https://www.wikidata.org/wiki/Q2150936) | none | N/A |
-| Asian Development Bank | [Q188822](https://www.wikidata.org/wiki/Q188822) | none | N/A |
-| Asian Infrastructure Investment Bank | [Q18109843](https://www.wikidata.org/wiki/Q18109843) | none | N/A |
-| Asian Productivity organisation | [Q16166565](https://www.wikidata.org/wiki/Q16166565) | none | N/A |
-| Asian and Pacific Coconut Community | [Q16962216](https://www.wikidata.org/wiki/Q16962216) | none | N/A |
-| Association of Caribbean States | [Q1147937](https://www.wikidata.org/wiki/Q1147937) | none | N/A |
-| Association of Iron Ore Exporting Countries | N/A | none | N/A |
-| Association of Natural Rubber Producing Countries | N/A | none | N/A |
-| Association of Southeast Asian Nations | [Q7768](https://www.wikidata.org/wiki/Q7768) | Association of Southeast Asian Nations | N/A |
-| Baltic Marine Environment Protection Commission | [Q1563503](https://www.wikidata.org/wiki/Q1563503) | none | N/A |
-| Bank of the Central African States | [Q189972](https://www.wikidata.org/wiki/Q189972) | Economic and Monetary Community of Central Africa | N/A |
-| Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation | [Q795985](https://www.wikidata.org/wiki/Q795985) | none | N/A |
-| Benelux | [Q13116](https://www.wikidata.org/wiki/Q13116) | Benelux | N/A |
-| Benelux Organisation for Intellectual Property | [Q1910702](https://www.wikidata.org/wiki/Q1910702) | Benelux | N/A |
-| Black Sea Trade and Development Bank | [Q2061083](https://www.wikidata.org/wiki/Q2061083) | Organization of the Black Sea Economic Cooperation | N/A |
-| Brazilian-Argentine Agency for Accounting and Control of Nuclear Materials | [Q290585](https://www.wikidata.org/wiki/Q290585) | none | N/A |
+| Asian Clearing Union | [Q2150936](https://www.wikidata.org/wiki/Q2150936) | none | [Treaty](https://web.archive.org/web/20230605224051/https://www.asianclearingunion.org/Agreement/CHAPTERI.aspx) |
+| Asian Development Bank | [Q188822](https://www.wikidata.org/wiki/Q188822) | none | [Treaty](https://www.adb.org/sites/default/files/institutional-document/32120/charter.pdf) |
+| Asian Infrastructure Investment Bank | [Q18109843](https://www.wikidata.org/wiki/Q18109843) | none | [Treaty](https://www.aiib.org/en/about-aiib/basic-documents/_download/articles-of-agreement/basic_document_english-bank_articles_of_agreement.pdf) |
+| Asian Productivity organisation | [Q16166565](https://www.wikidata.org/wiki/Q16166565) | none | [Treaty](https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/35/11124) |
+| Asian and Pacific Coconut Community | [Q16962216](https://www.wikidata.org/wiki/Q16962216) | none | [Treaty](https://treaties.un.org/doc/Treaties/1969/07/19690730%2002-40%20AM/Ch_XIX_7p.pdf) |
+| Association of Caribbean States | [Q1147937](https://www.wikidata.org/wiki/Q1147937) | none | [Treaty](https://www.acs-aec.org/sites/default/files/acs_convention_eng.doc) |
+| Association of Iron Ore Exporting Countries | N/A | none | [Treaty](https://international.vlex.com/vid/accord-portant-creation-l-851216190) |
+| Association of Natural Rubber Producing Countries | N/A | none | [Treaty](https://treaties.fcdo.gov.uk/data/Library2/pdf/1993-TS0036.pdf) |
+| Association of Southeast Asian Nations | [Q7768](https://www.wikidata.org/wiki/Q7768) | Association of Southeast Asian Nations | [Treaty](https://assets.publishing.service.gov.uk/media/5a7c072ee5274a7318b9097a/8472.pdf) |
+| Baltic Marine Environment Protection Commission | [Q1563503](https://www.wikidata.org/wiki/Q1563503) | none | [Treaty](https://helcom.fi/wp-content/uploads/2019/06/Helsinki-Convention_July-2014.pdf) |
+| Bank of the Central African States | [Q189972](https://www.wikidata.org/wiki/Q189972) | Economic and Monetary Community of Central Africa | [Treaty](https://www.beac.int/wp-content/uploads/2016/11/TrCemac-rev.pdf) |
+| Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation | [Q795985](https://www.wikidata.org/wiki/Q795985) | none | [Treaty](https://bimstec.org/images/content_page_pdf/1696679710_BIMSTEC%20Charter.pdf) |
+| Benelux | [Q13116](https://www.wikidata.org/wiki/Q13116) | Benelux | [Treaty](https://www.benelux.int/wp-content/uploads/2023/02/BeneluxVerdrag_2008.pdf) |
+| Benelux Organisation for Intellectual Property | [Q1910702](https://www.wikidata.org/wiki/Q1910702) | Benelux | [Treaty](https://www.boip.int/uploads/inline/230210%20Benelux%20Convention%20on%20Intellectual%20Property.pdf) |
+| Black Sea Trade and Development Bank | [Q2061083](https://www.wikidata.org/wiki/Q2061083) | Organization of the Black Sea Economic Cooperation | [Treaty](https://www.bstdb.org/Establishing_Agreement_BSTDB.pdf) |
+| Brazilian-Argentine Agency for Accounting and Control of Nuclear Materials | [Q290585](https://www.wikidata.org/wiki/Q290585) | none | [Treaty](https://www.iaea.org/sites/default/files/infcirc435.pdf) |
 | British-Irish Council | [Q2655795](https://www.wikidata.org/wiki/Q2655795) | North South bodies | [assets.publishing.service.gov.uk](https://assets.publishing.service.gov.uk/media/619500728fa8f5037d67b678/The_Belfast_Agreement_An_Agreement_Reached_at_the_Multi-Party_Talks_on_Northern_Ireland.pdf) |
-| Bureau International des Expositions | [Q1010514](https://www.wikidata.org/wiki/Q1010514) | none | N/A |
-| CAB International | [Q5008528](https://www.wikidata.org/wiki/Q5008528) | Commonwealth of Nations | N/A |
-| CAF - Development Bank of Latin America and the Caribbean | [Q2614129](https://www.wikidata.org/wiki/Q2614129) | Andean Community | N/A |
-| Caribbean Community | [Q205995](https://www.wikidata.org/wiki/Q205995) | none | N/A |
-| Caribbean Court of Justice | [Q775029](https://www.wikidata.org/wiki/Q775029) | Caribbean Community | N/A |
-| Caribbean Development Bank | [Q3772571](https://www.wikidata.org/wiki/Q3772571) | Caribbean Community | N/A |
-| Caribbean Meteorological Organisation | [Q5039400](https://www.wikidata.org/wiki/Q5039400) | Caribbean Community | N/A |
-| Caribbean Telecommunications Union | [Q115803554](https://www.wikidata.org/wiki/Q115803554) | Caribbean Community | N/A |
-| Center for International Forestry Research and World Agroforestry | [Q121461382](https://www.wikidata.org/wiki/Q121461382) | Consultative Group on International Agricultural Research | N/A |
-| Central Africa Forests Commission | [Q5060269](https://www.wikidata.org/wiki/Q5060269) | none | N/A |
-| Central African Economic and Monetary Community | [Q1940250](https://www.wikidata.org/wiki/Q1940250) | Economic and Monetary Community of Central Africa | N/A |
-| Central African States Development Bank | [Q16531299](https://www.wikidata.org/wiki/Q16531299) | Economic and Monetary Community of Central Africa | N/A |
-| Central American Bank for Economic Integration | [Q190008](https://www.wikidata.org/wiki/Q190008) | Central American Integration System | N/A |
-| Central American Integration System | [Q190028](https://www.wikidata.org/wiki/Q190028) | Central American Integration System | N/A |
-| Central Bank of West African States | [Q620942](https://www.wikidata.org/wiki/Q620942) | West African Economic and Monetary Union | N/A |
-| Central Commission for the Navigation of the Rhine | [Q190650](https://www.wikidata.org/wiki/Q190650) | none | N/A |
+| Bureau International des Expositions | [Q1010514](https://www.wikidata.org/wiki/Q1010514) | none | [Treaty](https://www.aph.gov.au/-/media/02_Parliamentary_Business/24_Committees/244_Joint_Committees/JSCT/2015/11August2015/ATS_39.pdf) |
+| CAB International | [Q5008528](https://www.wikidata.org/wiki/Q5008528) | Commonwealth of Nations | [Treaty](https://www.cabi.org/wp-content/uploads/PDFs/AboutCABI/CABI-Agreement-2016.pdf) |
+| CAF - Development Bank of Latin America and the Caribbean | [Q2614129](https://www.wikidata.org/wiki/Q2614129) | Andean Community | [Treaty](http://www.commonlii.org/jm/legis/consol_act/adcaa1999386.pdf) |
+| Caribbean Community | [Q205995](https://www.wikidata.org/wiki/Q205995) | none | [Treaty](https://researchbriefings.files.parliament.uk/documents/CBP-7376/CBP-7376.pdf) |
+| Caribbean Court of Justice | [Q775029](https://www.wikidata.org/wiki/Q775029) | Caribbean Community | [Treaty](https://ccj.org/wp-content/uploads/2021/02/ccj_agreement.pdf) |
+| Caribbean Development Bank | [Q3772571](https://www.wikidata.org/wiki/Q3772571) | Caribbean Community | [Treaty](https://treaties.un.org/doc/Treaties/1970/01/19700126%2006-49%20AM/Ch_X_06p.pdf) |
+| Caribbean Meteorological Organisation | [Q5039400](https://www.wikidata.org/wiki/Q5039400) | Caribbean Community | [Treaty](http://www.cmo.org.tt/docs/AGREEMENT.pdf) |
+| Caribbean Telecommunications Union | [Q115803554](https://www.wikidata.org/wiki/Q115803554) | Caribbean Community | [Treaty](https://ctu.int/wp-content/uploads/2023/09/1.-Agreement-for-the-Establishment-of-the-Caribbean-Telecommunications-Union.pdf) |
+| Center for International Forestry Research and World Agroforestry | [Q121461382](https://www.wikidata.org/wiki/Q121461382) | Consultative Group on International Agricultural Research | [Treaty](https://www.austlii.edu.au/cgi-bin/sinodisp/au/other/dfat/treaties/ATS/1993/13.html?stem=0&synonyms=0&query=CIFOR%20Agreement) |
+| Central Africa Forests Commission | [Q5060269](https://www.wikidata.org/wiki/Q5060269) | none | [Treaty](https://comifac.org/wp-content/uploads/2017/12/Trait%C3%A9%20COMIFAC%202005_fr_ang_esp_por.pdf) |
+| Central African Economic and Monetary Community | [Q1940250](https://www.wikidata.org/wiki/Q1940250) | Economic and Monetary Community of Central Africa | [Treaty](https://www.wipo.int/wipolex/en/text/593945) |
+| Central African States Development Bank | [Q16531299](https://www.wikidata.org/wiki/Q16531299) | Economic and Monetary Community of Central Africa | [Treaty](https://web.archive.org/web/20231004104704/https://www.bdeac.org/upload/docs/application/pdf/2015-04/accord_portant_creation_de_la_bdeac.pdf) |
+| Central American Bank for Economic Integration | [Q190008](https://www.wikidata.org/wiki/Q190008) | Central American Integration System | [Treaty](https://bcie2014.sharepoint.com/sites/DocPub/Doc_Pub/Forms/Tipo%20documental.aspx?id=%2Fsites%2FDocPub%2FDoc%5FPub%2F617%2FConstitutive%20Agreement%20modified%20AG%2E6%2E2020%2Epdf&parent=%2Fsites%2FDocPub%2FDoc%5FPub%2F617&p=true&ga=1) |
+| Central American Integration System | [Q190028](https://www.wikidata.org/wiki/Q190028) | Central American Integration System | [Treaty](https://www.sica.int/busqueda/busqueda_archivo.aspx?Archivo=prot_320_1_04052005.htm) |
+| Central Bank of West African States | [Q620942](https://www.wikidata.org/wiki/Q620942) | West African Economic and Monetary Union | [Treaty](https://edit.wti.org/document/show/pdf/57ce5bd9-ef38-4a1d-abd5-ed07f1f155bf) |
+| Central Commission for the Navigation of the Rhine | [Q190650](https://www.wikidata.org/wiki/Q190650) | none | [Treaty](https://www.ccr-zkr.org/files/conventions/convrev_e.pdf) |
 | Chips Joint Undertaking | [Q133884004](https://www.wikidata.org/wiki/Q133884004) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20231025101944/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1782) |
 | Circular Bio-based Europe Joint Undertaking | [Q133884431](https://www.wikidata.org/wiki/Q133884431) | EU institutions and bodies | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085) |
 | Clean Aviation Joint Undertaking | [Q133884512](https://www.wikidata.org/wiki/Q133884512) | EU institutions and bodies | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085) |
 | Clean Hydrogen Joint Undertaking | [Q133884630](https://www.wikidata.org/wiki/Q133884630) | EU institutions and bodies | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085) |
-| Collaborative Inter-Governmental Scientific Research Institute | [Q15991224](https://www.wikidata.org/wiki/Q15991224) | none | N/A |
-| Collective Security Treaty Organization | [Q318693](https://www.wikidata.org/wiki/Q318693) | none | N/A |
-| Commission for Environmental Cooperation | [Q2986468](https://www.wikidata.org/wiki/Q2986468) | none | N/A |
+| Collaborative Inter-Governmental Scientific Research Institute | [Q15991224](https://www.wikidata.org/wiki/Q15991224) | none | [Treaty](https://www.cisri.org/docs/Treaty_Establishing_CISRI_11.pdf) |
+| Collective Security Treaty Organization | [Q318693](https://www.wikidata.org/wiki/Q318693) | none | [Treaty](https://en.odkb-csto.org/documents/documents/ustav_organizatsii_dogovora_o_kollektivnoy_bezopasnosti_/#loaded) |
+| Commission for Environmental Cooperation | [Q2986468](https://www.wikidata.org/wiki/Q2986468) | none | [Treaty](https://ustr.gov/sites/default/files/naaec.pdf) |
 | Commission for Inland Fisheries of Latin America | N/A | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Commission for Social Development | [Q3684758](https://www.wikidata.org/wiki/Q3684758) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
-| Commission for the Conservation of Southern Bluefin Tuna | [Q22032253](https://www.wikidata.org/wiki/Q22032253) | none | N/A |
+| Commission for the Conservation of Southern Bluefin Tuna | [Q22032253](https://www.wikidata.org/wiki/Q22032253) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201819/volume-1819-I-31155-English.pdf) |
 | Commission on Crime Prevention and Criminal Justice | [Q104842946](https://www.wikidata.org/wiki/Q104842946) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Commission on Narcotic Drugs | [Q469618](https://www.wikidata.org/wiki/Q469618) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Commission on Population and Development | [Q5152731](https://www.wikidata.org/wiki/Q5152731) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Commission on Science and Technology for Development | [Q5152737](https://www.wikidata.org/wiki/Q5152737) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Commission on the Status of Women | [Q2614097](https://www.wikidata.org/wiki/Q2614097) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Committee for Inland Fisheries and Aquaculture of Africa | [Q134723795](https://www.wikidata.org/wiki/Q134723795) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
-| Common Fund for Commodities | [Q604488](https://www.wikidata.org/wiki/Q604488) | none | N/A |
-| Common Market for Eastern and Southern Africa | [Q1165797](https://www.wikidata.org/wiki/Q1165797) | Common Market for Eastern and Southern Africa | N/A |
-| Commonwealth Telecommunications Organisation | [Q5153868](https://www.wikidata.org/wiki/Q5153868) | Commonwealth of Nations | N/A |
-| Commonwealth of Independent States | [Q7779](https://www.wikidata.org/wiki/Q7779) | none | N/A |
+| Common Fund for Commodities | [Q604488](https://www.wikidata.org/wiki/Q604488) | none | [Treaty](https://treaties.un.org/pages/ViewDetailsIII.aspx?src=TREATY&mtdsg_no=XIX-21&chapter=19&Temp=mtdsg3&clang=_en) |
+| Common Market for Eastern and Southern Africa | [Q1165797](https://www.wikidata.org/wiki/Q1165797) | Common Market for Eastern and Southern Africa | [Treaty](https://www.comesa.int/wp-content/uploads/2019/02/comesa-treaty-revised-20092012_with-zaire_final.pdf) |
+| Commonwealth Telecommunications Organisation | [Q5153868](https://www.wikidata.org/wiki/Q5153868) | Commonwealth of Nations | [Treaty]([URL for Treaty not found]) |
+| Commonwealth of Independent States | [Q7779](https://www.wikidata.org/wiki/Q7779) | none | [Treaty](https://www.coe.int/en/web/venice-commission/-/CDL(1994)054-e) |
 | Community Plant Variety Office | [Q1501010](https://www.wikidata.org/wiki/Q1501010) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
-| Community of Portuguese Language Countries | [Q182500](https://www.wikidata.org/wiki/Q182500) | none | N/A |
-| Comprehensive Nuclear-Test-Ban Treaty Organisation | [Q15211422](https://www.wikidata.org/wiki/Q15211422) | none | N/A |
-| Conseil de l'Entente | [Q945574](https://www.wikidata.org/wiki/Q945574) | none | N/A |
-| Consultative Group on International Agricultural Research | [Q1128401](https://www.wikidata.org/wiki/Q1128401) | none | N/A |
-| Convention for the Conservation of Antarctic Marine Living Resources | [Q97382426](https://www.wikidata.org/wiki/Q97382426) | Antarctic Treaty System | N/A |
-| Cooperation Council for the Arab States of the Gulf | [Q217172](https://www.wikidata.org/wiki/Q217172) | none | N/A |
-| Cooperation Council for the Arab States of the Persian Gulf | [Q217172](https://www.wikidata.org/wiki/Q217172) | none | N/A |
-| Council of Europe | [Q8908](https://www.wikidata.org/wiki/Q8908) | Council of Europe | N/A |
-| Council of Europe Development Bank | [Q611107](https://www.wikidata.org/wiki/Q611107) | Council of Europe | N/A |
+| Community of Portuguese Language Countries | [Q182500](https://www.wikidata.org/wiki/Q182500) | none | [Treaty](http://www.worldlii.org/int/other/treaties/UNTSer/2003/692.pdf) |
+| Comprehensive Nuclear-Test-Ban Treaty Organisation | [Q15211422](https://www.wikidata.org/wiki/Q15211422) | none | [Treaty](https://www.ctbto.org/sites/default/files/2023-10/2022_treaty_booklet_E.pdf) |
+| Conseil de l'Entente | [Q945574](https://www.wikidata.org/wiki/Q945574) | none | [Treaty](http://www.conseildelentente.org/images/pdf/charte/charte_du_conseil_de_lentente.pdf) |
+| Consultative Group on International Agricultural Research | [Q1128401](https://www.wikidata.org/wiki/Q1128401) | none | [Treaty](https://cgspace.cgiar.org/server/api/core/bitstreams/8aa699f3-1099-4d0d-af47-9892a0604f55/content?authentication-token=eyJhbGciOiJIUzI1NiJ9.eyJlaWQiOiI2NjVlOTAxZS00OGNiLTRlYmEtOGMzZi1kMGVjNDMxNzNkZDQiLCJzZyI6W10sImF1dGhlbnRpY2F0aW9uTWV0aG9kIjoicGFzc3dvcmQiLCJleHAiOjE3MzM1ODAzOTd9.kiKKOV7F05wemIxZhZobZxGuIxQ2BCVcoD9T8sCWg5A) |
+| Convention for the Conservation of Antarctic Marine Living Resources | [Q97382426](https://www.wikidata.org/wiki/Q97382426) | Antarctic Treaty System | [Treaty](https://www.ccamlr.org/en/organisation/camlr-convention-text) |
+| Cooperation Council for the Arab States of the Gulf | [Q217172](https://www.wikidata.org/wiki/Q217172) | none | [Treaty](https://www.wipo.int/wipolex/en/text/590122) |
+| Cooperation Council for the Arab States of the Persian Gulf | [Q217172](https://www.wikidata.org/wiki/Q217172) | none | [Treaty](https://www.wipo.int/wipolex/en/text/590122) |
+| Council of Europe | [Q8908](https://www.wikidata.org/wiki/Q8908) | Council of Europe | [Treaty](https://rm.coe.int/1680a1c6b3) |
+| Council of Europe Development Bank | [Q611107](https://www.wikidata.org/wiki/Q611107) | Council of Europe | [Treaty](https://coebank.org/documents/51/CEB_Articles_of_Agreement_August_2023.pdf) |
 | Council of the European Union | [Q8896](https://www.wikidata.org/wiki/Q8896) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT) |
 | Court of Justice of the European Union | [Q4951](https://www.wikidata.org/wiki/Q4951) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT) |
-| Desert Locust Control Organisation for Eastern Africa | [Q30596094](https://www.wikidata.org/wiki/Q30596094) | none | N/A |
-| Dutch Language Union | [Q152299](https://www.wikidata.org/wiki/Q152299) | none | N/A |
+| Desert Locust Control Organisation for Eastern Africa | [Q30596094](https://www.wikidata.org/wiki/Q30596094) | none | [Treaty](https://www.fao.org/4/50641E/50641E05.htm) |
+| Dutch Language Union | [Q152299](https://www.wikidata.org/wiki/Q152299) | none | [Treaty](https://taalunie.org/feeds/download/taalunieverdrag-1980-en-616e8.pdf/Taalunieverdrag%20(1980,%20Engels)/original) |
 | EU Authority for Anti-Money Laundering and Countering the Financing of Terrorism | [Q124795462](https://www.wikidata.org/wiki/Q124795462) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
-| EU-LAC International Foundation | [Q821623](https://www.wikidata.org/wiki/Q821623) | none | N/A |
-| EUCLID University | [Q3046238](https://www.wikidata.org/wiki/Q3046238) | none | N/A |
-| East African Community | [Q337456](https://www.wikidata.org/wiki/Q337456) | East African Community | N/A |
-| East African Development Bank | [Q5327655](https://www.wikidata.org/wiki/Q5327655) | East African Community | N/A |
-| East Mediterranean Gas Forum | [Q97163711](https://www.wikidata.org/wiki/Q97163711) | none | N/A |
-| Eastern and Southern African Trade and Development Bank | [Q13657031](https://www.wikidata.org/wiki/Q13657031) | Common Market for Eastern and Southern Africa | N/A |
+| EU-LAC International Foundation | [Q821623](https://www.wikidata.org/wiki/Q821623) | none | [Treaty](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:22019A0412(01)&rid=1) |
+| EUCLID University | [Q3046238](https://www.wikidata.org/wiki/Q3046238) | none | [Treaty](https://www.euclid.int/documents/fa-en.pdf) |
+| East African Community | [Q337456](https://www.wikidata.org/wiki/Q337456) | East African Community | [Treaty](https://investmentpolicy.unctad.org/international-investment-agreements/treaty-files/2487/download) |
+| East African Development Bank | [Q5327655](https://www.wikidata.org/wiki/Q5327655) | East African Community | [Treaty](https://eadb.org/site/assets/files/1125/eadb-treaty-charter.pdf) |
+| East Mediterranean Gas Forum | [Q97163711](https://www.wikidata.org/wiki/Q97163711) | none | [Treaty](https://www.parliament.cy/images/media/redirectfile/EMGF%20signed%20Statute_%CE%9C%CE%AD%CF%81%CE%BF%CF%82%20%CE%99%20%CE%9D%CE%BF%CE%BC%CE%BF%CF%83%CF%87%CE%B5%CE%B4%CE%AF%CE%BF%CF%85.pdf) |
+| Eastern and Southern African Trade and Development Bank | [Q13657031](https://www.wikidata.org/wiki/Q13657031) | Common Market for Eastern and Southern Africa | [Treaty](https://www.tdbgroup.org/wp-content/uploads/2024/01/TDB-Charter-English-01.01.2024.pdf) |
 | Economic Commission for Africa | [Q1144508](https://www.wikidata.org/wiki/Q1144508) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Economic Commission for Europe | [Q659012](https://www.wikidata.org/wiki/Q659012) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Economic Commission for Latin America and the Caribbean | [Q32874](https://www.wikidata.org/wiki/Q32874) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
-| Economic Community of Central African States | [Q189966](https://www.wikidata.org/wiki/Q189966) | none | N/A |
-| Economic Community of West African States | [Q193272](https://www.wikidata.org/wiki/Q193272) | none | N/A |
-| Economic Community of the Great Lakes Countries | [Q1331783](https://www.wikidata.org/wiki/Q1331783) | none | N/A |
-| Economic Cooperation Organization | [Q225950](https://www.wikidata.org/wiki/Q225950) | none | N/A |
+| Economic Community of Central African States | [Q189966](https://www.wikidata.org/wiki/Q189966) | none | [Treaty](https://investmentpolicy.unctad.org/international-investment-agreements/treaty-files/2401/download) |
+| Economic Community of West African States | [Q193272](https://www.wikidata.org/wiki/Q193272) | none | [Treaty](https://www.ecowas.int/wp-content/uploads/2022/06/THE-1975-TREATY-OF-ECOWAS.pdf) |
+| Economic Community of the Great Lakes Countries | [Q1331783](https://www.wikidata.org/wiki/Q1331783) | none | [Treaty](https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800f81f4&clang=_en) |
+| Economic Cooperation Organization | [Q225950](https://www.wikidata.org/wiki/Q225950) | none | [Treaty](https://eco.int/wp-content/uploads/2017/05/Agreement-on-Legal-Status-of-the-ECO-National-Representatives-and-International-Staff.pdf) |
 | Economic and Social Commission for Asia and the Pacific | [Q1142901](https://www.wikidata.org/wiki/Q1142901) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Economic and Social Commission for Western Asia | [Q1355485](https://www.wikidata.org/wiki/Q1355485) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
-| Energy Charter Conference | [Q121286812](https://www.wikidata.org/wiki/Q121286812) | none | N/A |
-| Energy Community | [Q2989312](https://www.wikidata.org/wiki/Q2989312) | none | N/A |
-| Eurasian Development Bank | [Q498991](https://www.wikidata.org/wiki/Q498991) | Eurasian Economic Union | N/A |
+| Energy Charter Conference | [Q121286812](https://www.wikidata.org/wiki/Q121286812) | none | [Treaty](https://www.energycharter.org/fileadmin/DocumentsMedia/Legal/ECTC-en.pdf) |
+| Energy Community | [Q2989312](https://www.wikidata.org/wiki/Q2989312) | none | [Treaty](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=legissum:l27074) |
+| Eurasian Development Bank | [Q498991](https://www.wikidata.org/wiki/Q498991) | Eurasian Economic Union | [Treaty](https://eabr.org/upload/iblock/c91/foundation-documents.pdf) |
 | European Agency for Safety and Health at Work | [Q571118](https://www.wikidata.org/wiki/Q571118) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | European Atomic Energy Community | [Q8919](https://www.wikidata.org/wiki/Q8919) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20240828070935/https://eur-lex.europa.eu/EN/legal-content/summary/treaty-on-the-european-atomic-energy-community-euratom.html) |
-| European Bank for Reconstruction and Development | [Q488981](https://www.wikidata.org/wiki/Q488981) | none | N/A |
+| European Bank for Reconstruction and Development | [Q488981](https://www.wikidata.org/wiki/Q488981) | none | [Treaty](https://www.ebrd.com/content/dam/ebrd_dxp/assets/pdfs/institutional-documents/basic-documents-of-the-ebrd-july-2025-english.pdf) |
 | European Banking Authority | [Q769548](https://www.wikidata.org/wiki/Q769548) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | European Border and Coast Guard Agency | [Q21786841](https://www.wikidata.org/wiki/Q21786841) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | European Central Bank | [Q8901](https://www.wikidata.org/wiki/Q8901) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT) |
 | European Centre for Disease Prevention and Control | [Q918501](https://www.wikidata.org/wiki/Q918501) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
-| European Centre for Medium-Range Weather Forecasts | [Q1274195](https://www.wikidata.org/wiki/Q1274195) | none | N/A |
+| European Centre for Medium-Range Weather Forecasts | [Q1274195](https://www.wikidata.org/wiki/Q1274195) | none | [Treaty](https://www.ecmwf.int/sites/default/files/amended_convention_protocol_privileges_en.pdf) |
 | European Centre for the Development of Vocational Training | [Q116214](https://www.wikidata.org/wiki/Q116214) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | European Chemicals Agency | [Q48798](https://www.wikidata.org/wiki/Q48798) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | European Climate, Infrastructure and Environment Executive Agency | [Q106818821](https://www.wikidata.org/wiki/Q106818821) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20221222153402/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=LEGISSUM:l10120) |
 | European Commission | [Q8880](https://www.wikidata.org/wiki/Q8880) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT) |
-| European Committee for Prevention of Torture | [Q1378135](https://www.wikidata.org/wiki/Q1378135) | Council of Europe | N/A |
+| European Committee for Prevention of Torture | [Q1378135](https://www.wikidata.org/wiki/Q1378135) | Council of Europe | [Treaty](https://rm.coe.int/16806dbaa3) |
 | European Committee of the Regions | [Q205203](https://www.wikidata.org/wiki/Q205203) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY) |
-| European Company for the Financing of Railroad Rolling Stock | [Q1374986](https://www.wikidata.org/wiki/Q1374986) | none | N/A |
+| European Company for the Financing of Railroad Rolling Stock | [Q1374986](https://www.wikidata.org/wiki/Q1374986) | none | [Treaty](https://www.eurofima.org/sites/default/assets/Image/investor-relations/constitutive-documents/convention_e.pdf) |
 | European Council | [Q8886](https://www.wikidata.org/wiki/Q8886) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250823025229/https://publications.europa.eu/resource/cellar/688a7a98-3110-4ffe-a6b3-8972d8445325.0007.01/DOC_19) |
 | European Court of Auditors | [Q8900](https://www.wikidata.org/wiki/Q8900) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT) |
-| European Court of Human Rights | [Q122880](https://www.wikidata.org/wiki/Q122880) | Council of Europe | N/A |
+| European Court of Human Rights | [Q122880](https://www.wikidata.org/wiki/Q122880) | Council of Europe | [Treaty](https://www.echr.coe.int/documents/d/echr/convention_ENG) |
 | European Cybersecurity Competence Centre | [Q107658626](https://www.wikidata.org/wiki/Q107658626) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY) |
 | European Data Protection Board | [Q26877724](https://www.wikidata.org/wiki/Q26877724) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY) |
 | European Data Protection Supervisor | [Q1377705](https://www.wikidata.org/wiki/Q1377705) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY) |
 | European Defence Agency | [Q1134173](https://www.wikidata.org/wiki/Q1134173) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20230503174334/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32015D1835) |
-| European Economic Area | [Q8932](https://www.wikidata.org/wiki/Q8932) | none | N/A |
+| European Economic Area | [Q8932](https://www.wikidata.org/wiki/Q8932) | none | [Treaty](https://www.efta.int/sites/default/files/media/documents/legal-texts/eea/the-eea-agreement/Main%20Text%20of%20the%20Agreement/EEAagreement.pdf) |
 | European Economic and Social Committee | [Q331024](https://www.wikidata.org/wiki/Q331024) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY) |
 | European Education and Culture Executive Agency | [Q1383639](https://www.wikidata.org/wiki/Q1383639) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20221222153402/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=LEGISSUM:l10120) |
 | European Environment Agency | [Q632988](https://www.wikidata.org/wiki/Q632988) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | European External Action Service | [Q672941](https://www.wikidata.org/wiki/Q672941) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY) |
 | European Fisheries Control Agency | [Q201372](https://www.wikidata.org/wiki/Q201372) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | European Food Safety Authority | [Q516521](https://www.wikidata.org/wiki/Q516521) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
-| European Forest Institute | [Q580400](https://www.wikidata.org/wiki/Q580400) | none | N/A |
+| European Forest Institute | [Q580400](https://www.wikidata.org/wiki/Q580400) | none | [Treaty](https://efi.int/sites/default/files/files/members/EFI_convention_final_SIW.pdf) |
 | European Foundation for the Improvement of Living and Working Conditions | [Q1377549](https://www.wikidata.org/wiki/Q1377549) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
-| European Free Trade Association | [Q166546](https://www.wikidata.org/wiki/Q166546) | European Free Trade Association | N/A |
+| European Free Trade Association | [Q166546](https://www.wikidata.org/wiki/Q166546) | European Free Trade Association | [Treaty](https://www.efta.int/sites/default/files/uploads/2024-04/Vaduz_Convention_Agreement_Updated_1_November_2021.pdf) |
 | European Health and Digital Executive Agency | [Q107636399](https://www.wikidata.org/wiki/Q107636399) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20221222153402/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=LEGISSUM:l10120) |
 | European High Performance Computing Joint Undertaking | [Q60983149](https://www.wikidata.org/wiki/Q60983149) | EU institutions and bodies | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32021R1173) |
 | European Inland Fisheries and Aquaculture Advisory Commission | [Q114965341](https://www.wikidata.org/wiki/Q114965341) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
@@ -163,23 +163,23 @@
 | European Labour Authority | [Q56296301](https://www.wikidata.org/wiki/Q56296301) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | European Maritime Safety Agency | [Q922693](https://www.wikidata.org/wiki/Q922693) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | European Medicines Agency | [Q130146](https://www.wikidata.org/wiki/Q130146) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
-| European Molecular Biology Laboratory | [Q695267](https://www.wikidata.org/wiki/Q695267) | none | N/A |
+| European Molecular Biology Laboratory | [Q695267](https://www.wikidata.org/wiki/Q695267) | none | [Treaty](https://www.embl.org/documents/wp-content/uploads/2020/05/establishingEMBL.pdf) |
 | European Ombudsman | [Q220893](https://www.wikidata.org/wiki/Q220893) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY) |
-| European Organisation for the Exploitation of Meteorological Satellites | [Q692163](https://www.wikidata.org/wiki/Q692163) | none | N/A |
-| European Organisation for the Safety of Air Navigation | [Q663492](https://www.wikidata.org/wiki/Q663492) | none | N/A |
-| European Organization for Astronomical Research in the Southern Hemisphere | [Q151991](https://www.wikidata.org/wiki/Q151991) | none | N/A |
-| European Organization for Nuclear Research | [Q42944](https://www.wikidata.org/wiki/Q42944) | none | N/A |
+| European Organisation for the Exploitation of Meteorological Satellites | [Q692163](https://www.wikidata.org/wiki/Q692163) | none | [Treaty](https://docs.pca-cpa.org/2016/01/Convention-for-the-Establishment-of-a-European-Organization-for-the-Exploitation-of-Meteorological-Satellites-EUMETSAT.pdf) |
+| European Organisation for the Safety of Air Navigation | [Q663492](https://www.wikidata.org/wiki/Q663492) | none | [Treaty](https://www.interlex-portal.eu/FindLaw/Login/Index?returnUrl=%2FFindLaw%2FExport%2FExportMultiDocs%3Ftype%3Dpdf%26idsString%3D6742981) |
+| European Organization for Astronomical Research in the Southern Hemisphere | [Q151991](https://www.wikidata.org/wiki/Q151991) | none | [Treaty](https://assets.publishing.service.gov.uk/media/5a7c9c43e5274a29d8363b4a/5767.pdf) |
+| European Organization for Nuclear Research | [Q42944](https://www.wikidata.org/wiki/Q42944) | none | [Treaty](https://council.web.cern.ch/en/content/convention-establishment-european-organization-nuclear-research) |
 | European Parliament | [Q8889](https://www.wikidata.org/wiki/Q8889) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250827094704/https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/types-institutions-and-bodies_en) |
-| European Patent Organisation | [Q685547](https://www.wikidata.org/wiki/Q685547) | none | N/A |
-| European Public Law Organization | [Q119789715](https://www.wikidata.org/wiki/Q119789715) | none | N/A |
+| European Patent Organisation | [Q685547](https://www.wikidata.org/wiki/Q685547) | none | [Treaty](https://link.epo.org/web/EPC_17th_edition_2020_en.pdf) |
+| European Public Law Organization | [Q119789715](https://www.wikidata.org/wiki/Q119789715) | none | [Treaty](https://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a41345a5751324f544d314c54566b5a6d51744e4445315a693169593245314c546b314f546b794d446734596a686c4d53356b62324d3d&fich=08ed6935-5dfd-415f-bca5-95992088b8e1.doc&Inline=true) |
 | European Public Prosecutor’s Office | [Q5413070](https://www.wikidata.org/wiki/Q5413070) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY) |
 | European Research Council Executive Agency | [Q107641323](https://www.wikidata.org/wiki/Q107641323) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20221222153402/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=LEGISSUM:l10120) |
 | European Research Executive Agency | [Q3606472](https://www.wikidata.org/wiki/Q3606472) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20221222153402/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=LEGISSUM:l10120) |
-| European Schools | [Q30104861](https://www.wikidata.org/wiki/Q30104861) | EU institutions and bodies | N/A |
+| European Schools | [Q30104861](https://www.wikidata.org/wiki/Q30104861) | EU institutions and bodies | [Treaty](https://www.eursc.eu/BasicTexts/SW1_21994A0817-en.pdf) |
 | European Securities and Markets Authority | [Q769112](https://www.wikidata.org/wiki/Q769112) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
-| European Space Agency | [Q42262](https://www.wikidata.org/wiki/Q42262) | none | N/A |
+| European Space Agency | [Q42262](https://www.wikidata.org/wiki/Q42262) | none | [Treaty](https://download.esa.int/docs/LEX-L/ESA-Ratification-acts/United_Kingdom_(28_Mar_1978).pdf) |
 | European Stability Mechanism | [Q1130098](https://www.wikidata.org/wiki/Q1130098) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250615150335/https://www.esm.europa.eu/system/files/document/2023-10/05-TESM2-HR1.en12.pdf) |
-| European Telecommunications Satellite Organization | [Q47537350](https://www.wikidata.org/wiki/Q47537350) | none | N/A |
+| European Telecommunications Satellite Organization | [Q47537350](https://www.wikidata.org/wiki/Q47537350) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201519/volume-1519-I-26342-English.pdf) |
 | European Training Foundation | [Q372042](https://www.wikidata.org/wiki/Q372042) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | European Union | [Q458](https://www.wikidata.org/wiki/Q458) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT) |
 | European Union Agency for Asylum | [Q4002697](https://www.wikidata.org/wiki/Q4002697) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
@@ -195,239 +195,239 @@
 | European Union Intellectual Property Office | [Q792534](https://www.wikidata.org/wiki/Q792534) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | European Union Satellite Centre | [Q1388519](https://www.wikidata.org/wiki/Q1388519) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20230514042152/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014D0401) |
 | European University Institute | [Q1378099](https://www.wikidata.org/wiki/Q1378099) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250527174136/https://www.eui.eu/Documents/AboutEUI/Convention/English.pdf) |
-| European and Mediterranean Plant Protection Organization | [Q1967903](https://www.wikidata.org/wiki/Q1967903) | none | N/A |
+| European and Mediterranean Plant Protection Organization | [Q1967903](https://www.wikidata.org/wiki/Q1967903) | none | [Treaty](https://www.eppo.int/ABOUT_EPPO/eppo_convention) |
 | Europe’s Rail Joint Undertaking | [Q133884985](https://www.wikidata.org/wiki/Q133884985) | EU institutions and bodies | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085) |
 | Europol | [Q207203](https://www.wikidata.org/wiki/Q207203) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
-| Financial Action Task Force | [Q681487](https://www.wikidata.org/wiki/Q681487) | OECD entities | N/A |
-| Financial Fund for the Development of the River Plate Basin | N/A | none | N/A |
+| Financial Action Task Force | [Q681487](https://www.wikidata.org/wiki/Q681487) | OECD entities | [Treaty](https://www.ico.org/documents/cy2021-22/ica-2022-e.pdf) |
+| Financial Fund for the Development of the River Plate Basin | N/A | none | [Treaty](https://www.fonplata.org/sites/default/files/paginas-fonplata/archivos/EN%20-%20Constitutive%20Agreement%20%28Update%202018%29.pdf) |
 | Fishery Committee for the Eastern Central Atlantic | [Q12617572](https://www.wikidata.org/wiki/Q12617572) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Food and Agriculture Organization | [Q82151](https://www.wikidata.org/wiki/Q82151) | UN and affiliates | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
 | Foyle, Carlingford and Irish Lights Commission | [Q98139786](https://www.wikidata.org/wiki/Q98139786) | North South bodies | [www.northsouthministerialcouncil.org](https://www.northsouthministerialcouncil.org/north-south-implementation-bodies) |
-| Fund for the Development of the Indigenous Peoples of Latin America and the Caribbean | [Q125689468](https://www.wikidata.org/wiki/Q125689468) | none | N/A |
+| Fund for the Development of the Indigenous Peoples of Latin America and the Caribbean | [Q125689468](https://www.wikidata.org/wiki/Q125689468) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201728/volume-1728-I-30177-English.pdf) |
 | Fusion for Energy Joint Undertaking | [Q5510278](https://www.wikidata.org/wiki/Q5510278) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20240305173612/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32007D0198) |
-| GUAM Organization for Democracy and Economic Development | [Q326816](https://www.wikidata.org/wiki/Q326816) | none | N/A |
-| Gas Exporting Countries Forum | [Q1031255](https://www.wikidata.org/wiki/Q1031255) | none | N/A |
+| GUAM Organization for Democracy and Economic Development | [Q326816](https://www.wikidata.org/wiki/Q326816) | none | [Treaty](https://guam-organization.org/en/charter-of-organization-for-democracy-and-economic-development-guam/) |
+| Gas Exporting Countries Forum | [Q1031255](https://www.wikidata.org/wiki/Q1031255) | none | [Treaty](https://www.gecf.org/Portals/0/PDF/GECF%20Agreement%20and%20Statute.pdf) |
 | General Fisheries Council for the Mediterranean | N/A | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
-| Global Combat Air Programme International Government Organisation | N/A | none | N/A |
-| Global Crop Diversity Trust | [Q2004478](https://www.wikidata.org/wiki/Q2004478) | none | N/A |
+| Global Combat Air Programme International Government Organisation | N/A | none | [Treaty](https://assets.publishing.service.gov.uk/media/6762c109e6ff7c8a1fde9ab4/TS_98.2024_Convention_Establishment_GCAP_International_Government_Organisation.pdf) |
+| Global Crop Diversity Trust | [Q2004478](https://www.wikidata.org/wiki/Q2004478) | none | [Treaty](https://www.croptrust.org/fileadmin/uploads/croptrust/Documents/Policy_Documents/Establish-Agreement-english.pdf) |
 | Global Health EDCTP3 Joint Undertaking | [Q30296681](https://www.wikidata.org/wiki/Q30296681) | EU institutions and bodies | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085) |
-| Great Lakes Fishery Commission | [Q2986576](https://www.wikidata.org/wiki/Q2986576) | none | N/A |
-| Group of Latin American and Caribbean Sugar Exporting Countries | N/A | none | N/A |
-| Hague Conference on Private International Law | [Q4130823](https://www.wikidata.org/wiki/Q4130823) | none | N/A |
+| Great Lakes Fishery Commission | [Q2986576](https://www.wikidata.org/wiki/Q2986576) | none | [Treaty](https://laws-lois.justice.gc.ca/eng/acts/F-17/FullText.html) |
+| Group of Latin American and Caribbean Sugar Exporting Countries | N/A | none | [Treaty](https://www.bacn.gov.py/leyes-paraguayas/907/ley-n-1321-aprueba-el-estatuto-del-grupo-de-paises-latinoamericanos-y-del-caribe-exportadores-de-azucar-geplacea) |
+| Hague Conference on Private International Law | [Q4130823](https://www.wikidata.org/wiki/Q4130823) | none | [Treaty](https://assets.hcch.net/docs/d7d051ae-6dd1-4881-a3b5-f7dbcaad02ea.pdf) |
 | High-Level Political Forum on Sustainable Development | [Q17078095](https://www.wikidata.org/wiki/Q17078095) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
-| Indian Ocean Commission | [Q1115631](https://www.wikidata.org/wiki/Q1115631) | none | N/A |
+| Indian Ocean Commission | [Q1115631](https://www.wikidata.org/wiki/Q1115631) | none | [Treaty](https://www.assemblee-nationale.fr/dyn/16/textes/l16b0150_accord-international.pdf) |
 | Indian Ocean Fishery Commission | [Q96186510](https://www.wikidata.org/wiki/Q96186510) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
-| Indian Ocean Rim Association | [Q2297691](https://www.wikidata.org/wiki/Q2297691) | none | N/A |
+| Indian Ocean Rim Association | [Q2297691](https://www.wikidata.org/wiki/Q2297691) | none | [Treaty](https://www.un.org/en/ga/sixth/70/docs/iora_charter.pdf) |
 | Indian Ocean Tuna Commission | [Q12613354](https://www.wikidata.org/wiki/Q12613354) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Innovative Health Initiative Joint Undertaking | [Q118695652](https://www.wikidata.org/wiki/Q118695652) | EU institutions and bodies | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085) |
-| Inter-American Center for Tax Administrations | [Q2585529](https://www.wikidata.org/wiki/Q2585529) | none | N/A |
-| Inter-American Commission on Human Rights | [Q1589444](https://www.wikidata.org/wiki/Q1589444) | none | N/A |
-| Inter-American Court of Human Rights | [Q1547804](https://www.wikidata.org/wiki/Q1547804) | none | N/A |
-| Inter-American Development Bank | [Q1153087](https://www.wikidata.org/wiki/Q1153087) | OAS institutions and bodies | N/A |
-| Inter-American Institute for Global Change Research | [Q6044567](https://www.wikidata.org/wiki/Q6044567) | none | N/A |
-| Inter-American Investment Corporation | N/A | none | N/A |
-| Inter-American Tropical Tuna Commission | [Q3153044](https://www.wikidata.org/wiki/Q3153044) | none | N/A |
+| Inter-American Center for Tax Administrations | [Q2585529](https://www.wikidata.org/wiki/Q2585529) | none | [Treaty](https://ciatorg.sharepoint.com/sites/cds/Conocimientos/Gerencia_Ejecutiva_Operaciones/GestionInstitucional/LinieamientosEstrategicos/EstatutosyReglamentos/pdf/bylaws_regulatios_en.pdf?ga=1) |
+| Inter-American Commission on Human Rights | [Q1589444](https://www.wikidata.org/wiki/Q1589444) | none | [Treaty](https://www.oas.org/dil/treaties_b-32_american_convention_on_human_rights.pdf) |
+| Inter-American Court of Human Rights | [Q1547804](https://www.wikidata.org/wiki/Q1547804) | none | [Treaty](https://www.oas.org/dil/treaties_b-32_american_convention_on_human_rights.pdf) |
+| Inter-American Development Bank | [Q1153087](https://www.wikidata.org/wiki/Q1153087) | OAS institutions and bodies | [Treaty](https://www.oas.org/dil/treaties_C-15_Agreement_Establishing_the_Inter-American_Development_Bank.htm) |
+| Inter-American Institute for Global Change Research | [Q6044567](https://www.wikidata.org/wiki/Q6044567) | none | [Treaty](https://www.iai.int/pdf/en/agreement_establishing_the_IAI_en.pdf) |
+| Inter-American Investment Corporation | N/A | none | [Treaty](https://assets.publishing.service.gov.uk/media/640b3cdc8fa8f5560820da5b/TS_11.2023_Agreement_Establishing_InterAmerican_Investment_Corporation.pdf) |
+| Inter-American Tropical Tuna Commission | [Q3153044](https://www.wikidata.org/wiki/Q3153044) | none | [Treaty](https://web.archive.org/web/20160513131225/http://www.iattc.org/PDFFiles/IATTC_convention_1949.pdf) |
 | InterTradeIreland | [Q13157417](https://www.wikidata.org/wiki/Q13157417) | North South bodies | [www.northsouthministerialcouncil.org](https://www.northsouthministerialcouncil.org/north-south-implementation-bodies) |
-| Intergovernmental Authority on Development | [Q499039](https://www.wikidata.org/wiki/Q499039) | none | N/A |
-| Intergovernmental Council of Copper Exporting Countries | [Q1023742](https://www.wikidata.org/wiki/Q1023742) | none | N/A |
-| Intergovernmental Organisation for International Carriage by Rail | [Q2333216](https://www.wikidata.org/wiki/Q2333216) | none | N/A |
-| Intergovernmental University Institute of Cooperation | [[No specific code.]](https://www.wikidata.org/wiki/[No specific code.]) | none | N/A |
-| International Anti-Corruption Academy | [Q876957](https://www.wikidata.org/wiki/Q876957) | none | N/A |
+| Intergovernmental Authority on Development | [Q499039](https://www.wikidata.org/wiki/Q499039) | none | [Treaty](https://igad.int/download/agreement-establishing-the-intergovernmental-authority-on-development-igad/#) |
+| Intergovernmental Council of Copper Exporting Countries | [Q1023742](https://www.wikidata.org/wiki/Q1023742) | none | [Treaty](https://www.austlii.edu.au/au/other/dfat/treaties/ATS/1975/43.html) |
+| Intergovernmental Organisation for International Carriage by Rail | [Q2333216](https://www.wikidata.org/wiki/Q2333216) | none | [Treaty](https://otif.org/fileadmin/user_upload/otif_verlinkte_files/07_veroeff/01_COTIF_80/cotif-1980-e.pdf) |
+| Intergovernmental University Institute of Cooperation | [[No specific code.]](https://www.wikidata.org/wiki/[No specific code.]) | none | [Treaty](https://www.icfam.net/wp-content/uploads/2024/07/ONU-ICFAM-Convention.pdf) |
+| International Anti-Corruption Academy | [Q876957](https://www.wikidata.org/wiki/Q876957) | none | [Treaty](https://www.iaca.int/images/PDF/IACA_Agreement_ENGLISH.pdf) |
 | International Atomic Energy Agency | [Q41984](https://www.wikidata.org/wiki/Q41984) | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
-| International Bank for Economic Co-operation | [Q1520558](https://www.wikidata.org/wiki/Q1520558) | none | N/A |
+| International Bank for Economic Co-operation | [Q1520558](https://www.wikidata.org/wiki/Q1520558) | none | [Treaty](https://ibec.int/upload/iblock/584/EN_Agreement%20and%20Statutes%202014%20A4.pdf) |
 | International Bank for Reconstruction and Development | [Q191384](https://www.wikidata.org/wiki/Q191384) | UN and affiliates | [timeline.worldbank.org](https://timeline.worldbank.org/content/dam/sites/timeline/docs/migrated/event12-UNagt-agreement-30151254.pdf) |
-| International Bauxite Association | [Q111593546](https://www.wikidata.org/wiki/Q111593546) | none | N/A |
-| International Boundary Commission | [Q29467091](https://www.wikidata.org/wiki/Q29467091) | none | N/A |
-| International Boundary and Water Commission | [Q8348493](https://www.wikidata.org/wiki/Q8348493) | none | N/A |
-| International Bureau of Weights and Measures | [Q229478](https://www.wikidata.org/wiki/Q229478) | none | N/A |
+| International Bauxite Association | [Q111593546](https://www.wikidata.org/wiki/Q111593546) | none | [Treaty](https://treaties.un.org/Pages/showDetails.aspx?objid=0800000280100e36&clang=_en) |
+| International Boundary Commission | [Q29467091](https://www.wikidata.org/wiki/Q29467091) | none | [Treaty](https://www.internationalboundarycommission.org/uploads/treaties/treaty%20of%201908%20(english).pdf) |
+| International Boundary and Water Commission | [Q8348493](https://www.wikidata.org/wiki/Q8348493) | none | [Treaty](https://www.ibwc.gov/wp-content/uploads/2022/11/TREATY_OF_1889.pdf) |
+| International Bureau of Weights and Measures | [Q229478](https://www.wikidata.org/wiki/Q229478) | none | [Treaty](https://www.bipm.org/documents/20126/44107685/metre-convention.pdf/cd9c9e57-0cc6-4cda-2930-ec1d7c853743?version=1.9&t=1686910612244&download=true) |
 | International Center for Promotion of Enterprises | [Q6049045](https://www.wikidata.org/wiki/Q6049045) | none | N/A |
-| International Center for Promotion of Enterprises | [N/A](https://www.wikidata.org/wiki/N/A) | N/A | N/A |
-| International Centre for Advanced Mediterranean Agronomic Studies | [Q30255657](https://www.wikidata.org/wiki/Q30255657) | none | N/A |
-| International Centre for Agriculture Research in the Dry Areas | [Q601277](https://www.wikidata.org/wiki/Q601277) | Consultative Group on International Agricultural Research | N/A |
-| International Centre for Food Micro-Algae Against Malnutrition | N/A | none | N/A |
-| International Centre for Genetic Engineering and Biotechnology | [Q6049095](https://www.wikidata.org/wiki/Q6049095) | none | N/A |
-| International Centre for Migration Policy Development | [Q498496](https://www.wikidata.org/wiki/Q498496) | none | N/A |
-| International Centre for Settlement of Investment Disputes | [Q899770](https://www.wikidata.org/wiki/Q899770) | World Bank Group | N/A |
-| International Centre for the Study of the Preservation and the Restoration of Cultural Property | [Q590182](https://www.wikidata.org/wiki/Q590182) | none | N/A |
-| International Centre of Genetic Engineering and Biotechnology | [Q6049095](https://www.wikidata.org/wiki/Q6049095) | none | N/A |
+| International Center for Promotion of Enterprises | [N/A](https://www.wikidata.org/wiki/N/A) | N/A | [Treaty](https://icpe.int/wp-content/uploads/2025/03/ICPE-Statute_signed.pdf.pdf) |
+| International Centre for Advanced Mediterranean Agronomic Studies | [Q30255657](https://www.wikidata.org/wiki/Q30255657) | none | [Treaty](https://www.ciheam.org/wp-content/uploads/2021/12/CIHEAM_-_Textes_constitutifs__1_-1.pdf) |
+| International Centre for Agriculture Research in the Dry Areas | [Q601277](https://www.wikidata.org/wiki/Q601277) | Consultative Group on International Agricultural Research | [Treaty](https://icarda.org/sites/default/files/2020-09/ICARDA%20Charter.pdf) |
+| International Centre for Food Micro-Algae Against Malnutrition | N/A | none | [Treaty](https://treaties.un.org/doc/publication/unts/volume%202151/v2151.pdf) |
+| International Centre for Genetic Engineering and Biotechnology | [Q6049095](https://www.wikidata.org/wiki/Q6049095) | none | [Treaty](https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XIV-7&chapter=14&clang=_en) |
+| International Centre for Migration Policy Development | [Q498496](https://www.wikidata.org/wiki/Q498496) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%203132/v3132.pdf) |
+| International Centre for Settlement of Investment Disputes | [Q899770](https://www.wikidata.org/wiki/Q899770) | World Bank Group | [Treaty](https://icsid.worldbank.org/sites/default/files/documents/ICSID_Convention.pdf) |
+| International Centre for the Study of the Preservation and the Restoration of Cultural Property | [Q590182](https://www.wikidata.org/wiki/Q590182) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201321/volume-1321-I-22032-English.pdf) |
+| International Centre of Genetic Engineering and Biotechnology | [Q6049095](https://www.wikidata.org/wiki/Q6049095) | none | [Treaty](https://treaties.un.org/doc/source/docs/ICGEB_BG.3_21-E.pdf) |
 | International Civil Aviation Organization | [Q125761](https://www.wikidata.org/wiki/Q125761) | UN and affiliates | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
-| International Civil Defence Organization | [Q162656](https://www.wikidata.org/wiki/Q162656) | none | N/A |
-| International Cocoa Organization | [Q1667326](https://www.wikidata.org/wiki/Q1667326) | none | N/A |
-| International Coffee Organisation | [Q48192](https://www.wikidata.org/wiki/Q48192) | none | N/A |
-| International Commission for the Conservation of Atlantic Tunas | [Q840267](https://www.wikidata.org/wiki/Q840267) | none | N/A |
-| International Commission for the Protection of the Danube River | [Q699466](https://www.wikidata.org/wiki/Q699466) | none | N/A |
-| International Commission on Civil Status | [Q677893](https://www.wikidata.org/wiki/Q677893) | none | N/A |
-| International Commission on Missing Persons | [Q676812](https://www.wikidata.org/wiki/Q676812) | none | N/A |
-| International Committee of Military Medicine | [Q1257637](https://www.wikidata.org/wiki/Q1257637) | none | N/A |
-| International Copper Study Group | [Q17084551](https://www.wikidata.org/wiki/Q17084551) | none | N/A |
-| International Cospas-Sarsat Programme | [Q605177](https://www.wikidata.org/wiki/Q605177) | none | N/A |
-| International Council for Exploration of the Sea | [Q1613859](https://www.wikidata.org/wiki/Q1613859) | none | N/A |
+| International Civil Defence Organization | [Q162656](https://www.wikidata.org/wiki/Q162656) | none | [Treaty](https://icdo.org/files/documents/constitution/icdo_constitution_en.pdf) |
+| International Cocoa Organization | [Q1667326](https://www.wikidata.org/wiki/Q1667326) | none | [Treaty](https://www.icco.org/wp-content/uploads/2019/06/ICA-1986-English.pdf) |
+| International Coffee Organisation | [Q48192](https://www.wikidata.org/wiki/Q48192) | none | [Treaty](https://www.ico.org/documents/cy2021-22/ica-2022-e.pdf) |
+| International Commission for the Conservation of Atlantic Tunas | [Q840267](https://www.wikidata.org/wiki/Q840267) | none | [Treaty](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A21986A0618%2801%29) |
+| International Commission for the Protection of the Danube River | [Q699466](https://www.wikidata.org/wiki/Q699466) | none | [Treaty](https://www.icpdr.org/sites/default/files/DRPC%20English%20ver.pdf) |
+| International Commission on Civil Status | [Q677893](https://www.wikidata.org/wiki/Q677893) | none | [Treaty](https://ciec1.org/wp-content/uploads/2025/03/Rules_of_the_ICCS.pdf) |
+| International Commission on Missing Persons | [Q676812](https://www.wikidata.org/wiki/Q676812) | none | [Treaty](https://assets.publishing.service.gov.uk/media/5a80296de5274a2e87db836f/TS_9.2015_Cm_9063_WEB_ACC.pdf) |
+| International Committee of Military Medicine | [Q1257637](https://www.wikidata.org/wiki/Q1257637) | none | [Treaty](https://cimm-icmm.org/wp-content/uploads/2025/03/241008-ENG-Statutes-of-the-ICMM.pdf) |
+| International Copper Study Group | [Q17084551](https://www.wikidata.org/wiki/Q17084551) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201662/v1662.pdf) |
+| International Cospas-Sarsat Programme | [Q605177](https://www.wikidata.org/wiki/Q605177) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201518/v1518.pdf) |
+| International Council for Exploration of the Sea | [Q1613859](https://www.wikidata.org/wiki/Q1613859) | none | [Treaty](https://www.ices.dk/about-ICES/who-we-are/Documents/ICES_Convention_1964.pdf) |
 | International Court of Justice | [Q7801](https://www.wikidata.org/wiki/Q7801) | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/main-bodies) |
 | International Criminal Court | [Q47488](https://www.wikidata.org/wiki/Q47488) | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
-| International Criminal Police Organization | [Q8475](https://www.wikidata.org/wiki/Q8475) | none | N/A |
+| International Criminal Police Organization | [Q8475](https://www.wikidata.org/wiki/Q8475) | none | [Treaty](https://web.archive.org/web/20160222055903/https://www.interpol.int/content/download/9429/69209/version/9/file/Constitution.pdf) |
 | International Development Association | N/A | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
-| International Development Law Organization | [Q11977461](https://www.wikidata.org/wiki/Q11977461) | none | N/A |
-| International Energy Agency | [Q826700](https://www.wikidata.org/wiki/Q826700) | Organisation for Economic Co-operation and Development | N/A |
-| International Exhibition Bureau | [Q1010514](https://www.wikidata.org/wiki/Q1010514) | none | N/A |
+| International Development Law Organization | [Q11977461](https://www.wikidata.org/wiki/Q11977461) | none | [Treaty](https://www.idlo.int/sites/default/files/documents/idlo_establishment_agreement_2019.pdf) |
+| International Energy Agency | [Q826700](https://www.wikidata.org/wiki/Q826700) | Organisation for Economic Co-operation and Development | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201040/volume-1040-I-15664-English.pdf) |
+| International Exhibition Bureau | [Q1010514](https://www.wikidata.org/wiki/Q1010514) | none | [Treaty](https://www.state.gov/wp-content/uploads/2019/02/17-510-Multilateral-Cultural-Expositions.pdf) |
 | International Finance Corporation | [Q656801](https://www.wikidata.org/wiki/Q656801) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | International Fund for Agricultural Development | [Q689859](https://www.wikidata.org/wiki/Q689859) | UN and affiliates | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
-| International Grains Council | [Q6050768](https://www.wikidata.org/wiki/Q6050768) | none | N/A |
-| International Hydrographic Organisation | [Q233611](https://www.wikidata.org/wiki/Q233611) | none | N/A |
-| International Iberian Nanotechnology Laboratory | [Q6051048](https://www.wikidata.org/wiki/Q6051048) | none | N/A |
-| International Institute for Democracy and Electoral Assistance | [Q46340424](https://www.wikidata.org/wiki/Q46340424) | none | N/A |
-| International Institute for the Unification of Private Law | [Q1192641](https://www.wikidata.org/wiki/Q1192641) | none | N/A |
-| International Institute of Administrative Sciences | [Q2373849](https://www.wikidata.org/wiki/Q2373849) | none | N/A |
-| International Institute of Refrigeration | [Q3152339](https://www.wikidata.org/wiki/Q3152339) | none | N/A |
-| International Investment Bank | [Q1824234](https://www.wikidata.org/wiki/Q1824234) | none | N/A |
-| International Joint Commission | [Q6051258](https://www.wikidata.org/wiki/Q6051258) | none | N/A |
-| International Jute Study Group | [Q16849197](https://www.wikidata.org/wiki/Q16849197) | none | N/A |
+| International Grains Council | [Q6050768](https://www.wikidata.org/wiki/Q6050768) | none | [Treaty](https://treaties.un.org/doc/Treaties/1995/07/19950701%2008-42%20PM/Ch_XIX_41_a_bp.pdf) |
+| International Hydrographic Organisation | [Q233611](https://www.wikidata.org/wiki/Q233611) | none | [Treaty](https://iho.int/uploads/user/pubs/misc/M1_Separatedocs/Convention_new_EN.pdf) |
+| International Iberian Nanotechnology Laboratory | [Q6051048](https://www.wikidata.org/wiki/Q6051048) | none | [Treaty](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/59-2007-628500) |
+| International Institute for Democracy and Electoral Assistance | [Q46340424](https://www.wikidata.org/wiki/Q46340424) | none | [Treaty](https://www.idea.int/sites/default/files/media_resources/International-IDEA-statutes-EN-2023.pdf) |
+| International Institute for the Unification of Private Law | [Q1192641](https://www.wikidata.org/wiki/Q1192641) | none | [Treaty](https://www.unidroit.org/wp-content/uploads/2021/05/statute.pdf) |
+| International Institute of Administrative Sciences | [Q2373849](https://www.wikidata.org/wiki/Q2373849) | none | [Treaty](https://media.timtul.com/media/web_iias/IIAS%20Statutes_20231122045546.pdf) |
+| International Institute of Refrigeration | [Q3152339](https://www.wikidata.org/wiki/Q3152339) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%20826/volume-826-I-11837-English.pdf) |
+| International Investment Bank | [Q1824234](https://www.wikidata.org/wiki/Q1824234) | none | [Treaty](https://iib.int/files/agreement_establishing_iib_with_its_charter.pdf) |
+| International Joint Commission | [Q6051258](https://www.wikidata.org/wiki/Q6051258) | none | [Treaty](https://www.ijc.org/sites/default/files/2018-07/Boundary%20Waters%20Treaty%20of%201909.pdf) |
+| International Jute Study Group | [Q16849197](https://www.wikidata.org/wiki/Q16849197) | none | [Treaty](https://treaties.un.org/Pages/showDetails.aspx?objid=0800000280054348&clang=_en) |
 | International Labour Organization | [Q54129](https://www.wikidata.org/wiki/Q54129) | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
 | International Law Commission | [Q684656](https://www.wikidata.org/wiki/Q684656) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
-| International Lead and Zinc Study Group | [Q12131043](https://www.wikidata.org/wiki/Q12131043) | none | N/A |
+| International Lead and Zinc Study Group | [Q12131043](https://www.wikidata.org/wiki/Q12131043) | none | [Treaty](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A32001D0221) |
 | International Maritime Organization | [Q201054](https://www.wikidata.org/wiki/Q201054) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
-| International Mobile Satellite Organization | [Q1666759](https://www.wikidata.org/wiki/Q1666759) | none | N/A |
+| International Mobile Satellite Organization | [Q1666759](https://www.wikidata.org/wiki/Q1666759) | none | [Treaty](https://imso.org/wp-content/uploads/2025/03/IMSO-C-1976-A-5-Resolution-A.529-E-F-S-R-1.pdf) |
 | International Monetary Fund | [Q7804](https://www.wikidata.org/wiki/Q7804) | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
 | International Narcotics Control Board | [Q667217](https://www.wikidata.org/wiki/Q667217) | UN and affiliates | [ecosoc.un.org](https://ecosoc.un.org/en/about-us/ecosoc-subsidiary-bodies) |
-| International Nickel Study Group | [Q111552234](https://www.wikidata.org/wiki/Q111552234) | none | N/A |
-| International Oil Pollution Compensation Fund | N/A | none | N/A |
-| International Oil Pollution Compensation Fund 1992 | N/A | none | N/A |
-| International Olive Council | [Q13516775](https://www.wikidata.org/wiki/Q13516775) | none | N/A |
-| International Organisation of La Francophonie | [Q134102](https://www.wikidata.org/wiki/Q134102) | none | N/A |
-| International Organisation of Legal Metrology | [Q1667416](https://www.wikidata.org/wiki/Q1667416) | none | N/A |
-| International Organisation of Vine and Wine | [Q1317185](https://www.wikidata.org/wiki/Q1317185) | none | N/A |
+| International Nickel Study Group | [Q111552234](https://www.wikidata.org/wiki/Q111552234) | none | [Treaty](https://treaties.un.org/Pages/showDetails.aspx?objid=0800000280054348&clang=_en) |
+| International Oil Pollution Compensation Fund | N/A | none | [Treaty](https://iopcfunds.org/wp-content/uploads/2018/03/69CLC_e.pdf) |
+| International Oil Pollution Compensation Fund 1992 | N/A | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201956/v1956.pdf) |
+| International Olive Council | [Q13516775](https://www.wikidata.org/wiki/Q13516775) | none | [Treaty](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A22016A1028%2801%29) |
+| International Organisation of La Francophonie | [Q134102](https://www.wikidata.org/wiki/Q134102) | none | [Treaty](https://www.francophonie.org/sites/default/files/2019-09/charte_francophonie_antananarivo_2005.pdf) |
+| International Organisation of Legal Metrology | [Q1667416](https://www.wikidata.org/wiki/Q1667416) | none | [Treaty](https://www.oiml.org/en/files/pdf_b/b001-e68.pdf) |
+| International Organisation of Vine and Wine | [Q1317185](https://www.wikidata.org/wiki/Q1317185) | none | [Treaty](https://www.oiv.int/sites/default/files/documents/en-oiv-accord-20010403.pdf) |
 | International Organization for Migration | [Q472311](https://www.wikidata.org/wiki/Q472311) | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
-| International Pacific Halibut Commission | [Q6052294](https://www.wikidata.org/wiki/Q6052294) | none | N/A |
-| International Pepper Community | [Q17022497](https://www.wikidata.org/wiki/Q17022497) | none | N/A |
-| International Renewable Energy Agency | [Q392739](https://www.wikidata.org/wiki/Q392739) | none | N/A |
+| International Pacific Halibut Commission | [Q6052294](https://www.wikidata.org/wiki/Q6052294) | none | [Treaty](https://www.iphc.int/uploads/pdf/basic-texts/iphc-1979-pacific-halibut-convention.pdf) |
+| International Pepper Community | [Q17022497](https://www.wikidata.org/wiki/Q17022497) | none | [Treaty](https://treaties.un.org/doc/Treaties/1972/03/19720329%2002-42%20AM/Ch_XIX_8p.pdf) |
+| International Renewable Energy Agency | [Q392739](https://www.wikidata.org/wiki/Q392739) | none | [Treaty](https://assets.publishing.service.gov.uk/media/5a807aa540f0b62302693c04/TS_8.2015_Cm_9062_WEB_ACC.pdf) |
 | International Residual Mechanism for Criminal Tribunals | [Q1667632](https://www.wikidata.org/wiki/Q1667632) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
-| International Road Transport Union | [Q2662574](https://www.wikidata.org/wiki/Q2662574) | none | N/A |
-| International Rubber Study Group | [Q131542072](https://www.wikidata.org/wiki/Q131542072) | none | N/A |
-| International Science and Technology Center | [Q13415305](https://www.wikidata.org/wiki/Q13415305) | none | N/A |
+| International Road Transport Union | [Q2662574](https://www.wikidata.org/wiki/Q2662574) | none | [Treaty](https://treaties.un.org/doc/Treaties/1952/03/19520326%2003-36%20PM/Ch_XI_B_1_2_3.pdf) |
+| International Rubber Study Group | [Q131542072](https://www.wikidata.org/wiki/Q131542072) | none | [Treaty](https://www.rubberstudy.org/storage/uploads/contentfile/18902/yVf21ESEis.pdf) |
+| International Science and Technology Center | [Q13415305](https://www.wikidata.org/wiki/Q13415305) | none | [Treaty](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:22017A0214(01)) |
 | International Seabed Authority | [Q333727](https://www.wikidata.org/wiki/Q333727) | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
-| International Sugar Organisation | [Q691632](https://www.wikidata.org/wiki/Q691632) | none | N/A |
-| International Tea Promotion Association | N/A | none | N/A |
+| International Sugar Organisation | [Q691632](https://www.wikidata.org/wiki/Q691632) | none | [Treaty](https://treaties.un.org/doc/Treaties/1993/01/19930120%2004-38%20AM/Ch_XIX_37p.pdf) |
+| International Tea Promotion Association | N/A | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201128/volume-1128-I-17582-English.pdf) |
 | International Telecommunication Union | [Q376150](https://www.wikidata.org/wiki/Q376150) | UN and affiliates | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
-| International Telecommunications Satellite Organisation | [Q15546770](https://www.wikidata.org/wiki/Q15546770) | none | N/A |
+| International Telecommunications Satellite Organisation | [Q15546770](https://www.wikidata.org/wiki/Q15546770) | none | [Treaty](https://itso.int/wp-content/uploads/2018/01/ITSO-Agreement-Booklet-new-version-FINAL-EnFrEs.pdf) |
 | International Trade Centre | [Q1184878](https://www.wikidata.org/wiki/Q1184878) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | International Tribunal for the Law of the Sea | [Q639118](https://www.wikidata.org/wiki/Q639118) | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
-| International Tropical Timber Organisation | [Q869610](https://www.wikidata.org/wiki/Q869610) | none | N/A |
-| International Union for the Protection of New Varieties of Plants | [Q690318](https://www.wikidata.org/wiki/Q690318) | none | N/A |
-| International Vaccine Institute | [Q6054186](https://www.wikidata.org/wiki/Q6054186) | none | N/A |
-| International Visegrad Fund | [Q11783874](https://www.wikidata.org/wiki/Q11783874) | none | N/A |
-| International Whaling Commission | [Q1053889](https://www.wikidata.org/wiki/Q1053889) | none | N/A |
-| Intersputnik International Organization of Space Communications | [Q1548793](https://www.wikidata.org/wiki/Q1548793) | none | N/A |
+| International Tropical Timber Organisation | [Q869610](https://www.wikidata.org/wiki/Q869610) | none | [Treaty](https://www.itto.int/direct/topics/topics_pdf_download/topics_id=3363&no=1&disp=inline) |
+| International Union for the Protection of New Varieties of Plants | [Q690318](https://www.wikidata.org/wiki/Q690318) | none | [Treaty](https://www.upov.int/edocs/pubdocs/en/upov_pub_221.pdf) |
+| International Vaccine Institute | [Q6054186](https://www.wikidata.org/wiki/Q6054186) | none | [Treaty](https://www.ivi.int/wp-content/uploads/2022/03/IVI_Est_Agreement__Constitution_amended-_English.pdf) |
+| International Visegrad Fund | [Q11783874](https://www.wikidata.org/wiki/Q11783874) | none | [Treaty](https://s3.eu-central-1.amazonaws.com/uploads.mangoweb.org/shared-prod/visegradfund.org/uploads/2018/12/IVF_statute.pdf) |
+| International Whaling Commission | [Q1053889](https://www.wikidata.org/wiki/Q1053889) | none | [Treaty](https://archive.iwc.int/pages/download.php?direct=1&noattach=true&ref=3607&ext=pdf&k=) |
+| Intersputnik International Organization of Space Communications | [Q1548793](https://www.wikidata.org/wiki/Q1548793) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%20862/volume-862-I-12343-English.pdf) |
 | Inter‐American Children’s Institute | N/A | OAS institutions and bodies | [iin.oea.org](https://iin.oea.org/pdf-iin/Acta-fundacional-del-IIN.pdf) |
 | Inter‐American Commission of Women | [Q5779117](https://www.wikidata.org/wiki/Q5779117) | OAS institutions and bodies | [www.oas.org](https://www.oas.org/xxxivga/english/reference_docs/Estatuto_CIM.pdf) |
 | Inter‐American Court on Human Rights | [Q1547804](https://www.wikidata.org/wiki/Q1547804) | OAS institutions and bodies | [web.archive.org](https://web.archive.org/web/20250928032120/https://www.oas.org/dil/treaties_b-32_american_convention_on_human_rights.pdf) |
 | Inter‐American Institute for Cooperation on Agriculture: | [Q3152323](https://www.wikidata.org/wiki/Q3152323) | OAS institutions and bodies | [www.oas.org](https://www.oas.org/en/sla/dil/inter_american_treaties_C-17_Convention_Inter-American_Institute_Cooperation_Agriculture.asp) |
-| Iran-United States Claims Tribunal | [Q501576](https://www.wikidata.org/wiki/Q501576) | none | N/A |
-| Islamic Development Bank | [Q41230](https://www.wikidata.org/wiki/Q41230) | Organisation of Islamic Cooperation | N/A |
+| Iran-United States Claims Tribunal | [Q501576](https://www.wikidata.org/wiki/Q501576) | none | [Treaty](https://iusct.com/foundingdocuments-2/#1691403316129-a7533aea-5fc8) |
+| Islamic Development Bank | [Q41230](https://www.wikidata.org/wiki/Q41230) | Organisation of Islamic Cooperation | [Treaty](https://www.isdb.org/sites/default/files/media/documents/2023-09/IsDB%20Articles%20of%20Agreement.pdf) |
 | Joint Inspection Unit of the United Nations System | [Q1500903](https://www.wikidata.org/wiki/Q1500903) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
-| Joint Institute for Nuclear Research | [Q259517](https://www.wikidata.org/wiki/Q259517) | none | N/A |
-| Joint Vienna Institute | [Q128996047](https://www.wikidata.org/wiki/Q128996047) | none | N/A |
+| Joint Institute for Nuclear Research | [Q259517](https://www.wikidata.org/wiki/Q259517) | none | [Treaty](https://www.jinr.ru/wp-content/uploads/Advisory_Bodies/Agreement_JINR_English.pdf) |
+| Joint Vienna Institute | [Q128996047](https://www.wikidata.org/wiki/Q128996047) | none | [Treaty](https://www.elibrary.imf.org/display/book/9781451971125/ch062.xml) |
 | Justice Studies Center for the Americas | N/A | OAS institutions and bodies | [web.archive.org](https://web.archive.org/web/20050418013202/https://www.oas.org/juridico/english/ga-res99/agres1.htm) |
-| King Abdullah Bin Abdulaziz International Centre for Interreligious and Intercultural Dialogue | [Q6324948](https://www.wikidata.org/wiki/Q6324948) | none | N/A |
-| Lake Chad Basin Commission | [Q2986599](https://www.wikidata.org/wiki/Q2986599) | none | N/A |
-| Latin American Civil Aviation Commission | [Q131103399](https://www.wikidata.org/wiki/Q131103399) | none | N/A |
-| Latin American Energy Organization | [Q3356053](https://www.wikidata.org/wiki/Q3356053) | none | N/A |
-| Latin American Faculty of Social Sciences | [Q255898](https://www.wikidata.org/wiki/Q255898) | none | N/A |
-| Latin American Integration Association | [Q607301](https://www.wikidata.org/wiki/Q607301) | none | N/A |
-| Latin American Reserve Fund | N/A | Andean Community | N/A |
-| Latin American and the Caribbean Economic System | [Q605595](https://www.wikidata.org/wiki/Q605595) | none | N/A |
-| Latin-American Centre for Physics | N/A | none | N/A |
-| Liptako-Gourma Region Integrated Development Authority | N/A | none | N/A |
-| Mano River Union | [Q1505172](https://www.wikidata.org/wiki/Q1505172) | none | N/A |
-| Mekong River Commission | [Q935878](https://www.wikidata.org/wiki/Q935878) | none | N/A |
-| Mercosur | [Q4264](https://www.wikidata.org/wiki/Q4264) | Mercosur | N/A |
-| Multilateral Investment Guarantee Agency | [Q1043527](https://www.wikidata.org/wiki/Q1043527) | World Bank Group | N/A |
-| New Development Bank | [Q8579145](https://www.wikidata.org/wiki/Q8579145) | BRICS | N/A |
-| Niger Basin Authority | [Q1162546](https://www.wikidata.org/wiki/Q1162546) | none | N/A |
-| Nigeria–São Tomé and Príncipe Joint Development Authority | [Q7033072](https://www.wikidata.org/wiki/Q7033072) | none | N/A |
-| Nordic Council | [Q146165](https://www.wikidata.org/wiki/Q146165) | Nordic Council | N/A |
-| Nordic Development Fund | [Q7050687](https://www.wikidata.org/wiki/Q7050687) | Nordic Council | N/A |
-| Nordic Environment Finance Corporation | [Q3736769](https://www.wikidata.org/wiki/Q3736769) | Nordic Council | N/A |
-| Nordic Investment Bank | [Q2020649](https://www.wikidata.org/wiki/Q2020649) | Nordic Council | N/A |
-| North Atlantic Marine Mammal Commission | [Q3076178](https://www.wikidata.org/wiki/Q3076178) | none | N/A |
-| North Atlantic Salmon Conservation Organization | [Q7053997](https://www.wikidata.org/wiki/Q7053997) | none | N/A |
-| North Atlantic Treaty Organisation | [Q7184](https://www.wikidata.org/wiki/Q7184) | none | N/A |
-| North East Atlantic Fisheries Commission | [Q15106130](https://www.wikidata.org/wiki/Q15106130) | none | N/A |
-| North Pacific Anadromous Fish Commission | [Q12599115](https://www.wikidata.org/wiki/Q12599115) | none | N/A |
-| North Pacific Marine Science Organization | [Q21015877](https://www.wikidata.org/wiki/Q21015877) | none | N/A |
-| North-East Atlantic Fisheries Commission | [Q15106130](https://www.wikidata.org/wiki/Q15106130) | none | N/A |
+| King Abdullah Bin Abdulaziz International Centre for Interreligious and Intercultural Dialogue | [Q6324948](https://www.wikidata.org/wiki/Q6324948) | none | [Treaty](https://www.kaiciid.org/node/2641) |
+| Lake Chad Basin Commission | [Q2986599](https://www.wikidata.org/wiki/Q2986599) | none | [Treaty](https://faolex.fao.org/docs/pdf/cmr1076.pdf) |
+| Latin American Civil Aviation Commission | [Q131103399](https://www.wikidata.org/wiki/Q131103399) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201241/volume-1241-I-20170-English.pdf) |
+| Latin American Energy Organization | [Q3356053](https://www.wikidata.org/wiki/Q3356053) | none | [Treaty](https://biblioteca.olade.org/opac-tmpl/Documentos/old0058.pdf) |
+| Latin American Faculty of Social Sciences | [Q255898](https://www.wikidata.org/wiki/Q255898) | none | [Treaty](http://www.worldlii.org/int/other/treaties/UNTSer/1976/165.pdf) |
+| Latin American Integration Association | [Q607301](https://www.wikidata.org/wiki/Q607301) | none | [Treaty](https://www2.aladi.org/biblioteca/Publicaciones/ALADI/Secretaria_General/Documentos_Sin_Codigos/Caja_062_001_en.pdf) |
+| Latin American Reserve Fund | N/A | Andean Community | [Treaty](https://flar.com/wp-content/uploads/2023/10/FLAR-ESP-ConvenioConstitutivo2023-V03.pdf) |
+| Latin American and the Caribbean Economic System | [Q605595](https://www.wikidata.org/wiki/Q605595) | none | [Treaty](https://sela.org/wp-content/uploads/2023/07/t023600000397-0-convenio_de_panama_-enero_2006.pdf) |
+| Latin-American Centre for Physics | N/A | none | [Treaty](http://legislacion.asamblea.gob.ni/Instrumentos.nsf/d9e9b7b996023769062578b80075d821/57af7b6e3cde7228062575430061e0ed?OpenDocument&ExpandSection=1#_Section1) |
+| Liptako-Gourma Region Integrated Development Authority | N/A | none | [Treaty](https://liptakogourma.org/wp-content/uploads/2020/09/Traite-revise_ALG.pdf) |
+| Mano River Union | [Q1505172](https://www.wikidata.org/wiki/Q1505172) | none | [Treaty](https://wits.worldbank.org/GPTAD/PDF/archive/MRU.pdf) |
+| Mekong River Commission | [Q935878](https://www.wikidata.org/wiki/Q935878) | none | [Treaty](https://www.mrcmekong.org/wp-content/uploads/2024/08/1995-Mekong-Agreement.pdf) |
+| Mercosur | [Q4264](https://www.wikidata.org/wiki/Q4264) | Mercosur | [Treaty](https://www.worldtradelaw.net/document.php?id=fta/agreements/mercosurfta.pdf) |
+| Multilateral Investment Guarantee Agency | [Q1043527](https://www.wikidata.org/wiki/Q1043527) | World Bank Group | [Treaty](https://www.miga.org/sites/default/files/archive/Documents/MIGA%20Convention%20(April%202018).pdf) |
+| New Development Bank | [Q8579145](https://www.wikidata.org/wiki/Q8579145) | BRICS | [Treaty](https://www.ndb.int/wp-content/uploads/2022/11/Agreement-on-the-New-Development-Bank.pdf) |
+| Niger Basin Authority | [Q1162546](https://www.wikidata.org/wiki/Q1162546) | none | [Treaty](http://gis.nacse.org/tfdd/tfdddocs/418ENG.pdf) |
+| Nigeria–São Tomé and Príncipe Joint Development Authority | [Q7033072](https://www.wikidata.org/wiki/Q7033072) | none | [Treaty](https://web.archive.org/web/20100202064636/http://www.nigeriasaotomejda.com/PDFs/treaty.pdf) |
+| Nordic Council | [Q146165](https://www.wikidata.org/wiki/Q146165) | Nordic Council | [Treaty](https://norden.diva-portal.org/smash/get/diva2:1250815/FULLTEXT01.pdf) |
+| Nordic Development Fund | [Q7050687](https://www.wikidata.org/wiki/Q7050687) | Nordic Council | [Treaty](https://www.ndf.int/media/files/constituent-documents/ndf-agreement-and-statutes-october-2020.pdf) |
+| Nordic Environment Finance Corporation | [Q3736769](https://www.wikidata.org/wiki/Q3736769) | Nordic Council | [Treaty](https://www.nefco.int/wp-content/uploads/2019/04/NEFCO_Constituent-Documents_2017.pdf) |
+| Nordic Investment Bank | [Q2020649](https://www.wikidata.org/wiki/Q2020649) | Nordic Council | [Treaty](https://web.archive.org/web/20240613035236/https://www.jus.uio.no/english/services/library/treaties/09/9-02/nordic-investment-bank.html) |
+| North Atlantic Marine Mammal Commission | [Q3076178](https://www.wikidata.org/wiki/Q3076178) | none | [Treaty](https://nammco.wpengine.com/wp-content/uploads/2016/10/nammco-agreement-with-signatures-and-logo.pdf) |
+| North Atlantic Salmon Conservation Organization | [Q7053997](https://www.wikidata.org/wiki/Q7053997) | none | [Treaty](https://nasco.int/wp-content/uploads/2020/05/NASCO_Handbook.pdf) |
+| North Atlantic Treaty Organisation | [Q7184](https://www.wikidata.org/wiki/Q7184) | none | [Treaty](https://www.nato.int/cps/en/natohq/official_texts_17120.htm) |
+| North East Atlantic Fisheries Commission | [Q15106130](https://www.wikidata.org/wiki/Q15106130) | none | [Treaty](https://www.neafc.org/system/files/Text-of-NEAFC-Convention-04.pdf) |
+| North Pacific Anadromous Fish Commission | [Q12599115](https://www.wikidata.org/wiki/Q12599115) | none | [Treaty](https://www.npafc.org/wp-content/uploads/Public-Documents/Handbook/Handbook-3rd-E-Convention-Only-English.pdf) |
+| North Pacific Marine Science Organization | [Q21015877](https://www.wikidata.org/wiki/Q21015877) | none | [Treaty](https://meetings.pices.int/about/convention) |
+| North-East Atlantic Fisheries Commission | [Q15106130](https://www.wikidata.org/wiki/Q15106130) | none | [Treaty](https://www.neafc.org/system/files/Text-of-NEAFC-Convention-04.pdf) |
 | North/South Language Body | [Q7754333](https://www.wikidata.org/wiki/Q7754333) | North South bodies | [www.northsouthministerialcouncil.org](https://www.northsouthministerialcouncil.org/north-south-implementation-bodies) |
 | North/South Ministerial Council | [Q1800594](https://www.wikidata.org/wiki/Q1800594) | North South bodies | [www.northsouthministerialcouncil.org](https://www.northsouthministerialcouncil.org/north-south-implementation-bodies) |
-| Northwest Atlantic Fisheries Organization | [Q580933](https://www.wikidata.org/wiki/Q580933) | none | N/A |
-| OPEC Fund for International Development | [Q392787](https://www.wikidata.org/wiki/Q392787) | Organization of the Petroleum Exporting Countries | N/A |
+| Northwest Atlantic Fisheries Organization | [Q580933](https://www.wikidata.org/wiki/Q580933) | none | [Treaty](https://www.nafo.int/Portals/0/PDFs/key-publications/NAFOConvention.pdf) |
+| OPEC Fund for International Development | [Q392787](https://www.wikidata.org/wiki/Q392787) | Organization of the Petroleum Exporting Countries | [Treaty](https://publications.opecfund.org/view/586730821/6/) |
 | Office of the United Nations High Commissioner for Refugees | [Q28606331](https://www.wikidata.org/wiki/Q28606331) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
-| Organisation for Economic Co-operation and Development | [Q41550](https://www.wikidata.org/wiki/Q41550) | Organisation for Economic Co-operation and Development | N/A |
-| Organisation for Joint Armament Co-operation | N/A | none | N/A |
-| Organisation for Joint Armament Cooperation | [Q521227](https://www.wikidata.org/wiki/Q521227) | none | N/A |
-| Organisation for the Development of the Senegal River | N/A | none | N/A |
-| Organisation for the Harmonization of Business Laws in Africa | N/A | none | N/A |
+| Organisation for Economic Co-operation and Development | [Q41550](https://www.wikidata.org/wiki/Q41550) | Organisation for Economic Co-operation and Development | [Treaty](https://www.oecd.org/en/about/legal/text-of-the-convention-on-the-organisation-for-economic-co-operation-and-development.html) |
+| Organisation for Joint Armament Co-operation | N/A | none | [Treaty](https://www.occar.int/systems/file_download.ashx?pg=139&ver=2) |
+| Organisation for Joint Armament Cooperation | [Q521227](https://www.wikidata.org/wiki/Q521227) | none | [Treaty](https://www.occar.int/systems/file_download.ashx?pg=139&ver=2) |
+| Organisation for the Development of the Senegal River | N/A | none | [Treaty](https://faolex.fao.org/docs/pdf/mul16004.pdf) |
+| Organisation for the Harmonization of Business Laws in Africa | N/A | none | [Treaty](https://www.ohada.org/en/treaty-amending-the-treaty-on-the-harmonization-of-business-law-in-africa/) |
 | Organisation for the Prohibition of Chemical Weapons | [Q842490](https://www.wikidata.org/wiki/Q842490) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
-| Organisation for the Prohibition of Nuclear Weapons in Latin America and the Caribbean | [Q3369762](https://www.wikidata.org/wiki/Q3369762) | none | N/A |
-| Organisation of African, Caribbean and Pacific States | [Q294278](https://www.wikidata.org/wiki/Q294278) | none | N/A |
-| Organisation of Eastern Caribbean States | [Q392770](https://www.wikidata.org/wiki/Q392770) | Caribbean Community | N/A |
-| Organisation of Islamic Cooperation | [Q47543](https://www.wikidata.org/wiki/Q47543) | none | N/A |
-| Organization for Security and Co-operation in Europe | [Q81299](https://www.wikidata.org/wiki/Q81299) | none | N/A |
-| Organization for the Prohibition of Chemical Weapons | [Q842490](https://www.wikidata.org/wiki/Q842490) | none | N/A |
+| Organisation for the Prohibition of Nuclear Weapons in Latin America and the Caribbean | [Q3369762](https://www.wikidata.org/wiki/Q3369762) | none | [Treaty](https://www.opanal.org/en/texto-del-tratado-de-tlatelolco/) |
+| Organisation of African, Caribbean and Pacific States | [Q294278](https://www.wikidata.org/wiki/Q294278) | none | [Treaty](https://www.jus.uio.no/english/services/library/treaties/14/14-03/acp.html) |
+| Organisation of Eastern Caribbean States | [Q392770](https://www.wikidata.org/wiki/Q392770) | Caribbean Community | [Treaty](https://caricom.org/documents/legaldocuments/9240-treaty-oecs.htm) |
+| Organisation of Islamic Cooperation | [Q47543](https://www.wikidata.org/wiki/Q47543) | none | [Treaty](https://www.oic-oci.org/upload/documents/charter/en/oic_charter_2018_en.pdf) |
+| Organization for Security and Co-operation in Europe | [Q81299](https://www.wikidata.org/wiki/Q81299) | none | [Treaty]([N/A OSCE]) |
+| Organization for the Prohibition of Chemical Weapons | [Q842490](https://www.wikidata.org/wiki/Q842490) | none | [Treaty](https://www.opcw.org/sites/default/files/documents/CWC/CWC_en.pdf) |
 | Organization of American States: | [Q123759](https://www.wikidata.org/wiki/Q123759) | OAS institutions and bodies | [www.oas.org](https://www.oas.org/en/sla/dil/docs/inter_american_treaties_A-41_charter_OAS.pdf) |
-| Organization of Arab Petroleum Exporting Countries | [Q1052077](https://www.wikidata.org/wiki/Q1052077) | none | N/A |
-| Organization of Ibero-American States | [Q421023](https://www.wikidata.org/wiki/Q421023) | none | N/A |
-| Organization of Turkic States | [Q596850](https://www.wikidata.org/wiki/Q596850) | Organization of Turkic States | N/A |
-| Organization of the Black Sea Economic Cooperation | [Q380340](https://www.wikidata.org/wiki/Q380340) | Organization of the Black Sea Economic Cooperation | N/A |
-| Organization of the Petroleum Exporting Countries | [Q7795](https://www.wikidata.org/wiki/Q7795) | Organization of the Petroleum Exporting Countries | N/A |
-| Oslo and Paris Commissions | [Q125870138](https://www.wikidata.org/wiki/Q125870138) | none | N/A |
-| Pacific Alliance | [Q7122288](https://www.wikidata.org/wiki/Q7122288) | Pacific Alliance | N/A |
-| Pacific Aviation Safety Office | [Q16962397](https://www.wikidata.org/wiki/Q16962397) | Pacific Islands Forum | N/A |
-| Pacific Community | [Q871511](https://www.wikidata.org/wiki/Q871511) | Pacific Islands Forum | N/A |
-| Pacific Islands Forum | [Q757276](https://www.wikidata.org/wiki/Q757276) | Pacific Islands Forum | N/A |
-| Pacific Salmon Commission | [Q7122672](https://www.wikidata.org/wiki/Q7122672) | none | N/A |
-| Pacific Tourism Organisation | [Q7568120](https://www.wikidata.org/wiki/Q7568120) | Pacific Islands Forum | N/A |
+| Organization of Arab Petroleum Exporting Countries | [Q1052077](https://www.wikidata.org/wiki/Q1052077) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%20681/volume-681-I-9707-English.pdf) |
+| Organization of Ibero-American States | [Q421023](https://www.wikidata.org/wiki/Q421023) | none | [Treaty](https://oei.int/wp-content/uploads/1985/12/reglamento-de-la-oei.pdf) |
+| Organization of Turkic States | [Q596850](https://www.wikidata.org/wiki/Q596850) | Organization of Turkic States | [Treaty](https://www.turkicstates.org/u/d/basic-documents/nakhchivan-agreement-on-the-establishment-of-the-copperation-council-of-turkic-speaking-states-1-en.pdf) |
+| Organization of the Black Sea Economic Cooperation | [Q380340](https://www.wikidata.org/wiki/Q380340) | Organization of the Black Sea Economic Cooperation | [Treaty](https://www.bsec-organization.org/UploadedDocuments/StatutoryDocumentsAgreements/CHARTERFourthEdition7July.pdf) |
+| Organization of the Petroleum Exporting Countries | [Q7795](https://www.wikidata.org/wiki/Q7795) | Organization of the Petroleum Exporting Countries | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%20443/volume-443-I-6363-English.pdf) |
+| Oslo and Paris Commissions | [Q125870138](https://www.wikidata.org/wiki/Q125870138) | none | [Treaty](https://www.ospar.org/site/assets/files/1169/ospar_convention.pdf) |
+| Pacific Alliance | [Q7122288](https://www.wikidata.org/wiki/Q7122288) | Pacific Alliance | [Treaty](https://www.mfat.govt.nz/assets/Trade-agreements/Pacific-Alliance-NZ-FTA/Consolidated-Pacific-Alliance-Additional-Protocol.pdf) |
+| Pacific Aviation Safety Office | [Q16962397](https://www.wikidata.org/wiki/Q16962397) | Pacific Islands Forum | [Treaty](https://forumsec.org/sites/default/files/2024-03/Pacific-Islands-Civil-Aviation-Safety-and-Security-Treaty-PICASST-1.pdf) |
+| Pacific Community | [Q871511](https://www.wikidata.org/wiki/Q871511) | Pacific Islands Forum | [Treaty](https://www.austlii.edu.au/au/other/dfat/treaties/1948/15.html) |
+| Pacific Islands Forum | [Q757276](https://www.wikidata.org/wiki/Q757276) | Pacific Islands Forum | [Treaty](https://forumsec.org/publications/treaty-collection) |
+| Pacific Salmon Commission | [Q7122672](https://www.wikidata.org/wiki/Q7122672) | none | [Treaty](https://www.psc.org/download/45/miscellaneous/2337/pacific-salmon-treaty.pdf) |
+| Pacific Tourism Organisation | [Q7568120](https://www.wikidata.org/wiki/Q7568120) | Pacific Islands Forum | [Treaty](http://www.paclii.org/pits/en/treaty_database/1999/1.html) |
 | Pan American Health Organization: | [Q1856835](https://www.wikidata.org/wiki/Q1856835) | OAS institutions and bodies | [www.jstor.org](https://www.jstor.org/stable/4548819) |
-| Pan-African Non-Petroleum Producers Association | [Q4653348](https://www.wikidata.org/wiki/Q4653348) | none | N/A |
+| Pan-African Non-Petroleum Producers Association | [Q4653348](https://www.wikidata.org/wiki/Q4653348) | none | [Treaty]([Not found]) |
 | Pan‐American Institute of Geography and History: | [Q7129603](https://www.wikidata.org/wiki/Q7129603) | OAS institutions and bodies | [www.govinfo.gov](https://www.govinfo.gov/content/pkg/SERIALSET-09927_00_00-037-0107-0000/pdf/SERIALSET-09927_00_00-037-0107-0000.pdf) |
-| Parliamentary Assembly of the Mediterranean | [Q3369689](https://www.wikidata.org/wiki/Q3369689) | none | N/A |
-| Permanent Court of Arbitration | [Q1045198](https://www.wikidata.org/wiki/Q1045198) | none | N/A |
-| Permanent Inter-State Committee for Drought Control in the Sahel | N/A | none | N/A |
+| Parliamentary Assembly of the Mediterranean | [Q3369689](https://www.wikidata.org/wiki/Q3369689) | none | [Treaty](https://pam.int/wp-content/uploads/2021/12/PAM-Statutes-EN-FR-.pdf) |
+| Permanent Court of Arbitration | [Q1045198](https://www.wikidata.org/wiki/Q1045198) | none | [Treaty](https://docs.pca-cpa.org/2016/01/1899-Convention-for-the-Pacific-Settlement-of-International-Disputes.pdf) |
+| Permanent Inter-State Committee for Drought Control in the Sahel | N/A | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201985/v1985.pdf) |
 | Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organization | [Q15211422](https://www.wikidata.org/wiki/Q15211422) | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
-| Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organisation | [Q1480793](https://www.wikidata.org/wiki/Q1480793) | none | N/A |
-| Regional Cooperation Agreement on Combating Piracy and Armed Robbery against Ships in Asia | [Q7309031](https://www.wikidata.org/wiki/Q7309031) | none | N/A |
-| Residual Special Court for Sierra Leone | N/A | none | N/A |
-| Robusta Coffee Agency of Africa and Madagascar | [[No specific code.]](https://www.wikidata.org/wiki/[No specific code.]) | none | N/A |
-| SAARC Development Fund | [Q120512563](https://www.wikidata.org/wiki/Q120512563) | none | N/A |
+| Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organisation | [Q1480793](https://www.wikidata.org/wiki/Q1480793) | none | [Treaty](https://www.ctbto.org/sites/default/files/2022-10/Resolution_English_3.pdf) |
+| Regional Cooperation Agreement on Combating Piracy and Armed Robbery against Ships in Asia | [Q7309031](https://www.wikidata.org/wiki/Q7309031) | none | [Treaty](https://www.mofa.go.jp/mofaj/gaiko/kaiyo/pdfs/kyotei_s.pdf) |
+| Residual Special Court for Sierra Leone | N/A | none | [Treaty](https://rscsl.org/the-rscsl/) |
+| Robusta Coffee Agency of Africa and Madagascar | [[No specific code.]](https://www.wikidata.org/wiki/[No specific code.]) | none | [Treaty](https://www.acram-robusta.org/wp-content/uploads/2022/01/STATUTS_ACRAM_REVISES_MAI2018-english.pdf) |
+| SAARC Development Fund | [Q120512563](https://www.wikidata.org/wiki/Q120512563) | none | [Treaty](https://www.saarc-sec.org/index.php/resources/agreements-conventions/38-charter-of-the-saarc-development-fund/file) |
 | SESAR 3 Joint Undertaking | [Q3055255](https://www.wikidata.org/wiki/Q3055255) | EU institutions and bodies | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085) |
 | Safefood | [Q7398561](https://www.wikidata.org/wiki/Q7398561) | North South bodies | [www.northsouthministerialcouncil.org](https://www.northsouthministerialcouncil.org/north-south-implementation-bodies) |
-| Salzburg Forum | [Q7406988](https://www.wikidata.org/wiki/Q7406988) | none | N/A |
-| Science and Technology Center in Ukraine | [Q7433636](https://www.wikidata.org/wiki/Q7433636) | none | N/A |
-| Secreriat of the Antarctic Treaty | N/A | Antarctic Treaty System | N/A |
-| Secretariat of the BBNJ Agreement | N/A | none | N/A |
-| Secretariat of the Basel Convention | N/A | UN Environment Programme | N/A |
-| Secretariat of the Convention on Biological Diversity | N/A | UN Environment Programme | N/A |
-| Shanghai Cooperation Organisation | [Q485207](https://www.wikidata.org/wiki/Q485207) | none | N/A |
+| Salzburg Forum | [Q7406988](https://www.wikidata.org/wiki/Q7406988) | none | [Treaty](https://www.salzburgforum.org/Treaties_and_Agreement/CBE_Agreement.html) |
+| Science and Technology Center in Ukraine | [Q7433636](https://www.wikidata.org/wiki/Q7433636) | none | [Treaty](https://www.evropskyvyzkum.cz/cs/storage/ddd411519c219953947dede0914eee69f0c355c6?uid=ddd411519c219953947dede0914eee69f0c355c6) |
+| Secreriat of the Antarctic Treaty | N/A | Antarctic Treaty System | [Treaty](https://documents.ats.aq/atcm40/ww/ATCM40_ww014_e.pdf) |
+| Secretariat of the BBNJ Agreement | N/A | none | [Treaty](https://www.un.org/bbnjagreement/sites/default/files/2024-08/Text%20of%20the%20Agreement%20in%20English.pdf) |
+| Secretariat of the Basel Convention | N/A | UN Environment Programme | [Treaty](https://www.basel.int/TheConvention/Overview/TextoftheConvention/tabid/1275/Default.aspx) |
+| Secretariat of the Convention on Biological Diversity | N/A | UN Environment Programme | [Treaty](https://www.cbd.int/doc/legal/cbd-en.pdf) |
+| Shanghai Cooperation Organisation | [Q485207](https://www.wikidata.org/wiki/Q485207) | none | [Treaty](https://www.mea.gov.in/Portal/LegalTreatiesDoc/000M3130.pdf) |
 | Single Resolution Board | [Q19516507](https://www.wikidata.org/wiki/Q19516507) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | Smart Networks and Services Joint Undertaking | [Q133886014](https://www.wikidata.org/wiki/Q133886014) | EU institutions and bodies | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085) |
-| South Asian Association for Regional Cooperation | [Q145700](https://www.wikidata.org/wiki/Q145700) | none | N/A |
-| South Centre | [Q498517](https://www.wikidata.org/wiki/Q498517) | none | N/A |
-| South East Atlantic Fisheries Organisation | [Q3492244](https://www.wikidata.org/wiki/Q3492244) | none | N/A |
-| South Pacific Regional Fisheries Management Organisation | [Q21663305](https://www.wikidata.org/wiki/Q21663305) | none | N/A |
-| Southeast Asian Ministers of Education Organisation | N/A | none | N/A |
-| Southern African Customs Union | [Q1344350](https://www.wikidata.org/wiki/Q1344350) | none | N/A |
-| Southern African Development Community | [Q816706](https://www.wikidata.org/wiki/Q816706) | Southern African Development Community | N/A |
+| South Asian Association for Regional Cooperation | [Q145700](https://www.wikidata.org/wiki/Q145700) | none | [Treaty](https://www.saarc-sec.org/index.php/about-saarc/saarc-charter) |
+| South Centre | [Q498517](https://www.wikidata.org/wiki/Q498517) | none | [Treaty](https://www.southcentre.int/wp-content/uploads/2013/02/Intergovernmental-Agreement_EN.pdf) |
+| South East Atlantic Fisheries Organisation | [Q3492244](https://www.wikidata.org/wiki/Q3492244) | none | [Treaty](http://www.seafo.org/About/Convention-Text) |
+| South Pacific Regional Fisheries Management Organisation | [Q21663305](https://www.wikidata.org/wiki/Q21663305) | none | [Treaty](https://www.austlii.edu.au/au/other/dfat/treaties/ATS/2012/28.html) |
+| Southeast Asian Ministers of Education Organisation | N/A | none | [Treaty](https://www.seameo.org/img/SEAMEO_General/About_SEAMEO/SEAMEO_Charter/charter2013.pdf) |
+| Southern African Customs Union | [Q1344350](https://www.wikidata.org/wiki/Q1344350) | none | [Treaty](https://www.sacu.int/uploads/documents/6a7ae39b41cba945b083e93a2e1a103d7cee629c.pdf) |
+| Southern African Development Community | [Q816706](https://www.wikidata.org/wiki/Q816706) | Southern African Development Community | [Treaty](https://www.sadc.int/sites/default/files/2021-11/Declaration__Treaty_of_SADC_0.pdf) |
 | Special EU Programmes Body | [Q7574528](https://www.wikidata.org/wiki/Q7574528) | North South bodies | [www.northsouthministerialcouncil.org](https://www.northsouthministerialcouncil.org/north-south-implementation-bodies) |
-| Square Kilometre Array Observatory | N/A | none | N/A |
+| Square Kilometre Array Observatory | N/A | none | [Treaty](https://assets.publishing.service.gov.uk/media/5d3197f3ed915d2fe2d7e1bc/MS_27.2019_SKAO_Convention_Square_Kilometre_Array_Telescope.pdf) |
 | Statistical Commission | [Q15042419](https://www.wikidata.org/wiki/Q15042419) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Supply Agency of the European Atomic Energy Community | [Q1374308](https://www.wikidata.org/wiki/Q1374308) | EU institutions and bodies | [www.legislation.gov.uk](https://www.legislation.gov.uk/eut/euratom/title/II/chapter/6) |
-| Surveillance Authority of the European Free Trade Association | [Q3775266](https://www.wikidata.org/wiki/Q3775266) | European Free Trade Association | N/A |
+| Surveillance Authority of the European Free Trade Association | [Q3775266](https://www.wikidata.org/wiki/Q3775266) | European Free Trade Association | [Treaty](https://www.efta.int/sites/default/files/media/documents/legal-texts/eea/the-eea-agreement/Main%20Text%20of%20the%20Agreement/EEAagreement.pdf) |
 | Tourism Ireland | [Q7829093](https://www.wikidata.org/wiki/Q7829093) | North South bodies | [www.northsouthministerialcouncil.org](https://www.northsouthministerialcouncil.org/north-south-implementation-bodies) |
 | Translation Centre for the Bodies of the European Union | [Q333743](https://www.wikidata.org/wiki/Q333743) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
-| Tuvalu Trust Fund | [Q7857109](https://www.wikidata.org/wiki/Q7857109) | none | N/A |
+| Tuvalu Trust Fund | [Q7857109](https://www.wikidata.org/wiki/Q7857109) | none | [Treaty](https://tuvalu-legislation.tv/cms/images/LEGISLATION/SUBORDINATE/1987/1987-0001/1987-0001_1.pdf) |
 | UN Women | [Q641576](https://www.wikidata.org/wiki/Q641576) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | UNAIDS Programme Coordinating Board | [Q588982](https://www.wikidata.org/wiki/Q588982) | UN and affiliates | [ecosoc.un.org](https://ecosoc.un.org/en/about-us/ecosoc-subsidiary-bodies) |
 | Unified Patent Court | [Q7884942](https://www.wikidata.org/wiki/Q7884942) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20230515032632/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:42013A0620(01)) |
-| Union State | [Q166110](https://www.wikidata.org/wiki/Q166110) | none | N/A |
-| Union for the Mediterranean | [Q192177](https://www.wikidata.org/wiki/Q192177) | none | N/A |
-| Union of South American Nations | [Q4230](https://www.wikidata.org/wiki/Q4230) | Union of South American Nations | N/A |
+| Union State | [Q166110](https://www.wikidata.org/wiki/Q166110) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%202121/v2121.pdf) |
+| Union for the Mediterranean | [Q192177](https://www.wikidata.org/wiki/Q192177) | none | [Treaty](https://ufmsecretariat.org/wp-content/uploads/2012/09/Statutes-UfMS.pdf) |
+| Union of South American Nations | [Q4230](https://www.wikidata.org/wiki/Q4230) | Union of South American Nations | [Treaty](https://www.icwa.in/WriteReadData/L45218/1496229018.pdf) |
 | United Nations | [Q1065](https://www.wikidata.org/wiki/Q1065) | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/main-bodies) |
 | United Nations Capital Development Fund | [Q356037](https://www.wikidata.org/wiki/Q356037) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations Children’s Fund | [Q740308](https://www.wikidata.org/wiki/Q740308) | UN and affiliates | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
@@ -463,15 +463,15 @@
 | United Nations World Food Programme | [Q204344](https://www.wikidata.org/wiki/Q204344) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Universal Postal Union | [Q17495](https://www.wikidata.org/wiki/Q17495) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Waterways Ireland | [Q1734583](https://www.wikidata.org/wiki/Q1734583) | North South bodies | [www.northsouthministerialcouncil.org](https://www.northsouthministerialcouncil.org/north-south-implementation-bodies) |
-| West African Development Bank | [Q2883427](https://www.wikidata.org/wiki/Q2883427) | West African Economic and Monetary Union | N/A |
-| West African Economic and Monetary Union | [Q1929699](https://www.wikidata.org/wiki/Q1929699) | West African Economic and Monetary Union | N/A |
-| West African Monetary Union | N/A | West African Economic and Monetary Union | N/A |
+| West African Development Bank | [Q2883427](https://www.wikidata.org/wiki/Q2883427) | West African Economic and Monetary Union | [Treaty](https://edit.wti.org/document/show/pdf/57ce5bd9-ef38-4a1d-abd5-ed07f1f155bf) |
+| West African Economic and Monetary Union | [Q1929699](https://www.wikidata.org/wiki/Q1929699) | West African Economic and Monetary Union | [Treaty](https://www.bceao.int/sites/default/files/inline-files/TraiteUMOA2010_tr_Eng.pdf) |
+| West African Monetary Union | N/A | West African Economic and Monetary Union | [Treaty](https://www.bceao.int/sites/default/files/inline-files/TraiteUMOA2010_tr_Eng.pdf) |
 | Western Central Atlantic Fishery Commission | [Q134724817](https://www.wikidata.org/wiki/Q134724817) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Western and Central Pacific Fisheries Commission | [Q2565027](https://www.wikidata.org/wiki/Q2565027) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | World Bank | [Q7164](https://www.wikidata.org/wiki/Q7164) | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
-| World Customs Organisation | [Q605326](https://www.wikidata.org/wiki/Q605326) | none | N/A |
+| World Customs Organisation | [Q605326](https://www.wikidata.org/wiki/Q605326) | none | [Treaty](https://www.wcoomd.org/-/media/wco/public/global/pdf/about-us/legal-instruments/conventions-and-agreements/ccc/convccc.pdf?la=en) |
 | World Health Organization | [Q7817](https://www.wikidata.org/wiki/Q7817) | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
 | World Intellectual Property Organization | [Q177773](https://www.wikidata.org/wiki/Q177773) | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
 | World Meteorological Organization | [Q170424](https://www.wikidata.org/wiki/Q170424) | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
-| World Organisation for Animal Health | [Q1058594](https://www.wikidata.org/wiki/Q1058594) | none | N/A |
+| World Organisation for Animal Health | [Q1058594](https://www.wikidata.org/wiki/Q1058594) | none | [Treaty](https://api.parliament.uk/uk-treaties/treaties/8880) |
 | World Trade Organization | [Q7825](https://www.wikidata.org/wiki/Q7825) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
