@@ -14,6 +14,7 @@ on:
       - 'data/eu_bodies.yaml'
       - 'data/oas_bodies.yaml'
       - 'data/north_south_bodies.yaml'
+      - 'data/general_list.yaml'
       
   # Allows this workflow to run manually from the Actions tab
   workflow_dispatch:
@@ -47,7 +48,8 @@ jobs:
               'data/united_nations.yaml',
               'data/eu_bodies.yaml',
               'data/oas_bodies.yaml',
-              'data/north_south_bodies.yaml' 
+              'data/north_south_bodies.yaml',
+              'data/general_list.yaml'
           ]
           output_file = 'dist/ALL_BODIES.md'
 
