@@ -53,6 +53,12 @@ jobs:
           ]
           output_file = 'dist/ALL_BODIES.md'
 
+          def escape_cell(text):
+              '''Escapes the pipe character to prevent breaking Markdown tables.'''
+              if not text:
+                  return text
+              return text.replace('|', '\|')
+
           def parse_file(filepath):
               '''Parses the custom YAML-like file format.'''
               if not os.path.exists(filepath):
@@ -103,8 +109,12 @@ jobs:
                   
                   family = org.get('Org_family', 'N/A')
                   
+                  treaty_url = org.get('Treaty_url')
                   source = org.get('Source', 'N/A')
-                  if not source or source == 'N/A' or source.strip() == '':
+
+                  if treaty_url and treaty_url.strip():
+                      source_display = f'[Treaty]({treaty_url.strip()})'
+                  elif not source or source == 'N/A' or source.strip() == '':
                       source_display = 'N/A'
                   elif 'un_system_chart' in source:
                       source_display = '[UN system chart](https://www.un.org/en/delegate/page/un-system-chart)'
@@ -119,7 +129,8 @@ jobs:
                   else:
                       source_display = 'N/A'
                       
-                  rows.append(f'| {name} | {wikidata_display} | {family} | {source_display} |')
+                  # Use escape_cell function to ensure pipes in names don't break the table
+                  rows.append(f'| {escape_cell(name)} | {wikidata_display} | {escape_cell(family)} | {source_display} |')
               return '\\n'.join(rows)
 
           # --- Main execution block ---
@@ -140,8 +151,6 @@ jobs:
           
           with open(output_file, 'w', encoding='utf-8') as f:
             f.write('# All Supranational Bodies\\n\\n')
-            # Use an HTML comment block for the warning.
-            # This will be visible in the raw .md file but not in the rendered output.
             f.write('<!--\\n')
             f.write('  **WARNING!**\\n')
             f.write('  This file is auto-generated. Do not edit it directly as your changes will be overwritten.\\n')
