@@ -47,9 +47,9 @@
 | Baltic Marine Environment Protection Commission | [Q1563503](https://www.wikidata.org/wiki/Q1563503) | none | [Treaty](https://helcom.fi/wp-content/uploads/2019/06/Helsinki-Convention_July-2014.pdf) |
 | Bank of the Central African States | [Q189972](https://www.wikidata.org/wiki/Q189972) | Economic and Monetary Community of Central Africa | [Treaty](https://www.beac.int/wp-content/uploads/2016/11/TrCemac-rev.pdf) |
 | Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation | [Q795985](https://www.wikidata.org/wiki/Q795985) | none | [Treaty](https://bimstec.org/images/content_page_pdf/1696679710_BIMSTEC%20Charter.pdf) |
-| Benelux | [Q13116](https://www.wikidata.org/wiki/Q13116) | Benelux | [Treaty](https://www.benelux.int/wp-content/uploads/2023/02/BeneluxVerdrag_2008.pdf) |
-| Benelux Court of Justice | N/A | Benelux | [www.benelux.int](https://www.benelux.int/en/information-for-citizens/benelux-union/our-organisation/) |
-| Benelux Organisation for Intellectual Property | [Q1910702](https://www.wikidata.org/wiki/Q1910702) | Benelux | [Treaty](https://www.boip.int/uploads/inline/230210%20Benelux%20Convention%20on%20Intellectual%20Property.pdf) |
+| Benelux | [Q13116](https://www.wikidata.org/wiki/Q13116) | Benelux entity | [Treaty](https://www.benelux.int/wp-content/uploads/2023/02/BeneluxVerdrag_2008.pdf) |
+| Benelux Court of Justice | N/A | Benelux entity | [www.benelux.int](https://www.benelux.int/en/information-for-citizens/benelux-union/our-organisation/) |
+| Benelux Organisation for Intellectual Property | [Q1910702](https://www.wikidata.org/wiki/Q1910702) | Benelux entity | [Treaty](https://www.boip.int/uploads/inline/230210%20Benelux%20Convention%20on%20Intellectual%20Property.pdf) |
 | Black Sea Trade and Development Bank | [Q2061083](https://www.wikidata.org/wiki/Q2061083) | Organization of the Black Sea Economic Cooperation | [Treaty](https://www.bstdb.org/Establishing_Agreement_BSTDB.pdf) |
 | Brazilian-Argentine Agency for Accounting and Control of Nuclear Materials | [Q290585](https://www.wikidata.org/wiki/Q290585) | none | [Treaty](https://www.iaea.org/sites/default/files/infcirc435.pdf) |
 | British-Irish Council | [Q2655795](https://www.wikidata.org/wiki/Q2655795) | North South bodies | [assets.publishing.service.gov.uk](https://assets.publishing.service.gov.uk/media/619500728fa8f5037d67b678/The_Belfast_Agreement_An_Agreement_Reached_at_the_Multi-Party_Talks_on_Northern_Ireland.pdf) |
