@@ -476,3 +476,4 @@
 | World Meteorological Organization | [Q170424](https://www.wikidata.org/wiki/Q170424) | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
 | World Organisation for Animal Health | [Q1058594](https://www.wikidata.org/wiki/Q1058594) | none | [Treaty](https://api.parliament.uk/uk-treaties/treaties/8880) |
 | World Trade Organization | [Q7825](https://www.wikidata.org/wiki/Q7825) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
+| Zambezi Watercourse Commission | [Q8065663](https://www.wikidata.org/wiki/Q8065663) | none | [Treaty](https://www.zambezicommission.org/sites/default/files/clusters_pdfs/ZAMCOM%20agreement.pdf) |
