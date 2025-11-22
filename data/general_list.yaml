@@ -757,7 +757,8 @@ ANZUS:
   Country: zz
   Name_en: ANZUS
   Abbreviation_en: 
-  Treaty_url: https://history.state.gov/milestones/1945-1952/anzus
+  Source: https://history.state.gov/milestones/1945-1952/anzus
+  Treaty_url: https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Completed_Inquiries/jfadt/usrelations/appendixb
 Salzburg Forum:
   Wikidata_code: Q7406988
   Entity_type: International organisation
