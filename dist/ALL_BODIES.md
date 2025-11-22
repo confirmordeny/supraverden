@@ -8,7 +8,7 @@
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
-| ANZUS | [Q295875](https://www.wikidata.org/wiki/Q295875) | none | [Treaty](https://history.state.gov/milestones/1945-1952/anzus) |
+| ANZUS | [Q295875](https://www.wikidata.org/wiki/Q295875) | none | [Treaty](https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Completed_Inquiries/jfadt/usrelations/appendixb) |
 | ASEAN Free Trade Area | [Q297472](https://www.wikidata.org/wiki/Q297472) | Association of Southeast Asian Nations | [Treaty](https://web.archive.org/web/20070614155734/http://www.worldtradelaw.net/fta/agreements/afta.pdf) |
 | Advisory Centre on World Trade Organization Law | [Q3664799](https://www.wikidata.org/wiki/Q3664799) | none | [Treaty](https://web.archive.org/web/20140224004105/http://www.minbuza.nl/en/key-topics/treaties/search-the-treaty-database/1999/11/009244.html) |
 | Africa Finance Corporation | [Q23578910](https://www.wikidata.org/wiki/Q23578910) | none | [Treaty](http://www.parliament.go.ke/sites/default/files/2025-02/Agreement%20for%20the%20Establishment%20of%20the%20Africa%20Finance%20Corporation%20and%20Explanantory%20Memorandum%20from%20the%20Foreign%20%26%20Diaspora%20Affairs.pdf) |
