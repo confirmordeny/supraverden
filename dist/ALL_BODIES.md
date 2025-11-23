@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 479 international organisations in the table.
+There are currently 480 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -101,6 +101,7 @@ There are currently 479 international organisations in the table.
 | Council of Europe | [Q8908](https://www.wikidata.org/wiki/Q8908) | Council of Europe | [Treaty](https://rm.coe.int/1680a1c6b3) |
 | Council of Europe Development Bank | [Q611107](https://www.wikidata.org/wiki/Q611107) | Council of Europe | [Treaty](https://coebank.org/documents/51/CEB_Articles_of_Agreement_August_2023.pdf) |
 | Council of the European Union | [Q8896](https://www.wikidata.org/wiki/Q8896) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT) |
+| Court of Justice of the Andean Community | [Q5789480](https://www.wikidata.org/wiki/Q5789480) | Andean Community entity | [Treaty](https://www.comunidadandina.org/StaticFiles/201338102616Acuerdo_Cartagena.pdf) |
 | Court of Justice of the European Union | [Q4951](https://www.wikidata.org/wiki/Q4951) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT) |
 | Desert Locust Control Organisation for Eastern Africa | [Q30596094](https://www.wikidata.org/wiki/Q30596094) | none | [Treaty](https://www.fao.org/4/50641E/50641E05.htm) |
 | Dutch Language Union | [Q152299](https://www.wikidata.org/wiki/Q152299) | none | [Treaty](https://taalunie.org/feeds/download/taalunieverdrag-1980-en-616e8.pdf/Taalunieverdrag%20(1980,%20Engels)/original) |
