@@ -14,14 +14,14 @@
 | African Regional Intellectual Property Organization | [Q384434](https://www.wikidata.org/wiki/Q384434) | none | [Treaty](https://www.wipo.int/wipolex/en/text/588142) |
 | African Trade and Investment Development Insurance | [Q60742417](https://www.wikidata.org/wiki/Q60742417) | Common Market for Eastern and Southern Africa | [Treaty](https://www.atidi.africa/wp-content/uploads/2023/10/ATI-Treaty-2022-001-Certified-091023-Stamped.pdf) |
 | African Union | [Q7159](https://www.wikidata.org/wiki/Q7159) | African Union | [Treaty](https://au.int/sites/default/files/treaties/7758-treaty-0021_-_CONSTITUTIVE_ACT_OF_THE_AFRICAN_UNION_E.pdf) |
-| African, Caribbean and Pacific Group of States | [[No specific code.]](https://www.wikidata.org/wiki/[No specific code.]) | none | [Treaty](https://www.wipo.int/wipolex/en/text/594415) |
+| African, Caribbean and Pacific Group of States | N/A | none | [Treaty](https://www.wipo.int/wipolex/en/text/594415) |
 | Agency for Aerial Navigation Safety in Africa and Madagascar | [Q2826699](https://www.wikidata.org/wiki/Q2826699) | none | [Treaty](https://www.asecna.aero/images/Docs/Publications/Convention/Convention_ASECNA_Version_Anglaise.pdf) |
 | Agency for Support for BEREC | [Q107658738](https://www.wikidata.org/wiki/Q107658738) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | Agency for the Cooperation of Energy Regulators | [Q392883](https://www.wikidata.org/wiki/Q392883) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | Agreement on the Conservation of Albatrosses and Petrels | [Q331541](https://www.wikidata.org/wiki/Q331541) | none | [Treaty](https://www.acap.aq/agreement-text/206-agreement-on-the-conservation-of-albatrosses-and-petrels/file) |
 | Amazon Cooperation Treaty Organization | [Q602399](https://www.wikidata.org/wiki/Q602399) | none | [Treaty](http://www.paclii.org/pits/en/treaty_database/1999/1.html) |
 | Andean Community | [Q471690](https://www.wikidata.org/wiki/Q471690) | Andean Community entity | [Treaty](https://www.comunidadandina.org/StaticFiles/201338102616Acuerdo_Cartagena.pdf) |
-| Andrés Bello convention for the educational, scientific and cultural integration of Latin America and Spain | [[No specific code.]](https://www.wikidata.org/wiki/[No specific code.]) | none | [Treaty](https://convenioandresbello.org/wp-content/uploads/2021/08/tratado_constitutivo_cab_firmado.pdf) |
+| Andrés Bello convention for the educational, scientific and cultural integration of Latin America and Spain | N/A | none | [Treaty](https://convenioandresbello.org/wp-content/uploads/2021/08/tratado_constitutivo_cab_firmado.pdf) |
 | ANZUS | [Q295875](https://www.wikidata.org/wiki/Q295875) | none | [Treaty](https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Completed_Inquiries/jfadt/usrelations/appendixb) |
 | Arab Bank for Economic Development in Africa | [Q4783148](https://www.wikidata.org/wiki/Q4783148) | Arab League | [Treaty](https://data.qanoon.om/treaties/1974-0017AEN.pdf) |
 | Arab Center for the Studies of Arid Zones and Dry Lands | [Q30289729](https://www.wikidata.org/wiki/Q30289729) | Arab League | [Treaty](https://unesdoc.unesco.org/ark:/48223/pf0000056473) |
@@ -231,7 +231,7 @@
 | Intergovernmental Authority on Development | [Q499039](https://www.wikidata.org/wiki/Q499039) | none | [Treaty](https://igad.int/download/agreement-establishing-the-intergovernmental-authority-on-development-igad/#) |
 | Intergovernmental Council of Copper Exporting Countries | [Q1023742](https://www.wikidata.org/wiki/Q1023742) | none | [Treaty](https://www.austlii.edu.au/au/other/dfat/treaties/ATS/1975/43.html) |
 | Intergovernmental Organisation for International Carriage by Rail | [Q2333216](https://www.wikidata.org/wiki/Q2333216) | none | [Treaty](https://otif.org/fileadmin/user_upload/otif_verlinkte_files/07_veroeff/01_COTIF_80/cotif-1980-e.pdf) |
-| Intergovernmental University Institute of Cooperation | [[No specific code.]](https://www.wikidata.org/wiki/[No specific code.]) | none | [Treaty](https://www.icfam.net/wp-content/uploads/2024/07/ONU-ICFAM-Convention.pdf) |
+| Intergovernmental University Institute of Cooperation | N/A | none | [Treaty](https://www.icfam.net/wp-content/uploads/2024/07/ONU-ICFAM-Convention.pdf) |
 | International Anti-Corruption Academy | [Q876957](https://www.wikidata.org/wiki/Q876957) | none | [Treaty](https://www.iaca.int/images/PDF/IACA_Agreement_ENGLISH.pdf) |
 | International Atomic Energy Agency | [Q41984](https://www.wikidata.org/wiki/Q41984) | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
 | International Bank for Economic Co-operation | [Q1520558](https://www.wikidata.org/wiki/Q1520558) | none | [Treaty](https://ibec.int/upload/iblock/584/EN_Agreement%20and%20Statutes%202014%20A4.pdf) |
@@ -241,7 +241,7 @@
 | International Boundary Commission | [Q29467091](https://www.wikidata.org/wiki/Q29467091) | none | [Treaty](https://www.internationalboundarycommission.org/uploads/treaties/treaty%20of%201908%20(english).pdf) |
 | International Bureau of Weights and Measures | [Q229478](https://www.wikidata.org/wiki/Q229478) | none | [Treaty](https://www.bipm.org/documents/20126/44107685/metre-convention.pdf/cd9c9e57-0cc6-4cda-2930-ec1d7c853743?version=1.9&t=1686910612244&download=true) |
 | International Center for Promotion of Enterprises | [Q6049045](https://www.wikidata.org/wiki/Q6049045) | none | N/A |
-| International Center for Promotion of Enterprises | [N/A](https://www.wikidata.org/wiki/N/A) | N/A | [Treaty](https://icpe.int/wp-content/uploads/2025/03/ICPE-Statute_signed.pdf.pdf) |
+| International Center for Promotion of Enterprises | N/A | N/A | [Treaty](https://icpe.int/wp-content/uploads/2025/03/ICPE-Statute_signed.pdf.pdf) |
 | International Centre for Advanced Mediterranean Agronomic Studies | [Q30255657](https://www.wikidata.org/wiki/Q30255657) | none | [Treaty](https://www.ciheam.org/wp-content/uploads/2021/12/CIHEAM_-_Textes_constitutifs__1_-1.pdf) |
 | International Centre for Agriculture Research in the Dry Areas | [Q601277](https://www.wikidata.org/wiki/Q601277) | Consultative Group on International Agricultural Research | [Treaty](https://icarda.org/sites/default/files/2020-09/ICARDA%20Charter.pdf) |
 | International Centre for Food Micro-Algae Against Malnutrition | N/A | none | [Treaty](https://treaties.un.org/doc/publication/unts/volume%202151/v2151.pdf) |
@@ -395,7 +395,7 @@
 | Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organisation | [Q1480793](https://www.wikidata.org/wiki/Q1480793) | none | [Treaty](https://www.ctbto.org/sites/default/files/2022-10/Resolution_English_3.pdf) |
 | Regional Cooperation Agreement on Combating Piracy and Armed Robbery against Ships in Asia | [Q7309031](https://www.wikidata.org/wiki/Q7309031) | none | [Treaty](https://www.mofa.go.jp/mofaj/gaiko/kaiyo/pdfs/kyotei_s.pdf) |
 | Residual Special Court for Sierra Leone | N/A | none | [Treaty](https://rscsl.org/the-rscsl/) |
-| Robusta Coffee Agency of Africa and Madagascar | [[No specific code.]](https://www.wikidata.org/wiki/[No specific code.]) | none | [Treaty](https://www.acram-robusta.org/wp-content/uploads/2022/01/STATUTS_ACRAM_REVISES_MAI2018-english.pdf) |
+| Robusta Coffee Agency of Africa and Madagascar | N/A | none | [Treaty](https://www.acram-robusta.org/wp-content/uploads/2022/01/STATUTS_ACRAM_REVISES_MAI2018-english.pdf) |
 | SAARC Development Fund | [Q120512563](https://www.wikidata.org/wiki/Q120512563) | none | [Treaty](https://www.saarc-sec.org/index.php/resources/agreements-conventions/38-charter-of-the-saarc-development-fund/file) |
 | Safefood | [Q7398561](https://www.wikidata.org/wiki/Q7398561) | North South bodies | [www.northsouthministerialcouncil.org](https://www.northsouthministerialcouncil.org/north-south-implementation-bodies) |
 | Salzburg Forum | [Q7406988](https://www.wikidata.org/wiki/Q7406988) | none | [Treaty](https://www.salzburgforum.org/Treaties_and_Agreement/CBE_Agreement.html) |
