@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 478 international organisations in the table.
+There are currently 479 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -468,6 +468,7 @@ There are currently 478 international organisations in the table.
 | United Nations Volunteers | [Q488065](https://www.wikidata.org/wiki/Q488065) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations World Food Programme | [Q204344](https://www.wikidata.org/wiki/Q204344) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Universal Postal Union | [Q17495](https://www.wikidata.org/wiki/Q17495) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
+| Visegrad Patent Institute | [Q21187824](https://www.wikidata.org/wiki/Q21187824) | none | [Treaty](https://vpi.int/en/wp-content/uploads/2022/08/Agreement-on-founding-the-VPI.pdf) |
 | Waterways Ireland | [Q1734583](https://www.wikidata.org/wiki/Q1734583) | North South bodies | [www.northsouthministerialcouncil.org](https://www.northsouthministerialcouncil.org/north-south-implementation-bodies) |
 | West African Development Bank | [Q2883427](https://www.wikidata.org/wiki/Q2883427) | West African Economic and Monetary Union | [Treaty](https://edit.wti.org/document/show/pdf/57ce5bd9-ef38-4a1d-abd5-ed07f1f155bf) |
 | West African Economic and Monetary Union | [Q1929699](https://www.wikidata.org/wiki/Q1929699) | West African Economic and Monetary Union | [Treaty](https://www.bceao.int/sites/default/files/inline-files/TraiteUMOA2010_tr_Eng.pdf) |
