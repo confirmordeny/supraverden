@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 475 international organisations in the table.
+There are currently 476 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -236,6 +236,7 @@ There are currently 475 international organisations in the table.
 | Intergovernmental University Institute of Cooperation | N/A | none | [Treaty](https://www.icfam.net/wp-content/uploads/2024/07/ONU-ICFAM-Convention.pdf) |
 | International Anti-Corruption Academy | [Q876957](https://www.wikidata.org/wiki/Q876957) | none | [Treaty](https://www.iaca.int/images/PDF/IACA_Agreement_ENGLISH.pdf) |
 | International Atomic Energy Agency | [Q41984](https://www.wikidata.org/wiki/Q41984) | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
+| International Bamboo and Rattan Organisation | [Q6052145](https://www.wikidata.org/wiki/Q6052145) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%202132/v2132.pdf#page=215) |
 | International Bank for Economic Co-operation | [Q1520558](https://www.wikidata.org/wiki/Q1520558) | none | [Treaty](https://ibec.int/upload/iblock/584/EN_Agreement%20and%20Statutes%202014%20A4.pdf) |
 | International Bank for Reconstruction and Development | [Q191384](https://www.wikidata.org/wiki/Q191384) | UN and affiliates | [timeline.worldbank.org](https://timeline.worldbank.org/content/dam/sites/timeline/docs/migrated/event12-UNagt-agreement-30151254.pdf) |
 | International Bauxite Association | [Q111593546](https://www.wikidata.org/wiki/Q111593546) | none | [Treaty](https://treaties.un.org/Pages/showDetails.aspx?objid=0800000280100e36&clang=_en) |
