@@ -38,8 +38,9 @@ jobs:
 
       # 3. Runs an inline Python script to generate the combined Markdown file
       - name: Generate Combined Markdown Table
+        # FIX: We use "python3 - <<'EOF'" to safely handle quotes inside the script
         run: |
-          python -c """
+          python3 - <<'EOF'
           import os
           import sys
 
@@ -95,10 +96,10 @@ jobs:
 
           def generate_markdown_table(organizations):
               '''Generates a Markdown table from the parsed data.'''
-              header = '| English Name | Wikidata Code | Family | Source |\\n|---|---|---|---|'
+              header = '| English Name | Wikidata Code | Family | Source |\n|---|---|---|---|'
               rows = [header]
               
-              # FIX 1: Sort using .lower() for case-insensitive alphabetical order
+              # Sort case-insensitively
               sorted_orgs = sorted(
                   organizations, 
                   key=lambda x: (x.get('Name_en') or x.get('_main_name') or '').lower()
@@ -109,7 +110,7 @@ jobs:
                   
                   wikidata = org.get('Wikidata_code', 'N/A')
                   
-                  # FIX 2: Only link if code starts with 'Q' (avoids linking 'No specific code')
+                  # Check if code starts with 'Q' (avoids linking 'No specific code')
                   if not wikidata or not wikidata.strip().startswith('Q'):
                       wikidata_display = 'N/A'
                   else:
@@ -120,4 +121,53 @@ jobs:
                   treaty_url = org.get('Treaty_url')
                   source = org.get('Source', 'N/A')
 
-                  if treaty_url and treaty_url
+                  if treaty_url and treaty_url.strip():
+                      source_display = f'[Treaty]({treaty_url.strip()})'
+                  elif not source or source == 'N/A' or source.strip() == '':
+                      source_display = 'N/A'
+                  elif 'un_system_chart' in source:
+                      source_display = '[UN system chart](https://www.un.org/en/delegate/page/un-system-chart)'
+                  elif 'fao.org/unfao/govbodies' in source:
+                      source_display = '[Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/)'
+                  elif source.startswith('http'):
+                      try:
+                          domain = source.split('//')[1].split('/')[0]
+                      except IndexError:
+                          domain = 'Link'
+                      source_display = f'[{domain}]({source})'
+                  else:
+                      source_display = 'N/A'
+                      
+                  rows.append(f'| {escape_cell(name)} | {wikidata_display} | {escape_cell(family)} | {source_display} |')
+              return '\n'.join(rows)
+
+          # --- Main execution block ---
+          all_organizations = []
+          
+          for input_file in input_files:
+              print(f"Reading data from '{input_file}'...")
+              org_data = parse_file(input_file)
+              print(f"Found {len(org_data)} organizations in {input_file}.")
+              all_organizations.extend(org_data)
+          
+          print(f"Total organizations: {len(all_organizations)}")
+          print('Generating combined Markdown table...')
+          markdown_content = generate_markdown_table(all_organizations)
+          
+          # Ensure the output directory exists
+          os.makedirs(os.path.dirname(output_file), exist_ok=True)
+          
+          with open(output_file, 'w', encoding='utf-8') as f:
+            f.write('# All Supranational Bodies\n\n')
+            f.write('\n\n')
+            f.write(markdown_content)
+              
+          print(f"Successfully wrote combined Markdown table to '{output_file}'")
+          EOF
+
+      # 4. Commits the generated file back to the repository if there are any changes
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: Auto-update combined bodies table"
+          file_pattern: "dist/ALL_BODIES.md"
