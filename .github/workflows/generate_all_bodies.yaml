@@ -150,7 +150,8 @@ jobs:
               print(f"Found {len(org_data)} organizations in {input_file}.")
               all_organizations.extend(org_data)
           
-          print(f"Total organizations: {len(all_organizations)}")
+          total_count = len(all_organizations)
+          print(f"Total organizations: {total_count}")
           print('Generating combined Markdown table...')
           markdown_content = generate_markdown_table(all_organizations)
           
@@ -159,7 +160,7 @@ jobs:
           
           with open(output_file, 'w', encoding='utf-8') as f:
             f.write('# All Supranational Bodies\n\n')
-            f.write('\n\n')
+            f.write(f'There are currently {total_count} international organisations in the table.\n\n')
             f.write(markdown_content)
               
           print(f"Successfully wrote combined Markdown table to '{output_file}'")
