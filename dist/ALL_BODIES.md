@@ -108,6 +108,7 @@
 | EU-LAC International Foundation | [Q821623](https://www.wikidata.org/wiki/Q821623) | none | [Treaty](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:22019A0412(01)&rid=1) |
 | EUCLID University | [Q3046238](https://www.wikidata.org/wiki/Q3046238) | none | [Treaty](https://www.euclid.int/documents/fa-en.pdf) |
 | East African Community | [Q337456](https://www.wikidata.org/wiki/Q337456) | East African Community | [Treaty](https://investmentpolicy.unctad.org/international-investment-agreements/treaty-files/2487/download) |
+| East African Court of Justice | [Q5327654](https://www.wikidata.org/wiki/Q5327654) | none | [Treaty](https://www.eacj.org//wp-content/uploads/2012/08/EACJ-Treaty.pdf) |
 | East African Development Bank | [Q5327655](https://www.wikidata.org/wiki/Q5327655) | East African Community | [Treaty](https://eadb.org/site/assets/files/1125/eadb-treaty-charter.pdf) |
 | East Mediterranean Gas Forum | [Q97163711](https://www.wikidata.org/wiki/Q97163711) | none | [Treaty](https://www.parliament.cy/images/media/redirectfile/EMGF%20signed%20Statute_%CE%9C%CE%AD%CF%81%CE%BF%CF%82%20%CE%99%20%CE%9D%CE%BF%CE%BC%CE%BF%CF%83%CF%87%CE%B5%CE%B4%CE%AF%CE%BF%CF%85.pdf) |
 | Eastern Caribbean Supreme Court | [Q3001122](https://www.wikidata.org/wiki/Q3001122) |  | [www.legislation.gov.uk](https://www.legislation.gov.uk/uksi/1967/223/pdfs/uksi_19670223_en.pdf) |
