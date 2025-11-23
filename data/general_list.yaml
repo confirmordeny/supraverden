@@ -14,6 +14,14 @@ Benelux:
   Name_en: Benelux
   Abbreviation_en: 
   Treaty_url: https://www.benelux.int/wp-content/uploads/2023/02/BeneluxVerdrag_2008.pdf
+Andean Community:
+  Wikidata_code: Q471690
+  Entity_type: International organisation
+  Org_family: Andean Community entity
+  Country: zz
+  Name_en: Andean Community
+  Abbreviation_en: 
+  Treaty_url: https://www.comunidadandina.org/StaticFiles/201338102616Acuerdo_Cartagena.pdf
 Union State:
   Wikidata_code: Q166110
   Entity_type: International organisation
