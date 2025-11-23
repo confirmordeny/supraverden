@@ -36,7 +36,7 @@ jobs:
         with:
           python-version: '3.x'
 
-      # 3. Runs an inline Python script to generate the combined Markdown file
+     # 3. Runs an inline Python script to generate the combined Markdown file
       - name: Generate Combined Markdown Table
         run: |
           python -c """
@@ -98,7 +98,13 @@ jobs:
               header = '| English Name | Wikidata Code | Family | Source |\\n|---|---|---|---|'
               rows = [header]
               
-              for org in sorted(organizations, key=lambda x: x.get('Name_en') or x.get('_main_name')):
+              # FIX: Added .lower() for case-insensitive sorting
+              sorted_orgs = sorted(
+                  organizations, 
+                  key=lambda x: (x.get('Name_en') or x.get('_main_name') or '').lower()
+              )
+
+              for org in sorted_orgs:
                   name = org.get('Name_en') or org.get('_main_name', 'N/A')
                   
                   wikidata = org.get('Wikidata_code', 'N/A')
@@ -137,7 +143,7 @@ jobs:
           all_organizations = []
           
           for input_file in input_files:
-              print(f'Reading data from \\'{input_file}\\'...')
+              print(f'Reading data from \'{input_file}\'...')
               org_data = parse_file(input_file)
               print(f'Found {len(org_data)} organizations in {input_file}.')
               all_organizations.extend(org_data)
@@ -151,14 +157,10 @@ jobs:
           
           with open(output_file, 'w', encoding='utf-8') as f:
             f.write('# All Supranational Bodies\\n\\n')
-            f.write('<!--\\n')
-            f.write('  **WARNING!**\\n')
-            f.write('  This file is auto-generated. Do not edit it directly as your changes will be overwritten.\\n')
-            f.write('  Please edit the source files in the data/ directory instead.\\n')
-            f.write('-->\\n\\n')
+            f.write('\\n\\n')
             f.write(markdown_content)
               
-          print(f'Successfully wrote combined Markdown table to \\'{output_file}\\'')
+          print(f'Successfully wrote combined Markdown table to \'{output_file}\'')
           """
 
       # 4. Commits the generated file back to the repository if there are any changes
