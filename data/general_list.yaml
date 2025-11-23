@@ -73,11 +73,19 @@ North Atlantic Treaty Organisation:
 Caribbean Community:
   Wikidata_code: Q205995
   Entity_type: International organisation
-  Org_family: none
+  Org_family: Caribbean Community
   Country: zz
   Name_en: Caribbean Community
   Abbreviation_en: Caricom
   Treaty_url: https://researchbriefings.files.parliament.uk/documents/CBP-7376/CBP-7376.pdf
+Caribbean Examinations Council:
+  Wikidata_code: Q5039378
+  Entity_type: International organisation
+  Org_family: Caribbean Community
+  Country: zz
+  Name_en: Caribbean Examinations Council
+  Abbreviation_en: CXC
+  Treaty_url: https://caricom.org/wp-content/uploads/Revised-Agreement-Establishing-the-Caribbean-Examinations-Council-CXC.pdf
 Association of Southeast Asian Nations:
   Wikidata_code: Q7768
   Entity_type: International organisation
