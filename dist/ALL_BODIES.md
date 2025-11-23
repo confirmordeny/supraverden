@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 477 international organisations in the table.
+There are currently 478 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -53,6 +53,7 @@ There are currently 477 international organisations in the table.
 | Bureau International des Expositions | [Q1010514](https://www.wikidata.org/wiki/Q1010514) | none | [Treaty](https://www.aph.gov.au/-/media/02_Parliamentary_Business/24_Committees/244_Joint_Committees/JSCT/2015/11August2015/ATS_39.pdf) |
 | CAB International | [Q5008528](https://www.wikidata.org/wiki/Q5008528) | Commonwealth of Nations | [Treaty](https://www.cabi.org/wp-content/uploads/PDFs/AboutCABI/CABI-Agreement-2016.pdf) |
 | CAF - Development Bank of Latin America and the Caribbean | [Q2614129](https://www.wikidata.org/wiki/Q2614129) | Andean Community | [Treaty](http://www.commonlii.org/jm/legis/consol_act/adcaa1999386.pdf) |
+| Caribbean Agricultural Research and Development Institute | [Q25339749](https://www.wikidata.org/wiki/Q25339749) | none | [Treaty](https://faolex.fao.org/docs/pdf/jam70785.pdf) |
 | Caribbean Community | [Q205995](https://www.wikidata.org/wiki/Q205995) | Caribbean Community | [Treaty](https://researchbriefings.files.parliament.uk/documents/CBP-7376/CBP-7376.pdf) |
 | Caribbean Community Implementation Agency for Crime and Security | [Q117197891](https://www.wikidata.org/wiki/Q117197891) | Caribbean Community | [Treaty](http://www.commonlii.org/caribbean/other/treaties/CaricomTSer/2006/9.pdf) |
 | Caribbean Court of Justice | [Q775029](https://www.wikidata.org/wiki/Q775029) | Caribbean Community | [Treaty](https://ccj.org/wp-content/uploads/2021/02/ccj_agreement.pdf) |
