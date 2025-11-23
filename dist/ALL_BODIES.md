@@ -56,6 +56,7 @@
 | Bureau International des Expositions | [Q1010514](https://www.wikidata.org/wiki/Q1010514) | none | [Treaty](https://www.aph.gov.au/-/media/02_Parliamentary_Business/24_Committees/244_Joint_Committees/JSCT/2015/11August2015/ATS_39.pdf) |
 | CAB International | [Q5008528](https://www.wikidata.org/wiki/Q5008528) | Commonwealth of Nations | [Treaty](https://www.cabi.org/wp-content/uploads/PDFs/AboutCABI/CABI-Agreement-2016.pdf) |
 | CAF - Development Bank of Latin America and the Caribbean | [Q2614129](https://www.wikidata.org/wiki/Q2614129) | Andean Community | [Treaty](http://www.commonlii.org/jm/legis/consol_act/adcaa1999386.pdf) |
+| COMESA Court of Justice | N/A | Common Market for Eastern and Southern Africa | [Treaty](https://www.comesa.int/wp-content/uploads/2019/02/comesa-treaty-revised-20092012_with-zaire_final.pdf) |
 | Caribbean Community | [Q205995](https://www.wikidata.org/wiki/Q205995) | none | [Treaty](https://researchbriefings.files.parliament.uk/documents/CBP-7376/CBP-7376.pdf) |
 | Caribbean Court of Justice | [Q775029](https://www.wikidata.org/wiki/Q775029) | Caribbean Community | [Treaty](https://ccj.org/wp-content/uploads/2021/02/ccj_agreement.pdf) |
 | Caribbean Development Bank | [Q3772571](https://www.wikidata.org/wiki/Q3772571) | Caribbean Community | [Treaty](https://treaties.un.org/doc/Treaties/1970/01/19700126%2006-49%20AM/Ch_X_06p.pdf) |
