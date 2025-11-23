@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-
+There are currently 474 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
