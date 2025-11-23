@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 474 international organisations in the table.
+There are currently 475 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -211,6 +211,7 @@ There are currently 474 international organisations in the table.
 | General Fisheries Council for the Mediterranean | N/A | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Global Combat Air Programme International Government Organisation | N/A | none | [Treaty](https://assets.publishing.service.gov.uk/media/6762c109e6ff7c8a1fde9ab4/TS_98.2024_Convention_Establishment_GCAP_International_Government_Organisation.pdf) |
 | Global Crop Diversity Trust | [Q2004478](https://www.wikidata.org/wiki/Q2004478) | none | [Treaty](https://www.croptrust.org/fileadmin/uploads/croptrust/Documents/Policy_Documents/Establish-Agreement-english.pdf) |
+| Global Green Growth Institute | [Q12586353](https://www.wikidata.org/wiki/Q12586353) | none | [Treaty](https://gggi.org/wp-content/uploads/2017/10/Agreement-on-the-Establishment-of-the-GGGI.pdf) |
 | Global Health EDCTP3 Joint Undertaking | [Q30296681](https://www.wikidata.org/wiki/Q30296681) | EU institutions and bodies | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085) |
 | Great Lakes Fishery Commission | [Q2986576](https://www.wikidata.org/wiki/Q2986576) | none | [Treaty](https://laws-lois.justice.gc.ca/eng/acts/F-17/FullText.html) |
 | Group of Latin American and Caribbean Sugar Exporting Countries | N/A | none | [Treaty](https://www.bacn.gov.py/leyes-paraguayas/907/ley-n-1321-aprueba-el-estatuto-del-grupo-de-paises-latinoamericanos-y-del-caribe-exportadores-de-azucar-geplacea) |
