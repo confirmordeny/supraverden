@@ -49,7 +49,7 @@ Commonwealth of Independent States:
 Organisation of Eastern Caribbean States:
   Wikidata_code: Q392770
   Entity_type: International organisation
-  Org_family: Caribbean Community
+  Org_family: Caribbean Community entity
   Country: zz
   Name_en: Organisation of Eastern Caribbean States
   Abbreviation_en: OECS
@@ -73,7 +73,7 @@ North Atlantic Treaty Organisation:
 Caribbean Community:
   Wikidata_code: Q205995
   Entity_type: International organisation
-  Org_family: Caribbean Community
+  Org_family: Caribbean Community entity
   Country: zz
   Name_en: Caribbean Community
   Abbreviation_en: Caricom
@@ -81,7 +81,7 @@ Caribbean Community:
 Caribbean Examinations Council:
   Wikidata_code: Q5039378
   Entity_type: International organisation
-  Org_family: Caribbean Community
+  Org_family: Caribbean Community entity
   Country: zz
   Name_en: Caribbean Examinations Council
   Abbreviation_en: CXC
@@ -89,7 +89,7 @@ Caribbean Examinations Council:
 Caribbean Community Implementation Agency for Crime and Security:
   Wikidata_code: Q117197891
   Entity_type: International organisation
-  Org_family: Caribbean Community
+  Org_family: Caribbean Community entity
   Country: zz
   Name_en: Caribbean Community Implementation Agency for Crime and Security
   Abbreviation_en: CARICOM IMPACS
@@ -449,7 +449,7 @@ European Bank for Reconstruction and Development:
 Caribbean Development Bank:
   Wikidata_code: Q3772571
   Entity_type: International organisation
-  Org_family: Caribbean Community
+  Org_family: Caribbean Community entity
   Country: zz
   Name_en: Caribbean Development Bank
   Abbreviation_en: 
@@ -1466,7 +1466,7 @@ Asian Productivity organisation:
 Caribbean Meteorological Organisation:
   Wikidata_code: Q5039400
   Entity_type: International organisation
-  Org_family: Caribbean Community
+  Org_family: Caribbean Community entity
   Country: zz
   Name_en: Caribbean Meteorological Organisation
   Abbreviation_en: 
@@ -1690,7 +1690,7 @@ Central Africa Forests Commission:
 Caribbean Court of Justice:
   Wikidata_code: Q775029
   Entity_type: International organisation
-  Org_family: Caribbean Community
+  Org_family: Caribbean Community entity
   Country: zz
   Name_en: Caribbean Court of Justice
   Abbreviation_en: 
@@ -2034,7 +2034,7 @@ Mekong River Commission:
 Caribbean Telecommunications Union:
   Wikidata_code: Q115803554
   Entity_type: International organisation
-  Org_family: Caribbean Community
+  Org_family: Caribbean Community entity
   Country: zz
   Name_en: Caribbean Telecommunications Union
   Abbreviation_en: CTU
@@ -2359,7 +2359,7 @@ International Bamboo and Rattan Organization:
 Caribbean Agricultural Research and Development Institute:
   Wikidata_code: Q25339749
   Entity_type: International organisation
-  Org_family: none
+  Org_family: Caribbean Community entity
   Country: zz
   Name_en: Caribbean Agricultural Research and Development Institute
   Abbreviation_en: CARDI
