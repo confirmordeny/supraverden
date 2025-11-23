@@ -109,6 +109,7 @@
 | East African Community | [Q337456](https://www.wikidata.org/wiki/Q337456) | East African Community | [Treaty](https://investmentpolicy.unctad.org/international-investment-agreements/treaty-files/2487/download) |
 | East African Development Bank | [Q5327655](https://www.wikidata.org/wiki/Q5327655) | East African Community | [Treaty](https://eadb.org/site/assets/files/1125/eadb-treaty-charter.pdf) |
 | East Mediterranean Gas Forum | [Q97163711](https://www.wikidata.org/wiki/Q97163711) | none | [Treaty](https://www.parliament.cy/images/media/redirectfile/EMGF%20signed%20Statute_%CE%9C%CE%AD%CF%81%CE%BF%CF%82%20%CE%99%20%CE%9D%CE%BF%CE%BC%CE%BF%CF%83%CF%87%CE%B5%CE%B4%CE%AF%CE%BF%CF%85.pdf) |
+| Eastern Caribbean Supreme Court | [Q3001122](https://www.wikidata.org/wiki/Q3001122) |  | [www.legislation.gov.uk](https://www.legislation.gov.uk/uksi/1967/223/pdfs/uksi_19670223_en.pdf) |
 | Eastern and Southern African Trade and Development Bank | [Q13657031](https://www.wikidata.org/wiki/Q13657031) | Common Market for Eastern and Southern Africa | [Treaty](https://www.tdbgroup.org/wp-content/uploads/2024/01/TDB-Charter-English-01.01.2024.pdf) |
 | Economic Commission for Africa | [Q1144508](https://www.wikidata.org/wiki/Q1144508) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Economic Commission for Europe | [Q659012](https://www.wikidata.org/wiki/Q659012) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
