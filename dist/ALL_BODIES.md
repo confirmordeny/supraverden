@@ -53,9 +53,10 @@
 | Bureau International des Expositions | [Q1010514](https://www.wikidata.org/wiki/Q1010514) | none | [Treaty](https://www.aph.gov.au/-/media/02_Parliamentary_Business/24_Committees/244_Joint_Committees/JSCT/2015/11August2015/ATS_39.pdf) |
 | CAB International | [Q5008528](https://www.wikidata.org/wiki/Q5008528) | Commonwealth of Nations | [Treaty](https://www.cabi.org/wp-content/uploads/PDFs/AboutCABI/CABI-Agreement-2016.pdf) |
 | CAF - Development Bank of Latin America and the Caribbean | [Q2614129](https://www.wikidata.org/wiki/Q2614129) | Andean Community | [Treaty](http://www.commonlii.org/jm/legis/consol_act/adcaa1999386.pdf) |
-| Caribbean Community | [Q205995](https://www.wikidata.org/wiki/Q205995) | none | [Treaty](https://researchbriefings.files.parliament.uk/documents/CBP-7376/CBP-7376.pdf) |
+| Caribbean Community | [Q205995](https://www.wikidata.org/wiki/Q205995) | Caribbean Community | [Treaty](https://researchbriefings.files.parliament.uk/documents/CBP-7376/CBP-7376.pdf) |
 | Caribbean Court of Justice | [Q775029](https://www.wikidata.org/wiki/Q775029) | Caribbean Community | [Treaty](https://ccj.org/wp-content/uploads/2021/02/ccj_agreement.pdf) |
 | Caribbean Development Bank | [Q3772571](https://www.wikidata.org/wiki/Q3772571) | Caribbean Community | [Treaty](https://treaties.un.org/doc/Treaties/1970/01/19700126%2006-49%20AM/Ch_X_06p.pdf) |
+| Caribbean Examinations Council | [Q5039378](https://www.wikidata.org/wiki/Q5039378) | Caribbean Community | [Treaty](https://caricom.org/wp-content/uploads/Revised-Agreement-Establishing-the-Caribbean-Examinations-Council-CXC.pdf) |
 | Caribbean Meteorological Organisation | [Q5039400](https://www.wikidata.org/wiki/Q5039400) | Caribbean Community | [Treaty](http://www.cmo.org.tt/docs/AGREEMENT.pdf) |
 | Caribbean Telecommunications Union | [Q115803554](https://www.wikidata.org/wiki/Q115803554) | Caribbean Community | [Treaty](https://ctu.int/wp-content/uploads/2023/09/1.-Agreement-for-the-Establishment-of-the-Caribbean-Telecommunications-Union.pdf) |
 | Center for International Forestry Research and World Agroforestry | [Q121461382](https://www.wikidata.org/wiki/Q121461382) | Consultative Group on International Agricultural Research | [Treaty](https://www.austlii.edu.au/cgi-bin/sinodisp/au/other/dfat/treaties/ATS/1993/13.html?stem=0&synonyms=0&query=CIFOR%20Agreement) |
