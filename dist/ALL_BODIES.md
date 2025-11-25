@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 480 international organisations in the table.
+There are currently 481 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -391,6 +391,7 @@ There are currently 480 international organisations in the table.
 | Pacific Islands Forum | [Q757276](https://www.wikidata.org/wiki/Q757276) | Pacific Islands Forum | [Treaty](https://forumsec.org/publications/treaty-collection) |
 | Pacific Salmon Commission | [Q7122672](https://www.wikidata.org/wiki/Q7122672) | none | [Treaty](https://www.psc.org/download/45/miscellaneous/2337/pacific-salmon-treaty.pdf) |
 | Pacific Tourism Organisation | [Q7568120](https://www.wikidata.org/wiki/Q7568120) | Pacific Islands Forum | [Treaty](http://www.paclii.org/pits/en/treaty_database/1999/1.html) |
+| Pan African Postal Union | N/A | none | [Treaty](https://www.jus.uio.no/english/services/library/treaties/07/7-05/oau_postal_union.html) |
 | Pan American Health Organization: | [Q1856835](https://www.wikidata.org/wiki/Q1856835) | OAS institutions and bodies | [www.jstor.org](https://www.jstor.org/stable/4548819) |
 | Pan-African Non-Petroleum Producers Association | [Q4653348](https://www.wikidata.org/wiki/Q4653348) | none | [Treaty]([Not found]) |
 | Pan‐American Institute of Geography and History: | [Q7129603](https://www.wikidata.org/wiki/Q7129603) | OAS institutions and bodies | [www.govinfo.gov](https://www.govinfo.gov/content/pkg/SERIALSET-09927_00_00-037-0107-0000/pdf/SERIALSET-09927_00_00-037-0107-0000.pdf) |
