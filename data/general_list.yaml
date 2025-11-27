@@ -63,6 +63,14 @@ Organisation of Eastern Caribbean States:
   Name_en: Organisation of Eastern Caribbean States
   Abbreviation_en: OECS
   Treaty_url: https://caricom.org/documents/legaldocuments/9240-treaty-oecs.htm
+Eastern Caribbean Central Bank:
+  Wikidata_code: Q1210260
+  Entity_type: International organisation
+  Org_family: Caribbean Community entity
+  Country: zz
+  Name_en: Eastern Caribbean Central Bank
+  Abbreviation_en: ECCB
+  Treaty_url: https://www.eccb-centralbank.org/viewPDF/documents/2022-05-27-06-12-30-ECCB-Agreement.pdf
 Organization for Security and Co-operation in Europe:
   Wikidata_code: Q81299
   Entity_type: International organisation
