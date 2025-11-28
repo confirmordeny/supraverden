@@ -249,8 +249,7 @@ There are currently 487 international organisations in the table.
 | International Boundary and Water Commission | [Q8348493](https://www.wikidata.org/wiki/Q8348493) | none | [Treaty](https://www.ibwc.gov/wp-content/uploads/2022/11/TREATY_OF_1889.pdf) |
 | International Boundary Commission | [Q29467091](https://www.wikidata.org/wiki/Q29467091) | none | [Treaty](https://www.internationalboundarycommission.org/uploads/treaties/treaty%20of%201908%20(english).pdf) |
 | International Bureau of Weights and Measures | [Q229478](https://www.wikidata.org/wiki/Q229478) | none | [Treaty](https://www.bipm.org/documents/20126/44107685/metre-convention.pdf/cd9c9e57-0cc6-4cda-2930-ec1d7c853743?version=1.9&t=1686910612244&download=true) |
-| International Center for Promotion of Enterprises | [Q6049045](https://www.wikidata.org/wiki/Q6049045) | none | N/A |
-| International Center for Promotion of Enterprises | N/A | N/A | [Treaty](https://icpe.int/wp-content/uploads/2025/03/ICPE-Statute_signed.pdf.pdf) |
+| International Center for Promotion of Enterprises | [Q6049045](https://www.wikidata.org/wiki/Q6049045) | none | [Treaty](https://icpe.int/wp-content/uploads/2025/03/ICPE-Statute_signed.pdf.pdf) |
 | International Centre for Advanced Mediterranean Agronomic Studies | [Q30255657](https://www.wikidata.org/wiki/Q30255657) | none | [Treaty](https://www.ciheam.org/wp-content/uploads/2021/12/CIHEAM_-_Textes_constitutifs__1_-1.pdf) |
 | International Centre for Agriculture Research in the Dry Areas | [Q601277](https://www.wikidata.org/wiki/Q601277) | Consultative Group on International Agricultural Research | [Treaty](https://icarda.org/sites/default/files/2020-09/ICARDA%20Charter.pdf) |
 | International Centre for Food Micro-Algae Against Malnutrition | N/A | none | [Treaty](https://treaties.un.org/doc/publication/unts/volume%202151/v2151.pdf) |
@@ -315,6 +314,7 @@ There are currently 487 international organisations in the table.
 | International Rubber Study Group | [Q131542072](https://www.wikidata.org/wiki/Q131542072) | none | [Treaty](https://www.rubberstudy.org/storage/uploads/contentfile/18902/yVf21ESEis.pdf) |
 | International Science and Technology Center | [Q13415305](https://www.wikidata.org/wiki/Q13415305) | none | [Treaty](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:22017A0214(01)) |
 | International Seabed Authority | [Q333727](https://www.wikidata.org/wiki/Q333727) | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
+| International Sericultural Commission | N/A | none | [Treaty](https://inserco.org/en/sites/default/files/01Convention%20Text.pdf) |
 | International Sugar Organisation | [Q691632](https://www.wikidata.org/wiki/Q691632) | none | [Treaty](https://treaties.un.org/doc/Treaties/1993/01/19930120%2004-38%20AM/Ch_XIX_37p.pdf) |
 | International Tea Promotion Association | N/A | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201128/volume-1128-I-17582-English.pdf) |
 | International Telecommunication Union | [Q376150](https://www.wikidata.org/wiki/Q376150) | UN and affiliates | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
