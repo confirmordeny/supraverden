@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 486 international organisations in the table.
+There are currently 487 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -403,6 +403,7 @@ There are currently 486 international organisations in the table.
 | Parliamentary Assembly of the Mediterranean | [Q3369689](https://www.wikidata.org/wiki/Q3369689) | none | [Treaty](https://pam.int/wp-content/uploads/2021/12/PAM-Statutes-EN-FR-.pdf) |
 | Permanent Court of Arbitration | [Q1045198](https://www.wikidata.org/wiki/Q1045198) | none | [Treaty](https://docs.pca-cpa.org/2016/01/1899-Convention-for-the-Pacific-Settlement-of-International-Disputes.pdf) |
 | Permanent Inter-State Committee for Drought Control in the Sahel | N/A | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201985/v1985.pdf) |
+| Permanent Joint Technical Commission for Nile Waters | N/A | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%20453/volume-453-I-6519-English.pdf) |
 | Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organization | [Q15211422](https://www.wikidata.org/wiki/Q15211422) | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
 | Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organisation | [Q1480793](https://www.wikidata.org/wiki/Q1480793) | none | [Treaty](https://www.ctbto.org/sites/default/files/2022-10/Resolution_English_3.pdf) |
 | Regional Cooperation Agreement on Combating Piracy and Armed Robbery against Ships in Asia | [Q7309031](https://www.wikidata.org/wiki/Q7309031) | none | [Treaty](https://www.mofa.go.jp/mofaj/gaiko/kaiyo/pdfs/kyotei_s.pdf) |
