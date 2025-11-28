@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 488 international organisations in the table.
+There are currently 487 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -306,7 +306,6 @@ There are currently 488 international organisations in the table.
 | International Organisation of Legal Metrology | [Q1667416](https://www.wikidata.org/wiki/Q1667416) | none | [Treaty](https://www.oiml.org/en/files/pdf_b/b001-e68.pdf) |
 | International Organisation of Vine and Wine | [Q1317185](https://www.wikidata.org/wiki/Q1317185) | none | [Treaty](https://www.oiv.int/sites/default/files/documents/en-oiv-accord-20010403.pdf) |
 | International Organization for Migration | [Q472311](https://www.wikidata.org/wiki/Q472311) | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
-| International Pacific Halibut Commission | [Q6052294](https://www.wikidata.org/wiki/Q6052294) | none | [Treaty](https://www.iphc.int/uploads/pdf/basic-texts/iphc-1979-pacific-halibut-convention.pdf) |
 | International Pacific Halibut Commission | [Q6052294](https://www.wikidata.org/wiki/Q6052294) | none | [Treaty](https://www.iphc.int/uploads/pdf/basic-texts/iphc-1979-pacific-halibut-convention.pdf) |
 | International Pepper Community | [Q17022497](https://www.wikidata.org/wiki/Q17022497) | none | [Treaty](https://treaties.un.org/doc/Treaties/1972/03/19720329%2002-42%20AM/Ch_XIX_8p.pdf) |
 | International Renewable Energy Agency | [Q392739](https://www.wikidata.org/wiki/Q392739) | none | [Treaty](https://assets.publishing.service.gov.uk/media/5a807aa540f0b62302693c04/TS_8.2015_Cm_9062_WEB_ACC.pdf) |
