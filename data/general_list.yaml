@@ -2183,14 +2183,12 @@ Latin American and the Caribbean Economic System:
   Name_en: Latin American and the Caribbean Economic System
   Abbreviation_en: SELA
   Treaty_url: https://sela.org/wp-content/uploads/2023/07/t023600000397-0-convenio_de_panama_-enero_2006.pdf
-
 International Center for Promotion of Enterprises:
   Wikidata_code: Q6049045
   Entity_type: International organisation
   Org_family: none
   Country: zz
-  Name_en: 
-International Center for Promotion of Enterprises
+  Name_en: International Center for Promotion of Enterprises
   Abbreviation_en: ICPE
   Treaty_url: https://icpe.int/wp-content/uploads/2025/03/ICPE-Statute_signed.pdf.pdf
 OPEC Fund for International Development:
@@ -2453,3 +2451,13 @@ Permanent Joint Technical Commission for Nile Waters:
   Abbreviation_en: PJTC
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%20453/volume-453-I-6519-English.pdf
   Source:
+International Sericultural Commission:
+  Wikidata_code: [No code found.]
+  Entity_type: International organisation
+  Org_family: none
+  Country: zz
+  Name_en: International Sericultural Commission
+  Abbreviation_en: ISC
+  Treaty_url: https://inserco.org/en/sites/default/files/01Convention%20Text.pdf
+  Source:
+
