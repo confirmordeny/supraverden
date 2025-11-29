@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 495 international organisations in the table.
+There are currently 496 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -26,6 +26,7 @@ There are currently 495 international organisations in the table.
 | Andean Parliament | [Q490447](https://www.wikidata.org/wiki/Q490447) | Andean Community entities | [Treaty](https://www.wipo.int/wipolex/en/text/593530) |
 | Andrés Bello convention for the educational, scientific and cultural integration of Latin America and Spain | N/A | none | [Treaty](https://convenioandresbello.org/wp-content/uploads/2021/08/tratado_constitutivo_cab_firmado.pdf) |
 | ANZUS | [Q295875](https://www.wikidata.org/wiki/Q295875) | none | [Treaty](https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Completed_Inquiries/jfadt/usrelations/appendixb) |
+| Arab Atomic Energy Agency | [Q56376750](https://www.wikidata.org/wiki/Q56376750) | Arab League | [Treaty](https://www.legalaffairs.gov.bh/Legislation/HTM/K1708) |
 | Arab Authority for Agricultural Investment and Development | N/A | none | [Treaty](https://www.lloc.gov.bh/PDF/K1108.pdf) |
 | Arab Bank for Economic Development in Africa | [Q4783148](https://www.wikidata.org/wiki/Q4783148) | Arab League | [Treaty](https://data.qanoon.om/treaties/1974-0017AEN.pdf) |
 | Arab Center for the Studies of Arid Zones and Dry Lands | [Q30289729](https://www.wikidata.org/wiki/Q30289729) | Arab League | [Treaty](https://unesdoc.unesco.org/ark:/48223/pf0000056473) |
