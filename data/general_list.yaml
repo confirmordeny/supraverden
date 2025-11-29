@@ -38,15 +38,6 @@ Union State:
   Name_en: Union State
   Abbreviation_en: 
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%202121/v2121.pdf
-Arab League:
-  Wikidata_code: Q7172
-  Entity_type: International organisation
-  Org_family: Arab League
-  Country: zz
-  Name_en: Arab League
-  Name_other_en: League of Arab States
-  Abbreviation_en: 
-  Treaty_url: https://www.refworld.org/legal/constinstr/las/1945/en/13854
 Commonwealth of Independent States:
   Wikidata_code: Q7779
   Entity_type: International organisation
@@ -1863,14 +1854,6 @@ Surveillance Authority of the European Free Trade Association:
   Name_en: Surveillance Authority of the European Free Trade Association
   Abbreviation_en: 
   Treaty_url: https://www.efta.int/sites/default/files/media/documents/legal-texts/eea/the-eea-agreement/Main%20Text%20of%20the%20Agreement/EEAagreement.pdf
-Arab Industrial Development Standardization and Mining Organization:
-  Wikidata_code: Q4783189
-  Entity_type: International organisation
-  Org_family: Arab League
-  Country: zz
-  Name_en: Arab Industrial Development Standardization and Mining Organization
-  Abbreviation_en: AIDSMO
-  Treaty_url: https://www.lloc.gov.bh/FullEn/L2479.docx
 Central American Bank for Economic Integration:
   Wikidata_code: Q190008
   Entity_type: International organisation
