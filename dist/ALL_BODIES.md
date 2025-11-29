@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 494 international organisations in the table.
+There are currently 495 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -35,6 +35,7 @@ There are currently 494 international organisations in the table.
 | Arab League | [Q7172](https://www.wikidata.org/wiki/Q7172) | Arab League entities | [Treaty](https://www.refworld.org/legal/constinstr/las/1945/en/13854) |
 | Arab Maghreb Union | [Q370862](https://www.wikidata.org/wiki/Q370862) | none | [Treaty](https://wits.worldbank.org/GPTAD/PDF/archive/MAGHREB.pdf) |
 | Arab States Broadcasting Union | [Q4783249](https://www.wikidata.org/wiki/Q4783249) | Arab League entities | [Treaty](https://haqqi.s3.eu-north-1.amazonaws.com/2014-04/HRIDRL0151_ArabBroadcastUnion_Ar_19.pdf) |
+| Arab Women Organization | [Q12245743](https://www.wikidata.org/wiki/Q12245743) | Arab League | [Treaty](https://www.lloc.gov.bh/FullEn/L2402.docx) |
 | Arctic Council | [Q674182](https://www.wikidata.org/wiki/Q674182) | none | [Treaty](https://oaarchive.arctic-council.org/server/api/core/bitstreams/bdc15f51-fb91-4e0d-9037-3e8618e7b98f/content) |
 | ASEAN Free Trade Area | [Q297472](https://www.wikidata.org/wiki/Q297472) | Association of Southeast Asian Nations | [Treaty](https://web.archive.org/web/20070614155734/http://www.worldtradelaw.net/fta/agreements/afta.pdf) |
 | Asia-Pacific Fishery Commission | [Q4806252](https://www.wikidata.org/wiki/Q4806252) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
