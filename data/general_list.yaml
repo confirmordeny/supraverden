@@ -690,6 +690,14 @@ Nordic Council:
   Name_en: Nordic Council
   Abbreviation_en: 
   Treaty_url: https://norden.diva-portal.org/smash/get/diva2:1250815/FULLTEXT01.pdf
+Nordic Council of Ministers:
+  Wikidata_code: Q182379
+  Entity_type: International organisation
+  Org_family: Nordic Council
+  Country: zz
+  Name_en: Nordic Council of Ministers
+  Abbreviation_en: 
+  Treaty_url: https://www.norden.org/en/node/40247
 Advisory Centre on World Trade Organization Law:
   Wikidata_code: Q3664799
   Entity_type: International organisation
