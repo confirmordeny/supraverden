@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 493 international organisations in the table.
+There are currently 494 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -361,6 +361,7 @@ There are currently 493 international organisations in the table.
 | Niger Basin Authority | [Q1162546](https://www.wikidata.org/wiki/Q1162546) | none | [Treaty](http://gis.nacse.org/tfdd/tfdddocs/418ENG.pdf) |
 | Nigeria–São Tomé and Príncipe Joint Development Authority | [Q7033072](https://www.wikidata.org/wiki/Q7033072) | none | [Treaty](https://web.archive.org/web/20100202064636/http://www.nigeriasaotomejda.com/PDFs/treaty.pdf) |
 | Nordic Council | [Q146165](https://www.wikidata.org/wiki/Q146165) | Nordic Council | [Treaty](https://norden.diva-portal.org/smash/get/diva2:1250815/FULLTEXT01.pdf) |
+| Nordic Council of Ministers | [Q182379](https://www.wikidata.org/wiki/Q182379) | Nordic Council | [Treaty](https://www.norden.org/en/node/40247) |
 | Nordic Development Fund | [Q7050687](https://www.wikidata.org/wiki/Q7050687) | Nordic Council | [Treaty](https://www.ndf.int/media/files/constituent-documents/ndf-agreement-and-statutes-october-2020.pdf) |
 | Nordic Environment Finance Corporation | [Q3736769](https://www.wikidata.org/wiki/Q3736769) | Nordic Council | [Treaty](https://www.nefco.int/wp-content/uploads/2019/04/NEFCO_Constituent-Documents_2017.pdf) |
 | Nordic Investment Bank | [Q2020649](https://www.wikidata.org/wiki/Q2020649) | Nordic Council | [Treaty](https://web.archive.org/web/20240613035236/https://www.jus.uio.no/english/services/library/treaties/09/9-02/nordic-investment-bank.html) |
