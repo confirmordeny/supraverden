@@ -1,13 +1,14 @@
 # All Supranational Bodies
 
-There are currently 176 international organisations in the table.
+There are currently 177 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
 | Agency for Support for BEREC | [Q107658738](https://www.wikidata.org/wiki/Q107658738) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | Agency for the Cooperation of Energy Regulators | [Q392883](https://www.wikidata.org/wiki/Q392883) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
-| Arab Industrial Development Standardization and Mining Organization | [Q4783189](https://www.wikidata.org/wiki/Q4783189) | Arab League | [Treaty](https://www.lloc.gov.bh/FullEn/L2479.docx) |
-| Arab League | [Q7172](https://www.wikidata.org/wiki/Q7172) | Arab League | [Treaty](https://www.refworld.org/legal/constinstr/las/1945/en/13854) |
+| Arab Industrial Development Standardization and Mining Organization | [Q4783189](https://www.wikidata.org/wiki/Q4783189) | Arab League entities | [Treaty](https://www.lloc.gov.bh/FullEn/L2479.docx) |
+| Arab League | [Q7172](https://www.wikidata.org/wiki/Q7172) | Arab League entities | [Treaty](https://www.refworld.org/legal/constinstr/las/1945/en/13854) |
+| Arab States Broadcasting Union | [Q4783249](https://www.wikidata.org/wiki/Q4783249) | Arab League entities | [Treaty](https://haqqi.s3.eu-north-1.amazonaws.com/2014-04/HRIDRL0151_ArabBroadcastUnion_Ar_19.pdf) |
 | Asia-Pacific Fishery Commission | [Q4806252](https://www.wikidata.org/wiki/Q4806252) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | British-Irish Council | [Q2655795](https://www.wikidata.org/wiki/Q2655795) | North South bodies | [assets.publishing.service.gov.uk](https://assets.publishing.service.gov.uk/media/619500728fa8f5037d67b678/The_Belfast_Agreement_An_Agreement_Reached_at_the_Multi-Party_Talks_on_Northern_Ireland.pdf) |
 | Chips Joint Undertaking | [Q133884004](https://www.wikidata.org/wiki/Q133884004) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20231025101944/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1782) |
