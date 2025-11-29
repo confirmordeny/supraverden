@@ -3,7 +3,7 @@
 Arab League:
   Wikidata_code: Q7172
   Entity_type: International organisation
-  Org_family: Arab League
+  Org_family: Arab League entities
   Country: zz
   Name_en: Arab League
   Name_other_en: League of Arab States
@@ -12,8 +12,16 @@ Arab League:
 Arab Industrial Development Standardization and Mining Organization:
   Wikidata_code: Q4783189
   Entity_type: International organisation
-  Org_family: Arab League
+  Org_family: Arab League entities
   Country: zz
   Name_en: Arab Industrial Development Standardization and Mining Organization
   Abbreviation_en: AIDSMO
   Treaty_url: https://www.lloc.gov.bh/FullEn/L2479.docx
+Arab States Broadcasting Union:
+  Wikidata_code: Q4783249
+  Entity_type: International organisation
+  Org_family: Arab League entities
+  Country: zz
+  Name_en: Arab States Broadcasting Union
+  Abbreviation_en: ASBU
+  Treaty_url: https://haqqi.s3.eu-north-1.amazonaws.com/2014-04/HRIDRL0151_ArabBroadcastUnion_Ar_19.pdf
