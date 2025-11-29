@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 492 international organisations in the table.
+There are currently 493 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -23,6 +23,7 @@ There are currently 492 international organisations in the table.
 | Agreement on the Conservation of Albatrosses and Petrels | [Q331541](https://www.wikidata.org/wiki/Q331541) | none | [Treaty](https://www.acap.aq/agreement-text/206-agreement-on-the-conservation-of-albatrosses-and-petrels/file) |
 | Amazon Cooperation Treaty Organization | [Q602399](https://www.wikidata.org/wiki/Q602399) | none | [Treaty](http://www.paclii.org/pits/en/treaty_database/1999/1.html) |
 | Andean Community | [Q471690](https://www.wikidata.org/wiki/Q471690) | Andean Community entity | [Treaty](https://www.comunidadandina.org/StaticFiles/201338102616Acuerdo_Cartagena.pdf) |
+| Andean Parliament | [Q490447](https://www.wikidata.org/wiki/Q490447) | Andean Community entities | [Treaty](https://www.wipo.int/wipolex/en/text/593530) |
 | Andrés Bello convention for the educational, scientific and cultural integration of Latin America and Spain | N/A | none | [Treaty](https://convenioandresbello.org/wp-content/uploads/2021/08/tratado_constitutivo_cab_firmado.pdf) |
 | ANZUS | [Q295875](https://www.wikidata.org/wiki/Q295875) | none | [Treaty](https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Completed_Inquiries/jfadt/usrelations/appendixb) |
 | Arab Authority for Agricultural Investment and Development | N/A | none | [Treaty](https://www.lloc.gov.bh/PDF/K1108.pdf) |
