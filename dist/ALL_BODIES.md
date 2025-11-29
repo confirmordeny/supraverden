@@ -1,12 +1,13 @@
 # All Supranational Bodies
 
-There are currently 497 international organisations in the table.
+There are currently 498 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
 | Advisory Centre on World Trade Organization Law | [Q3664799](https://www.wikidata.org/wiki/Q3664799) | none | [Treaty](https://web.archive.org/web/20140224004105/http://www.minbuza.nl/en/key-topics/treaties/search-the-treaty-database/1999/11/009244.html) |
 | Africa Finance Corporation | [Q23578910](https://www.wikidata.org/wiki/Q23578910) | none | [Treaty](http://www.parliament.go.ke/sites/default/files/2025-02/Agreement%20for%20the%20Establishment%20of%20the%20Africa%20Finance%20Corporation%20and%20Explanantory%20Memorandum%20from%20the%20Foreign%20%26%20Diaspora%20Affairs.pdf) |
 | African and Malagasy Council for Higher Education | [Q2993667](https://www.wikidata.org/wiki/Q2993667) | none | [Treaty](https://scienceetbiencommun.pressbooks.pub/cames/back-matter/annexe-iv-actualisation-des-textes-juridiques-du-cames-en-2000/) |
+| African Civil Service Observatory | N/A | none | [Treaty](https://www.ofpa.net/wp-content/uploads/2017/10/nvostatuts.pdf) |
 | African Court on Human and Peoples' Rights | [Q1036440](https://www.wikidata.org/wiki/Q1036440) | African Union | [Treaty](https://www.african-court.org/wpafc/wp-content/uploads/2020/10/2-PROTOCOL-TO-THE-AFRICAN-CHARTER-ON-HUMAN-AND-PEOPLES-RIGHTS-ON-THE-ESTABLISHMENT-OF-AN-AFRICAN-COURT-ON-HUMAN-AND-PEOPLES-RIGHTS.pdf) |
 | African Development Bank | [Q340195](https://www.wikidata.org/wiki/Q340195) | African Union | [Treaty](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Legal-Documents/Agreement_establishing_the_African_development_bank_-_2016_edition.pdf) |
 | African Development Fund | [Q100411453](https://www.wikidata.org/wiki/Q100411453) | African Union | [Treaty](https://www.afdb.org/en/documents/agreement-establishing-african-development-fund-2016-edition) |
