@@ -10,6 +10,7 @@ on:
       - main
     paths:
       # Run when any of the data files change
+      - 'data/arab_league_bodies.yaml'
       - 'data/united_nations.yaml'
       - 'data/eu_bodies.yaml'
       - 'data/oas_bodies.yaml'
@@ -46,11 +47,12 @@ jobs:
 
           # Define input and output file paths
           input_files = [
-              'data/united_nations.yaml',
+              'data/arab_league_bodies.yaml',
               'data/eu_bodies.yaml',
+              'data/general_list.yaml'
               'data/oas_bodies.yaml',
               'data/north_south_bodies.yaml',
-              'data/general_list.yaml'
+              'data/united_nations.yaml'
           ]
           output_file = 'dist/ALL_BODIES.md'
 
