@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 489 international organisations in the table.
+There are currently 490 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -418,6 +418,7 @@ There are currently 489 international organisations in the table.
 | Secreriat of the Antarctic Treaty | N/A | Antarctic Treaty System | [Treaty](https://documents.ats.aq/atcm40/ww/ATCM40_ww014_e.pdf) |
 | Secretariat of the Basel Convention | N/A | UN Environment Programme | [Treaty](https://www.basel.int/TheConvention/Overview/TextoftheConvention/tabid/1275/Default.aspx) |
 | Secretariat of the BBNJ Agreement | N/A | none | [Treaty](https://www.un.org/bbnjagreement/sites/default/files/2024-08/Text%20of%20the%20Agreement%20in%20English.pdf) |
+| Secretariat of the Central European Free Trade Agreement | N/A | none | [Treaty](https://www.fdfa.be/sites/default/files/2022-01/805_Agreement%20in%20English.pdf) |
 | Secretariat of the Convention on Biological Diversity | N/A | UN Environment Programme | [Treaty](https://www.cbd.int/doc/legal/cbd-en.pdf) |
 | SESAR 3 Joint Undertaking | [Q3055255](https://www.wikidata.org/wiki/Q3055255) | EU institutions and bodies | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085) |
 | Shanghai Cooperation Organisation | [Q485207](https://www.wikidata.org/wiki/Q485207) | none | [Treaty](https://www.mea.gov.in/Portal/LegalTreatiesDoc/000M3130.pdf) |
