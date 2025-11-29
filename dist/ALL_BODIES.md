@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 496 international organisations in the table.
+There are currently 497 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -136,6 +136,7 @@ There are currently 496 international organisations in the table.
 | EU-LAC International Foundation | [Q821623](https://www.wikidata.org/wiki/Q821623) | none | [Treaty](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:22019A0412(01)&rid=1) |
 | EUCLID University | [Q3046238](https://www.wikidata.org/wiki/Q3046238) | none | [Treaty](https://www.euclid.int/documents/fa-en.pdf) |
 | Eurasian Development Bank | [Q498991](https://www.wikidata.org/wiki/Q498991) | Eurasian Economic Union | [Treaty](https://eabr.org/upload/iblock/c91/foundation-documents.pdf) |
+| Eurasian Patent Organization | [Q1374303](https://www.wikidata.org/wiki/Q1374303) | none | [Treaty](https://www.eapo.org/en/documents-2/legal-protection-of-inventions/eurasian-patent-convention/) |
 | European Agency for Safety and Health at Work | [Q571118](https://www.wikidata.org/wiki/Q571118) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | European and Mediterranean Plant Protection Organization | [Q1967903](https://www.wikidata.org/wiki/Q1967903) | none | [Treaty](https://www.eppo.int/ABOUT_EPPO/eppo_convention) |
 | European Atomic Energy Community | [Q8919](https://www.wikidata.org/wiki/Q8919) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20240828070935/https://eur-lex.europa.eu/EN/legal-content/summary/treaty-on-the-european-atomic-energy-community-euratom.html) |
