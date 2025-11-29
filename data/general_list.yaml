@@ -2439,11 +2439,21 @@ Council of the Baltic Sea States:
   Treaty_url: 
   Source: https://lagen.nu/prop/1998/99:24
 Secretariat of the Central European Free Trade Agreement:
-  Wikidata_code:
+  Wikidata_code: [No code.]
   Entity_type: International organisation
   Org_family: none
   Country: zz
   Name_en: Secretariat of the Central European Free Trade Agreement
   Abbreviation_en: CEFTA Secretariat
   Treaty_url: https://www.fdfa.be/sites/default/files/2022-01/805_Agreement%20in%20English.pdf
+  Source: 
+Andean Parliament:
+  Wikidata_code: Q490447
+  Entity_type: International organisation
+  Org_family: Andean Community entities
+  Country: zz
+  Name_en: Andean Parliament
+  Name_es: Parlamento Andino
+  Abbreviation_en:
+  Treaty_url: https://www.wipo.int/wipolex/en/text/593530
   Source: 
