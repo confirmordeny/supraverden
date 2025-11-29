@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 491 international organisations in the table.
+There are currently 492 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -28,6 +28,7 @@ There are currently 491 international organisations in the table.
 | Arab Authority for Agricultural Investment and Development | N/A | none | [Treaty](https://www.lloc.gov.bh/PDF/K1108.pdf) |
 | Arab Bank for Economic Development in Africa | [Q4783148](https://www.wikidata.org/wiki/Q4783148) | Arab League | [Treaty](https://data.qanoon.om/treaties/1974-0017AEN.pdf) |
 | Arab Center for the Studies of Arid Zones and Dry Lands | [Q30289729](https://www.wikidata.org/wiki/Q30289729) | Arab League | [Treaty](https://unesdoc.unesco.org/ark:/48223/pf0000056473) |
+| Arab Fund for Economic and Social Development | [Q1137381](https://www.wikidata.org/wiki/Q1137381) | Arab League | [Treaty](https://www.arabfund.org/wp-content/uploads/2023/12/agreement0000.pdf) |
 | Arab Fund for Economic and Social Development | [Q1137381](https://www.wikidata.org/wiki/Q1137381) | Arab League | [Treaty](https://www.arabfund.org/wp-content/uploads/2023/12/agreement0000.pdf) |
 | Arab Industrial Development Standardization and Mining Organization | [Q4783189](https://www.wikidata.org/wiki/Q4783189) | Arab League entities | [Treaty](https://www.lloc.gov.bh/FullEn/L2479.docx) |
 | Arab League | [Q7172](https://www.wikidata.org/wiki/Q7172) | Arab League entities | [Treaty](https://www.refworld.org/legal/constinstr/las/1945/en/13854) |
