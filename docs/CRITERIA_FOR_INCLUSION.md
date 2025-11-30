@@ -3,9 +3,9 @@
 # Introduction
 The aim is to create a list of international organisations. For this purpose, we will define an international organisation as a legal person created by legal agreements between countries. To be clear, this should not cover organisations that operate in multiple countries but that are created under and subject to the national law (domestic law) of one country. If, however, an organisation is created under the laws of one country but is recognised as an international organisation in its home country by being afforded special immunities and privileges then it can be included.
 
-Only organisations that are legal persons in their own right will be included. This means we will only include organisations that exist legally distinct from their individual members, that can sue and be sued and own property. Sometimes an organisation is set up without legal personality initially but legal personality is granted later to esnable the organisation to enter into contracts so that it can employ staff and obtain goods and services from suppliers. Once legal personality is granted the organisation can be included.
+Only organisations that are legal persons in their own right will be included. This means we will only include organisations that exist legally distinct from their individual members, that can sue and be sued and own property. Sometimes an organisation is set up without legal personality initially but legal personality is granted later to enable the organisation to enter into contracts so that it can employ staff and obtain goods and services from suppliers. Once legal personality is granted the organisation can be included.
 
-The legal agreement will typically be a treaty between countries but may be called something else for example a charter, statutes or a headquarters agreeement. Agreements that are not legally binding don't count. For example, an organisation or initative created by a memorandum of understanding or by exchange of letters would not be included. 
+The legal agreement will typically be a treaty between countries but may be called something else for example a charter, statutes or a headquarters agreement. Agreements that are not legally binding don't count. For example, an organisation or initiative created by a memorandum of understanding or by exchange of letters would not be included. 
 
 # How this differs from other definitions you may come across
 Some definitions of international organisation exclude organisations that are not formed by an agreement between three or more countries. In this repo, we will include organisations formed by treaties between exactly two countries (sometimes called bilateral or bipartite treaties).
@@ -18,10 +18,10 @@ Whilst in some cases international courts may be considered to form part of a la
 See also: [The Bangalore Principles of Judicial Conduct](https://www.unodc.org/documents/ji/training/bangaloreprinciples.pdf).
 
 ## European agencies
-Euopean agencies ave legal personality and are therefore included.
+European agencies have legal personality and are therefore included.
 _“A European agency is a legally constituted European public body with its own legal personality. These agencies have been created by the EU with the aim of carrying out a technical, scientific or management mission relating to a specific area. [...] They are also known as decentralised agencies and respond to the desire of the EU to reduce the geographical concentration of EU activity.”_
 
-[Decentralised europen agencies](https://learneurope.eu/the-decentralised-european-agencies/)
+[Decentralised European agencies](https://learneurope.eu/the-decentralised-european-agencies/)
 
 
 ## EU joint undertakings
@@ -43,7 +43,7 @@ Defunct organisations that still exist legally but are thought to be completely 
 Often countries enter into formal agreements to co-operate but no new organisation is created. These will not be included. As an example, AUKUS is an alliance between three countries (Australia, the United Kingdom and the United States) but the [AUKUS treaty](https://assets.publishing.service.gov.uk/media/67504f270b3e68dfc448c85f/TS_92.2024_UK_Australia_USA_Agreement_Exchange_Naval_Nuclear_Propulsion_Information.pdf) does not create a new legal person. 
 
 ## Entities established by informal agreements
-Organisations that are established through informal agreements such as memoranda of understanding (MOU) are not included. For example, the [Eastern Africa Power Pool](https://eappool.org/) is a regional institution set up through a memorandum of understanding between members (and another between utility oprators). MOUs are not legally binding.
+Organisations that are established through informal agreements such as memoranda of understanding (MOU) are not included. For example, the [Eastern Africa Power Pool](https://eappool.org/) is a regional institution set up through a memorandum of understanding between members (and another between utility operators). MOUs are not legally binding.
 
 
 
