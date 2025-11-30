@@ -10,7 +10,7 @@ The legal agreement will typically be a treaty between countries but may be call
 # How this differs from other definitions you may come across
 Some definitions of international organisation exclude organisations that are not formed by an agreement between three or more countries. In this repo, we will include organisations formed by treaties between exactly two countries (sometimes called bilateral or bipartite treaties).
 
-Some definitions of international organisation exclude 'emanations'. This means that where one international organisation was created by another international organisation it is not included on the basis that it may not be operating independently. That is not the approach taken in this repo.
+Some definitions of international organisation exclude 'emanations'. This means that where an international organisation E was created by another international organisation A, then E is not included on the basis that it may be controlled by A and not therefore operating independently. That is not the approach taken in this repo where for example EU Executive Agencies are included. 
 
 # Included
 ## International courts
