@@ -2,7 +2,7 @@
 
 # Excluded
 ## Entities established by informal agreements
-Organisations that are established through informal agreements such as memoranda of understanding (MOU) are not included. For example, [The Eastern Africa Power Pool (EAPP)](https://eappool.org/) is a regional institution set up through a memorandum of understanding between members (and another between utility oprators). MOUs are not legally binding.
+Organisations that are established through informal agreements such as memoranda of understanding (MOU) are not included. For example, the [Eastern Africa Power Pool](https://eappool.org/) is a regional institution set up through a memorandum of understanding between members (and another between utility oprators). MOUs are not legally binding.
 
 # Specific types of entity
 
