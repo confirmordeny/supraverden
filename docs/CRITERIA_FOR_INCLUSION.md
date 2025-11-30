@@ -1,4 +1,4 @@
-# criteria_for_inclusion - Not complete
+# Not complete
 
 # Specific types of entity
 
