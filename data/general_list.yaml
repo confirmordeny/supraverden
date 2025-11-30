@@ -2500,7 +2500,16 @@ Caribbean Disaster Emergency Management Agency:
   Org_family: none
   Country: zz
   Name_en: Caribbean Disaster Emergency Management Agency
-  Name_other_en:
   Abbreviation_en: CDEMA
   Treaty_url: https://www.cdema.org/cdema_agreement.pdf
   Source:
+EFTA Court:
+  Wikidata_code: Q610886
+  Entity_type: International organisation
+  Org_family: EFTA entities
+  Country: zz
+  Name_en: EFTA Court
+  Name_other_en: Court of justice of the EFTA States
+  Abbreviation_en:
+  Treaty_url:
+  Source: https://www.efta.int/sites/default/files/documents/legal-texts/the-surveillance-and-court-agreement/agreement-annexes-and-protocols/Surveillance-and-Court-Agreement-consolidated.pdf
