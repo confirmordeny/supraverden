@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 509 international organisations in the table.
+There are currently 510 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -329,6 +329,7 @@ There are currently 509 international organisations in the table.
 | International Residual Mechanism for Criminal Tribunals | [Q1667632](https://www.wikidata.org/wiki/Q1667632) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | International Road Transport Union | [Q2662574](https://www.wikidata.org/wiki/Q2662574) | none | [Treaty](https://treaties.un.org/doc/Treaties/1952/03/19520326%2003-36%20PM/Ch_XI_B_1_2_3.pdf) |
 | International Rubber Study Group | [Q131542072](https://www.wikidata.org/wiki/Q131542072) | none | [Treaty](https://www.rubberstudy.org/storage/uploads/contentfile/18902/yVf21ESEis.pdf) |
+| International Sava River Basin Commission | [Q3297537](https://www.wikidata.org/wiki/Q3297537) | none | [Treaty](https://www.savacommission.org/UserDocsImages/05_documents_publications/basic_documents/fasrb.pdf) |
 | International Science and Technology Center | [Q13415305](https://www.wikidata.org/wiki/Q13415305) | none | [Treaty](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:22017A0214(01)) |
 | International Seabed Authority | [Q333727](https://www.wikidata.org/wiki/Q333727) | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
 | International Sericultural Commission | N/A | none | [Treaty](https://inserco.org/en/sites/default/files/01Convention%20Text.pdf) |
