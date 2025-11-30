@@ -1,12 +1,13 @@
 # Work in progress
 
 # Introduction
-The aim is to create a list of international organisations. For this purpose, we will define an international organisation as a legal person created by legal agreements between countries. To be clear, this should not cover organisations that operate in multiple countries but that are created under and subject to the national law of one country. 
+The aim is to create a list of international organisations. For this purpose, we will define an international organisation as a legal person created by legal agreements between countries. To be clear, this should not cover organisations that operate in multiple countries but that are created under and subject to the national law (domestic law) of one country. 
 
 Only organisations that are legal persons in their own right will be included. This means we will only include organisations that exist legally distinct from their individual members, that can sue and be sued and own property. Sometimes an organisation is set up without legal personality initially but legal personality is granted later to esnable the organisation to enter into contracts so that it can employ staff and obtain goods and services from suppliers. Once legal personality is granted the organisation can be included.
 
 The legal agreement will typically be a treaty between countries but may be called something else for example a charter, statutes or a headquarters agreeement. Agreements that are not legally binding don't count. For example, an organisation or initative created by a memorandum of understanding or by exchange of letters would not be included. 
 
+Some definitions of internaltional organisation exclude organisations that are not formed by an agreement between three or more countris. In this repo, we will include organisations formed by treaties between exactly two countries (sometimes called bilateral or bipartite treaties).
 
 # Included
 ## International courts
