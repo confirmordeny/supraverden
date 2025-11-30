@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 502 international organisations in the table.
+There are currently 503 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -186,6 +186,7 @@ There are currently 502 international organisations in the table.
 | European Maritime Safety Agency | [Q922693](https://www.wikidata.org/wiki/Q922693) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | European Medicines Agency | [Q130146](https://www.wikidata.org/wiki/Q130146) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | European Molecular Biology Laboratory | [Q695267](https://www.wikidata.org/wiki/Q695267) | none | [Treaty](https://www.embl.org/documents/wp-content/uploads/2020/05/establishingEMBL.pdf) |
+| European Nuclear Energy Tribunal | [Q5412873](https://www.wikidata.org/wiki/Q5412873) | none | [Treaty](https://www.oecd-nea.org/jcms/pl_20499/convention-on-the-establishment-of-a-security-control-in-the-field-of-nuclear-energy-security-control-convention-and-protocol-on-the-tribunal) |
 | European Ombudsman | [Q220893](https://www.wikidata.org/wiki/Q220893) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY) |
 | European Organisation for the Exploitation of Meteorological Satellites | [Q692163](https://www.wikidata.org/wiki/Q692163) | none | [Treaty](https://docs.pca-cpa.org/2016/01/Convention-for-the-Establishment-of-a-European-Organization-for-the-Exploitation-of-Meteorological-Satellites-EUMETSAT.pdf) |
 | European Organisation for the Safety of Air Navigation | [Q663492](https://www.wikidata.org/wiki/Q663492) | none | [Treaty](https://www.interlex-portal.eu/FindLaw/Login/Index?returnUrl=%2FFindLaw%2FExport%2FExportMultiDocs%3Ftype%3Dpdf%26idsString%3D6742981) |
