@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 508 international organisations in the table.
+There are currently 509 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -366,6 +366,7 @@ There are currently 508 international organisations in the table.
 | Latin American Integration Association | [Q607301](https://www.wikidata.org/wiki/Q607301) | none | [Treaty](https://www2.aladi.org/biblioteca/Publicaciones/ALADI/Secretaria_General/Documentos_Sin_Codigos/Caja_062_001_en.pdf) |
 | Latin American Reserve Fund | N/A | Andean Community | [Treaty](https://flar.com/wp-content/uploads/2023/10/FLAR-ESP-ConvenioConstitutivo2023-V03.pdf) |
 | Latin-American Centre for Physics | N/A | none | [Treaty](http://legislacion.asamblea.gob.ni/Instrumentos.nsf/d9e9b7b996023769062578b80075d821/57af7b6e3cde7228062575430061e0ed?OpenDocument&ExpandSection=1#_Section1) |
+| Limpopo Watercourse Commission | N/A | none | [Treaty](https://limpopocommission.org/download/limpopo-water-course-commission-2003-english/#) |
 | Liptako-Gourma Region Integrated Development Authority | N/A | none | [Treaty](https://liptakogourma.org/wp-content/uploads/2020/09/Traite-revise_ALG.pdf) |
 | Mano River Union | [Q1505172](https://www.wikidata.org/wiki/Q1505172) | none | [Treaty](https://wits.worldbank.org/GPTAD/PDF/archive/MRU.pdf) |
 | Mekong River Commission | [Q935878](https://www.wikidata.org/wiki/Q935878) | none | [Treaty](https://www.mrcmekong.org/wp-content/uploads/2024/08/1995-Mekong-Agreement.pdf) |
