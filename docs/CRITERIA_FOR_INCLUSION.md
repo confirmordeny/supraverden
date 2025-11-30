@@ -1,6 +1,6 @@
 # Work in progress
 
-The aim is to create a list of international organisations. To be clear this should not cover organisations that operate in multiple countries but that are creeated under the national law of one country. 
+The aim is to create a list of international organisations created by legal agreements between countries. To be clear this should not cover organisations that operate in multiple countries but that are creeated under the national law of one country. 
 
 # Included
 ## International courts
