@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 501 international organisations in the table.
+There are currently 502 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -132,6 +132,7 @@ There are currently 501 international organisations in the table.
 | Economic Community of the Great Lakes Countries | [Q1331783](https://www.wikidata.org/wiki/Q1331783) | none | [Treaty](https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800f81f4&clang=_en) |
 | Economic Community of West African States | [Q193272](https://www.wikidata.org/wiki/Q193272) | ECOWAS entities | [Treaty](https://www.ecowas.int/wp-content/uploads/2022/06/THE-1975-TREATY-OF-ECOWAS.pdf) |
 | Economic Cooperation Organization | [Q225950](https://www.wikidata.org/wiki/Q225950) | none | [Treaty](https://eco.int/wp-content/uploads/2017/05/Agreement-on-Legal-Status-of-the-ECO-National-Representatives-and-International-Staff.pdf) |
+| Economic Court of the Commonwealth of Independent States | [Q4306397](https://www.wikidata.org/wiki/Q4306397) | none | [cis-legislation.com](https://cis-legislation.com/document.fwx?rgn=4124) |
 | ECOWAS Court of Justice | [Q30324003](https://www.wikidata.org/wiki/Q30324003) | ECOWAS entities | [www.ecowas.int](https://www.ecowas.int/institutions/community-court-of-justice/) |
 | EFTA Court | [Q610886](https://www.wikidata.org/wiki/Q610886) | EFTA entities | [www.efta.int](https://www.efta.int/sites/default/files/documents/legal-texts/the-surveillance-and-court-agreement/agreement-annexes-and-protocols/Surveillance-and-Court-Agreement-consolidated.pdf) |
 | Energy Charter Conference | [Q121286812](https://www.wikidata.org/wiki/Q121286812) | none | [Treaty](https://www.energycharter.org/fileadmin/DocumentsMedia/Legal/ECTC-en.pdf) |
