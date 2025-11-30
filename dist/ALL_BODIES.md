@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 505 international organisations in the table.
+There are currently 506 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -60,7 +60,7 @@ There are currently 505 international organisations in the table.
 | Brazilian-Argentine Agency for Accounting and Control of Nuclear Materials | [Q290585](https://www.wikidata.org/wiki/Q290585) | none | [Treaty](https://www.iaea.org/sites/default/files/infcirc435.pdf) |
 | British-Irish Council | [Q2655795](https://www.wikidata.org/wiki/Q2655795) | North South bodies | [assets.publishing.service.gov.uk](https://assets.publishing.service.gov.uk/media/619500728fa8f5037d67b678/The_Belfast_Agreement_An_Agreement_Reached_at_the_Multi-Party_Talks_on_Northern_Ireland.pdf) |
 | Bureau International des Expositions | [Q1010514](https://www.wikidata.org/wiki/Q1010514) | none | [Treaty](https://www.aph.gov.au/-/media/02_Parliamentary_Business/24_Committees/244_Joint_Committees/JSCT/2015/11August2015/ATS_39.pdf) |
-| CAB International | [Q5008528](https://www.wikidata.org/wiki/Q5008528) | Commonwealth of Nations | [Treaty](https://www.cabi.org/wp-content/uploads/PDFs/AboutCABI/CABI-Agreement-2016.pdf) |
+| CAB International | [Q5008528](https://www.wikidata.org/wiki/Q5008528) | Commonwealth of Nations entities | [Treaty](https://www.cabi.org/wp-content/uploads/PDFs/AboutCABI/CABI-Agreement-2016.pdf) |
 | CAF - Development Bank of Latin America and the Caribbean | [Q2614129](https://www.wikidata.org/wiki/Q2614129) | Andean Community | [Treaty](http://www.commonlii.org/jm/legis/consol_act/adcaa1999386.pdf) |
 | Caribbean Agricultural Research and Development Institute | [Q25339749](https://www.wikidata.org/wiki/Q25339749) | Caribbean Community entity | [Treaty](https://faolex.fao.org/docs/pdf/jam70785.pdf) |
 | Caribbean Community | [Q205995](https://www.wikidata.org/wiki/Q205995) | Caribbean Community entity | [Treaty](https://researchbriefings.files.parliament.uk/documents/CBP-7376/CBP-7376.pdf) |
@@ -99,7 +99,8 @@ There are currently 505 international organisations in the table.
 | Common Fund for Commodities | [Q604488](https://www.wikidata.org/wiki/Q604488) | none | [Treaty](https://treaties.un.org/pages/ViewDetailsIII.aspx?src=TREATY&mtdsg_no=XIX-21&chapter=19&Temp=mtdsg3&clang=_en) |
 | Common Market for Eastern and Southern Africa | [Q1165797](https://www.wikidata.org/wiki/Q1165797) | Common Market for Eastern and Southern Africa | [Treaty](https://www.comesa.int/wp-content/uploads/2019/02/comesa-treaty-revised-20092012_with-zaire_final.pdf) |
 | Commonwealth of Independent States | [Q7779](https://www.wikidata.org/wiki/Q7779) | none | [Treaty](https://www.coe.int/en/web/venice-commission/-/CDL(1994)054-e) |
-| Commonwealth Telecommunications Organisation | [Q5153868](https://www.wikidata.org/wiki/Q5153868) | Commonwealth of Nations | [Treaty]([URL for Treaty not found]) |
+| Commonwealth Secretariat | [Q3954348](https://www.wikidata.org/wiki/Q3954348) | Commonwealth of Nations entities | [www.legislation.gov.uk](https://www.legislation.gov.uk/ukpga/1966/10) |
+| Commonwealth Telecommunications Organisation | [Q5153868](https://www.wikidata.org/wiki/Q5153868) | Commonwealth of Nations entities | [Treaty]([URL for Treaty not found]) |
 | Community of Portuguese Language Countries | [Q182500](https://www.wikidata.org/wiki/Q182500) | none | [Treaty](http://www.worldlii.org/int/other/treaties/UNTSer/2003/692.pdf) |
 | Community Plant Variety Office | [Q1501010](https://www.wikidata.org/wiki/Q1501010) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | Comprehensive Nuclear-Test-Ban Treaty Organisation | [Q15211422](https://www.wikidata.org/wiki/Q15211422) | none | [Treaty](https://www.ctbto.org/sites/default/files/2023-10/2022_treaty_booklet_E.pdf) |
