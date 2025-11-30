@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 499 international organisations in the table.
+There are currently 500 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -67,6 +67,7 @@ There are currently 499 international organisations in the table.
 | Caribbean Community Implementation Agency for Crime and Security | [Q117197891](https://www.wikidata.org/wiki/Q117197891) | Caribbean Community entity | [Treaty](http://www.commonlii.org/caribbean/other/treaties/CaricomTSer/2006/9.pdf) |
 | Caribbean Court of Justice | [Q775029](https://www.wikidata.org/wiki/Q775029) | Caribbean Community entity | [Treaty](https://ccj.org/wp-content/uploads/2021/02/ccj_agreement.pdf) |
 | Caribbean Development Bank | [Q3772571](https://www.wikidata.org/wiki/Q3772571) | Caribbean Community entity | [Treaty](https://treaties.un.org/doc/Treaties/1970/01/19700126%2006-49%20AM/Ch_X_06p.pdf) |
+| Caribbean Disaster Emergency Management Agency | [Q5039374](https://www.wikidata.org/wiki/Q5039374) | none | [Treaty](https://www.cdema.org/cdema_agreement.pdf) |
 | Caribbean Examinations Council | [Q5039378](https://www.wikidata.org/wiki/Q5039378) | Caribbean Community entity | [Treaty](https://caricom.org/wp-content/uploads/Revised-Agreement-Establishing-the-Caribbean-Examinations-Council-CXC.pdf) |
 | Caribbean Meteorological Organisation | [Q5039400](https://www.wikidata.org/wiki/Q5039400) | Caribbean Community entity | [Treaty](http://www.cmo.org.tt/docs/AGREEMENT.pdf) |
 | Caribbean Telecommunications Union | [Q115803554](https://www.wikidata.org/wiki/Q115803554) | Caribbean Community entity | [Treaty](https://ctu.int/wp-content/uploads/2023/09/1.-Agreement-for-the-Establishment-of-the-Caribbean-Telecommunications-Union.pdf) |
