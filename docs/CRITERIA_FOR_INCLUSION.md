@@ -7,7 +7,10 @@ Only organisations that are legal persons in their own right will be included. T
 
 The legal agreement will typically be a treaty between countries but may be called something else for example a charter, statutes or a headquarters agreeement. Agreements that are not legally binding don't count. For example, an organisation or initative created by a memorandum of understanding or by exchange of letters would not be included. 
 
-Some definitions of internaltional organisation exclude organisations that are not formed by an agreement between three or more countris. In this repo, we will include organisations formed by treaties between exactly two countries (sometimes called bilateral or bipartite treaties).
+# How this differs from other definitions you may come across
+Some definitions of international organisation exclude organisations that are not formed by an agreement between three or more countries. In this repo, we will include organisations formed by treaties between exactly two countries (sometimes called bilateral or bipartite treaties).
+
+Some definitions of international organisation exclude 'emanations'. This means that where one international organisation was created by another international organisation it is not included on the basis that it may not be operating independently. That is not the approach taken in this repo.
 
 # Included
 ## International courts
