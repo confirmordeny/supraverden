@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 507 international organisations in the table.
+There are currently 508 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -332,6 +332,7 @@ There are currently 507 international organisations in the table.
 | International Science and Technology Center | [Q13415305](https://www.wikidata.org/wiki/Q13415305) | none | [Treaty](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:22017A0214(01)) |
 | International Seabed Authority | [Q333727](https://www.wikidata.org/wiki/Q333727) | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
 | International Sericultural Commission | N/A | none | [Treaty](https://inserco.org/en/sites/default/files/01Convention%20Text.pdf) |
+| International Solar Alliance | [Q21594952](https://www.wikidata.org/wiki/Q21594952) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/No%20Volume/54949/Part/I-54949-08000002804ed824.pdf) |
 | International Sugar Organisation | [Q691632](https://www.wikidata.org/wiki/Q691632) | none | [Treaty](https://treaties.un.org/doc/Treaties/1993/01/19930120%2004-38%20AM/Ch_XIX_37p.pdf) |
 | International Tea Promotion Association | N/A | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201128/volume-1128-I-17582-English.pdf) |
 | International Telecommunication Union | [Q376150](https://www.wikidata.org/wiki/Q376150) | UN and affiliates | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
