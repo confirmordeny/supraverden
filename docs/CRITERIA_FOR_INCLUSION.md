@@ -5,6 +5,13 @@
 Whilst in some cases international courts may be considered to form part of a larger organisation, we will list them separately. Part of the reason for this is that courts are or ought to be independent of other parts of the organisation under the principle of judicial independence.
 See also: [The Bangalore Principles of Judicial Conduct](https://www.unodc.org/documents/ji/training/bangaloreprinciples.pdf).
 
+## European agencies
+Euopean agencies ave legal personality and are therefore included.
+_“A European agency is a legally constituted European public body with its own legal personality. These agencies have been created by the EU with the aim of carrying out a technical, scientific or management mission relating to a specific area. [...] They are also known as decentralised agencies and respond to the desire of the EU to reduce the geographical concentration of EU activity.”_
+
+[Decentralised europen agencies](https://learneurope.eu/the-decentralised-european-agencies/)
+
+
 ## EU joint undertakings
 EU joint undertakings have legal personality and are therefore included.
 _“The joint undertakings shall have legal personality. In each of the Member States, they shall enjoy the most extensive legal capacity accorded to legal persons under the laws of that Member State. They may, in particular, acquire or dispose of movable and immovable property and may be a party to legal proceedings.”_
