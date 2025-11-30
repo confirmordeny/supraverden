@@ -1,6 +1,8 @@
 # Work in progress
 
-The aim is to create a list of international organisations created by legal agreements between countries. To be clear this should not cover organisations that operate in multiple countries but that are creeated under the national law of one country. 
+The aim is to create a list of international organisations created by legal agreements between countries. To be clear this should not cover organisations that operate in multiple countries but that are created under the national law of one country. 
+
+The legal agreement will typically be a treaty between countries but may be called something else for example a charter or statutes. Agreements that are not legally binding don't count. For example, an organisation or initative created by a memorandum of understanding or by exchange of letters would not be included.
 
 # Included
 ## International courts
