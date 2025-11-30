@@ -4,7 +4,7 @@
 
 ## International courts
 Whilst in some cases international courts may be considered to form part of a larger organisation, we will list them separately. Part of the reason for this is that courts are or ought to be independent of other parts of the organisation under the principle of judicial independence.
-See also: [The Bangalore Principles of Judicial Conduct](https://www.unodc.org/documents/ji/training/bangaloreprinciples.pdf)
+See also: [The Bangalore Principles of Judicial Conduct](https://www.unodc.org/documents/ji/training/bangaloreprinciples.pdf).
 
 ## EU joint undertakings
 EU joint undertakings have legal personality and are therefore included.
