@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 506 international organisations in the table.
+There are currently 507 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -251,6 +251,7 @@ There are currently 506 international organisations in the table.
 | Inter-American Development Bank | [Q1153087](https://www.wikidata.org/wiki/Q1153087) | OAS institutions and bodies | [Treaty](https://www.oas.org/dil/treaties_C-15_Agreement_Establishing_the_Inter-American_Development_Bank.htm) |
 | Inter-American Institute for Global Change Research | [Q6044567](https://www.wikidata.org/wiki/Q6044567) | none | [Treaty](https://www.iai.int/pdf/en/agreement_establishing_the_IAI_en.pdf) |
 | Inter-American Investment Corporation | N/A | none | [Treaty](https://assets.publishing.service.gov.uk/media/640b3cdc8fa8f5560820da5b/TS_11.2023_Agreement_Establishing_InterAmerican_Investment_Corporation.pdf) |
+| Inter-American Statistical Institute | [Q55725862](https://www.wikidata.org/wiki/Q55725862) | none | [www.archives.gov](https://www.archives.gov/federal-register/codification/executive-order/09698.html) |
 | Inter-American Tropical Tuna Commission | [Q3153044](https://www.wikidata.org/wiki/Q3153044) | none | [Treaty](https://web.archive.org/web/20160513131225/http://www.iattc.org/PDFFiles/IATTC_convention_1949.pdf) |
 | Intergovernmental Authority on Development | [Q499039](https://www.wikidata.org/wiki/Q499039) | none | [Treaty](https://igad.int/download/agreement-establishing-the-intergovernmental-authority-on-development-igad/#) |
 | Intergovernmental Council of Copper Exporting Countries | [Q1023742](https://www.wikidata.org/wiki/Q1023742) | none | [Treaty](https://www.austlii.edu.au/au/other/dfat/treaties/ATS/1975/43.html) |
