@@ -11,6 +11,10 @@ _“The joint undertakings shall have legal personality. In each of the Member S
 Article 3(4) of [Council Regulation (EU) 2021/2085](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R2085)
 
 # Excluded
+
+## Treaties not resulting in a new organisation
+Often countries enter into formal agreements to co-operate but no new organisation is created. These will not be included.
+
 ## Entities established by informal agreements
 Organisations that are established through informal agreements such as memoranda of understanding (MOU) are not included. For example, the [Eastern Africa Power Pool](https://eappool.org/) is a regional institution set up through a memorandum of understanding between members (and another between utility oprators). MOUs are not legally binding.
 
