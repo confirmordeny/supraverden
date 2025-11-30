@@ -423,10 +423,19 @@ Asian Infrastructure Investment Bank:
   Name_en: Asian Infrastructure Investment Bank
   Abbreviation_en: 
   Treaty_url: https://www.aiib.org/en/about-aiib/basic-documents/_download/articles-of-agreement/basic_document_english-bank_articles_of_agreement.pdf
+Commonwealth Secretariat:
+  Wikidata_code: Q3954348
+  Entity_type: International organisation
+  Org_family: Commonwealth of Nations entities
+  Country: zz
+  Name_en: Commonwealth Secretariat
+  Abbreviation_en:
+  Treaty_url:
+  Source: https://www.legislation.gov.uk/ukpga/1966/10
 Commonwealth Telecommunications Organisation:
   Wikidata_code: Q5153868
   Entity_type: International organisation
-  Org_family: Commonwealth of Nations
+  Org_family: Commonwealth of Nations entities
   Country: zz
   Name_en: Commonwealth Telecommunications Organisation
   Abbreviation_en: 
@@ -434,7 +443,7 @@ Commonwealth Telecommunications Organisation:
 CAB International:
   Wikidata_code: Q5008528
   Entity_type: International organisation
-  Org_family: Commonwealth of Nations
+  Org_family: Commonwealth of Nations entities
   Country: zz
   Name_en: CAB International
   Abbreviation_en: CABI
