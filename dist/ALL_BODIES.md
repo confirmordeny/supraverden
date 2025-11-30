@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 503 international organisations in the table.
+There are currently 504 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -351,6 +351,7 @@ There are currently 503 international organisations in the table.
 | Joint Inspection Unit of the United Nations System | [Q1500903](https://www.wikidata.org/wiki/Q1500903) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Joint Institute for Nuclear Research | [Q259517](https://www.wikidata.org/wiki/Q259517) | none | [Treaty](https://www.jinr.ru/wp-content/uploads/Advisory_Bodies/Agreement_JINR_English.pdf) |
 | Joint Vienna Institute | [Q128996047](https://www.wikidata.org/wiki/Q128996047) | none | [Treaty](https://www.elibrary.imf.org/display/book/9781451971125/ch062.xml) |
+| Judicial Committee of the Privy Council | [Q1710982](https://www.wikidata.org/wiki/Q1710982) | none | [supremecourt.uk](https://supremecourt.uk/uploads/speech_lord_hodge_jcpc_270225_03e7773ac9.pdf) |
 | Justice Studies Center for the Americas | N/A | OAS institutions and bodies | [web.archive.org](https://web.archive.org/web/20050418013202/https://www.oas.org/juridico/english/ga-res99/agres1.htm) |
 | King Abdullah Bin Abdulaziz International Centre for Interreligious and Intercultural Dialogue | [Q6324948](https://www.wikidata.org/wiki/Q6324948) | none | [Treaty](https://www.kaiciid.org/node/2641) |
 | Lake Chad Basin Commission | [Q2986599](https://www.wikidata.org/wiki/Q2986599) | none | [Treaty](https://faolex.fao.org/docs/pdf/cmr1076.pdf) |
