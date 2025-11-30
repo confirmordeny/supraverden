@@ -14,7 +14,7 @@ Some definitions of international organisation exclude 'emanations'. This means 
 
 # Included
 ## International courts
-Whilst in some cases international courts may be considered to form part of a larger organisation, we will list them separately. Part of the reason for this is that even where courts do not have legal personality, their rulings are or ought to be independent of other parts of the organisation under the principle of judicial independence.
+Legal personality is less important consideration in the context of courts because of the principle of judicial immunity. In cases where international courts form part of a larger organisation, we will list them separately. Part of the reason for this is that even where courts do not have legal personality, their rulings are or ought to be independent of other parts of the organisation under the principle of judicial independence.
 See also: [The Bangalore Principles of Judicial Conduct](https://www.unodc.org/documents/ji/training/bangaloreprinciples.pdf).
 
 ## European agencies
