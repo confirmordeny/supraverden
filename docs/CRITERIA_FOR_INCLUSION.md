@@ -30,7 +30,7 @@ Article II of the [Convention on the Privileges and Immunities of the Specialize
 Defunct organisations that still exist legally but are thought to be completely inactive are not generally included for practical reasons. The focus is on active entities.
 
 ## Treaties not resulting in a new organisation
-Often countries enter into formal agreements to co-operate but no new organisation is created. These will not be included. As an example, AUKUS is an alliance between three countries (Australia, the United Kingdom and the United States) but the treaty does not create a new legal person. 
+Often countries enter into formal agreements to co-operate but no new organisation is created. These will not be included. As an example, AUKUS is an alliance between three countries (Australia, the United Kingdom and the United States) but the [AUKUS treaty](https://assets.publishing.service.gov.uk/media/67504f270b3e68dfc448c85f/TS_92.2024_UK_Australia_USA_Agreement_Exchange_Naval_Nuclear_Propulsion_Information.pdf) does not create a new legal person. 
 
 ## Entities established by informal agreements
 Organisations that are established through informal agreements such as memoranda of understanding (MOU) are not included. For example, the [Eastern Africa Power Pool](https://eappool.org/) is a regional institution set up through a memorandum of understanding between members (and another between utility oprators). MOUs are not legally binding.
