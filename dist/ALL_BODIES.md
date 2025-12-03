@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 510 international organisations in the table.
+There are currently 511 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -34,6 +34,7 @@ There are currently 510 international organisations in the table.
 | Arab Civil Aviation Organization | [Q22686285](https://www.wikidata.org/wiki/Q22686285) | Arab League | [Treaty](https://www.legalaffairs.gov.bh/FullEn/L1295.docx) |
 | Arab Fund for Economic and Social Development | [Q1137381](https://www.wikidata.org/wiki/Q1137381) | Arab League | [Treaty](https://www.arabfund.org/wp-content/uploads/2023/12/agreement0000.pdf) |
 | Arab Industrial Development Standardization and Mining Organization | [Q4783189](https://www.wikidata.org/wiki/Q4783189) | Arab League entities | [Treaty](https://www.lloc.gov.bh/FullEn/L2479.docx) |
+| Arab Labor Organization | [Q35586998)](https://www.wikidata.org/wiki/Q35586998)) | Arab League | [Treaty](https://haqqi.s3.eu-north-1.amazonaws.com/2014-04/HRIDRL0124_ALOConstitution_Ar_1970.pdf) |
 | Arab League | [Q7172](https://www.wikidata.org/wiki/Q7172) | Arab League entities | [Treaty](https://www.refworld.org/legal/constinstr/las/1945/en/13854) |
 | Arab Maghreb Union | [Q370862](https://www.wikidata.org/wiki/Q370862) | none | [Treaty](https://wits.worldbank.org/GPTAD/PDF/archive/MAGHREB.pdf) |
 | Arab States Broadcasting Union | [Q4783249](https://www.wikidata.org/wiki/Q4783249) | Arab League entities | [Treaty](https://haqqi.s3.eu-north-1.amazonaws.com/2014-04/HRIDRL0151_ArabBroadcastUnion_Ar_19.pdf) |
