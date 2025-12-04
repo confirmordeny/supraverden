@@ -837,7 +837,17 @@ International Commission for the Protection of the Danube River:
   Country: zz
   Name_en: International Commission for the Protection of the Danube River
   Abbreviation_en: 
+  Notes: Not to be confused with the Danube Commission.
   Treaty_url: https://www.icpdr.org/sites/default/files/DRPC%20English%20ver.pdf
+Danube Commission:
+  Wikidata_code: Q911204
+  Entity_type: International organisation
+  Org_family: none
+  Country: zz
+  Name_en: Danube Commission
+  Abbreviation_en: 
+  Notes: Not to be confused with the International Commission for the Protection of the Danube River.
+  Treaty_url: https://www.danubecommission.org/uploads/doc/convention-en.pdf
 International Boundary and Water Commission:
   Wikidata_code: Q8348493
   Entity_type: International organisation
