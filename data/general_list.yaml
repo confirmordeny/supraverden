@@ -1294,8 +1294,8 @@ International Centre for Genetic Engineering and Biotechnology:
   Org_family: none
   Country: zz
   Name_en: International Centre for Genetic Engineering and Biotechnology
-  Abbreviation_en: 
-  Treaty_url: https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XIV-7&chapter=14&clang=_en
+  Abbreviation_en: ICGEB
+  Treaty_url: https://treaties.un.org/doc/source/docs/ICGEB_BG.3_21-E.pdf
 Mano River Union:
   Wikidata_code: Q1505172
   Entity_type: International organisation
@@ -1977,14 +1977,6 @@ International Centre for Advanced Mediterranean Agronomic Studies:
   Name_en: International Centre for Advanced Mediterranean Agronomic Studies
   Abbreviation_en: CIHEAM
   Treaty_url: https://www.ciheam.org/wp-content/uploads/2021/12/CIHEAM_-_Textes_constitutifs__1_-1.pdf
-International Centre of Genetic Engineering and Biotechnology:
-  Wikidata_code: Q6049095
-  Entity_type: International organisation
-  Org_family: none
-  Country: zz
-  Name_en: International Centre of Genetic Engineering and Biotechnology
-  Abbreviation_en: ICGEB
-  Treaty_url: https://treaties.un.org/doc/source/docs/ICGEB_BG.3_21-E.pdf
 International Institute of Administrative Sciences:
   Wikidata_code: Q2373849
   Entity_type: International organisation
