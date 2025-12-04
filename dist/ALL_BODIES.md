@@ -242,7 +242,6 @@ There are currently 515 international organisations in the table.
 | GUAM Organization for Democracy and Economic Development | [Q326816](https://www.wikidata.org/wiki/Q326816) | none | [Treaty](https://guam-organization.org/en/charter-of-organization-for-democracy-and-economic-development-guam/) |
 | Hague Conference on Private International Law | [Q4130823](https://www.wikidata.org/wiki/Q4130823) | none | [Treaty](https://assets.hcch.net/docs/d7d051ae-6dd1-4881-a3b5-f7dbcaad02ea.pdf) |
 | High-Level Political Forum on Sustainable Development | [Q17078095](https://www.wikidata.org/wiki/Q17078095) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
-| https://www.iea.ulaval.ca/en/treaty-text/5021 | N/A | N/A | N/A |
 | Indian Ocean Commission | [Q1115631](https://www.wikidata.org/wiki/Q1115631) | none | [Treaty](https://www.assemblee-nationale.fr/dyn/16/textes/l16b0150_accord-international.pdf) |
 | Indian Ocean Fishery Commission | [Q96186510](https://www.wikidata.org/wiki/Q96186510) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Indian Ocean Rim Association | [Q2297691](https://www.wikidata.org/wiki/Q2297691) | none | [Treaty](https://www.un.org/en/ga/sixth/70/docs/iora_charter.pdf) |
@@ -397,6 +396,7 @@ There are currently 515 international organisations in the table.
 | Northwest Atlantic Fisheries Organization | [Q580933](https://www.wikidata.org/wiki/Q580933) | none | [Treaty](https://www.nafo.int/Portals/0/PDFs/key-publications/NAFOConvention.pdf) |
 | Office of the United Nations High Commissioner for Refugees | [Q28606331](https://www.wikidata.org/wiki/Q28606331) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | OPEC Fund for International Development | [Q392787](https://www.wikidata.org/wiki/Q392787) | Organization of the Petroleum Exporting Countries | [Treaty](https://publications.opecfund.org/view/586730821/6/) |
+| Orange-Senqu River Commission | N/A | none | [Treaty](https://orasecom.org/wp-content/uploads/2020/09/ORASECOM_Agreement_Reprint-August-2012.pdf) |
 | Organisation for Economic Co-operation and Development | [Q41550](https://www.wikidata.org/wiki/Q41550) | Organisation for Economic Co-operation and Development | [Treaty](https://www.oecd.org/en/about/legal/text-of-the-convention-on-the-organisation-for-economic-co-operation-and-development.html) |
 | Organisation for Joint Armament Co-operation | N/A | none | [Treaty](https://www.occar.int/systems/file_download.ashx?pg=139&ver=2) |
 | Organisation for Joint Armament Cooperation | [Q521227](https://www.wikidata.org/wiki/Q521227) | none | [Treaty](https://www.occar.int/systems/file_download.ashx?pg=139&ver=2) |
