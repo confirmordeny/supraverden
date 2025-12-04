@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 513 international organisations in the table.
+There are currently 515 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -242,6 +242,7 @@ There are currently 513 international organisations in the table.
 | GUAM Organization for Democracy and Economic Development | [Q326816](https://www.wikidata.org/wiki/Q326816) | none | [Treaty](https://guam-organization.org/en/charter-of-organization-for-democracy-and-economic-development-guam/) |
 | Hague Conference on Private International Law | [Q4130823](https://www.wikidata.org/wiki/Q4130823) | none | [Treaty](https://assets.hcch.net/docs/d7d051ae-6dd1-4881-a3b5-f7dbcaad02ea.pdf) |
 | High-Level Political Forum on Sustainable Development | [Q17078095](https://www.wikidata.org/wiki/Q17078095) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
+| https://www.iea.ulaval.ca/en/treaty-text/5021 | N/A | N/A | N/A |
 | Indian Ocean Commission | [Q1115631](https://www.wikidata.org/wiki/Q1115631) | none | [Treaty](https://www.assemblee-nationale.fr/dyn/16/textes/l16b0150_accord-international.pdf) |
 | Indian Ocean Fishery Commission | [Q96186510](https://www.wikidata.org/wiki/Q96186510) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Indian Ocean Rim Association | [Q2297691](https://www.wikidata.org/wiki/Q2297691) | none | [Treaty](https://www.un.org/en/ga/sixth/70/docs/iora_charter.pdf) |
@@ -429,6 +430,7 @@ There are currently 513 international organisations in the table.
 | Permanent Court of Arbitration | [Q1045198](https://www.wikidata.org/wiki/Q1045198) | none | [Treaty](https://docs.pca-cpa.org/2016/01/1899-Convention-for-the-Pacific-Settlement-of-International-Disputes.pdf) |
 | Permanent Inter-State Committee for Drought Control in the Sahel | N/A | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201985/v1985.pdf) |
 | Permanent Joint Technical Commission for Nile Waters | N/A | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%20453/volume-453-I-6519-English.pdf) |
+| Permanent Okavango River Basin Water Commission | [Q96097566](https://www.wikidata.org/wiki/Q96097566) | none | [Treaty](https://www.iea.ulaval.ca/en/treaty-text/5021) |
 | Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organization | [Q15211422](https://www.wikidata.org/wiki/Q15211422) | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
 | Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organisation | [Q1480793](https://www.wikidata.org/wiki/Q1480793) | none | [Treaty](https://www.ctbto.org/sites/default/files/2022-10/Resolution_English_3.pdf) |
 | Regional Cooperation Agreement on Combating Piracy and Armed Robbery against Ships in Asia | [Q7309031](https://www.wikidata.org/wiki/Q7309031) | none | [Treaty](https://www.mofa.go.jp/mofaj/gaiko/kaiyo/pdfs/kyotei_s.pdf) |
