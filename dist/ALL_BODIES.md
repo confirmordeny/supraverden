@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 511 international organisations in the table.
+There are currently 510 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -271,11 +271,10 @@ There are currently 511 international organisations in the table.
 | International Centre for Advanced Mediterranean Agronomic Studies | [Q30255657](https://www.wikidata.org/wiki/Q30255657) | none | [Treaty](https://www.ciheam.org/wp-content/uploads/2021/12/CIHEAM_-_Textes_constitutifs__1_-1.pdf) |
 | International Centre for Agriculture Research in the Dry Areas | [Q601277](https://www.wikidata.org/wiki/Q601277) | Consultative Group on International Agricultural Research | [Treaty](https://icarda.org/sites/default/files/2020-09/ICARDA%20Charter.pdf) |
 | International Centre for Food Micro-Algae Against Malnutrition | N/A | none | [Treaty](https://treaties.un.org/doc/publication/unts/volume%202151/v2151.pdf) |
-| International Centre for Genetic Engineering and Biotechnology | [Q6049095](https://www.wikidata.org/wiki/Q6049095) | none | [Treaty](https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XIV-7&chapter=14&clang=_en) |
+| International Centre for Genetic Engineering and Biotechnology | [Q6049095](https://www.wikidata.org/wiki/Q6049095) | none | [Treaty](https://treaties.un.org/doc/source/docs/ICGEB_BG.3_21-E.pdf) |
 | International Centre for Migration Policy Development | [Q498496](https://www.wikidata.org/wiki/Q498496) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%203132/v3132.pdf) |
 | International Centre for Settlement of Investment Disputes | [Q899770](https://www.wikidata.org/wiki/Q899770) | World Bank Group | [Treaty](https://icsid.worldbank.org/sites/default/files/documents/ICSID_Convention.pdf) |
 | International Centre for the Study of the Preservation and the Restoration of Cultural Property | [Q590182](https://www.wikidata.org/wiki/Q590182) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201321/volume-1321-I-22032-English.pdf) |
-| International Centre of Genetic Engineering and Biotechnology | [Q6049095](https://www.wikidata.org/wiki/Q6049095) | none | [Treaty](https://treaties.un.org/doc/source/docs/ICGEB_BG.3_21-E.pdf) |
 | International Civil Aviation Organization | [Q125761](https://www.wikidata.org/wiki/Q125761) | UN and affiliates | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
 | International Civil Defence Organization | [Q162656](https://www.wikidata.org/wiki/Q162656) | none | [Treaty](https://icdo.org/files/documents/constitution/icdo_constitution_en.pdf) |
 | International Cocoa Organization | [Q1667326](https://www.wikidata.org/wiki/Q1667326) | none | [Treaty](https://www.icco.org/wp-content/uploads/2019/06/ICA-1986-English.pdf) |
