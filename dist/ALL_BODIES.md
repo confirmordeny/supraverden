@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 510 international organisations in the table.
+There are currently 511 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -325,6 +325,7 @@ There are currently 510 international organisations in the table.
 | International Organization for Migration | [Q472311](https://www.wikidata.org/wiki/Q472311) | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
 | International Pacific Halibut Commission | [Q6052294](https://www.wikidata.org/wiki/Q6052294) | none | [Treaty](https://www.iphc.int/uploads/pdf/basic-texts/iphc-1979-pacific-halibut-convention.pdf) |
 | International Pepper Community | [Q17022497](https://www.wikidata.org/wiki/Q17022497) | none | [Treaty](https://treaties.un.org/doc/Treaties/1972/03/19720329%2002-42%20AM/Ch_XIX_8p.pdf) |
+| International Plant Genetic Resources Institute | N/A | none | [Treaty](https://cgspace.cgiar.org/server/api/core/bitstreams/00e346a8-faa4-4e7e-a5ae-89f66b66cb92/content) |
 | International Renewable Energy Agency | [Q392739](https://www.wikidata.org/wiki/Q392739) | none | [Treaty](https://assets.publishing.service.gov.uk/media/5a807aa540f0b62302693c04/TS_8.2015_Cm_9062_WEB_ACC.pdf) |
 | International Residual Mechanism for Criminal Tribunals | [Q1667632](https://www.wikidata.org/wiki/Q1667632) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | International Road Transport Union | [Q2662574](https://www.wikidata.org/wiki/Q2662574) | none | [Treaty](https://treaties.un.org/doc/Treaties/1952/03/19520326%2003-36%20PM/Ch_XI_B_1_2_3.pdf) |
