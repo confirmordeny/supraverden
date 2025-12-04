@@ -431,7 +431,8 @@ Commonwealth Telecommunications Organisation:
   Country: zz
   Name_en: Commonwealth Telecommunications Organisation
   Abbreviation_en: 
-  Treaty_url: [URL for Treaty not found]
+  Treaty_url:
+  Source: https://assets.publishing.service.gov.uk/media/5a82bacf40f0b62305b940a4/TS_20_2017_CM_9512_WEB.pdf
 CAB International:
   Wikidata_code: Q5008528
   Entity_type: International organisation
