@@ -2535,6 +2535,15 @@ European Nuclear Energy Tribunal:
   Abbreviation_en:
   Treaty_url: https://www.oecd-nea.org/jcms/pl_20499/convention-on-the-establishment-of-a-security-control-in-the-field-of-nuclear-energy-security-control-convention-and-protocol-on-the-tribunal
   Source: 
+Central American Court of Justice:
+  Wikidata_code: Q190017
+  Entity_type: International organisation
+  Org_family: none
+  Country: zz
+  Name_en:
+  Abbreviation_en: 
+  Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201821/volume-1821-I-31191-English.pdf
+  Source:
 Judicial Committee of the Privy Council:
   Wikidata_code: Q1710982
   Entity_type: International organisation
@@ -2590,3 +2599,4 @@ International Plant Genetic Resources Institute:
   Abbreviation_en: IPGRI
   Treaty_url: https://cgspace.cgiar.org/server/api/core/bitstreams/00e346a8-faa4-4e7e-a5ae-89f66b66cb92/content
   Source:
+  
