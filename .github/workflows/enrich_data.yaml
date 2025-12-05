@@ -1,4 +1,4 @@
-name: Enrich data by adding Open Sanctions IDs from Wikidata
+name: Enrich Data (Auto-Fixing)
 
 on:
   workflow_dispatch: # Allows manual trigger button
@@ -44,7 +44,35 @@ jobs:
                   print(f"Error on {q_code}: {e}")
                   return None
 
-          # 1. Read file raw to preserve comments
+          def sanitize_yaml_lines(raw_lines):
+              """
+              Heuristics to fix common YAML errors in this specific file.
+              """
+              cleaned = []
+              for line in raw_lines:
+                  stripped = line.strip()
+                  
+                  # 1. Fix Root Indentation: If line has 1 space and ends in ':', remove space.
+                  if line.startswith(' ') and not line.startswith('  ') and stripped.endswith(':'):
+                      cleaned.append(stripped + '\n')
+                      continue
+
+                  # 2. Fix Dangling Text: 
+                  # If a line is indented, has text, is NOT a comment, and has NO colon...
+                  # It is likely a description that breaks the parser. We comment it out.
+                  if (line.startswith('  ') and 
+                      stripped and 
+                      not stripped.startswith('#') and 
+                      not stripped.startswith('-') and 
+                      ':' not in stripped):
+                      
+                      # Comment it out so YAML can parse the rest
+                      cleaned.append('# [AUTO-FIXED] ' + line)
+                  else:
+                      cleaned.append(line)
+              return cleaned
+
+          # 1. Read file
           try:
               with open(FILE_PATH, 'r', encoding='utf-8') as f:
                   lines = f.readlines()
@@ -60,8 +88,18 @@ jobs:
               else:
                   break
           
-          # 3. Parse YAML
-          data = yaml.safe_load("".join(lines))
+          # 3. Sanitize and Parse
+          clean_lines = sanitize_yaml_lines(lines)
+          
+          try:
+              data = yaml.safe_load("".join(clean_lines))
+          except yaml.YAMLError as exc:
+              print("---------------------------------------------------")
+              print("STILL FAILING. Here is the context of the error:")
+              print(exc)
+              print("---------------------------------------------------")
+              sys.exit(1)
+
           if not data:
               print("No data found.")
               sys.exit(0)
@@ -77,6 +115,11 @@ jobs:
                       continue
 
                   w_code = str(info['Wikidata_code']).strip()
+                  
+                  # Basic validation that it looks like a Q-code (e.g. Q123)
+                  if not w_code.startswith('Q'):
+                      continue
+
                   print(f"Checking {name} ({w_code})...")
                   
                   os_id = get_opensanctions_id(w_code)
