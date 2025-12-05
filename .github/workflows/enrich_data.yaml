@@ -1,4 +1,4 @@
-name: Enrich Data (Final Fix)
+name: Enrich data using Wikidata
 
 on:
   workflow_dispatch: # Allows manual trigger button
