@@ -34,7 +34,8 @@ jobs:
           # Add any other files you want to process here
           TARGET_FILES = [
               'data/general_list.yaml',
-              'data/eu_bodies.yaml'
+              'data/eu_bodies.yaml',
+              'united_nations.yaml'
           ]
           
           WIKIDATA_URL = "https://query.wikidata.org/sparql"
