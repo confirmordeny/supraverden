@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 515 international organisations in the table.
+There are currently 516 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -321,6 +321,7 @@ There are currently 515 international organisations in the table.
 | International Oil Pollution Compensation Fund | N/A | none | [Treaty](https://iopcfunds.org/wp-content/uploads/2018/03/69CLC_e.pdf) |
 | International Oil Pollution Compensation Fund 1992 | N/A | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201956/v1956.pdf) |
 | International Olive Council | [Q13516775](https://www.wikidata.org/wiki/Q13516775) | none | [Treaty](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A22016A1028%2801%29) |
+| International Organisation for the Development of Fisheries in Eastern and Central Europe | N/A | none | [Treaty](https://faolex.fao.org/treaty/docs/tre000049E.pdf) |
 | International Organisation of La Francophonie | [Q134102](https://www.wikidata.org/wiki/Q134102) | none | [Treaty](https://www.francophonie.org/sites/default/files/2019-09/charte_francophonie_antananarivo_2005.pdf) |
 | International Organisation of Legal Metrology | [Q1667416](https://www.wikidata.org/wiki/Q1667416) | none | [Treaty](https://www.oiml.org/en/files/pdf_b/b001-e68.pdf) |
 | International Organisation of Vine and Wine | [Q1317185](https://www.wikidata.org/wiki/Q1317185) | none | [Treaty](https://www.oiv.int/sites/default/files/documents/en-oiv-accord-20010403.pdf) |
