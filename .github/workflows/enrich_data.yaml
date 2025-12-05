@@ -37,7 +37,7 @@ jobs:
               'data/arab_league_bodies.yaml',
               'data/eu_bodies.yaml',
               'data/north_south_bodies.yaml',
-              'data/oas_bodies.yaml'
+              'data/oas_bodies.yaml',
               'data/united_nations.yaml'
           ]
           
