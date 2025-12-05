@@ -1,4 +1,4 @@
-name: Enrich Data (Auto-Fixing)
+name: Enrich Data (Final Fix)
 
 on:
   workflow_dispatch: # Allows manual trigger button
@@ -27,6 +27,7 @@ jobs:
           import yaml
           import requests
           import sys
+          import re  # <--- Added regex support
 
           # --- CONFIGURATION ---
           FILE_PATH = 'data/general_list.yaml'
@@ -46,10 +47,11 @@ jobs:
 
           def sanitize_yaml_lines(raw_lines):
               """
-              Heuristics to fix common YAML errors in this specific file.
+              Fixes indentation, dangling text, and unquoted brackets.
               """
               cleaned = []
               for line in raw_lines:
+                  original_line = line
                   stripped = line.strip()
                   
                   # 1. Fix Root Indentation: If line has 1 space and ends in ':', remove space.
@@ -57,16 +59,27 @@ jobs:
                       cleaned.append(stripped + '\n')
                       continue
 
-                  # 2. Fix Dangling Text: 
+                  # 2. Fix Unquoted Brackets (The error you just saw)
+                  # If value starts with [ and ends with . (like "[No code found]."), wrap in quotes.
+                  if ':' in stripped and '[' in stripped:
+                      # Regex looks for: Key: [Something].
+                      # We replace it with: Key: "[Something]."
+                      if re.search(r':\s*\[.*\]\.?$', stripped):
+                          # Wrap the value part in quotes
+                          key, val = stripped.split(':', 1)
+                          val = val.strip()
+                          new_line = f'{line.split(":")[0]}: "{val}"\n'
+                          cleaned.append(new_line)
+                          continue
+
+                  # 3. Fix Dangling Text: 
                   # If a line is indented, has text, is NOT a comment, and has NO colon...
-                  # It is likely a description that breaks the parser. We comment it out.
                   if (line.startswith('  ') and 
                       stripped and 
                       not stripped.startswith('#') and 
                       not stripped.startswith('-') and 
                       ':' not in stripped):
                       
-                      # Comment it out so YAML can parse the rest
                       cleaned.append('# [AUTO-FIXED] ' + line)
                   else:
                       cleaned.append(line)
@@ -95,7 +108,7 @@ jobs:
               data = yaml.safe_load("".join(clean_lines))
           except yaml.YAMLError as exc:
               print("---------------------------------------------------")
-              print("STILL FAILING. Here is the context of the error:")
+              print("STILL FAILING. Context:")
               print(exc)
               print("---------------------------------------------------")
               sys.exit(1)
@@ -116,8 +129,8 @@ jobs:
 
                   w_code = str(info['Wikidata_code']).strip()
                   
-                  # Basic validation that it looks like a Q-code (e.g. Q123)
-                  if not w_code.startswith('Q'):
+                  # Validation: Must start with Q and be a valid code (no brackets)
+                  if not w_code.startswith('Q') or '[' in w_code:
                       continue
 
                   print(f"Checking {name} ({w_code})...")
