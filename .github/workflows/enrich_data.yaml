@@ -1,4 +1,4 @@
-name: Enrich data using Wikidata
+name: Enrich Data (Multi-File)
 
 on:
   workflow_dispatch: # Allows manual trigger button
@@ -27,10 +27,16 @@ jobs:
           import yaml
           import requests
           import sys
-          import re  # <--- Added regex support
+          import re
+          import os
 
           # --- CONFIGURATION ---
-          FILE_PATH = 'data/general_list.yaml'
+          # Add any other files you want to process here
+          TARGET_FILES = [
+              'data/general_list.yaml',
+              'data/eu_bodies.yaml'
+          ]
+          
           WIKIDATA_URL = "https://query.wikidata.org/sparql"
           USER_AGENT = "SupraverdenBot/1.0 (github.com/confirmordeny/supraverden)"
 
@@ -42,117 +48,120 @@ jobs:
                   bindings = resp.json().get('results', {}).get('bindings', [])
                   return bindings[0]['id']['value'] if bindings else None
               except Exception as e:
-                  print(f"Error on {q_code}: {e}")
+                  print(f"  [!] Error fetching {q_code}: {e}")
                   return None
 
           def sanitize_yaml_lines(raw_lines):
-              """
-              Fixes indentation, dangling text, and unquoted brackets.
-              """
+              """Fixes indentation, dangling text, and unquoted brackets."""
               cleaned = []
               for line in raw_lines:
                   original_line = line
                   stripped = line.strip()
                   
-                  # 1. Fix Root Indentation: If line has 1 space and ends in ':', remove space.
+                  # 1. Fix Root Indentation
                   if line.startswith(' ') and not line.startswith('  ') and stripped.endswith(':'):
                       cleaned.append(stripped + '\n')
                       continue
 
-                  # 2. Fix Unquoted Brackets (The error you just saw)
-                  # If value starts with [ and ends with . (like "[No code found]."), wrap in quotes.
+                  # 2. Fix Unquoted Brackets (e.g. "[No code found].")
                   if ':' in stripped and '[' in stripped:
-                      # Regex looks for: Key: [Something].
-                      # We replace it with: Key: "[Something]."
                       if re.search(r':\s*\[.*\]\.?$', stripped):
-                          # Wrap the value part in quotes
                           key, val = stripped.split(':', 1)
                           val = val.strip()
-                          new_line = f'{line.split(":")[0]}: "{val}"\n'
-                          cleaned.append(new_line)
+                          cleaned.append(f'{line.split(":")[0]}: "{val}"\n')
                           continue
 
-                  # 3. Fix Dangling Text: 
-                  # If a line is indented, has text, is NOT a comment, and has NO colon...
-                  if (line.startswith('  ') and 
-                      stripped and 
+                  # 3. Fix Dangling Text
+                  if (line.startswith('  ') and stripped and 
                       not stripped.startswith('#') and 
                       not stripped.startswith('-') and 
                       ':' not in stripped):
-                      
                       cleaned.append('# [AUTO-FIXED] ' + line)
                   else:
                       cleaned.append(line)
               return cleaned
 
-          # 1. Read file
-          try:
-              with open(FILE_PATH, 'r', encoding='utf-8') as f:
+          def process_file(file_path):
+              print(f"\n--- Processing {file_path} ---")
+              
+              if not os.path.exists(file_path):
+                  print(f"Skipping: File not found.")
+                  return False
+
+              # 1. Read file
+              with open(file_path, 'r', encoding='utf-8') as f:
                   lines = f.readlines()
-          except FileNotFoundError:
-              print(f"File not found: {FILE_PATH}")
-              sys.exit(1)
 
-          # 2. Extract Header (lines starting with #)
-          header = ""
-          for line in lines:
-              if line.strip().startswith("#") or line.strip() == "":
-                  header += line
+              # 2. Extract Header
+              header = ""
+              for line in lines:
+                  if line.strip().startswith("#") or line.strip() == "":
+                      header += line
+                  else:
+                      break
+              
+              # 3. Sanitize and Parse
+              clean_lines = sanitize_yaml_lines(lines)
+              try:
+                  data = yaml.safe_load("".join(clean_lines))
+              except yaml.YAMLError as exc:
+                  print(f"CRITICAL: Could not parse {file_path}. Skipping.")
+                  print(exc)
+                  return False
+
+              if not data:
+                  print("No data found.")
+                  return False
+
+              updated_count = 0
+              print(f"Scanning {len(data)} items...")
+
+              # 4. Iterate and Fetch
+              for name, info in data.items():
+                  if isinstance(info, dict) and 'Wikidata_code' in info:
+                      if 'OpenSanctions_id' in info:
+                          continue
+
+                      w_code = str(info['Wikidata_code']).strip()
+                      
+                      # Validation
+                      if not w_code.startswith('Q') or '[' in w_code:
+                          continue
+
+                      print(f"Checking {name} ({w_code})...")
+                      
+                      os_id = get_opensanctions_id(w_code)
+                      if os_id:
+                          info['OpenSanctions_id'] = os_id
+                          print(f"  -> Found: {os_id}")
+                          updated_count += 1
+
+              # 5. Save if changes made
+              if updated_count > 0:
+                  with open(file_path, 'w', encoding='utf-8') as f:
+                      f.write(header)
+                      yaml.dump(data, f, default_flow_style=False, sort_keys=False, allow_unicode=True)
+                  print(f"Successfully updated {updated_count} records in {file_path}.")
+                  return True
               else:
-                  break
-          
-          # 3. Sanitize and Parse
-          clean_lines = sanitize_yaml_lines(lines)
-          
-          try:
-              data = yaml.safe_load("".join(clean_lines))
-          except yaml.YAMLError as exc:
-              print("---------------------------------------------------")
-              print("STILL FAILING. Context:")
-              print(exc)
-              print("---------------------------------------------------")
-              sys.exit(1)
+                  print(f"No new IDs found for {file_path}.")
+                  return False
 
-          if not data:
-              print("No data found.")
-              sys.exit(0)
+          # --- MAIN LOOP ---
+          any_updates = False
+          for f in TARGET_FILES:
+              if process_file(f):
+                  any_updates = True
 
-          updated_count = 0
-          print(f"Scanning {len(data)} items...")
-
-          # 4. Iterate and Fetch
-          for name, info in data.items():
-              if isinstance(info, dict) and 'Wikidata_code' in info:
-                  # Skip if already exists
-                  if 'OpenSanctions_id' in info:
-                      continue
-
-                  w_code = str(info['Wikidata_code']).strip()
-                  
-                  # Validation: Must start with Q and be a valid code (no brackets)
-                  if not w_code.startswith('Q') or '[' in w_code:
-                      continue
-
-                  print(f"Checking {name} ({w_code})...")
-                  
-                  os_id = get_opensanctions_id(w_code)
-                  if os_id:
-                      info['OpenSanctions_id'] = os_id
-                      print(f"  -> Found: {os_id}")
-                      updated_count += 1
-
-          # 5. Save if changes made
-          if updated_count > 0:
-              with open(FILE_PATH, 'w', encoding='utf-8') as f:
-                  f.write(header)
-                  yaml.dump(data, f, default_flow_style=False, sort_keys=False, allow_unicode=True)
-              print(f"Successfully updated {updated_count} records.")
-          else:
-              print("No new IDs found.")
+          if not any_updates:
+              print("\nNo changes made to any files.")
 
       - name: Commit changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/general_list.yaml
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update OpenSanctions IDs via Wikidata" && git push)
+          
+          # Add all YAML files in data folder that might have changed
+          git add data/*.yaml
+          
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update OpenSanctions IDs in multiple files" && git push)
