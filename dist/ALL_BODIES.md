@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 518 international organisations in the table.
+There are currently 519 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -285,6 +285,7 @@ There are currently 518 international organisations in the table.
 | International Commission for the Conservation of Atlantic Tunas | [Q840267](https://www.wikidata.org/wiki/Q840267) | none | [Treaty](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A21986A0618%2801%29) |
 | International Commission for the Protection of the Danube River | [Q699466](https://www.wikidata.org/wiki/Q699466) | none | [Treaty](https://www.icpdr.org/sites/default/files/DRPC%20English%20ver.pdf) |
 | International Commission for the Protection of the Elbe River | [Q998153](https://www.wikidata.org/wiki/Q998153) | none | [Treaty](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:21993A0223%2801%29&rid=1) |
+| International Commission for the Protection of the Rhine | [Q1667341](https://www.wikidata.org/wiki/Q1667341) | none | [Treaty](https://www.iksr.org/fileadmin/user_upload/DKDM/Dokumente/Rechtliche_Basis/EN/legal_En_1999.pdf) |
 | International Commission on Civil Status | [Q677893](https://www.wikidata.org/wiki/Q677893) | none | [Treaty](https://ciec1.org/wp-content/uploads/2025/03/Rules_of_the_ICCS.pdf) |
 | International Commission on Missing Persons | [Q676812](https://www.wikidata.org/wiki/Q676812) | none | [Treaty](https://assets.publishing.service.gov.uk/media/5a80296de5274a2e87db836f/TS_9.2015_Cm_9063_WEB_ACC.pdf) |
 | International Committee of Military Medicine | [Q1257637](https://www.wikidata.org/wiki/Q1257637) | none | [Treaty](https://cimm-icmm.org/wp-content/uploads/2025/03/241008-ENG-Statutes-of-the-ICMM.pdf) |
