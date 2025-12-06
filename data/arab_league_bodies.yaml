@@ -81,3 +81,11 @@ Arab Labor Organization:
   Name_en: Arab Labor Organization
   Abbreviation_en:
   Treaty_url: https://haqqi.s3.eu-north-1.amazonaws.com/2014-04/HRIDRL0124_ALOConstitution_Ar_1970.pdf
+Arab Monetary Fund:
+  Wikidata_code: Q624307
+  Entity_type: International organisation
+  Org_family:  Arab League
+  Country: zz
+  Name_en: Arab Monetary Fund
+  Abbreviation_en: AMF
+  Treaty_url: https://www.amf.org.ae/sites/default/files/uploads/The%20Articles%20of%20Agreement%20of%20the%20AMF%20-%20English_0.pdf
