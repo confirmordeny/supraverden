@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 522 international organisations in the table.
+There are currently 523 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -41,6 +41,7 @@ There are currently 522 international organisations in the table.
 | Arab States Broadcasting Union | [Q4783249](https://www.wikidata.org/wiki/Q4783249) | Arab League entities | [Treaty](https://haqqi.s3.eu-north-1.amazonaws.com/2014-04/HRIDRL0151_ArabBroadcastUnion_Ar_19.pdf) |
 | Arab Women Organization | [Q12245743](https://www.wikidata.org/wiki/Q12245743) | Arab League | [Treaty](https://www.lloc.gov.bh/FullEn/L2402.docx) |
 | Arctic Council | [Q674182](https://www.wikidata.org/wiki/Q674182) | none | [Treaty](https://oaarchive.arctic-council.org/server/api/core/bitstreams/bdc15f51-fb91-4e0d-9037-3e8618e7b98f/content) |
+| Arms Trade Treaty Secretariat | N/A | none | [Treaty](https://www.fedlex.admin.ch/eli/cc/2016/477/fr) |
 | ASEAN Free Trade Area | [Q297472](https://www.wikidata.org/wiki/Q297472) | Association of Southeast Asian Nations | [Treaty](https://web.archive.org/web/20070614155734/http://www.worldtradelaw.net/fta/agreements/afta.pdf) |
 | Asia-Pacific Economic Cooperation Secretariat | N/A | none | [Treaty](https://www.apec.org/meeting-papers/annual-ministerial-meetings/1992/1992_amm/annex3) |
 | Asia-Pacific Fishery Commission | [Q4806252](https://www.wikidata.org/wiki/Q4806252) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
