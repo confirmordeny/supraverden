@@ -1,4 +1,4 @@
-name: Enrich Data (Multi-File)
+name: Enrich data with data from Wikidata
 
 on:
   workflow_dispatch: # Allows manual trigger button
