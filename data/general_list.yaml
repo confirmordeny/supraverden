@@ -1485,6 +1485,15 @@ African Regional Intellectual Property Organization:
   Name_en: African Regional Intellectual Property Organization
   Abbreviation_en: ARIPO
   Treaty_url: https://www.wipo.int/wipolex/en/text/588142
+African Intellectual Property organisation:
+  Wikidata_code: Q1476775
+  Entity_type: International organisation
+  Org_family: none
+  Country: zz
+  Name_en: African Intellectual Property organisation
+  Abbreviation_en: OAPI
+  Treaty_url: https://www.wipo.int/wipolex/en/text/582620
+  Notes: The abbreviation "OAPI" is used even in English.
 Convention for the Conservation of Antarctic Marine Living Resources:
   Wikidata_code: Q97382426
   Entity_type: International organisation
