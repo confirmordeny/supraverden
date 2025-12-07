@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 524 international organisations in the table.
+There are currently 525 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -318,6 +318,7 @@ There are currently 524 international organisations in the table.
 | International Labour Organization | [Q54129](https://www.wikidata.org/wiki/Q54129) | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
 | International Law Commission | [Q684656](https://www.wikidata.org/wiki/Q684656) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | International Lead and Zinc Study Group | [Q12131043](https://www.wikidata.org/wiki/Q12131043) | none | [Treaty](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A32001D0221) |
+| International Livestock Research Institute | [Q1666743](https://www.wikidata.org/wiki/Q1666743) | CGIAR | [Treaty](https://hdl.handle.net/10568/67391) |
 | International Maritime Organization | [Q201054](https://www.wikidata.org/wiki/Q201054) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | International Meuse Commission | [Q124290267](https://www.wikidata.org/wiki/Q124290267) | none | [Treaty](https://web.archive.org/web/20220523160539/http://environnement.wallonie.be/legis/international/accord004.htm) |
 | International Mobile Satellite Organization | [Q1666759](https://www.wikidata.org/wiki/Q1666759) | none | [Treaty](https://imso.org/wp-content/uploads/2025/03/IMSO-C-1976-A-5-Resolution-A.529-E-F-S-R-1.pdf) |
