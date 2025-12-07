@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 525 international organisations in the table.
+There are currently 526 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -14,6 +14,7 @@ There are currently 525 international organisations in the table.
 | African Development Fund | [Q100411453](https://www.wikidata.org/wiki/Q100411453) | African Union | [Treaty](https://www.afdb.org/en/documents/agreement-establishing-african-development-fund-2016-edition) |
 | African Export-Import Bank | [Q4689766](https://www.wikidata.org/wiki/Q4689766) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201890/volume-1890-I-32192-English.pdf) |
 | African Groundnut Council | [Q4689777](https://www.wikidata.org/wiki/Q4689777) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%20846/volume-846-I-12123-English.pdf) |
+| African Intellectual Property organisation | [Q1476775](https://www.wikidata.org/wiki/Q1476775) | none | [Treaty](https://www.wipo.int/wipolex/en/text/582620) |
 | African Regional Intellectual Property Organization | [Q384434](https://www.wikidata.org/wiki/Q384434) | none | [Treaty](https://www.wipo.int/wipolex/en/text/588142) |
 | African Telecommunications Union | [Q4689935](https://www.wikidata.org/wiki/Q4689935) | none | [Treaty](https://atuuat.africa/wp-content/uploads/2019/11/ATU-Constitution-and-Convention-Cape-Town-1999-Rev.-Harare-2014.pdf) |
 | African Trade and Investment Development Insurance | [Q60742417](https://www.wikidata.org/wiki/Q60742417) | Common Market for Eastern and Southern Africa | [Treaty](https://www.atidi.africa/wp-content/uploads/2023/10/ATI-Treaty-2022-001-Certified-091023-Stamped.pdf) |
