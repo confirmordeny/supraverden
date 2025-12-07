@@ -1434,7 +1434,7 @@ International Centre for Settlement of Investment Disputes:
 Center for International Forestry Research and World Agroforestry:
   Wikidata_code: Q121461382
   Entity_type: International organisation
-  Org_family: Consultative Group on International Agricultural Research
+  Org_family: CGIAR
   Country: zz
   Name_en: Center for International Forestry Research and World Agroforestry
   Abbreviation_en: CIFOR-ICRAF
@@ -2272,18 +2272,19 @@ International Centre for the Study of the Preservation and the Restoration of Cu
     of Cultural Property
   Abbreviation_en: ICCROM
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201321/volume-1321-I-22032-English.pdf
-Consultative Group on International Agricultural Research:
+CGIAR System Organization :
   Wikidata_code: Q1128401
   Entity_type: International organisation
-  Org_family: none
+  Org_family: CGIAR
   Country: zz
   Name_en: Consultative Group on International Agricultural Research
+  Name_former_en: CGIAR
   Abbreviation_en: CGIAR
   Treaty_url: https://cgspace.cgiar.org/server/api/core/bitstreams/8aa699f3-1099-4d0d-af47-9892a0604f55/content?authentication-token=eyJhbGciOiJIUzI1NiJ9.eyJlaWQiOiI2NjVlOTAxZS00OGNiLTRlYmEtOGMzZi1kMGVjNDMxNzNkZDQiLCJzZyI6W10sImF1dGhlbnRpY2F0aW9uTWV0aG9kIjoicGFzc3dvcmQiLCJleHAiOjE3MzM1ODAzOTd9.kiKKOV7F05wemIxZhZobZxGuIxQ2BCVcoD9T8sCWg5A
 International Centre for Agriculture Research in the Dry Areas:
   Wikidata_code: Q601277
   Entity_type: International organisation
-  Org_family: Consultative Group on International Agricultural Research
+  Org_family: CGIAR
   Country: zz
   Name_en: International Centre for Agriculture Research in the Dry Areas
   Abbreviation_en: ICARDA
