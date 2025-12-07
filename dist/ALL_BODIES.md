@@ -6,7 +6,7 @@ There are currently 524 international organisations in the table.
 |---|---|---|---|
 | Advisory Centre on World Trade Organization Law | [Q3664799](https://www.wikidata.org/wiki/Q3664799) | none | [Treaty](https://web.archive.org/web/20140224004105/http://www.minbuza.nl/en/key-topics/treaties/search-the-treaty-database/1999/11/009244.html) |
 | Africa Finance Corporation | [Q23578910](https://www.wikidata.org/wiki/Q23578910) | none | [Treaty](http://www.parliament.go.ke/sites/default/files/2025-02/Agreement%20for%20the%20Establishment%20of%20the%20Africa%20Finance%20Corporation%20and%20Explanantory%20Memorandum%20from%20the%20Foreign%20%26%20Diaspora%20Affairs.pdf) |
-| Africa Rice Center | [Q383924](https://www.wikidata.org/wiki/Q383924) | none | [Treaty](https://faolex.fao.org/docs/pdf/mul215505.pdf) |
+| Africa Rice Center | [Q383924](https://www.wikidata.org/wiki/Q383924) | CGIAR | [Treaty](https://faolex.fao.org/docs/pdf/mul215505.pdf) |
 | African and Malagasy Council for Higher Education | [Q2993667](https://www.wikidata.org/wiki/Q2993667) | none | [Treaty](https://scienceetbiencommun.pressbooks.pub/cames/back-matter/annexe-iv-actualisation-des-textes-juridiques-du-cames-en-2000/) |
 | African Civil Service Observatory | N/A | none | [Treaty](https://www.ofpa.net/wp-content/uploads/2017/10/nvostatuts.pdf) |
 | African Court of Justice and Human Rights | [Q24963791](https://www.wikidata.org/wiki/Q24963791) | African Union | [Treaty](https://www.peaceau.org/uploads/protocol-statute-african-court-justice-and-human-rights-en.pdf) |
