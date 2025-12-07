@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 527 international organisations in the table.
+There are currently 528 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -354,6 +354,7 @@ There are currently 527 international organisations in the table.
 | International Trade Centre | [Q1184878](https://www.wikidata.org/wiki/Q1184878) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | International Tribunal for the Law of the Sea | [Q639118](https://www.wikidata.org/wiki/Q639118) | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
 | International Tropical Timber Organisation | [Q869610](https://www.wikidata.org/wiki/Q869610) | none | [Treaty](https://www.itto.int/direct/topics/topics_pdf_download/topics_id=3363&no=1&disp=inline) |
+| International Union for Conservation of Nature and Natural Resources | [Q48268](https://www.wikidata.org/wiki/Q48268) | none | [Treaty](https://portals.iucn.org/library/sites/library/files/documents/2024-019-En.pdf) |
 | International Union for the Protection of New Varieties of Plants | [Q690318](https://www.wikidata.org/wiki/Q690318) | none | [Treaty](https://www.upov.int/edocs/pubdocs/en/upov_pub_221.pdf) |
 | International Vaccine Institute | [Q6054186](https://www.wikidata.org/wiki/Q6054186) | none | [Treaty](https://www.ivi.int/wp-content/uploads/2022/03/IVI_Est_Agreement__Constitution_amended-_English.pdf) |
 | International Visegrad Fund | [Q11783874](https://www.wikidata.org/wiki/Q11783874) | none | [Treaty](https://s3.eu-central-1.amazonaws.com/uploads.mangoweb.org/shared-prod/visegradfund.org/uploads/2018/12/IVF_statute.pdf) |
