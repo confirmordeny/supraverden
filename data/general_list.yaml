@@ -2731,3 +2731,13 @@ International Rice Research Institute:
   Abbreviation_en: IRRI
   Treaty_url: https://www.austlii.edu.au/cgi-bin/viewdoc/au/other/dfat/treaties/2001/6.html
   Source: 
+International Union for Conservation of Nature and Natural Resources:
+  Wikidata_code: Q48268
+  Entity_type: International organisation
+  Org_family: none
+  Country: zz
+  Name_en: International Union for Conservation of Nature and Natural Resources
+  Name_other_en: International Union for Conservation of Nature
+  Abbreviation_en: IUCN
+  Treaty_url: https://portals.iucn.org/library/sites/library/files/documents/2024-019-En.pdf
+  Source: https://iucn.org/sites/default/files/2022-05/1948-001.pdf
