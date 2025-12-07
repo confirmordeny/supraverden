@@ -5,6 +5,7 @@ The aim is to create a list of international organisations. For this purpose, we
 
 Only organisations that are legal persons in their own right will be included. This means we will only include organisations that exist legally distinct from their individual members, that can sue and be sued and own property. Sometimes an organisation is set up without legal personality initially but legal personality is granted later to enable the organisation to enter into contracts so that it can employ staff and obtain goods and services from suppliers. Once legal personality is granted the organisation can be included.
 
+# What is meant by a legal agreement?
 The legal agreement will typically be a treaty between countries but may be called something else for example a charter, statutes or a headquarters agreement. Agreements that are not legally binding don't count. For example, an organisation or initiative created by a memorandum of understanding or by exchange of letters would not be included. 
 
 # How this differs from other definitions you may come across
