@@ -130,7 +130,7 @@ jobs:
             f.write('<!--\\n')
             f.write('  **WARNING!**\\n')
             f.write('  This file is auto-generated. Do not edit it directly as your changes will be overwritten.\\n')
-            f.write(f'  Please edit the source file `{input_file}` instead.\\n')
+            f.write(f'  Please edit the source file `{input_file}`instead.\\n')
             f.write('-->\\n\\n')
             f.write(markdown_content)
               
