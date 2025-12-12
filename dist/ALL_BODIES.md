@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 528 international organisations in the table.
+There are currently 529 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -337,6 +337,7 @@ There are currently 528 international organisations in the table.
 | International Pacific Halibut Commission | [Q6052294](https://www.wikidata.org/wiki/Q6052294) | none | [Treaty](https://www.iphc.int/uploads/pdf/basic-texts/iphc-1979-pacific-halibut-convention.pdf) |
 | International Pepper Community | [Q17022497](https://www.wikidata.org/wiki/Q17022497) | none | [Treaty](https://treaties.un.org/doc/Treaties/1972/03/19720329%2002-42%20AM/Ch_XIX_8p.pdf) |
 | International Plant Genetic Resources Institute | N/A | none | [Treaty](https://cgspace.cgiar.org/server/api/core/bitstreams/00e346a8-faa4-4e7e-a5ae-89f66b66cb92/content) |
+| International Potato Center | [Q1054322](https://www.wikidata.org/wiki/Q1054322) | CGIAR | [Treaty](https://hdl.handle.net/10947/3876) |
 | International Renewable Energy Agency | [Q392739](https://www.wikidata.org/wiki/Q392739) | none | [Treaty](https://assets.publishing.service.gov.uk/media/5a807aa540f0b62302693c04/TS_8.2015_Cm_9062_WEB_ACC.pdf) |
 | International Residual Mechanism for Criminal Tribunals | [Q1667632](https://www.wikidata.org/wiki/Q1667632) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | International Rice Research Institute | [Q1204921](https://www.wikidata.org/wiki/Q1204921) | CGIAR | [Treaty](https://www.austlii.edu.au/cgi-bin/viewdoc/au/other/dfat/treaties/2001/6.html) |
