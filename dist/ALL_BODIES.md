@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 529 international organisations in the table.
+There are currently 530 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -276,6 +276,7 @@ There are currently 529 international organisations in the table.
 | International Boundary Commission | [Q29467091](https://www.wikidata.org/wiki/Q29467091) | none | [Treaty](https://www.internationalboundarycommission.org/uploads/treaties/treaty%20of%201908%20(english).pdf) |
 | International Bureau of Weights and Measures | [Q229478](https://www.wikidata.org/wiki/Q229478) | none | [Treaty](https://www.bipm.org/documents/20126/44107685/metre-convention.pdf/cd9c9e57-0cc6-4cda-2930-ec1d7c853743?version=1.9&t=1686910612244&download=true) |
 | International Center for Promotion of Enterprises | [Q6049045](https://www.wikidata.org/wiki/Q6049045) | none | [Treaty](https://icpe.int/wp-content/uploads/2025/03/ICPE-Statute_signed.pdf.pdf) |
+| International Center for Tropical Agriculture | [Q1054314](https://www.wikidata.org/wiki/Q1054314) | CGIAR | [Treaty](https://hdl.handle.net/10947/420) |
 | International Centre for Advanced Mediterranean Agronomic Studies | [Q30255657](https://www.wikidata.org/wiki/Q30255657) | none | [Treaty](https://www.ciheam.org/wp-content/uploads/2021/12/CIHEAM_-_Textes_constitutifs__1_-1.pdf) |
 | International Centre for Agriculture Research in the Dry Areas | [Q601277](https://www.wikidata.org/wiki/Q601277) | CGIAR | [Treaty](https://icarda.org/sites/default/files/2020-09/ICARDA%20Charter.pdf) |
 | International Centre for Food Micro-Algae Against Malnutrition | N/A | none | [Treaty](https://treaties.un.org/doc/publication/unts/volume%202151/v2151.pdf) |
