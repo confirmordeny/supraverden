@@ -65,7 +65,7 @@ Eastern Caribbean Central Bank:
 Organization for Security and Co-operation in Europe:
   Wikidata_code: Q81299
   Entity_type: International organisation
-  Org_family: none
+  Org_family: OSCE entities
   Country: zz
   Name_en: Organization for Security and Co-operation in Europe
   Abbreviation_en: OSCE
@@ -2762,3 +2762,13 @@ International Center for Tropical Agriculture:
   Abbreviation_en: CIAT
   Treaty_url: https://hdl.handle.net/10947/420
   Source:
+Court of Conciliation and Arbitration:
+  Wikidata_code: Q3001076
+  Entity_type: International organisation
+  Org_family: OSCE entities
+  Country: zz
+  Name_en: Court of Conciliation and Arbitration
+  Name_other_en: OSCE Court of Conciliation and Arbitration
+  Abbreviation_en: CCA
+  Treaty_url:
+  Source: https://www.osce.org/sites/default/files/f/documents/a/0/111409_2.pdf
