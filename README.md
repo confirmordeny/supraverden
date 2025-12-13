@@ -3,6 +3,10 @@ Curated lists of international organisations with privileges and immunities.
 
 This repo is in the very early stages.
 
+## Documentation
+
+* [Criteria for inclusion](CRITERIA_FOR_INCLUSION.md)
+
 ## Contributing
 
 We welcome contributions.
