@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 530 international organisations in the table.
+There are currently 531 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -121,6 +121,7 @@ There are currently 530 international organisations in the table.
 | Council of Europe Development Bank | [Q611107](https://www.wikidata.org/wiki/Q611107) | Council of Europe | [Treaty](https://coebank.org/documents/51/CEB_Articles_of_Agreement_August_2023.pdf) |
 | Council of the Baltic Sea States | [Q789769](https://www.wikidata.org/wiki/Q789769) | none | [Treaty](null) |
 | Council of the European Union | [Q8896](https://www.wikidata.org/wiki/Q8896) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT) |
+| Court of Conciliation and Arbitration | [Q3001076](https://www.wikidata.org/wiki/Q3001076) | OSCE entities | [www.osce.org](https://www.osce.org/sites/default/files/f/documents/a/0/111409_2.pdf) |
 | Court of Justice of the Andean Community | [Q5789480](https://www.wikidata.org/wiki/Q5789480) | Andean Community entity | [Treaty](https://www.comunidadandina.org/StaticFiles/201338102616Acuerdo_Cartagena.pdf) |
 | Court of Justice of the European Union | [Q4951](https://www.wikidata.org/wiki/Q4951) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT) |
 | Danube Commission | [Q911204](https://www.wikidata.org/wiki/Q911204) | none | [Treaty](https://www.danubecommission.org/uploads/doc/convention-en.pdf) |
@@ -422,7 +423,7 @@ There are currently 530 international organisations in the table.
 | Organisation of African, Caribbean and Pacific States | [Q294278](https://www.wikidata.org/wiki/Q294278) | none | [Treaty](https://www.jus.uio.no/english/services/library/treaties/14/14-03/acp.html) |
 | Organisation of Eastern Caribbean States | [Q392770](https://www.wikidata.org/wiki/Q392770) | Caribbean Community entity | [Treaty](https://caricom.org/documents/legaldocuments/9240-treaty-oecs.htm) |
 | Organisation of Islamic Cooperation | [Q47543](https://www.wikidata.org/wiki/Q47543) | none | [Treaty](https://www.oic-oci.org/upload/documents/charter/en/oic_charter_2018_en.pdf) |
-| Organization for Security and Co-operation in Europe | [Q81299](https://www.wikidata.org/wiki/Q81299) | none | [Treaty]('[N/A OSCE]') |
+| Organization for Security and Co-operation in Europe | [Q81299](https://www.wikidata.org/wiki/Q81299) | OSCE entities | [Treaty]('[N/A OSCE]') |
 | Organization for the Prohibition of Chemical Weapons | [Q842490](https://www.wikidata.org/wiki/Q842490) | none | [Treaty](https://www.opcw.org/sites/default/files/documents/CWC/CWC_en.pdf) |
 | Organization of American States | [Q123759](https://www.wikidata.org/wiki/Q123759) | OAS institutions and bodies | [www.oas.org](https://www.oas.org/en/sla/dil/docs/inter_american_treaties_A-41_charter_OAS.pdf) |
 | Organization of Arab Petroleum Exporting Countries | [Q1052077](https://www.wikidata.org/wiki/Q1052077) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%20681/volume-681-I-9707-English.pdf) |
