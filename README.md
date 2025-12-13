@@ -5,7 +5,7 @@ This repo is in the very early stages.
 
 ## Documentation
 
-* [Criteria for inclusion](CRITERIA_FOR_INCLUSION.md)
+* [Criteria for inclusion](docs/CRITERIA_FOR_INCLUSION.md)
 
 ## Contributing
 
