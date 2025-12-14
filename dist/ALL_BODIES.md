@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 532 international organisations in the table.
+There are currently 533 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -239,6 +239,7 @@ There are currently 532 international organisations in the table.
 | Fund for the Development of the Indigenous Peoples of Latin America and | [Q125689468](https://www.wikidata.org/wiki/Q125689468) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201728/volume-1728-I-30177-English.pdf) |
 | Fusion for Energy Joint Undertaking | [Q5510278](https://www.wikidata.org/wiki/Q5510278) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20240305173612/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32007D0198) |
 | Gas Exporting Countries Forum | [Q1031255](https://www.wikidata.org/wiki/Q1031255) | none | [Treaty](https://www.gecf.org/Portals/0/PDF/GECF%20Agreement%20and%20Statute.pdf) |
+| General Fisheries Commission for the Mediterranean | [Q134724326](https://www.wikidata.org/wiki/Q134724326) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | General Fisheries Council for the Mediterranean | N/A | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Global Combat Air Programme International Government Organisation | N/A | none | [Treaty](https://assets.publishing.service.gov.uk/media/6762c109e6ff7c8a1fde9ab4/TS_98.2024_Convention_Establishment_GCAP_International_Government_Organisation.pdf) |
 | Global Crop Diversity Trust | [Q2004478](https://www.wikidata.org/wiki/Q2004478) | none | [Treaty](https://www.croptrust.org/fileadmin/uploads/croptrust/Documents/Policy_Documents/Establish-Agreement-english.pdf) |
