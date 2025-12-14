@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 531 international organisations in the table.
+There are currently 532 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -469,6 +469,7 @@ There are currently 531 international organisations in the table.
 | South Centre | [Q498517](https://www.wikidata.org/wiki/Q498517) | none | [Treaty](https://www.southcentre.int/wp-content/uploads/2013/02/Intergovernmental-Agreement_EN.pdf) |
 | South East Atlantic Fisheries Organisation | [Q3492244](https://www.wikidata.org/wiki/Q3492244) | none | [Treaty](http://www.seafo.org/About/Convention-Text) |
 | South Pacific Regional Fisheries Management Organisation | [Q21663305](https://www.wikidata.org/wiki/Q21663305) | none | [Treaty](https://www.austlii.edu.au/au/other/dfat/treaties/ATS/2012/28.html) |
+| South West Indian Ocean Fisheries Commission | [Q134724816](https://www.wikidata.org/wiki/Q134724816) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Southeast Asian Ministers of Education Organisation | N/A | none | [Treaty](https://www.seameo.org/img/SEAMEO_General/About_SEAMEO/SEAMEO_Charter/charter2013.pdf) |
 | Southern African Customs Union | [Q1344350](https://www.wikidata.org/wiki/Q1344350) | none | [Treaty](https://www.sacu.int/uploads/documents/6a7ae39b41cba945b083e93a2e1a103d7cee629c.pdf) |
 | Southern African Development Community | [Q816706](https://www.wikidata.org/wiki/Q816706) | Southern African Development Community | [Treaty](https://www.sadc.int/sites/default/files/2021-11/Declaration__Treaty_of_SADC_0.pdf) |
