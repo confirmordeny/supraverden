@@ -18,6 +18,7 @@
 | Commission on Science and Technology for Development | [Q5152737](https://www.wikidata.org/wiki/Q5152737) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Commission on the Status of Women | [Q2614097](https://www.wikidata.org/wiki/Q2614097) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Committee for Inland Fisheries and Aquaculture of Africa | [Q134723795](https://www.wikidata.org/wiki/Q134723795) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
+| Coordinating Working Party on Fishery Statistics | [Q5168022](https://www.wikidata.org/wiki/Q5168022) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Economic Commission for Africa | [Q1144508](https://www.wikidata.org/wiki/Q1144508) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Economic Commission for Europe | [Q659012](https://www.wikidata.org/wiki/Q659012) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Economic Commission for Latin America and the Caribbean | [Q32874](https://www.wikidata.org/wiki/Q32874) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
