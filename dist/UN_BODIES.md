@@ -9,7 +9,8 @@
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
 | Asia-Pacific Fishery Commission | [Q4806252](https://www.wikidata.org/wiki/Q4806252) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
-| Commission for Inland Fisheries of Latin America | N/A | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
+| Central Asian and Caucasus Regional Fisheries and Aquaculture Commission | [Q134723600](https://www.wikidata.org/wiki/Q134723600) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
+| Commission for Inland Fisheries and Aquaculture of Latin America and the Caribbean | N/A | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Commission for Social Development | [Q3684758](https://www.wikidata.org/wiki/Q3684758) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Commission on Crime Prevention and Criminal Justice | [Q104842946](https://www.wikidata.org/wiki/Q104842946) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Commission on Narcotic Drugs | [Q469618](https://www.wikidata.org/wiki/Q469618) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
