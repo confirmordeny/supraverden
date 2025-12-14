@@ -6,7 +6,6 @@ Where I have included a source in this list this does not necessary mean that I 
 of the organisations listed that meet the repo's [criteria for inclusion](CRITERIA_FOR_INCLUSION.md).
 
 ## Sources consulted
-* [The role of FAO regional fishery bodies in the conservation and management of fisheries](https://web.archive.org/web/20240906043348/https://www.fao.org/4/w3123e/W3123E07.htm) — Annex I contains a list of FAO regional fishery bodies
 * [CGIAR System](https://www.cgiar.org/research-centers), CGIAR — list of CGIAR research institutions
 * The [editorial note to US Executive Order 9698](https://www.archives.gov/federal-register/codification/executive-order/09698.html) made available by the US National Archives and Records Administration provides a list of international organisations with immunities and provileges in the United States.
 * [Legislation.gov.uk](https://www.legislation.gov.uk/)  — searching for ["immunities and privileges"](https://www.legislation.gov.uk/primary+secondary?title=%22Immunities%20and%20Privileges%22) generates a list of statutory instruments granting immunity to international organisations
