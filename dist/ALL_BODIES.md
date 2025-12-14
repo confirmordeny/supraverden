@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 533 international organisations in the table.
+There are currently 535 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -118,6 +118,7 @@ There are currently 533 international organisations in the table.
 | Convention for the Conservation of Antarctic Marine Living Resources | [Q97382426](https://www.wikidata.org/wiki/Q97382426) | Antarctic Treaty System | [Treaty](https://www.ccamlr.org/en/organisation/camlr-convention-text) |
 | Cooperation Council for the Arab States of the Gulf | [Q217172](https://www.wikidata.org/wiki/Q217172) | none | [Treaty](https://www.wipo.int/wipolex/en/text/590122) |
 | Cooperation Council for the Arab States of the Persian Gulf | [Q217172](https://www.wikidata.org/wiki/Q217172) | none | [Treaty](https://www.wipo.int/wipolex/en/text/590122) |
+| Coordinating Working Party on Fishery Statistics | [Q5168022](https://www.wikidata.org/wiki/Q5168022) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Council of Europe | [Q8908](https://www.wikidata.org/wiki/Q8908) | Council of Europe | [Treaty](https://rm.coe.int/1680a1c6b3) |
 | Council of Europe Development Bank | [Q611107](https://www.wikidata.org/wiki/Q611107) | Council of Europe | [Treaty](https://coebank.org/documents/51/CEB_Articles_of_Agreement_August_2023.pdf) |
 | Council of the Baltic Sea States | [Q789769](https://www.wikidata.org/wiki/Q789769) | none | [Treaty](null) |
@@ -450,6 +451,7 @@ There are currently 533 international organisations in the table.
 | Permanent Okavango River Basin Water Commission | [Q96097566](https://www.wikidata.org/wiki/Q96097566) | none | [Treaty](https://www.iea.ulaval.ca/en/treaty-text/5021) |
 | Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organization | [Q15211422](https://www.wikidata.org/wiki/Q15211422) | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
 | Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organisation | [Q1480793](https://www.wikidata.org/wiki/Q1480793) | none | [Treaty](https://www.ctbto.org/sites/default/files/2022-10/Resolution_English_3.pdf) |
+| Regional Commission for Fisheries | [Q134724812](https://www.wikidata.org/wiki/Q134724812) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Regional Cooperation Agreement on Combating Piracy and Armed Robbery against | [Q7309031](https://www.wikidata.org/wiki/Q7309031) | none | [Treaty](https://www.mofa.go.jp/mofaj/gaiko/kaiyo/pdfs/kyotei_s.pdf) |
 | Residual Special Court for Sierra Leone | N/A | none | [Treaty](https://rscsl.org/the-rscsl/) |
 | Robusta Coffee Agency of Africa and Madagascar | N/A | none | [Treaty](https://www.acram-robusta.org/wp-content/uploads/2022/01/STATUTS_ACRAM_REVISES_MAI2018-english.pdf) |
