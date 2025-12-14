@@ -52,6 +52,7 @@
 | Office of the United Nations High Commissioner for Refugees | [Q28606331](https://www.wikidata.org/wiki/Q28606331) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Organisation for the Prohibition of Chemical Weapons | [Q842490](https://www.wikidata.org/wiki/Q842490) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organization | [Q15211422](https://www.wikidata.org/wiki/Q15211422) | UN and affiliates | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
+| South West Indian Ocean Fisheries Commission | [Q134724816](https://www.wikidata.org/wiki/Q134724816) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Statistical Commission | [Q15042419](https://www.wikidata.org/wiki/Q15042419) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | UN Women | [Q641576](https://www.wikidata.org/wiki/Q641576) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | UNAIDS Programme Coordinating Board | [Q588982](https://www.wikidata.org/wiki/Q588982) | UN and affiliates | [ecosoc.un.org](https://ecosoc.un.org/en/about-us/ecosoc-subsidiary-bodies) |
