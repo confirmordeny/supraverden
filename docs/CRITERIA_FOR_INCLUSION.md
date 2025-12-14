@@ -36,7 +36,7 @@ _"The specialized agencies shall possess juridical personality. They shall have 
 Article II of the [Convention on the Privileges and Immunities of the Specialized Agencies](https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf)
 
 ## UN statutory bodies
-I have included some statutory bodies of the Food and Agriculture Organization of the United Nations. I understand that these are not legal persons in their own right but they each have their own membership and rules of procedure.
+I have included some statutory bodies of the Food and Agriculture Organization of the United Nations. I understand that these are not legal persons in their own right but they each have their own rules of procedure and vave nation states as members.
 
 
 # Excluded
