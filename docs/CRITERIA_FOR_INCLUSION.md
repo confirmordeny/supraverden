@@ -3,7 +3,7 @@
 # Introduction
 The aim is to create a list of international organisations. For this purpose, we will define an international organisation as a legal person created by legal agreements between countries. To be clear, this should not cover organisations that operate in multiple countries but that are created under and subject to the national law (domestic law) of one country. If, however, an organisation is created under the laws of one country but is recognised as an international organisation in its home country by being afforded special immunities and privileges then it can be included.
 
-Only organisations that are legal persons in their own right will be included. This means we will only include organisations that exist legally distinct from their individual members, that can sue and be sued and own property. Sometimes an organisation is set up without legal personality initially but legal personality is granted later to enable the organisation to enter into contracts so that it can employ staff and obtain goods and services from suppliers. Once legal personality is granted the organisation can be included.
+With some exceptions, only organisations that are legal persons in their own right are included. This means that in general we will only include organisations that exist legally distinct from their individual members, that can sue and be sued and own property. Sometimes an organisation is set up without legal personality initially but legal personality is granted later to enable the organisation to enter into contracts so that it can employ staff and obtain goods and services from suppliers. Once legal personality is granted the organisation can be included.
 
 # What is meant by a legal agreement?
 The legal agreement will typically be a treaty between countries but may be called something else for example a charter, statutes or a headquarters agreement. Agreements that are not legally binding don't count. For example, an organisation or initiative created by a memorandum of understanding or by exchange of letters would not be included. 
@@ -36,8 +36,7 @@ _"The specialized agencies shall possess juridical personality. They shall have 
 Article II of the [Convention on the Privileges and Immunities of the Specialized Agencies](https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf)
 
 ## UN statutory bodies
-I have included some statutory bodies of the Food and Agriculture Organization of the United Nations. I understand that these are not legal persons in their own right but they each have their own rules of procedure and vave nation states as members.
-
+I have included some statutory bodies of the Food and Agriculture Organization of the United Nations including regional fisheryb bodies. I understand that these are not legal persons in their own right but they each have their own rules of procedure and vave nation states as members.
 
 # Excluded
 
