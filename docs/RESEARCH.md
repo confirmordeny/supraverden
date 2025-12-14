@@ -15,3 +15,10 @@ of the organisations listed that meet the repo's [criteria for inclusion](CRITER
 * [United Nations Treaty Series Online](https://treaties.un.org/pages/UNTSOnline.aspx?id=3&clang=_en) — I extracted a full list of parties to international treaties registered with the UN, I removed current and former countries and some commercial companies to got a list of international organisations, before removing defunct entities.
 * [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) e.g. for Wikidata Q codes.
 * Wikipedia category page for [Intergovernmental organizations established by treaty](https://en.wikipedia.org/wiki/Category:Intergovernmental_organizations_established_by_treaty)
+
+## See also
+* [Criteria for inclusion](CRITERIA_FOR_INCLUSION.md)
+
+
+
+
