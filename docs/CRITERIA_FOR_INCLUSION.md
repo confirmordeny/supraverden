@@ -50,7 +50,8 @@ Often countries enter into formal agreements to co-operate but no new organisati
 ## Entities established by informal agreements
 Organisations that are established through informal agreements such as memoranda of understanding (MOU) are not included. For example, the [Eastern Africa Power Pool](https://eappool.org/) is a regional institution set up through a memorandum of understanding between members (and another between utility operators). MOUs are not legally binding.
 
-
+# See also
+* [Research](RESEARCH.md)
 
 
 
