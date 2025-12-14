@@ -31,9 +31,13 @@ _“The joint undertakings shall have legal personality. In each of the Member S
 Article 3(4) of [Council Regulation (EU) 2021/2085](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R2085)
 
 ## Specialized agencies of the UN
-Specialized agencies of the UN have personality and are therefore included.
+Specialized agencies of the UN have legal personality and are included.
 _"The specialized agencies shall possess juridical personality. They shall have the capacity (a) to contract, (b) to acquire and dispose of immovable and movable property, (c) to institute legal proceedings."_
 Article II of the [Convention on the Privileges and Immunities of the Specialized Agencies](https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf)
+
+## UN statutory bodies
+I have included some statutory bodies of the Food and Agriculture Organization of the United Nations. I understand that these are not legal persons in their own right but they each have their own membership and rules of procedure.
+
 
 # Excluded
 
