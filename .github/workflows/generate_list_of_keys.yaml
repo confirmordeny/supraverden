@@ -1,0 +1,93 @@
+name: Generate List of Keys
+
+on:
+  # Triggers the workflow on push events for the "main" branch
+  push:
+    branches:
+      - main
+    paths:
+      # Run when any of the data files change
+      - 'data/arab_league_bodies.yaml'
+      - 'data/eu_bodies.yaml'
+      - 'data/general_list.yaml'
+      - 'data/north_south_bodies.yaml'
+      - 'data/oas_bodies.yaml'
+      - 'data/united_nations.yaml'
+      
+  # Allows this workflow to run manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  extract-keys:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Extract Keys and Generate List
+        run: |
+          python3 - <<'EOF'
+          import os
+
+          # Input files configuration
+          input_files = [
+              'data/arab_league_bodies.yaml',
+              'data/eu_bodies.yaml',
+              'data/general_list.yaml',
+              'data/oas_bodies.yaml',
+              'data/north_south_bodies.yaml',
+              'data/united_nations.yaml'
+          ]
+          output_file = 'dist/LIST_OF_KEYS.md'
+
+          unique_keys = set()
+
+          print("Scanning files for keys...")
+
+          for filepath in input_files:
+              if not os.path.exists(filepath):
+                  print(f"Skipping missing file: {filepath}")
+                  continue
+
+              with open(filepath, 'r', encoding='utf-8') as f:
+                  for line in f:
+                      stripped = line.strip()
+                      
+                      # Parsing logic:
+                      # 1. Starts with a space (indicates it is a property, not an organisation)
+                      # 2. Contains a colon.
+                      # 3. Not a comment.
+                      if line.startswith(' ') and ':' in stripped and not stripped.startswith('#'):
+                          # Split on the first colon only
+                          key = stripped.split(':', 1)[0].strip()
+                          unique_keys.add(key)
+
+          # Sort alphabetically
+          sorted_keys = sorted(list(unique_keys))
+          
+          # Format: "* Key1, Key2, Key3"
+          formatted_output = "* " + ", ".join(sorted_keys)
+
+          # Ensure output directory exists
+          os.makedirs(os.path.dirname(output_file), exist_ok=True)
+
+          # Write to file
+          with open(output_file, 'w', encoding='utf-8') as f:
+              f.write(formatted_output)
+
+          print(f"Successfully wrote {len(sorted_keys)} unique keys to {output_file}")
+          EOF
+
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: Update LIST_OF_KEYS.md"
+          file_pattern: "dist/LIST_OF_KEYS.md"
