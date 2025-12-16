@@ -76,7 +76,7 @@ jobs:
                   tree[head]['_is_key'] = True
 
           key_tree = {}
-          exceptions = {'Legal_type', 'Entity_type'}
+          exceptions = {'Legal_type', 'Entity_type', 'OpenSanctions_id', 'Wikidata_code'}
 
           for key in unique_keys:
               if key in exceptions:
