@@ -1,20 +1,22 @@
 * Abbreviation
   * en
   * es
-  * former_en
+  * former
+    * en
   * fr
 * Country
-* Entity
-  * type
-* Legal
-  * type
+* Entity_type
+* Legal_type
 * Name
   * en
   * es
-  * former_en
+  * former
+    * en
   * fr
-  * other_2_en
-  * other_en
+  * other
+    * 2
+      * en
+    * en
   * pt
 * Notes
 * OpenSanctions
