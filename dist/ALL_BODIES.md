@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 535 international organisations in the table.
+There are currently 536 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -47,6 +47,7 @@ There are currently 535 international organisations in the table.
 | ASEAN Free Trade Area | [Q297472](https://www.wikidata.org/wiki/Q297472) | Association of Southeast Asian Nations | [Treaty](https://web.archive.org/web/20070614155734/http://www.worldtradelaw.net/fta/agreements/afta.pdf) |
 | Asia-Pacific Economic Cooperation Secretariat | N/A | none | [Treaty](https://www.apec.org/meeting-papers/annual-ministerial-meetings/1992/1992_amm/annex3) |
 | Asia-Pacific Fishery Commission | [Q4806252](https://www.wikidata.org/wiki/Q4806252) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
+| Asia-Pacific Telecommunity | [Q4806261](https://www.wikidata.org/wiki/Q4806261) | none | [Treaty](https://apt.int/pdfs/Constitution.pdf) |
 | Asian and Pacific Coconut Community | [Q16962216](https://www.wikidata.org/wiki/Q16962216) | none | [Treaty](https://treaties.un.org/doc/Treaties/1969/07/19690730%2002-40%20AM/Ch_XIX_7p.pdf) |
 | Asian Clearing Union | [Q2150936](https://www.wikidata.org/wiki/Q2150936) | none | [Treaty](https://web.archive.org/web/20230605224051/https://www.asianclearingunion.org/Agreement/CHAPTERI.aspx) |
 | Asian Development Bank | [Q188822](https://www.wikidata.org/wiki/Q188822) | none | [Treaty](https://www.adb.org/sites/default/files/institutional-document/32120/charter.pdf) |
