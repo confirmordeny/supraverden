@@ -1,0 +1,1 @@
+* Abbreviation_en, Abbreviation_es, Abbreviation_fomer_en, Abbreviation_fr, Country, Entity_type, Former_name_en, Legal_type, Name_en, Name_es, Name_former_en, Name_fr, Name_other_en, Name_pt, Notes, OpenSanctions_id, Org_family, Other_name_2_en, Other_name_en, Source, Source_2, Treaty_url, Type, Wikidata_code
