@@ -19,8 +19,7 @@
     * en
   * pt
 * Notes
-* OpenSanctions
-  * id
+* OpenSanctions_id
 * Org
   * family
 * Source
@@ -28,5 +27,4 @@
 * Treaty
   * url
 * Type
-* Wikidata
-  * code
+* Wikidata_code
