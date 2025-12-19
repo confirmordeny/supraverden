@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 537 international organisations in the table.
+There are currently 538 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -85,6 +85,7 @@ There are currently 537 international organisations in the table.
 | Central African Economic and Monetary Community | [Q1940250](https://www.wikidata.org/wiki/Q1940250) | Economic and Monetary Community of Central Africa | [Treaty](https://www.wipo.int/wipolex/en/text/593945) |
 | Central African States Development Bank | [Q16531299](https://www.wikidata.org/wiki/Q16531299) | Economic and Monetary Community of Central Africa | [Treaty](https://web.archive.org/web/20231004104704/https://www.bdeac.org/upload/docs/application/pdf/2015-04/accord_portant_creation_de_la_bdeac.pdf) |
 | Central American Bank for Economic Integration | [Q190008](https://www.wikidata.org/wiki/Q190008) | Central American Integration System | [Treaty](https://bcie2014.sharepoint.com/sites/DocPub/Doc_Pub/Forms/Tipo%20documental.aspx?id=%2Fsites%2FDocPub%2FDoc%5FPub%2F617%2FConstitutive%20Agreement%20modified%20AG%2E6%2E2020%2Epdf&parent=%2Fsites%2FDocPub%2FDoc%5FPub%2F617&p=true&ga=1) |
+| Central American Educational and Cultural Coordination | N/A | none | [Treaty](https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?param1=NRTC&nValor1=1&nValor2=72651&nValor3=88737&strTipM=TC) |
 | Central American Integration System | [Q190028](https://www.wikidata.org/wiki/Q190028) | Central American Integration System | [Treaty](https://www.sica.int/busqueda/busqueda_archivo.aspx?Archivo=prot_320_1_04052005.htm) |
 | Central American Maritime Transport Commission | N/A | none | [legislacion.asamblea.gob.ni](http://legislacion.asamblea.gob.ni/Instrumentos.nsf/550cbe82091cc613062578b80075d823/1dac0b4d5d103f5806257377007b78b3/$FILE/Acuerdo%20de%20Sede%20entre%20el%20Gobienro%20de%20la%20Rep%C3%BAblica%20de%20Nicaragua%20y%20la%20Comision%20Centroamericana%20de%20Transporte%20Maritimo.pdf) |
 | Central Asian and Caucasus Regional Fisheries and Aquaculture Commission | [Q134723600](https://www.wikidata.org/wiki/Q134723600) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
