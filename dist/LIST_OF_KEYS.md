@@ -20,8 +20,7 @@
   * pt
 * Notes
 * OpenSanctions_id
-* Org
-  * family
+* Org_family
 * Source
   * 2
 * Treaty
