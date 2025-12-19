@@ -7,6 +7,7 @@ of the organisations listed that meet the repo's [criteria for inclusion](CRITER
 
 ## Sources consulted
 * [CGIAR System](https://www.cgiar.org/research-centers), CGIAR — list of CGIAR research institutions
+* [Directory of International Organisations](https://www.gov.uk/government/publications/foreign-embassies-in-the-uk) within the London diplomatic list and other representative offices, UK Government
 * The [editorial note to US Executive Order 9698](https://www.archives.gov/federal-register/codification/executive-order/09698.html) made available by the US National Archives and Records Administration provides a list of international organisations with immunities and provileges in the United States.
 * [Legislation.gov.uk](https://www.legislation.gov.uk/)  — searching for ["immunities and privileges"](https://www.legislation.gov.uk/primary+secondary?title=%22Immunities%20and%20Privileges%22) generates a list of statutory instruments granting immunity to international organisations
 * [List of International organisations whose employees qualify for exempt entry clearances](https://www.gov.uk/government/publications/exempt-exm/list-of-international-organisations-whose-employees-qualify-for-exempt-entry-clearances-accessible-version), UK Government
