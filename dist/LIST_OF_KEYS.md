@@ -23,7 +23,6 @@
 * Org_family
 * Source
   * 2
-* Treaty
-  * url
+* Treaty_url
 * Type
 * Wikidata_code
