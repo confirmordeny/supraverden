@@ -185,6 +185,7 @@ European Research Council Executive Agency:
   Abbreviation_en: ERCEA
   Type: EU executive agency
   Source: https://web.archive.org/web/20221222153402/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=LEGISSUM:l10120
+  OpenSanctions_id: [No code found.]
 European Research Executive Agency:
   Wikidata_code: Q3606472
   Entity_type: International organisation
@@ -194,6 +195,7 @@ European Research Executive Agency:
   Abbreviation_en: EREA
   Type: EU executive agency
   Source: https://web.archive.org/web/20221222153402/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=LEGISSUM:l10120
+  OpenSanctions_id: [No code found.]
 Agency for Support for BEREC:
   Wikidata_code: Q107658738
   Entity_type: International organisation
@@ -204,6 +206,7 @@ Agency for Support for BEREC:
   Name_other_en: BEREC Office
   Type: EU decentralised agency
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: [No code found.]
 Agency for the Cooperation of Energy Regulators:
   Wikidata_code: Q392883
   Entity_type: International organisation
@@ -214,6 +217,7 @@ Agency for the Cooperation of Energy Regulators:
   Name_other_en: European Union Agency for the Cooperation of Energy Regulators
   Type: EU decentralised agency
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: [No code found.]
 Community Plant Variety Office:
   Wikidata_code: Q1501010
   Entity_type: International organisation
