@@ -10,6 +10,7 @@ Arab League:
   Name_other_en: League of Arab States
   Abbreviation_en: 
   Treaty_url: https://www.refworld.org/legal/constinstr/las/1945/en/13854
+  OpenSanctions_id: [No code found.]
 Arab Industrial Development Standardization and Mining Organization:
   Wikidata_code: Q4783189
   Entity_type: International organisation
@@ -18,6 +19,7 @@ Arab Industrial Development Standardization and Mining Organization:
   Name_en: Arab Industrial Development Standardization and Mining Organization
   Abbreviation_en: AIDSMO
   Treaty_url: https://www.lloc.gov.bh/FullEn/L2479.docx
+  OpenSanctions_id: [No code found.]
 Arab States Broadcasting Union:
   Wikidata_code: Q4783249
   Entity_type: International organisation
@@ -26,6 +28,7 @@ Arab States Broadcasting Union:
   Name_en: Arab States Broadcasting Union
   Abbreviation_en: ASBU
   Treaty_url: https://haqqi.s3.eu-north-1.amazonaws.com/2014-04/HRIDRL0151_ArabBroadcastUnion_Ar_19.pdf
+  OpenSanctions_id: [No code found.]
 Arab Center for the Studies of Arid Zones and Dry Lands:
   Wikidata_code: Q30289729
   Entity_type: International organisation
@@ -34,6 +37,7 @@ Arab Center for the Studies of Arid Zones and Dry Lands:
   Name_en: Arab Center for the Studies of Arid Zones and Dry Lands
   Abbreviation_en: ACSAD
   Treaty_url: https://unesdoc.unesco.org/ark:/48223/pf0000056473
+  OpenSanctions_id: [No code found.]
 Arab Fund for Economic and Social Development:
   Wikidata_code: Q1137381
   Entity_type: International organisation
@@ -42,6 +46,7 @@ Arab Fund for Economic and Social Development:
   Name_en: Arab Fund for Economic and Social Development
   Abbreviation_en: AFESD
   Treaty_url: https://www.arabfund.org/wp-content/uploads/2023/12/agreement0000.pdf
+  OpenSanctions_id: bic-AFEDKWKW
 Arab Bank for Economic Development in Africa:
   Wikidata_code: Q4783148
   Entity_type: International organisation
@@ -50,6 +55,7 @@ Arab Bank for Economic Development in Africa:
   Name_en: Arab Bank for Economic Development in Africa
   Abbreviation_en: BADEA
   Treaty_url: https://data.qanoon.om/treaties/1974-0017AEN.pdf
+  OpenSanctions_id: bic-AEDAEGCA
 Arab Civil Aviation Organization:
   Wikidata_code: Q22686285
   Entity_type: International organisation
@@ -58,6 +64,7 @@ Arab Civil Aviation Organization:
   Name_en: Arab Civil Aviation Organization
   Abbreviation_en: ACAO
   Treaty_url: https://www.legalaffairs.gov.bh/FullEn/L1295.docx
+  OpenSanctions_id: [No code found.]
 Arab Women Organization:
   Wikidata_code: Q12245743
   Entity_type: International organisation
@@ -66,6 +73,7 @@ Arab Women Organization:
   Name_en: Arab Women Organization
   Abbreviation_en: AWO
   Treaty_url: https://www.lloc.gov.bh/FullEn/L2402.docx
+  OpenSanctions_id: [No code found.]
 Arab Atomic Energy Agency:
   Wikidata_code: Q56376750
   Entity_type: International organisation
@@ -74,6 +82,7 @@ Arab Atomic Energy Agency:
   Name_en: Arab Atomic Energy Agency
   Abbreviation_en: AAEA
   Treaty_url: https://www.legalaffairs.gov.bh/Legislation/HTM/K1708
+  OpenSanctions_id: [No code found.]
 Arab Labor Organization:
   Wikidata_code: Q35586998
   Entity_type: International organisation
@@ -82,6 +91,7 @@ Arab Labor Organization:
   Name_en: Arab Labor Organization
   Abbreviation_en:
   Treaty_url: https://haqqi.s3.eu-north-1.amazonaws.com/2014-04/HRIDRL0124_ALOConstitution_Ar_1970.pdf
+  OpenSanctions_id: [No code found.]
 Arab Monetary Fund:
   Wikidata_code: Q624307
   Entity_type: International organisation
@@ -90,3 +100,4 @@ Arab Monetary Fund:
   Name_en: Arab Monetary Fund
   Abbreviation_en: AMF
   Treaty_url: https://www.amf.org.ae/sites/default/files/uploads/The%20Articles%20of%20Agreement%20of%20the%20AMF%20-%20English_0.pdf
+  OpenSanctions_id: NK-aXUnszYW37RSDPv2bzwNA9
