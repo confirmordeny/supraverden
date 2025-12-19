@@ -12,6 +12,7 @@ European Union:
   Abbreviation_en: EU
   Type: EU itself
   Source: https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT
+  OpenSanctions_id: [No code found.]
 Council of the European Union:
   Wikidata_code: Q8896
   Entity_type: International organisation
@@ -22,6 +23,7 @@ Council of the European Union:
   Name_other_2_en: Council of ministers
   Type: EU institution
   Source: https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT
+  OpenSanctions_id: [No code found.]
 Court of Justice of the European Union:
   Wikidata_code: Q4951
   Entity_type: International organisation
@@ -32,6 +34,7 @@ Court of Justice of the European Union:
   Name_other_en: European Court of Justice
   Type: EU institution
   Source: https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT
+  OpenSanctions_id: [No code found.]
 European Central Bank:
   Wikidata_code: Q8901
   Entity_type: International organisation
@@ -41,6 +44,7 @@ European Central Bank:
   Abbreviation_en: ECB
   Type: EU institution
   Source: https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT
+  OpenSanctions_id: NK-Ubo23KznV2pvcXMiQkTmvd
 European Commission:
   Wikidata_code: Q8880
   Entity_type: International organisation
@@ -49,6 +53,7 @@ European Commission:
   Name_en: European Commission
   Type: EU institution
   Source: https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT
+  OpenSanctions_id: NK-KSpcRjPdvBkwrdiTx3VxGT
 European Council:
   Wikidata_code: Q8886
   Entity_type: International organisation
@@ -58,6 +63,7 @@ European Council:
   Abbreviation_en: EUCO
   Type: EU institution
   Source: https://web.archive.org/web/20250823025229/https://publications.europa.eu/resource/cellar/688a7a98-3110-4ffe-a6b3-8972d8445325.0007.01/DOC_19
+  OpenSanctions_id: [No code found.]
 European Court of Auditors:
   Wikidata_code: Q8900
   Entity_type: International organisation
@@ -67,6 +73,7 @@ European Court of Auditors:
   Abbreviation_en: ECA
   Type: EU institution
   Source: https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT
+  OpenSanctions_id: [No code found.]
 European Parliament:
   Wikidata_code: Q8889
   Entity_type: International organisation
@@ -78,6 +85,7 @@ European Parliament:
   Name_other_en: null
   Type: EU institution
   Source: https://web.archive.org/web/20250827094704/https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/types-institutions-and-bodies_en
+  OpenSanctions_id: [No code found.]
 European Investment Bank:
   Wikidata_code: Q192247
   Entity_type: International organisation
@@ -86,6 +94,7 @@ European Investment Bank:
   Name_en: European Investment Bank
   Type: EU body formed by treaty
   Source: https://web.archive.org/web/20250828040215/https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:11957E/TXT
+  OpenSanctions_id: NK-7nAZcmSJNBZMqsstpfrtJB/
 European University Institute:
   Wikidata_code: Q1378099
   Entity_type: International organisation
@@ -94,6 +103,7 @@ European University Institute:
   Name_en: European University Institute
   Type: EU body formed by treaty
   Source: https://web.archive.org/web/20250527174136/https://www.eui.eu/Documents/AboutEUI/Convention/English.pdf
+  OpenSanctions_id: [No code found.]
 European Atomic Energy Community:
   Wikidata_code: Q8919
   Entity_type: International organisation
