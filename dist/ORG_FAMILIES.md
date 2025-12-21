@@ -28,7 +28,7 @@
 * Organisation of Islamic Cooperation (1 entity)
 * Organization of the Black Sea Economic Cooperation (2 entities)
 * Organization of the Petroleum Exporting Countries (2 entities)
-* Organization of Turkic States (1 entity)
+* Organization of Turkic States entities (2 entities)
 * OSCE entities (2 entities)
 * Pacific Alliance (1 entity)
 * Pacific Islands Forum (4 entities)
