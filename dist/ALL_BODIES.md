@@ -25,24 +25,24 @@ There are currently 540 international organisations in the table.
 | Agency for the Cooperation of Energy Regulators | [Q392883](https://www.wikidata.org/wiki/Q392883) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | Agreement on the Conservation of Albatrosses and Petrels | [Q331541](https://www.wikidata.org/wiki/Q331541) | none | [Treaty](https://www.acap.aq/agreement-text/206-agreement-on-the-conservation-of-albatrosses-and-petrels/file) |
 | Amazon Cooperation Treaty Organization | [Q602399](https://www.wikidata.org/wiki/Q602399) | none | [Treaty](http://www.paclii.org/pits/en/treaty_database/1999/1.html) |
-| Andean Community | [Q471690](https://www.wikidata.org/wiki/Q471690) | Andean Community entity | [Treaty](https://www.comunidadandina.org/StaticFiles/201338102616Acuerdo_Cartagena.pdf) |
+| Andean Community | [Q471690](https://www.wikidata.org/wiki/Q471690) | Andean Community entities | [Treaty](https://www.comunidadandina.org/StaticFiles/201338102616Acuerdo_Cartagena.pdf) |
 | Andean Parliament | [Q490447](https://www.wikidata.org/wiki/Q490447) | Andean Community entities | [Treaty](https://www.wipo.int/wipolex/en/text/593530) |
 | Andrés Bello convention for the educational, scientific and cultural integration | N/A | none | [Treaty](https://convenioandresbello.org/wp-content/uploads/2021/08/tratado_constitutivo_cab_firmado.pdf) |
 | ANZUS | [Q295875](https://www.wikidata.org/wiki/Q295875) | none | [Treaty](https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Completed_Inquiries/jfadt/usrelations/appendixb) |
-| Arab Atomic Energy Agency | [Q56376750](https://www.wikidata.org/wiki/Q56376750) | Arab League | [Treaty](https://www.legalaffairs.gov.bh/Legislation/HTM/K1708) |
+| Arab Atomic Energy Agency | [Q56376750](https://www.wikidata.org/wiki/Q56376750) | Arab League entities | [Treaty](https://www.legalaffairs.gov.bh/Legislation/HTM/K1708) |
 | Arab Authority for Agricultural Investment and Development | N/A | none | [Treaty](https://www.lloc.gov.bh/PDF/K1108.pdf) |
-| Arab Bank for Economic Development in Africa | [Q4783148](https://www.wikidata.org/wiki/Q4783148) | Arab League | [Treaty](https://data.qanoon.om/treaties/1974-0017AEN.pdf) |
-| Arab Center for the Studies of Arid Zones and Dry Lands | [Q30289729](https://www.wikidata.org/wiki/Q30289729) | Arab League | [Treaty](https://unesdoc.unesco.org/ark:/48223/pf0000056473) |
-| Arab Civil Aviation Organization | [Q22686285](https://www.wikidata.org/wiki/Q22686285) | Arab League | [Treaty](https://www.legalaffairs.gov.bh/FullEn/L1295.docx) |
-| Arab Fund for Economic and Social Development | [Q1137381](https://www.wikidata.org/wiki/Q1137381) | Arab League | [Treaty](https://www.arabfund.org/wp-content/uploads/2023/12/agreement0000.pdf) |
+| Arab Bank for Economic Development in Africa | [Q4783148](https://www.wikidata.org/wiki/Q4783148) | Arab League entities | [Treaty](https://data.qanoon.om/treaties/1974-0017AEN.pdf) |
+| Arab Center for the Studies of Arid Zones and Dry Lands | [Q30289729](https://www.wikidata.org/wiki/Q30289729) | Arab League entities | [Treaty](https://unesdoc.unesco.org/ark:/48223/pf0000056473) |
+| Arab Civil Aviation Organization | [Q22686285](https://www.wikidata.org/wiki/Q22686285) | Arab League entities | [Treaty](https://www.legalaffairs.gov.bh/FullEn/L1295.docx) |
+| Arab Fund for Economic and Social Development | [Q1137381](https://www.wikidata.org/wiki/Q1137381) | Arab League entities | [Treaty](https://www.arabfund.org/wp-content/uploads/2023/12/agreement0000.pdf) |
 | Arab Industrial Development Standardization and Mining Organization | [Q4783189](https://www.wikidata.org/wiki/Q4783189) | Arab League entities | [Treaty](https://www.lloc.gov.bh/FullEn/L2479.docx) |
-| Arab Labor Organization | [Q35586998](https://www.wikidata.org/wiki/Q35586998) | Arab League | [Treaty](https://haqqi.s3.eu-north-1.amazonaws.com/2014-04/HRIDRL0124_ALOConstitution_Ar_1970.pdf) |
+| Arab Labor Organization | [Q35586998](https://www.wikidata.org/wiki/Q35586998) | Arab League entities | [Treaty](https://haqqi.s3.eu-north-1.amazonaws.com/2014-04/HRIDRL0124_ALOConstitution_Ar_1970.pdf) |
 | Arab League | [Q7172](https://www.wikidata.org/wiki/Q7172) | Arab League entities | [Treaty](https://www.refworld.org/legal/constinstr/las/1945/en/13854) |
 | Arab Maghreb Union | [Q370862](https://www.wikidata.org/wiki/Q370862) | none | [Treaty](https://wits.worldbank.org/GPTAD/PDF/archive/MAGHREB.pdf) |
-| Arab Monetary Fund | [Q624307](https://www.wikidata.org/wiki/Q624307) | Arab League | [Treaty](https://www.amf.org.ae/sites/default/files/uploads/The%20Articles%20of%20Agreement%20of%20the%20AMF%20-%20English_0.pdf) |
-| Arab Satellite Communications Organisation | [Q624426](https://www.wikidata.org/wiki/Q624426) | Arab League | [Treaty](https://www.lloc.gov.bh/FullEn/L0199.docx) |
+| Arab Monetary Fund | [Q624307](https://www.wikidata.org/wiki/Q624307) | Arab League entities | [Treaty](https://www.amf.org.ae/sites/default/files/uploads/The%20Articles%20of%20Agreement%20of%20the%20AMF%20-%20English_0.pdf) |
+| Arab Satellite Communications Organisation | [Q624426](https://www.wikidata.org/wiki/Q624426) | Arab League entities | [Treaty](https://www.lloc.gov.bh/FullEn/L0199.docx) |
 | Arab States Broadcasting Union | [Q4783249](https://www.wikidata.org/wiki/Q4783249) | Arab League entities | [Treaty](https://haqqi.s3.eu-north-1.amazonaws.com/2014-04/HRIDRL0151_ArabBroadcastUnion_Ar_19.pdf) |
-| Arab Women Organization | [Q12245743](https://www.wikidata.org/wiki/Q12245743) | Arab League | [Treaty](https://www.lloc.gov.bh/FullEn/L2402.docx) |
+| Arab Women Organization | [Q12245743](https://www.wikidata.org/wiki/Q12245743) | Arab League entities | [Treaty](https://www.lloc.gov.bh/FullEn/L2402.docx) |
 | Arctic Council | [Q674182](https://www.wikidata.org/wiki/Q674182) | none | [Treaty](https://oaarchive.arctic-council.org/server/api/core/bitstreams/bdc15f51-fb91-4e0d-9037-3e8618e7b98f/content) |
 | Arms Trade Treaty Secretariat | N/A | none | [Treaty](https://www.fedlex.admin.ch/eli/cc/2016/477/fr) |
 | ASEAN Free Trade Area | [Q297472](https://www.wikidata.org/wiki/Q297472) | Association of Southeast Asian Nations | [Treaty](https://web.archive.org/web/20070614155734/http://www.worldtradelaw.net/fta/agreements/afta.pdf) |
@@ -70,7 +70,7 @@ There are currently 540 international organisations in the table.
 | British-Irish Council | [Q2655795](https://www.wikidata.org/wiki/Q2655795) | North South bodies | [assets.publishing.service.gov.uk](https://assets.publishing.service.gov.uk/media/619500728fa8f5037d67b678/The_Belfast_Agreement_An_Agreement_Reached_at_the_Multi-Party_Talks_on_Northern_Ireland.pdf) |
 | Bureau International des Expositions | [Q1010514](https://www.wikidata.org/wiki/Q1010514) | none | [Treaty](https://www.aph.gov.au/-/media/02_Parliamentary_Business/24_Committees/244_Joint_Committees/JSCT/2015/11August2015/ATS_39.pdf) |
 | CAB International | [Q5008528](https://www.wikidata.org/wiki/Q5008528) | Commonwealth of Nations entities | [Treaty](https://www.cabi.org/wp-content/uploads/PDFs/AboutCABI/CABI-Agreement-2016.pdf) |
-| CAF - Development Bank of Latin America and the Caribbean | [Q2614129](https://www.wikidata.org/wiki/Q2614129) | Andean Community | [Treaty](http://www.commonlii.org/jm/legis/consol_act/adcaa1999386.pdf) |
+| CAF - Development Bank of Latin America and the Caribbean | [Q2614129](https://www.wikidata.org/wiki/Q2614129) | Andean Community entities | [Treaty](http://www.commonlii.org/jm/legis/consol_act/adcaa1999386.pdf) |
 | Caribbean Agricultural Research and Development Institute | [Q25339749](https://www.wikidata.org/wiki/Q25339749) | Caribbean Community entity | [Treaty](https://faolex.fao.org/docs/pdf/jam70785.pdf) |
 | Caribbean Community | [Q205995](https://www.wikidata.org/wiki/Q205995) | Caribbean Community entity | [Treaty](https://researchbriefings.files.parliament.uk/documents/CBP-7376/CBP-7376.pdf) |
 | Caribbean Community Implementation Agency for Crime and Security | [Q117197891](https://www.wikidata.org/wiki/Q117197891) | Caribbean Community entity | [Treaty](http://www.commonlii.org/caribbean/other/treaties/CaricomTSer/2006/9.pdf) |
@@ -128,7 +128,7 @@ There are currently 540 international organisations in the table.
 | Council of the Baltic Sea States | [Q789769](https://www.wikidata.org/wiki/Q789769) | none | [Treaty](null) |
 | Council of the European Union | [Q8896](https://www.wikidata.org/wiki/Q8896) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT) |
 | Court of Conciliation and Arbitration | [Q3001076](https://www.wikidata.org/wiki/Q3001076) | OSCE entities | [www.osce.org](https://www.osce.org/sites/default/files/f/documents/a/0/111409_2.pdf) |
-| Court of Justice of the Andean Community | [Q5789480](https://www.wikidata.org/wiki/Q5789480) | Andean Community entity | [Treaty](https://www.comunidadandina.org/StaticFiles/201338102616Acuerdo_Cartagena.pdf) |
+| Court of Justice of the Andean Community | [Q5789480](https://www.wikidata.org/wiki/Q5789480) | Andean Community entities | [Treaty](https://www.comunidadandina.org/StaticFiles/201338102616Acuerdo_Cartagena.pdf) |
 | Court of Justice of the European Union | [Q4951](https://www.wikidata.org/wiki/Q4951) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT) |
 | Danube Commission | [Q911204](https://www.wikidata.org/wiki/Q911204) | none | [Treaty](https://www.danubecommission.org/uploads/doc/convention-en.pdf) |
 | Desert Locust Control Organisation for Eastern Africa | [Q30596094](https://www.wikidata.org/wiki/Q30596094) | none | [Treaty](https://www.fao.org/4/50641E/50641E05.htm) |
@@ -388,7 +388,7 @@ There are currently 540 international organisations in the table.
 | Latin American Energy Organization | [Q3356053](https://www.wikidata.org/wiki/Q3356053) | none | [Treaty](https://biblioteca.olade.org/opac-tmpl/Documentos/old0058.pdf) |
 | Latin American Faculty of Social Sciences | [Q255898](https://www.wikidata.org/wiki/Q255898) | none | [Treaty](http://www.worldlii.org/int/other/treaties/UNTSer/1976/165.pdf) |
 | Latin American Integration Association | [Q607301](https://www.wikidata.org/wiki/Q607301) | none | [Treaty](https://www2.aladi.org/biblioteca/Publicaciones/ALADI/Secretaria_General/Documentos_Sin_Codigos/Caja_062_001_en.pdf) |
-| Latin American Reserve Fund | N/A | Andean Community | [Treaty](https://flar.com/wp-content/uploads/2023/10/FLAR-ESP-ConvenioConstitutivo2023-V03.pdf) |
+| Latin American Reserve Fund | N/A | Andean Community entities | [Treaty](https://flar.com/wp-content/uploads/2023/10/FLAR-ESP-ConvenioConstitutivo2023-V03.pdf) |
 | Latin-American Centre for Physics | N/A | none | [Treaty](http://legislacion.asamblea.gob.ni/Instrumentos.nsf/d9e9b7b996023769062578b80075d821/57af7b6e3cde7228062575430061e0ed?OpenDocument&ExpandSection=1#_Section1) |
 | Limpopo Watercourse Commission | N/A | none | [Treaty](https://limpopocommission.org/download/limpopo-water-course-commission-2003-english/#) |
 | Liptako-Gourma Region Integrated Development Authority | N/A | none | [Treaty](https://liptakogourma.org/wp-content/uploads/2020/09/Traite-revise_ALG.pdf) |
