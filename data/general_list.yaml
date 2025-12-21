@@ -473,7 +473,8 @@ Cooperation Council for the Arab States of the Gulf:
   Country: zz
   Name_en: Cooperation Council for the Arab States of the Gulf
   Name_other_en: Gulf Cooperation Council
-  Abbreviation_en: null
+  Name_other_en_2: Cooperation Council for the Arab States of the Persian Gulf
+  Abbreviation_en: GCC
   Treaty_url: https://www.wipo.int/wipolex/en/text/590122
 Economic Cooperation Organization:
   Wikidata_code: Q225950
@@ -860,14 +861,6 @@ International Boundary and Water Commission:
   Name_en: International Boundary and Water Commission
   Abbreviation_en: IBWC
   Treaty_url: https://www.ibwc.gov/wp-content/uploads/2022/11/TREATY_OF_1889.pdf
-Cooperation Council for the Arab States of the Persian Gulf:
-  Wikidata_code: Q217172
-  Entity_type: International organisation
-  Org_family: none
-  Country: zz
-  Name_en: Cooperation Council for the Arab States of the Persian Gulf
-  Abbreviation_en: GCC
-  Treaty_url: https://www.wipo.int/wipolex/en/text/590122
 Great Lakes Fishery Commission:
   Wikidata_code: Q2986576
   Entity_type: International organisation
@@ -1072,14 +1065,6 @@ Science and Technology Center in Ukraine:
   Name_en: Science and Technology Center in Ukraine
   Abbreviation_en: STCU
   Treaty_url: https://www.evropskyvyzkum.cz/cs/storage/ddd411519c219953947dede0914eee69f0c355c6?uid=ddd411519c219953947dede0914eee69f0c355c6
-Bureau International des Expositions:
-  Wikidata_code: Q1010514
-  Entity_type: International organisation
-  Org_family: none
-  Country: zz
-  Name_en: Bureau International des Expositions
-  Abbreviation_en: BIE
-  Treaty_url: https://www.aph.gov.au/-/media/02_Parliamentary_Business/24_Committees/244_Joint_Committees/JSCT/2015/11August2015/ATS_39.pdf
 Arab Maghreb Union:
   Wikidata_code: Q370862
   Entity_type: International organisation
@@ -2293,8 +2278,10 @@ International Exhibition Bureau:
   Org_family: none
   Country: zz
   Name_en: International Exhibition Bureau
-  Abbreviation_en: null
+  Name_fr: Bureau International des Expositions
+  Abbreviation_en: BIE
   Treaty_url: https://www.state.gov/wp-content/uploads/2019/02/17-510-Multilateral-Cultural-Expositions.pdf
+  Source: https://www.aph.gov.au/-/media/02_Parliamentary_Business/24_Committees/244_Joint_Committees/JSCT/2015/11August2015/ATS_39.pdf  
 International Centre for the Study of the Preservation and the Restoration of Cultural Property:
   Wikidata_code: Q590182
   Entity_type: International organisation
@@ -2349,7 +2336,7 @@ Benelux Court of Justice:
 Eastern Caribbean Supreme Court:
   Wikidata_code: Q3001122
   Entity_type: International organisation
-  Org_family: null
+  Org_family: none
   Country: zz
   Name_en: Eastern Caribbean Supreme Court
   Abbreviation_en: null
