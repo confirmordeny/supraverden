@@ -1,0 +1,136 @@
+# This workflow automates the process of generating a summary of Organization Families
+# from all data files. It runs on every push to the main branch.
+
+name: Generate Org Families List
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      # Run when any of the data files change
+      - 'data/arab_league_bodies.yaml'
+      - 'data/eu_bodies.yaml'
+      - 'data/general_list.yaml'
+      - 'data/north_south_bodies.yaml'
+      - 'data/oas_bodies.yaml'
+      - 'data/united_nations.yaml'
+      
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Generate org families list
+        run: |
+          python3 - <<'EOF'
+          import os
+          import sys
+          from collections import Counter
+
+          # Define input and output file paths
+          input_files = [
+              'data/arab_league_bodies.yaml',
+              'data/eu_bodies.yaml',
+              'data/general_list.yaml',
+              'data/oas_bodies.yaml',
+              'data/north_south_bodies.yaml',
+              'data/united_nations.yaml'
+          ]
+          output_file = 'dist/ORG_FAMILIES.md'
+
+          def parse_file(filepath):
+              '''Parses the custom YAML-like file format.'''
+              if not os.path.exists(filepath):
+                  print(f'Error: Input file not found at {filepath}')
+                  return []
+              
+              organizations = []
+              with open(filepath, 'r', encoding='utf-8') as f:
+                  current_org = None
+                  for line in f:
+                      stripped_line = line.strip()
+                      if not stripped_line or stripped_line.startswith('#'):
+                          continue
+                      
+                      if not line.startswith(' '):
+                          if current_org:
+                              organizations.append(current_org)
+                          org_name = stripped_line.rstrip(':')
+                          current_org = {'_main_name': org_name}
+                      elif current_org is not None and ':' in stripped_line:
+                          try:
+                              key, value = stripped_line.split(':', 1)
+                              current_org[key.strip()] = value.strip()
+                          except ValueError:
+                              pass
+              
+              if current_org:
+                  organizations.append(current_org)
+              return organizations
+
+          def generate_family_list(organizations):
+              '''Generates a bulleted list of families with counts.'''
+              
+              # 1. Extract families
+              families = []
+              for org in organizations:
+                  # Get family, default to 'Unspecified' if missing
+                  fam = org.get('Org_family')
+                  if fam and fam.strip() and fam.lower() != 'null':
+                      families.append(fam.strip())
+                  else:
+                      families.append('Unspecified')
+
+              # 2. Count occurrences
+              counts = Counter(families)
+
+              # 3. Sort alphabetically (case-insensitive)
+              sorted_families = sorted(counts.keys(), key=str.casefold)
+
+              # 4. Format output
+              lines = []
+              for family in sorted_families:
+                  count = counts[family]
+                  suffix = "entity" if count == 1 else "entities"
+                  lines.append(f"* {family} ({count} {suffix})")
+              
+              return '\n'.join(lines)
+
+          # --- Main execution block ---
+          all_organizations = []
+          
+          for input_file in input_files:
+              org_data = parse_file(input_file)
+              all_organizations.extend(org_data)
+          
+          print('Generating family list...')
+          markdown_content = generate_family_list(all_organizations)
+          
+          os.makedirs(os.path.dirname(output_file), exist_ok=True)
+          
+          with open(output_file, 'w', encoding='utf-8') as f:
+              f.write('# Organization Families Summary\n\n')
+              f.write(markdown_content)
+              
+          print(f"Successfully wrote family list to '{output_file}'")
+          EOF
+
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: Update organization families summary"
+          # Important: Updated to watch the new output file
+          file_pattern: "dist/ORG_FAMILIES.md"
