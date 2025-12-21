@@ -1,9 +1,7 @@
 # Organization Families Summary
 
 * African Union (4 entities)
-* Andean Community (2 entities)
-* Andean Community entities (1 entity)
-* Andean Community entity (2 entities)
+* Andean Community entities (5 entities)
 * Antarctic Treaty System (2 entities)
 * Arab League (9 entities)
 * Arab League entities (3 entities)
