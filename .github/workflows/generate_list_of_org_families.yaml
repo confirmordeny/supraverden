@@ -1,10 +1,37 @@
-- name: Generate org families list
+name: Generate org families list
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'data/**.yaml' # Watch all yaml files in data
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # REQUIRED for committing back to the repo
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      # Step 1: Write the Python script to a temporary file
+      # This is safer than running it inline and avoids EOF warnings.
+      - name: Create Generator Script
         run: |
-          python3 - <<'EOF'
+          cat << 'PY_SCRIPT' > generate_families.py
           import os
           from collections import Counter
 
-          # Define input and output file paths
+          # CONFIGURATION
           input_files = [
               'data/arab_league_bodies.yaml',
               'data/eu_bodies.yaml',
@@ -17,51 +44,51 @@
 
           def parse_file(filepath):
               if not os.path.exists(filepath):
-                  print(f'Error: Input file not found at {filepath}')
+                  print(f'Warning: File not found: {filepath}')
                   return []
               
               organizations = []
+              # Using utf-8 to handle all special characters
               with open(filepath, 'r', encoding='utf-8') as f:
                   current_org = None
                   for line in f:
                       stripped_line = line.strip()
+                      # Ignore comments
                       if not stripped_line or stripped_line.startswith('#'):
                           continue
                       
+                      # New Organization detection (no indentation)
                       if not line.startswith(' '):
                           if current_org:
                               organizations.append(current_org)
                           org_name = stripped_line.rstrip(':')
                           current_org = {'_main_name': org_name}
+                      
+                      # Property detection (indented)
                       elif current_org is not None and ':' in stripped_line:
                           try:
                               key, value = stripped_line.split(':', 1)
                               current_org[key.strip()] = value.strip()
                           except ValueError:
-                              pass
+                              pass # Skip malformed lines gracefully
               
               if current_org:
                   organizations.append(current_org)
               return organizations
 
-          def generate_family_list(organizations):
-              # 1. Extract families
+          def generate_markdown(organizations):
               families = []
               for org in organizations:
                   fam = org.get('Org_family')
-                  # Check it's not None, not empty, and not the string "null"
-                  if fam and fam.strip() and fam.lower() != 'null':
+                  # robust check for null/None/'null' string
+                  if fam and fam.strip() and str(fam).lower() != 'null':
                       families.append(fam.strip())
                   else:
                       families.append('Unspecified')
 
-              # 2. Count occurrences
               counts = Counter(families)
-
-              # 3. Sort alphabetically (case-insensitive)
               sorted_families = sorted(counts.keys(), key=str.casefold)
 
-              # 4. Format output
               lines = []
               for family in sorted_families:
                   count = counts[family]
@@ -70,21 +97,40 @@
               
               return '\n'.join(lines)
 
-          # --- Main execution block ---
-          all_organizations = []
+          # --- Main Execution ---
+          print("Starting processing...")
+          all_orgs = []
+          for f in input_files:
+              data = parse_file(f)
+              all_orgs.extend(data)
+              print(f"Loaded {len(data)} items from {f}")
+
+          content = generate_markdown(all_orgs)
           
-          for input_file in input_files:
-              org_data = parse_file(input_file)
-              all_organizations.extend(org_data)
-          
-          print('Generating family list...')
-          markdown_content = generate_family_list(all_organizations)
-          
+          # Ensure directory exists
           os.makedirs(os.path.dirname(output_file), exist_ok=True)
           
           with open(output_file, 'w', encoding='utf-8') as f:
               f.write('# Organization Families Summary\n\n')
-              f.write(markdown_content)
+              f.write(content)
               
-          print(f"Successfully wrote family list to '{output_file}'")
-          EOF
+          print(f"SUCCESS: Generated {output_file}")
+          PY_SCRIPT
+
+      # Step 2: Run the script
+      - name: Run Generator
+        run: python3 generate_families.py
+
+      # Step 3: Debugging - Verify the file exists
+      - name: Verify Output
+        run: |
+          echo "Checking contents of dist folder:"
+          ls -la dist/ || echo "Dist folder not found!"
+
+      # Step 4: Commit and Push
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: Update organization families summary"
+          file_pattern: "dist/ORG_FAMILIES.md"
+          skip_fetch: true
