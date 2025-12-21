@@ -9,7 +9,7 @@ Council of Europe:
 Benelux:
   Wikidata_code: Q13116
   Entity_type: International organisation
-  Org_family: Benelux entity
+  Org_family: Benelux entities
   Country: zz
   Name_en: Benelux
   Abbreviation_en: null
@@ -49,7 +49,7 @@ Commonwealth of Independent States:
 Organisation of Eastern Caribbean States:
   Wikidata_code: Q392770
   Entity_type: International organisation
-  Org_family: Caribbean Community entity
+  Org_family: Caribbean Community entities
   Country: zz
   Name_en: Organisation of Eastern Caribbean States
   Abbreviation_en: OECS
@@ -57,7 +57,7 @@ Organisation of Eastern Caribbean States:
 Eastern Caribbean Central Bank:
   Wikidata_code: Q1210260
   Entity_type: International organisation
-  Org_family: Caribbean Community entity
+  Org_family: Caribbean Community entities
   Country: zz
   Name_en: Eastern Caribbean Central Bank
   Abbreviation_en: ECCB
@@ -81,7 +81,7 @@ North Atlantic Treaty Organisation:
 Caribbean Community:
   Wikidata_code: Q205995
   Entity_type: International organisation
-  Org_family: Caribbean Community entity
+  Org_family: Caribbean Community entities
   Country: zz
   Name_en: Caribbean Community
   Abbreviation_en: Caricom
@@ -89,7 +89,7 @@ Caribbean Community:
 Caribbean Examinations Council:
   Wikidata_code: Q5039378
   Entity_type: International organisation
-  Org_family: Caribbean Community entity
+  Org_family: Caribbean Community entities
   Country: zz
   Name_en: Caribbean Examinations Council
   Abbreviation_en: CXC
@@ -97,7 +97,7 @@ Caribbean Examinations Council:
 Caribbean Community Implementation Agency for Crime and Security:
   Wikidata_code: Q117197891
   Entity_type: International organisation
-  Org_family: Caribbean Community entity
+  Org_family: Caribbean Community entities
   Country: zz
   Name_en: Caribbean Community Implementation Agency for Crime and Security
   Abbreviation_en: CARICOM IMPACS
@@ -461,7 +461,7 @@ European Bank for Reconstruction and Development:
 Caribbean Development Bank:
   Wikidata_code: Q3772571
   Entity_type: International organisation
-  Org_family: Caribbean Community entity
+  Org_family: Caribbean Community entities
   Country: zz
   Name_en: Caribbean Development Bank
   Abbreviation_en: CBD
@@ -1523,7 +1523,7 @@ Asian Productivity organisation:
 Caribbean Meteorological Organisation:
   Wikidata_code: Q5039400
   Entity_type: International organisation
-  Org_family: Caribbean Community entity
+  Org_family: Caribbean Community entities
   Country: zz
   Name_en: Caribbean Meteorological Organisation
   Abbreviation_en: null
@@ -1747,7 +1747,7 @@ Central Africa Forests Commission:
 Caribbean Court of Justice:
   Wikidata_code: Q775029
   Entity_type: International organisation
-  Org_family: Caribbean Community entity
+  Org_family: Caribbean Community entities
   Country: zz
   Name_en: Caribbean Court of Justice
   Abbreviation_en: null
@@ -1868,7 +1868,7 @@ Robusta Coffee Agency of Africa and Madagascar:
 Benelux Organisation for Intellectual Property:
   Wikidata_code: Q1910702
   Entity_type: International organisation
-  Org_family: Benelux entity
+  Org_family: Benelux entities
   Country: zz
   Name_en: Benelux Organisation for Intellectual Property
   Abbreviation_en: null
@@ -2081,7 +2081,7 @@ Mekong River Commission:
 Caribbean Telecommunications Union:
   Wikidata_code: Q115803554
   Entity_type: International organisation
-  Org_family: Caribbean Community entity
+  Org_family: Caribbean Community entities
   Country: zz
   Name_en: Caribbean Telecommunications Union
   Abbreviation_en: CTU
@@ -2327,7 +2327,7 @@ Central African States Development Bank:
 Benelux Court of Justice:
   Wikidata_code: Q2613970
   Entity_type: International organisation
-  Org_family: Benelux entity
+  Org_family: Benelux entities
   Country: zz
   Name_en: Benelux Court of Justice
   Abbreviation_en: null
@@ -2383,7 +2383,7 @@ International Bamboo and Rattan Organization:
 Caribbean Agricultural Research and Development Institute:
   Wikidata_code: Q25339749
   Entity_type: International organisation
-  Org_family: Caribbean Community entity
+  Org_family: Caribbean Community entities
   Country: zz
   Name_en: Caribbean Agricultural Research and Development Institute
   Abbreviation_en: CARDI
@@ -2682,7 +2682,7 @@ International Commission for the Protection of the Rhine:
 Caribbean Council of Legal Education:
   Wikidata_code: Q117210367
   Entity_type: International organisation
-  Org_family: Caribbean Community entity
+  Org_family: Caribbean Community entities
   Country: zz
   Name_en: Caribbean Council of Legal Education
   Name_other_en: Council of Legal Education
