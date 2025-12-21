@@ -969,7 +969,7 @@ Niger Basin Authority:
 Organization of Turkic States:
   Wikidata_code: Q596850
   Entity_type: International organisation
-  Org_family: Organization of Turkic States
+  Org_family: Organization of Turkic States entities
   Country: zz
   Name_en: Organization of Turkic States
   Abbreviation_en: null
@@ -2798,4 +2798,14 @@ Moselle Commission:
   Name_other_en:
   Abbreviation_en:
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%202375/v2375.pdf
+  Source:
+Parliamentary Assembly of Turkic States:
+  Wikidata_code: Q4345435
+  Entity_type: International organisation
+  Org_family: Organization of Turkic States entities
+  Country: zz
+  Name_en: Parliamentary Assembly of Turkic States
+  Name_other_en:
+  Abbreviation_en: TURKPA
+  Treaty_url: https://web.archive.org/web/20230329043622/https://www.turk-pa.org/file/236_1580134295_5318.pdf
   Source:
