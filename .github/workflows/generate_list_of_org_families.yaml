@@ -1,43 +1,4 @@
-# This workflow automates the process of generating a summary of Organization Families
-# from all data files.
-
-name: Generate org families list
-
-on:
-  # Triggers the workflow on push events for the "main" branch
-  push:
-    branches:
-      - main
-    paths:
-      - 'data/arab_league_bodies.yaml'
-      - 'data/eu_bodies.yaml'
-      - 'data/general_list.yaml'
-      - 'data/north_south_bodies.yaml'
-      - 'data/oas_bodies.yaml'
-      - 'data/united_nations.yaml'
-      
-  # ------------------------------------------------------------------
-  # THIS ENABLE THE BUTTON:
-  # Allows this workflow to be run manually from the GitHub Actions tab
-  # ------------------------------------------------------------------
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
-
-      - name: Generate Families List
+- name: Generate org families list
         run: |
           python3 - <<'EOF'
           import os
@@ -55,7 +16,6 @@ jobs:
           output_file = 'dist/ORG_FAMILIES.md'
 
           def parse_file(filepath):
-              '''Parses the custom YAML-like file format.'''
               if not os.path.exists(filepath):
                   print(f'Error: Input file not found at {filepath}')
                   return []
@@ -85,12 +45,9 @@ jobs:
               return organizations
 
           def generate_family_list(organizations):
-              '''Generates a bulleted list of families with counts.'''
-              
               # 1. Extract families
               families = []
               for org in organizations:
-                  # Get family, default to 'Unspecified' if missing
                   fam = org.get('Org_family')
                   # Check it's not None, not empty, and not the string "null"
                   if fam and fam.strip() and fam.lower() != 'null':
@@ -122,3 +79,12 @@ jobs:
           
           print('Generating family list...')
           markdown_content = generate_family_list(all_organizations)
+          
+          os.makedirs(os.path.dirname(output_file), exist_ok=True)
+          
+          with open(output_file, 'w', encoding='utf-8') as f:
+              f.write('# Organization Families Summary\n\n')
+              f.write(markdown_content)
+              
+          print(f"Successfully wrote family list to '{output_file}'")
+          EOF
