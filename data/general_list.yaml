@@ -127,6 +127,15 @@ African Union:
   Abbreviation_en: AU
   Treaty_url: https://au.int/sites/default/files/treaties/7758-treaty-0021_-_CONSTITUTIVE_ACT_OF_THE_AFRICAN_UNION_E.pdf
   OpenSanctions_id: bic-AFUNETAA
+Africa Centres for Disease Control and Prevention:
+  Wikidata_code: Q88234914
+  Entity_type: International organisation
+  Org_family: African Union entities
+  Country: zz
+  Name_en: Africa Centres for Disease Control and Prevention
+  Abbreviation_en: Africa CDC
+  Treaty_url: https://web.archive.org/web/20250220005838/https://au.int/sites/default/files/treaties/42517-treaty-EN_Revised_Statute_Africa_CDC.pdf
+  OpenSanctions_id: '[No code found.]'
 Arctic Council:
   Wikidata_code: Q674182
   Entity_type: International organisation
