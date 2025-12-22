@@ -1,10 +1,11 @@
 # All Supranational Bodies
 
-There are currently 541 international organisations in the table.
+There are currently 542 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
 | Advisory Centre on World Trade Organization Law | [Q3664799](https://www.wikidata.org/wiki/Q3664799) | none | [Treaty](https://web.archive.org/web/20140224004105/http://www.minbuza.nl/en/key-topics/treaties/search-the-treaty-database/1999/11/009244.html) |
+| Africa Centres for Disease Control and Prevention | [Q88234914](https://www.wikidata.org/wiki/Q88234914) | African Union entities | [Treaty](https://web.archive.org/web/20250220005838/https://au.int/sites/default/files/treaties/42517-treaty-EN_Revised_Statute_Africa_CDC.pdf) |
 | Africa Finance Corporation | [Q23578910](https://www.wikidata.org/wiki/Q23578910) | none | [Treaty](http://www.parliament.go.ke/sites/default/files/2025-02/Agreement%20for%20the%20Establishment%20of%20the%20Africa%20Finance%20Corporation%20and%20Explanantory%20Memorandum%20from%20the%20Foreign%20%26%20Diaspora%20Affairs.pdf) |
 | Africa Rice Center | [Q383924](https://www.wikidata.org/wiki/Q383924) | CGIAR entities | [Treaty](https://faolex.fao.org/docs/pdf/mul215505.pdf) |
 | African and Malagasy Council for Higher Education | [Q2993667](https://www.wikidata.org/wiki/Q2993667) | none | [Treaty](https://scienceetbiencommun.pressbooks.pub/cames/back-matter/annexe-iv-actualisation-des-textes-juridiques-du-cames-en-2000/) |
@@ -17,7 +18,7 @@ There are currently 541 international organisations in the table.
 | African Intellectual Property organisation | [Q1476775](https://www.wikidata.org/wiki/Q1476775) | none | [Treaty](https://www.wipo.int/wipolex/en/text/582620) |
 | African Regional Intellectual Property Organization | [Q384434](https://www.wikidata.org/wiki/Q384434) | none | [Treaty](https://www.wipo.int/wipolex/en/text/588142) |
 | African Telecommunications Union | [Q4689935](https://www.wikidata.org/wiki/Q4689935) | none | [Treaty](https://atuuat.africa/wp-content/uploads/2019/11/ATU-Constitution-and-Convention-Cape-Town-1999-Rev.-Harare-2014.pdf) |
-| African Trade and Investment Development Insurance | [Q60742417](https://www.wikidata.org/wiki/Q60742417) | Common Market for Eastern and Southern Africa | [Treaty](https://www.atidi.africa/wp-content/uploads/2023/10/ATI-Treaty-2022-001-Certified-091023-Stamped.pdf) |
+| African Trade and Investment Development Insurance | [Q60742417](https://www.wikidata.org/wiki/Q60742417) | Common Market for Eastern and Southern Africa entities | [Treaty](https://www.atidi.africa/wp-content/uploads/2023/10/ATI-Treaty-2022-001-Certified-091023-Stamped.pdf) |
 | African Union | [Q7159](https://www.wikidata.org/wiki/Q7159) | African Union entities | [Treaty](https://au.int/sites/default/files/treaties/7758-treaty-0021_-_CONSTITUTIVE_ACT_OF_THE_AFRICAN_UNION_E.pdf) |
 | African, Caribbean and Pacific Group of States | N/A | none | [Treaty](https://www.wipo.int/wipolex/en/text/594415) |
 | Agency for Aerial Navigation Safety in Africa and Madagascar | [Q2826699](https://www.wikidata.org/wiki/Q2826699) | none | [Treaty](https://www.asecna.aero/images/Docs/Publications/Convention/Convention_ASECNA_Version_Anglaise.pdf) |
@@ -97,7 +98,7 @@ There are currently 541 international organisations in the table.
 | Clean Hydrogen Joint Undertaking | [Q133884630](https://www.wikidata.org/wiki/Q133884630) | EU institutions and bodies | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085) |
 | Collaborative Inter-Governmental Scientific Research Institute | [Q15991224](https://www.wikidata.org/wiki/Q15991224) | none | [Treaty](https://www.cisri.org/docs/Treaty_Establishing_CISRI_11.pdf) |
 | Collective Security Treaty Organization | [Q318693](https://www.wikidata.org/wiki/Q318693) | none | [Treaty](https://en.odkb-csto.org/documents/documents/ustav_organizatsii_dogovora_o_kollektivnoy_bezopasnosti_/#loaded) |
-| COMESA Court of Justice | N/A | Common Market for Eastern and Southern Africa | [Treaty](https://www.comesa.int/wp-content/uploads/2019/02/comesa-treaty-revised-20092012_with-zaire_final.pdf) |
+| COMESA Court of Justice | N/A | Common Market for Eastern and Southern Africa entities | [Treaty](https://www.comesa.int/wp-content/uploads/2019/02/comesa-treaty-revised-20092012_with-zaire_final.pdf) |
 | Commission for Environmental Cooperation | [Q2986468](https://www.wikidata.org/wiki/Q2986468) | none | [Treaty](https://ustr.gov/sites/default/files/naaec.pdf) |
 | Commission for Inland Fisheries and Aquaculture of Latin America and the Caribbean | N/A | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Commission for Social Development | [Q3684758](https://www.wikidata.org/wiki/Q3684758) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
@@ -109,7 +110,7 @@ There are currently 541 international organisations in the table.
 | Commission on the Status of Women | [Q2614097](https://www.wikidata.org/wiki/Q2614097) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Committee for Inland Fisheries and Aquaculture of Africa | [Q134723795](https://www.wikidata.org/wiki/Q134723795) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Common Fund for Commodities | [Q604488](https://www.wikidata.org/wiki/Q604488) | none | [Treaty](https://treaties.un.org/pages/ViewDetailsIII.aspx?src=TREATY&mtdsg_no=XIX-21&chapter=19&Temp=mtdsg3&clang=_en) |
-| Common Market for Eastern and Southern Africa | [Q1165797](https://www.wikidata.org/wiki/Q1165797) | Common Market for Eastern and Southern Africa | [Treaty](https://www.comesa.int/wp-content/uploads/2019/02/comesa-treaty-revised-20092012_with-zaire_final.pdf) |
+| Common Market for Eastern and Southern Africa | [Q1165797](https://www.wikidata.org/wiki/Q1165797) | Common Market for Eastern and Southern Africa entities | [Treaty](https://www.comesa.int/wp-content/uploads/2019/02/comesa-treaty-revised-20092012_with-zaire_final.pdf) |
 | Commonwealth of Independent States | [Q7779](https://www.wikidata.org/wiki/Q7779) | none | [Treaty](https://www.coe.int/en/web/venice-commission/-/CDL(1994)054-e) |
 | Commonwealth Secretariat | [Q3954348](https://www.wikidata.org/wiki/Q3954348) | Commonwealth of Nations entities | [Treaty](null) |
 | Commonwealth Telecommunications Organisation | [Q5153868](https://www.wikidata.org/wiki/Q5153868) | Commonwealth of Nations entities | [Treaty](null) |
@@ -121,8 +122,8 @@ There are currently 541 international organisations in the table.
 | Convention for the Conservation of Antarctic Marine Living Resources | [Q97382426](https://www.wikidata.org/wiki/Q97382426) | Antarctic Treaty System entities | [Treaty](https://www.ccamlr.org/en/organisation/camlr-convention-text) |
 | Cooperation Council for the Arab States of the Gulf | [Q217172](https://www.wikidata.org/wiki/Q217172) | none | [Treaty](https://www.wipo.int/wipolex/en/text/590122) |
 | Coordinating Working Party on Fishery Statistics | [Q5168022](https://www.wikidata.org/wiki/Q5168022) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
-| Council of Europe | [Q8908](https://www.wikidata.org/wiki/Q8908) | Council of Europe | [Treaty](https://rm.coe.int/1680a1c6b3) |
-| Council of Europe Development Bank | [Q611107](https://www.wikidata.org/wiki/Q611107) | Council of Europe | [Treaty](https://coebank.org/documents/51/CEB_Articles_of_Agreement_August_2023.pdf) |
+| Council of Europe | [Q8908](https://www.wikidata.org/wiki/Q8908) | Council of Europe entities | [Treaty](https://rm.coe.int/1680a1c6b3) |
+| Council of Europe Development Bank | [Q611107](https://www.wikidata.org/wiki/Q611107) | Council of Europe entities | [Treaty](https://coebank.org/documents/51/CEB_Articles_of_Agreement_August_2023.pdf) |
 | Council of the Baltic Sea States | [Q789769](https://www.wikidata.org/wiki/Q789769) | none | [Treaty](null) |
 | Council of the European Union | [Q8896](https://www.wikidata.org/wiki/Q8896) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT) |
 | Court of Conciliation and Arbitration | [Q3001076](https://www.wikidata.org/wiki/Q3001076) | OSCE entities | [www.osce.org](https://www.osce.org/sites/default/files/f/documents/a/0/111409_2.pdf) |
@@ -136,7 +137,7 @@ There are currently 541 international organisations in the table.
 | East African Court of Justice | [Q5327654](https://www.wikidata.org/wiki/Q5327654) | none | [Treaty](https://www.eacj.org//wp-content/uploads/2012/08/EACJ-Treaty.pdf) |
 | East African Development Bank | [Q5327655](https://www.wikidata.org/wiki/Q5327655) | East African Community | [Treaty](https://eadb.org/site/assets/files/1125/eadb-treaty-charter.pdf) |
 | East Mediterranean Gas Forum | [Q97163711](https://www.wikidata.org/wiki/Q97163711) | none | [Treaty](https://www.parliament.cy/images/media/redirectfile/EMGF%20signed%20Statute_%CE%9C%CE%AD%CF%81%CE%BF%CF%82%20%CE%99%20%CE%9D%CE%BF%CE%BC%CE%BF%CF%83%CF%87%CE%B5%CE%B4%CE%AF%CE%BF%CF%85.pdf) |
-| Eastern and Southern African Trade and Development Bank | [Q13657031](https://www.wikidata.org/wiki/Q13657031) | Common Market for Eastern and Southern Africa | [Treaty](https://www.tdbgroup.org/wp-content/uploads/2024/01/TDB-Charter-English-01.01.2024.pdf) |
+| Eastern and Southern African Trade and Development Bank | [Q13657031](https://www.wikidata.org/wiki/Q13657031) | Common Market for Eastern and Southern Africa entities | [Treaty](https://www.tdbgroup.org/wp-content/uploads/2024/01/TDB-Charter-English-01.01.2024.pdf) |
 | Eastern Caribbean Central Bank | [Q1210260](https://www.wikidata.org/wiki/Q1210260) | Caribbean Community entities | [Treaty](https://www.eccb-centralbank.org/viewPDF/documents/2022-05-27-06-12-30-ECCB-Agreement.pdf) |
 | Eastern Caribbean Supreme Court | [Q3001122](https://www.wikidata.org/wiki/Q3001122) | none | [Treaty](null) |
 | Economic and Social Commission for Asia and the Pacific | [Q1142901](https://www.wikidata.org/wiki/Q1142901) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
@@ -172,12 +173,12 @@ There are currently 541 international organisations in the table.
 | European Chemicals Agency | [Q48798](https://www.wikidata.org/wiki/Q48798) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | European Climate, Infrastructure and Environment Executive Agency | [Q106818821](https://www.wikidata.org/wiki/Q106818821) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20221222153402/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=LEGISSUM:l10120) |
 | European Commission | [Q8880](https://www.wikidata.org/wiki/Q8880) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT) |
-| European Committee for Prevention of Torture | [Q1378135](https://www.wikidata.org/wiki/Q1378135) | Council of Europe | [Treaty](https://rm.coe.int/16806dbaa3) |
+| European Committee for Prevention of Torture | [Q1378135](https://www.wikidata.org/wiki/Q1378135) | Council of Europe entities | [Treaty](https://rm.coe.int/16806dbaa3) |
 | European Committee of the Regions | [Q205203](https://www.wikidata.org/wiki/Q205203) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY) |
 | European Company for the Financing of Railroad Rolling Stock | [Q1374986](https://www.wikidata.org/wiki/Q1374986) | none | [Treaty](https://www.eurofima.org/sites/default/assets/Image/investor-relations/constitutive-documents/convention_e.pdf) |
 | European Council | [Q8886](https://www.wikidata.org/wiki/Q8886) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250823025229/https://publications.europa.eu/resource/cellar/688a7a98-3110-4ffe-a6b3-8972d8445325.0007.01/DOC_19) |
 | European Court of Auditors | [Q8900](https://www.wikidata.org/wiki/Q8900) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT) |
-| European Court of Human Rights | [Q122880](https://www.wikidata.org/wiki/Q122880) | Council of Europe | [Treaty](https://www.echr.coe.int/documents/d/echr/convention_ENG) |
+| European Court of Human Rights | [Q122880](https://www.wikidata.org/wiki/Q122880) | Council of Europe entities | [Treaty](https://www.echr.coe.int/documents/d/echr/convention_ENG) |
 | European Cybersecurity Competence Centre | [Q107658626](https://www.wikidata.org/wiki/Q107658626) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY) |
 | European Data Protection Board | [Q26877724](https://www.wikidata.org/wiki/Q26877724) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY) |
 | European Data Protection Supervisor | [Q1377705](https://www.wikidata.org/wiki/Q1377705) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY) |
@@ -400,11 +401,11 @@ There are currently 541 international organisations in the table.
 | New Development Bank | [Q8579145](https://www.wikidata.org/wiki/Q8579145) | BRICS entities | [Treaty](https://www.ndb.int/wp-content/uploads/2022/11/Agreement-on-the-New-Development-Bank.pdf) |
 | Niger Basin Authority | [Q1162546](https://www.wikidata.org/wiki/Q1162546) | none | [Treaty](http://gis.nacse.org/tfdd/tfdddocs/418ENG.pdf) |
 | Nigeria–São Tomé and Príncipe Joint Development Authority | [Q7033072](https://www.wikidata.org/wiki/Q7033072) | none | [Treaty](https://web.archive.org/web/20100202064636/http://www.nigeriasaotomejda.com/PDFs/treaty.pdf) |
-| Nordic Council | [Q146165](https://www.wikidata.org/wiki/Q146165) | Nordic Council | [Treaty](https://norden.diva-portal.org/smash/get/diva2:1250815/FULLTEXT01.pdf) |
-| Nordic Council of Ministers | [Q182379](https://www.wikidata.org/wiki/Q182379) | Nordic Council | [Treaty](https://www.norden.org/en/node/40247) |
-| Nordic Development Fund | [Q7050687](https://www.wikidata.org/wiki/Q7050687) | Nordic Council | [Treaty](https://www.ndf.int/media/files/constituent-documents/ndf-agreement-and-statutes-october-2020.pdf) |
-| Nordic Environment Finance Corporation | [Q3736769](https://www.wikidata.org/wiki/Q3736769) | Nordic Council | [Treaty](https://www.nefco.int/wp-content/uploads/2019/04/NEFCO_Constituent-Documents_2017.pdf) |
-| Nordic Investment Bank | [Q2020649](https://www.wikidata.org/wiki/Q2020649) | Nordic Council | [Treaty](https://web.archive.org/web/20240613035236/https://www.jus.uio.no/english/services/library/treaties/09/9-02/nordic-investment-bank.html) |
+| Nordic Council | [Q146165](https://www.wikidata.org/wiki/Q146165) | Nordic Council entities | [Treaty](https://norden.diva-portal.org/smash/get/diva2:1250815/FULLTEXT01.pdf) |
+| Nordic Council of Ministers | [Q182379](https://www.wikidata.org/wiki/Q182379) | Nordic Council entities | [Treaty](https://www.norden.org/en/node/40247) |
+| Nordic Development Fund | [Q7050687](https://www.wikidata.org/wiki/Q7050687) | Nordic Council entities | [Treaty](https://www.ndf.int/media/files/constituent-documents/ndf-agreement-and-statutes-october-2020.pdf) |
+| Nordic Environment Finance Corporation | [Q3736769](https://www.wikidata.org/wiki/Q3736769) | Nordic Council entities | [Treaty](https://www.nefco.int/wp-content/uploads/2019/04/NEFCO_Constituent-Documents_2017.pdf) |
+| Nordic Investment Bank | [Q2020649](https://www.wikidata.org/wiki/Q2020649) | Nordic Council entities | [Treaty](https://web.archive.org/web/20240613035236/https://www.jus.uio.no/english/services/library/treaties/09/9-02/nordic-investment-bank.html) |
 | North Atlantic Marine Mammal Commission | [Q3076178](https://www.wikidata.org/wiki/Q3076178) | none | [Treaty](https://nammco.wpengine.com/wp-content/uploads/2016/10/nammco-agreement-with-signatures-and-logo.pdf) |
 | North Atlantic Salmon Conservation Organization | [Q7053997](https://www.wikidata.org/wiki/Q7053997) | none | [Treaty](https://nasco.int/wp-content/uploads/2020/05/NASCO_Handbook.pdf) |
 | North Atlantic Treaty Organisation | [Q7184](https://www.wikidata.org/wiki/Q7184) | none | [Treaty](https://www.nato.int/cps/en/natohq/official_texts_17120.htm) |
@@ -465,10 +466,10 @@ There are currently 541 international organisations in the table.
 | Salzburg Forum | [Q7406988](https://www.wikidata.org/wiki/Q7406988) | none | [Treaty](https://www.salzburgforum.org/Treaties_and_Agreement/CBE_Agreement.html) |
 | Science and Technology Center in Ukraine | [Q7433636](https://www.wikidata.org/wiki/Q7433636) | none | [Treaty](https://www.evropskyvyzkum.cz/cs/storage/ddd411519c219953947dede0914eee69f0c355c6?uid=ddd411519c219953947dede0914eee69f0c355c6) |
 | Secreriat of the Antarctic Treaty | N/A | Antarctic Treaty System entities | [Treaty](https://documents.ats.aq/atcm40/ww/ATCM40_ww014_e.pdf) |
-| Secretariat of the Basel Convention | N/A | UN Environment Programme | [Treaty](https://www.basel.int/TheConvention/Overview/TextoftheConvention/tabid/1275/Default.aspx) |
+| Secretariat of the Basel Convention | N/A | UN Environment Programme entities | [Treaty](https://www.basel.int/TheConvention/Overview/TextoftheConvention/tabid/1275/Default.aspx) |
 | Secretariat of the BBNJ Agreement | N/A | none | [Treaty](https://www.un.org/bbnjagreement/sites/default/files/2024-08/Text%20of%20the%20Agreement%20in%20English.pdf) |
 | Secretariat of the Central European Free Trade Agreement | N/A | none | [Treaty](https://www.fdfa.be/sites/default/files/2022-01/805_Agreement%20in%20English.pdf) |
-| Secretariat of the Convention on Biological Diversity | N/A | UN Environment Programme | [Treaty](https://www.cbd.int/doc/legal/cbd-en.pdf) |
+| Secretariat of the Convention on Biological Diversity | N/A | UN Environment Programme entities | [Treaty](https://www.cbd.int/doc/legal/cbd-en.pdf) |
 | SESAR 3 Joint Undertaking | [Q3055255](https://www.wikidata.org/wiki/Q3055255) | EU institutions and bodies | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085) |
 | Shanghai Cooperation Organisation | [Q485207](https://www.wikidata.org/wiki/Q485207) | none | [Treaty](https://www.mea.gov.in/Portal/LegalTreatiesDoc/000M3130.pdf) |
 | Single Resolution Board | [Q19516507](https://www.wikidata.org/wiki/Q19516507) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
@@ -494,7 +495,7 @@ There are currently 541 international organisations in the table.
 | UNAIDS Programme Coordinating Board | [Q588982](https://www.wikidata.org/wiki/Q588982) | UN and affiliates | [ecosoc.un.org](https://ecosoc.un.org/en/about-us/ecosoc-subsidiary-bodies) |
 | Unified Patent Court | [Q7884942](https://www.wikidata.org/wiki/Q7884942) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20230515032632/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:42013A0620(01)) |
 | Union for the Mediterranean | [Q192177](https://www.wikidata.org/wiki/Q192177) | none | [Treaty](https://ufmsecretariat.org/wp-content/uploads/2012/09/Statutes-UfMS.pdf) |
-| Union of South American Nations | [Q4230](https://www.wikidata.org/wiki/Q4230) | Union of South American Nations | [Treaty](https://www.icwa.in/WriteReadData/L45218/1496229018.pdf) |
+| Union of South American Nations | [Q4230](https://www.wikidata.org/wiki/Q4230) | Union of South American Nations entities | [Treaty](https://www.icwa.in/WriteReadData/L45218/1496229018.pdf) |
 | Union State | [Q166110](https://www.wikidata.org/wiki/Q166110) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%202121/v2121.pdf) |
 | United Nations | [Q1065](https://www.wikidata.org/wiki/Q1065) | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/main-bodies) |
 | United Nations Capital Development Fund | [Q356037](https://www.wikidata.org/wiki/Q356037) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
