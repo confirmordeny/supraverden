@@ -10,7 +10,7 @@
 * Caribbean Community entities (11 entities)
 * Central American Integration System entities (2 entities)
 * CGIAR entities (8 entities)
-* Common Market for Eastern and Southern Africa (4 entities)
+* Common Market for Eastern and Southern Africa entities (4 entities)
 * Commonwealth of Nations entities (3 entities)
 * Council of Europe (4 entities)
 * East African Community (2 entities)
