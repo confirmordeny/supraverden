@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 540 international organisations in the table.
+There are currently 541 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -128,6 +128,7 @@ There are currently 540 international organisations in the table.
 | Court of Conciliation and Arbitration | [Q3001076](https://www.wikidata.org/wiki/Q3001076) | OSCE entities | [www.osce.org](https://www.osce.org/sites/default/files/f/documents/a/0/111409_2.pdf) |
 | Court of Justice of the Andean Community | [Q5789480](https://www.wikidata.org/wiki/Q5789480) | Andean Community entities | [Treaty](https://www.comunidadandina.org/StaticFiles/201338102616Acuerdo_Cartagena.pdf) |
 | Court of Justice of the European Union | [Q4951](https://www.wikidata.org/wiki/Q4951) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT) |
+| Court of the Eurasian Economic Union | N/A | Eurasian Economic Union entities | [Treaty](https://www.un.org/en/ga/sixth/70/docs/treaty_on_eeu.pdf) |
 | Danube Commission | [Q911204](https://www.wikidata.org/wiki/Q911204) | none | [Treaty](https://www.danubecommission.org/uploads/doc/convention-en.pdf) |
 | Desert Locust Control Organisation for Eastern Africa | [Q30596094](https://www.wikidata.org/wiki/Q30596094) | none | [Treaty](https://www.fao.org/4/50641E/50641E05.htm) |
 | Dutch Language Union | [Q152299](https://www.wikidata.org/wiki/Q152299) | none | [Treaty](https://taalunie.org/feeds/download/taalunieverdrag-1980-en-616e8.pdf/Taalunieverdrag%20(1980,%20Engels)/original) |
@@ -155,8 +156,8 @@ There are currently 540 international organisations in the table.
 | EU Authority for Anti-Money Laundering and Countering the Financing of | [Q124795462](https://www.wikidata.org/wiki/Q124795462) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | EU-LAC International Foundation | [Q821623](https://www.wikidata.org/wiki/Q821623) | none | [Treaty](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:22019A0412(01)&rid=1) |
 | EUCLID University | [Q3046238](https://www.wikidata.org/wiki/Q3046238) | none | [Treaty](https://www.euclid.int/documents/fa-en.pdf) |
-| Eurasian Development Bank | [Q498991](https://www.wikidata.org/wiki/Q498991) | Eurasian Economic Union | [Treaty](https://eabr.org/upload/iblock/c91/foundation-documents.pdf) |
-| Eurasian Economic Union | [Q4173083](https://www.wikidata.org/wiki/Q4173083) | Eurasian Economic Union | [Treaty](https://www.wto.org/english/thewto_e/acc_e/kaz_e/wtacckaz85_leg_1.pdf) |
+| Eurasian Development Bank | [Q498991](https://www.wikidata.org/wiki/Q498991) | Eurasian Economic Union entities | [Treaty](https://eabr.org/upload/iblock/c91/foundation-documents.pdf) |
+| Eurasian Economic Union | [Q4173083](https://www.wikidata.org/wiki/Q4173083) | Eurasian Economic Union entities | [Treaty](https://www.wto.org/english/thewto_e/acc_e/kaz_e/wtacckaz85_leg_1.pdf) |
 | Eurasian Patent Organization | [Q1374303](https://www.wikidata.org/wiki/Q1374303) | none | [Treaty](https://www.eapo.org/en/documents-2/legal-protection-of-inventions/eurasian-patent-convention/) |
 | European Agency for Safety and Health at Work | [Q571118](https://www.wikidata.org/wiki/Q571118) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | European and Mediterranean Plant Protection Organization | [Q1967903](https://www.wikidata.org/wiki/Q1967903) | none | [Treaty](https://www.eppo.int/ABOUT_EPPO/eppo_convention) |
