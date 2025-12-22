@@ -37,4 +37,4 @@
 * UN Environment Programme (2 entities)
 * Union of South American Nations (1 entity)
 * West African Economic and Monetary Union (4 entities)
-* World Bank Group (2 entities)
+* World Bank Group entities (2 entities)
