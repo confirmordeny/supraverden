@@ -1,7 +1,7 @@
 Council of Europe:
   Wikidata_code: Q8908
   Entity_type: International organisation
-  Org_family: Council of Europe
+  Org_family: Council of Europe entities
   Country: zz
   Name_en: Council of Europe
   Abbreviation_en: null
@@ -170,7 +170,7 @@ Financial Action Task Force:
 European Court of Human Rights:
   Wikidata_code: Q122880
   Entity_type: International organisation
-  Org_family: Council of Europe
+  Org_family: Council of Europe entities
   Country: zz
   Name_en: European Court of Human Rights
   Abbreviation_en: ECHR
@@ -371,7 +371,7 @@ International Criminal Police Organization:
 European Committee for Prevention of Torture:
   Wikidata_code: Q1378135
   Entity_type: International organisation
-  Org_family: Council of Europe
+  Org_family: Council of Europe entities
   Country: zz
   Name_en: European Committee for Prevention of Torture
   Abbreviation_en: null
@@ -576,7 +576,7 @@ Union for the Mediterranean:
 Council of Europe Development Bank:
   Wikidata_code: Q611107
   Entity_type: International organisation
-  Org_family: Council of Europe
+  Org_family: Council of Europe entities
   Country: zz
   Name_en: Council of Europe Development Bank
   Abbreviation_en: null
