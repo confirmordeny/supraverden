@@ -121,7 +121,7 @@ Mercosur:
 African Union:
   Wikidata_code: Q7159
   Entity_type: International organisation
-  Org_family: African Union
+  Org_family: African Union entities
   Country: zz
   Name_en: African Union
   Abbreviation_en: AU
@@ -387,7 +387,7 @@ Common Fund for Commodities:
 African Development Bank:
   Wikidata_code: Q340195
   Entity_type: International organisation
-  Org_family: African Union
+  Org_family: African Union entities
   Country: zz
   Name_en: African Development Bank
   Abbreviation_en: null
@@ -395,7 +395,7 @@ African Development Bank:
 African Development Fund:
   Wikidata_code: Q100411453
   Entity_type: International organisation
-  Org_family: African Union
+  Org_family: African Union entities
   Country: zz
   Name_en: African Development Fund
   Abbreviation_en: null
@@ -715,7 +715,7 @@ Advisory Centre on World Trade Organization Law:
 African Court of Justice and Human Rights:
   Wikidata_code: Q24963791
   Entity_type: International organisation
-  Org_family: African Union
+  Org_family: African Union entities
   Country: zz
   Name_en: African Court of Justice and Human Rights
   Abbreviation_en: null
