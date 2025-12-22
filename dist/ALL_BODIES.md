@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 539 international organisations in the table.
+There are currently 540 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -487,6 +487,7 @@ There are currently 539 international organisations in the table.
 | Surveillance Authority of the European Free Trade Association | [Q3775266](https://www.wikidata.org/wiki/Q3775266) | EFTA entities | [Treaty](https://www.efta.int/sites/default/files/media/documents/legal-texts/eea/the-eea-agreement/Main%20Text%20of%20the%20Agreement/EEAagreement.pdf) |
 | Tourism Ireland | [Q7829093](https://www.wikidata.org/wiki/Q7829093) | North South bodies | [www.northsouthministerialcouncil.org](https://www.northsouthministerialcouncil.org/north-south-implementation-bodies) |
 | Translation Centre for the Bodies of the European Union | [Q333743](https://www.wikidata.org/wiki/Q333743) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
+| Turkic Academy | [Q18508934](https://www.wikidata.org/wiki/Q18508934) | Organization of Turkic States entities | [Treaty](https://cdn.tbmm.gov.tr/KKBSPublicFile/D24/Y4/T1/WebOnergeMetni/1573a9b9-dfe9-4283-ab56-5d02be912191.pdf) |
 | Tuvalu Trust Fund | [Q7857109](https://www.wikidata.org/wiki/Q7857109) | none | [Treaty](https://tuvalu-legislation.tv/cms/images/LEGISLATION/SUBORDINATE/1987/1987-0001/1987-0001_1.pdf) |
 | UN Women | [Q641576](https://www.wikidata.org/wiki/Q641576) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | UNAIDS Programme Coordinating Board | [Q588982](https://www.wikidata.org/wiki/Q588982) | UN and affiliates | [ecosoc.un.org](https://ecosoc.un.org/en/about-us/ecosoc-subsidiary-bodies) |
