@@ -2,7 +2,7 @@
 
 * African Union entities (4 entities)
 * Andean Community entities (5 entities)
-* Antarctic Treaty System (2 entities)
+* Antarctic Treaty System entities (2 entities)
 * Arab League entities (12 entities)
 * Association of Southeast Asian Nations (2 entities)
 * Benelux entities (3 entities)
