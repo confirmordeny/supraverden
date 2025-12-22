@@ -34,7 +34,7 @@
 * Pacific Islands Forum (4 entities)
 * Southern African Development Community (1 entity)
 * UN and affiliates (92 entities)
-* UN Environment Programme (2 entities)
+* UN Environment Programme entities (2 entities)
 * Union of South American Nations entities (1 entity)
 * West African Economic and Monetary Union (4 entities)
 * World Bank Group entities (2 entities)
