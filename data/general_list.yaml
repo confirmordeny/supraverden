@@ -138,7 +138,7 @@ Arctic Council:
 Eurasian Economic Union:
   Wikidata_code: Q4173083
   Entity_type: International organisation
-  Org_family: Eurasian Economic Union
+  Org_family: Eurasian Economic Union entities
   Country: zz
   Name_en: Eurasian Economic Union
   Abbreviation_en: EAEU
@@ -2210,7 +2210,7 @@ OPEC Fund for International Development:
 Eurasian Development Bank:
   Wikidata_code: Q498991
   Entity_type: International organisation
-  Org_family: Eurasian Economic Union
+  Org_family: Eurasian Economic Union entities
   Country: zz
   Name_en: Eurasian Development Bank
   Abbreviation_en: null
@@ -2819,3 +2819,12 @@ Turkic Academy:
   Abbreviation_en: 
   Treaty_url: https://cdn.tbmm.gov.tr/KKBSPublicFile/D24/Y4/T1/WebOnergeMetni/1573a9b9-dfe9-4283-ab56-5d02be912191.pdf
   Source: https://adilet.zan.kz/rus/docs/Z2200000117
+Court of the Eurasian Economic Union:
+  Wikidata_code: [No code found.]
+  Entity_type: International organisation
+  Org_family: Eurasian Economic Union entities
+  Country: zz
+  Name_en: Court of the Eurasian Economic Union
+  Abbreviation_en: EAEU Court
+  Treaty_url: https://www.un.org/en/ga/sixth/70/docs/treaty_on_eeu.pdf
+  Source:
