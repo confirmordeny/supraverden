@@ -690,7 +690,7 @@ Permanent Court of Arbitration:
 Nordic Council:
   Wikidata_code: Q146165
   Entity_type: International organisation
-  Org_family: Nordic Council
+  Org_family: Nordic Council entities
   Country: zz
   Name_en: Nordic Council
   Abbreviation_en: null
@@ -698,7 +698,7 @@ Nordic Council:
 Nordic Council of Ministers:
   Wikidata_code: Q182379
   Entity_type: International organisation
-  Org_family: Nordic Council
+  Org_family: Nordic Council entities
   Country: zz
   Name_en: Nordic Council of Ministers
   Abbreviation_en: null
@@ -953,7 +953,7 @@ ASEAN Free Trade Area:
 Nordic Investment Bank:
   Wikidata_code: Q2020649
   Entity_type: International organisation
-  Org_family: Nordic Council
+  Org_family: Nordic Council entities
   Country: zz
   Name_en: Nordic Investment Bank
   Abbreviation_en: NIB
@@ -1811,7 +1811,7 @@ Southeast Asian Ministers of Education Organisation:
 Nordic Development Fund:
   Wikidata_code: Q7050687
   Entity_type: International organisation
-  Org_family: Nordic Council
+  Org_family: Nordic Council entities
   Country: zz
   Name_en: Nordic Development Fund
   Abbreviation_en: NDF
@@ -2113,7 +2113,7 @@ Latin-American Centre for Physics:
 Nordic Environment Finance Corporation:
   Wikidata_code: Q3736769
   Entity_type: International organisation
-  Org_family: Nordic Council
+  Org_family: Nordic Council entities
   Country: zz
   Name_en: Nordic Environment Finance Corporation
   Abbreviation_en: NEFCO
