@@ -9,16 +9,16 @@ There are currently 541 international organisations in the table.
 | Africa Rice Center | [Q383924](https://www.wikidata.org/wiki/Q383924) | CGIAR | [Treaty](https://faolex.fao.org/docs/pdf/mul215505.pdf) |
 | African and Malagasy Council for Higher Education | [Q2993667](https://www.wikidata.org/wiki/Q2993667) | none | [Treaty](https://scienceetbiencommun.pressbooks.pub/cames/back-matter/annexe-iv-actualisation-des-textes-juridiques-du-cames-en-2000/) |
 | African Civil Service Observatory | N/A | none | [Treaty](https://www.ofpa.net/wp-content/uploads/2017/10/nvostatuts.pdf) |
-| African Court of Justice and Human Rights | [Q24963791](https://www.wikidata.org/wiki/Q24963791) | African Union | [Treaty](https://www.peaceau.org/uploads/protocol-statute-african-court-justice-and-human-rights-en.pdf) |
-| African Development Bank | [Q340195](https://www.wikidata.org/wiki/Q340195) | African Union | [Treaty](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Legal-Documents/Agreement_establishing_the_African_development_bank_-_2016_edition.pdf) |
-| African Development Fund | [Q100411453](https://www.wikidata.org/wiki/Q100411453) | African Union | [Treaty](https://www.afdb.org/en/documents/agreement-establishing-african-development-fund-2016-edition) |
+| African Court of Justice and Human Rights | [Q24963791](https://www.wikidata.org/wiki/Q24963791) | African Union entities | [Treaty](https://www.peaceau.org/uploads/protocol-statute-african-court-justice-and-human-rights-en.pdf) |
+| African Development Bank | [Q340195](https://www.wikidata.org/wiki/Q340195) | African Union entities | [Treaty](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Legal-Documents/Agreement_establishing_the_African_development_bank_-_2016_edition.pdf) |
+| African Development Fund | [Q100411453](https://www.wikidata.org/wiki/Q100411453) | African Union entities | [Treaty](https://www.afdb.org/en/documents/agreement-establishing-african-development-fund-2016-edition) |
 | African Export-Import Bank | [Q4689766](https://www.wikidata.org/wiki/Q4689766) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201890/volume-1890-I-32192-English.pdf) |
 | African Groundnut Council | [Q4689777](https://www.wikidata.org/wiki/Q4689777) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%20846/volume-846-I-12123-English.pdf) |
 | African Intellectual Property organisation | [Q1476775](https://www.wikidata.org/wiki/Q1476775) | none | [Treaty](https://www.wipo.int/wipolex/en/text/582620) |
 | African Regional Intellectual Property Organization | [Q384434](https://www.wikidata.org/wiki/Q384434) | none | [Treaty](https://www.wipo.int/wipolex/en/text/588142) |
 | African Telecommunications Union | [Q4689935](https://www.wikidata.org/wiki/Q4689935) | none | [Treaty](https://atuuat.africa/wp-content/uploads/2019/11/ATU-Constitution-and-Convention-Cape-Town-1999-Rev.-Harare-2014.pdf) |
 | African Trade and Investment Development Insurance | [Q60742417](https://www.wikidata.org/wiki/Q60742417) | Common Market for Eastern and Southern Africa | [Treaty](https://www.atidi.africa/wp-content/uploads/2023/10/ATI-Treaty-2022-001-Certified-091023-Stamped.pdf) |
-| African Union | [Q7159](https://www.wikidata.org/wiki/Q7159) | African Union | [Treaty](https://au.int/sites/default/files/treaties/7758-treaty-0021_-_CONSTITUTIVE_ACT_OF_THE_AFRICAN_UNION_E.pdf) |
+| African Union | [Q7159](https://www.wikidata.org/wiki/Q7159) | African Union entities | [Treaty](https://au.int/sites/default/files/treaties/7758-treaty-0021_-_CONSTITUTIVE_ACT_OF_THE_AFRICAN_UNION_E.pdf) |
 | African, Caribbean and Pacific Group of States | N/A | none | [Treaty](https://www.wipo.int/wipolex/en/text/594415) |
 | Agency for Aerial Navigation Safety in Africa and Madagascar | [Q2826699](https://www.wikidata.org/wiki/Q2826699) | none | [Treaty](https://www.asecna.aero/images/Docs/Publications/Convention/Convention_ASECNA_Version_Anglaise.pdf) |
 | Agency for Support for BEREC | [Q107658738](https://www.wikidata.org/wiki/Q107658738) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
@@ -45,7 +45,7 @@ There are currently 541 international organisations in the table.
 | Arab Women Organization | [Q12245743](https://www.wikidata.org/wiki/Q12245743) | Arab League entities | [Treaty](https://www.lloc.gov.bh/FullEn/L2402.docx) |
 | Arctic Council | [Q674182](https://www.wikidata.org/wiki/Q674182) | none | [Treaty](https://oaarchive.arctic-council.org/server/api/core/bitstreams/bdc15f51-fb91-4e0d-9037-3e8618e7b98f/content) |
 | Arms Trade Treaty Secretariat | N/A | none | [Treaty](https://www.fedlex.admin.ch/eli/cc/2016/477/fr) |
-| ASEAN Free Trade Area | [Q297472](https://www.wikidata.org/wiki/Q297472) | Association of Southeast Asian Nations | [Treaty](https://web.archive.org/web/20070614155734/http://www.worldtradelaw.net/fta/agreements/afta.pdf) |
+| ASEAN Free Trade Area | [Q297472](https://www.wikidata.org/wiki/Q297472) | Association of Southeast Asian Nations entities | [Treaty](https://web.archive.org/web/20070614155734/http://www.worldtradelaw.net/fta/agreements/afta.pdf) |
 | Asia-Pacific Economic Cooperation Secretariat | N/A | none | [Treaty](https://www.apec.org/meeting-papers/annual-ministerial-meetings/1992/1992_amm/annex3) |
 | Asia-Pacific Fishery Commission | [Q4806252](https://www.wikidata.org/wiki/Q4806252) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Asia-Pacific Telecommunity | [Q4806261](https://www.wikidata.org/wiki/Q4806261) | none | [Treaty](https://apt.int/pdfs/Constitution.pdf) |
@@ -58,7 +58,7 @@ There are currently 541 international organisations in the table.
 | Association of Caribbean States | [Q1147937](https://www.wikidata.org/wiki/Q1147937) | none | [Treaty](https://www.acs-aec.org/sites/default/files/acs_convention_eng.doc) |
 | Association of Iron Ore Exporting Countries | N/A | none | [Treaty](https://international.vlex.com/vid/accord-portant-creation-l-851216190) |
 | Association of Natural Rubber Producing Countries | N/A | none | [Treaty](https://treaties.fcdo.gov.uk/data/Library2/pdf/1993-TS0036.pdf) |
-| Association of Southeast Asian Nations | [Q7768](https://www.wikidata.org/wiki/Q7768) | Association of Southeast Asian Nations | [Treaty](https://assets.publishing.service.gov.uk/media/5a7c072ee5274a7318b9097a/8472.pdf) |
+| Association of Southeast Asian Nations | [Q7768](https://www.wikidata.org/wiki/Q7768) | Association of Southeast Asian Nations entities | [Treaty](https://assets.publishing.service.gov.uk/media/5a7c072ee5274a7318b9097a/8472.pdf) |
 | Baltic Marine Environment Protection Commission | [Q1563503](https://www.wikidata.org/wiki/Q1563503) | none | [Treaty](https://helcom.fi/wp-content/uploads/2019/06/Helsinki-Convention_July-2014.pdf) |
 | Bank of the Central African States | [Q189972](https://www.wikidata.org/wiki/Q189972) | Economic and Monetary Community of Central Africa | [Treaty](https://www.beac.int/wp-content/uploads/2016/11/TrCemac-rev.pdf) |
 | Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation | [Q795985](https://www.wikidata.org/wiki/Q795985) | none | [Treaty](https://bimstec.org/images/content_page_pdf/1696679710_BIMSTEC%20Charter.pdf) |
@@ -118,7 +118,7 @@ There are currently 541 international organisations in the table.
 | Comprehensive Nuclear-Test-Ban Treaty Organisation | [Q15211422](https://www.wikidata.org/wiki/Q15211422) | none | [Treaty](https://www.ctbto.org/sites/default/files/2023-10/2022_treaty_booklet_E.pdf) |
 | Conseil de l'Entente | [Q945574](https://www.wikidata.org/wiki/Q945574) | none | [Treaty](http://www.conseildelentente.org/images/pdf/charte/charte_du_conseil_de_lentente.pdf) |
 | Consultative Group on International Agricultural Research | [Q1128401](https://www.wikidata.org/wiki/Q1128401) | CGIAR | [Treaty](https://cgspace.cgiar.org/server/api/core/bitstreams/8aa699f3-1099-4d0d-af47-9892a0604f55/content?authentication-token=eyJhbGciOiJIUzI1NiJ9.eyJlaWQiOiI2NjVlOTAxZS00OGNiLTRlYmEtOGMzZi1kMGVjNDMxNzNkZDQiLCJzZyI6W10sImF1dGhlbnRpY2F0aW9uTWV0aG9kIjoicGFzc3dvcmQiLCJleHAiOjE3MzM1ODAzOTd9.kiKKOV7F05wemIxZhZobZxGuIxQ2BCVcoD9T8sCWg5A) |
-| Convention for the Conservation of Antarctic Marine Living Resources | [Q97382426](https://www.wikidata.org/wiki/Q97382426) | Antarctic Treaty System | [Treaty](https://www.ccamlr.org/en/organisation/camlr-convention-text) |
+| Convention for the Conservation of Antarctic Marine Living Resources | [Q97382426](https://www.wikidata.org/wiki/Q97382426) | Antarctic Treaty System entities | [Treaty](https://www.ccamlr.org/en/organisation/camlr-convention-text) |
 | Cooperation Council for the Arab States of the Gulf | [Q217172](https://www.wikidata.org/wiki/Q217172) | none | [Treaty](https://www.wipo.int/wipolex/en/text/590122) |
 | Coordinating Working Party on Fishery Statistics | [Q5168022](https://www.wikidata.org/wiki/Q5168022) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Council of Europe | [Q8908](https://www.wikidata.org/wiki/Q8908) | Council of Europe | [Treaty](https://rm.coe.int/1680a1c6b3) |
@@ -397,7 +397,7 @@ There are currently 541 international organisations in the table.
 | Mercosur | [Q4264](https://www.wikidata.org/wiki/Q4264) | Mercosur | [Treaty](https://www.worldtradelaw.net/document.php?id=fta/agreements/mercosurfta.pdf) |
 | Moselle Commission | [Q114056411](https://www.wikidata.org/wiki/Q114056411) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%202375/v2375.pdf) |
 | Multilateral Investment Guarantee Agency | [Q1043527](https://www.wikidata.org/wiki/Q1043527) | World Bank Group | [Treaty](https://www.miga.org/sites/default/files/archive/Documents/MIGA%20Convention%20(April%202018).pdf) |
-| New Development Bank | [Q8579145](https://www.wikidata.org/wiki/Q8579145) | BRICS | [Treaty](https://www.ndb.int/wp-content/uploads/2022/11/Agreement-on-the-New-Development-Bank.pdf) |
+| New Development Bank | [Q8579145](https://www.wikidata.org/wiki/Q8579145) | BRICS entities | [Treaty](https://www.ndb.int/wp-content/uploads/2022/11/Agreement-on-the-New-Development-Bank.pdf) |
 | Niger Basin Authority | [Q1162546](https://www.wikidata.org/wiki/Q1162546) | none | [Treaty](http://gis.nacse.org/tfdd/tfdddocs/418ENG.pdf) |
 | Nigeria–São Tomé and Príncipe Joint Development Authority | [Q7033072](https://www.wikidata.org/wiki/Q7033072) | none | [Treaty](https://web.archive.org/web/20100202064636/http://www.nigeriasaotomejda.com/PDFs/treaty.pdf) |
 | Nordic Council | [Q146165](https://www.wikidata.org/wiki/Q146165) | Nordic Council | [Treaty](https://norden.diva-portal.org/smash/get/diva2:1250815/FULLTEXT01.pdf) |
@@ -464,7 +464,7 @@ There are currently 541 international organisations in the table.
 | Safefood | [Q7398561](https://www.wikidata.org/wiki/Q7398561) | North South bodies | [www.northsouthministerialcouncil.org](https://www.northsouthministerialcouncil.org/north-south-implementation-bodies) |
 | Salzburg Forum | [Q7406988](https://www.wikidata.org/wiki/Q7406988) | none | [Treaty](https://www.salzburgforum.org/Treaties_and_Agreement/CBE_Agreement.html) |
 | Science and Technology Center in Ukraine | [Q7433636](https://www.wikidata.org/wiki/Q7433636) | none | [Treaty](https://www.evropskyvyzkum.cz/cs/storage/ddd411519c219953947dede0914eee69f0c355c6?uid=ddd411519c219953947dede0914eee69f0c355c6) |
-| Secreriat of the Antarctic Treaty | N/A | Antarctic Treaty System | [Treaty](https://documents.ats.aq/atcm40/ww/ATCM40_ww014_e.pdf) |
+| Secreriat of the Antarctic Treaty | N/A | Antarctic Treaty System entities | [Treaty](https://documents.ats.aq/atcm40/ww/ATCM40_ww014_e.pdf) |
 | Secretariat of the Basel Convention | N/A | UN Environment Programme | [Treaty](https://www.basel.int/TheConvention/Overview/TextoftheConvention/tabid/1275/Default.aspx) |
 | Secretariat of the BBNJ Agreement | N/A | none | [Treaty](https://www.un.org/bbnjagreement/sites/default/files/2024-08/Text%20of%20the%20Agreement%20in%20English.pdf) |
 | Secretariat of the Central European Free Trade Agreement | N/A | none | [Treaty](https://www.fdfa.be/sites/default/files/2022-01/805_Agreement%20in%20English.pdf) |
