@@ -913,7 +913,7 @@ Indian Ocean Commission:
 Central American Integration System:
   Wikidata_code: Q190028
   Entity_type: International organisation
-  Org_family: Central American Integration System
+  Org_family: Central American Integration System entities
   Country: zz
   Name_en: Central American Integration System
   Abbreviation_en: null
@@ -1420,7 +1420,7 @@ International Centre for Settlement of Investment Disputes:
 Center for International Forestry Research and World Agroforestry:
   Wikidata_code: Q121461382
   Entity_type: International organisation
-  Org_family: CGIAR
+  Org_family: CGIAR entities
   Country: zz
   Name_en: Center for International Forestry Research and World Agroforestry
   Abbreviation_en: CIFOR-ICRAF
@@ -1428,7 +1428,7 @@ Center for International Forestry Research and World Agroforestry:
 Africa Rice Center:
   Wikidata_code: Q383924
   Entity_type: International organisation
-  Org_family: CGIAR
+  Org_family: CGIAR entities
   Country: zz
   Name_en: Africa Rice Center
   Name_other_en: AfricaRice
@@ -1440,7 +1440,7 @@ Africa Rice Center:
 International Livestock Research Institute:
   Wikidata_code: Q1666743
   Entity_type: International organisation
-  Org_family: CGIAR
+  Org_family: CGIAR entities
   Country: zz
   Name_en: International Livestock Research Institute
   Name_other_en:
@@ -1900,7 +1900,7 @@ Surveillance Authority of the European Free Trade Association:
 Central American Bank for Economic Integration:
   Wikidata_code: Q190008
   Entity_type: International organisation
-  Org_family: Central American Integration System
+  Org_family: Central American Integration System entities
   Country: zz
   Name_en: Central American Bank for Economic Integration
   Abbreviation_en: CABEI
@@ -2294,7 +2294,7 @@ International Centre for the Study of the Preservation and the Restoration of Cu
 CGIAR System Organization :
   Wikidata_code: Q1128401
   Entity_type: International organisation
-  Org_family: CGIAR
+  Org_family: CGIAR entities
   Country: zz
   Name_en: Consultative Group on International Agricultural Research
   Name_former_en: CGIAR
@@ -2303,7 +2303,7 @@ CGIAR System Organization :
 International Centre for Agriculture Research in the Dry Areas:
   Wikidata_code: Q601277
   Entity_type: International organisation
-  Org_family: CGIAR
+  Org_family: CGIAR entities
   Country: zz
   Name_en: International Centre for Agriculture Research in the Dry Areas
   Abbreviation_en: ICARDA
@@ -2712,7 +2712,7 @@ Arms Trade Treaty Secretariat:
 International Rice Research Institute:
   Wikidata_code: Q1204921
   Entity_type: International organisation
-  Org_family: CGIAR
+  Org_family: CGIAR entities
   Country: zz
   Name_en: International Rice Research Institute
   Name_other_en:
@@ -2732,7 +2732,7 @@ International Union for Conservation of Nature and Natural Resources:
 International Potato Center:
   Wikidata_code: Q1054322
   Entity_type: International organisation
-  Org_family: CGIAR
+  Org_family: CGIAR entities
   Country: zz
   Name_en: International Potato Center
   Name_other_en: 
@@ -2742,7 +2742,7 @@ International Potato Center:
 International Center for Tropical Agriculture:
   Wikidata_code: Q1054314
   Entity_type: International organisation
-  Org_family: CGIAR
+  Org_family: CGIAR entities
   Country: zz
   Name_en: International Center for Tropical Agriculture
   Name_other_en:
