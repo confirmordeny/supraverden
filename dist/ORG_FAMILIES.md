@@ -7,7 +7,7 @@
 * Association of Southeast Asian Nations entities (2 entities)
 * Benelux entities (3 entities)
 * BRICS entities (1 entity)
-* Caribbean Community entities (11 entities)
+* Caribbean Community entities (12 entities)
 * Central American Integration System entities (2 entities)
 * CGIAR entities (8 entities)
 * Common Market for Eastern and Southern Africa entities (4 entities)
