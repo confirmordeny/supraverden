@@ -81,6 +81,7 @@ There are currently 543 international organisations in the table.
 | Caribbean Disaster Emergency Management Agency | [Q5039374](https://www.wikidata.org/wiki/Q5039374) | none | [Treaty](https://www.cdema.org/cdema_agreement.pdf) |
 | Caribbean Examinations Council | [Q5039378](https://www.wikidata.org/wiki/Q5039378) | Caribbean Community entities | [Treaty](https://caricom.org/wp-content/uploads/Revised-Agreement-Establishing-the-Caribbean-Examinations-Council-CXC.pdf) |
 | Caribbean Meteorological Organisation | [Q5039400](https://www.wikidata.org/wiki/Q5039400) | Caribbean Community entities | [Treaty](http://www.cmo.org.tt/docs/AGREEMENT.pdf) |
+| Caribbean Regional Fisheries Mechanism | [Q117198149](https://www.wikidata.org/wiki/Q117198149) | Caribbean Community entities | [Treaty](https://www.crfm.int/index.php?option=com_k2&view=item&layout=item&id=2&Itemid=116) |
 | Caribbean Telecommunications Union | [Q115803554](https://www.wikidata.org/wiki/Q115803554) | Caribbean Community entities | [Treaty](https://ctu.int/wp-content/uploads/2023/09/1.-Agreement-for-the-Establishment-of-the-Caribbean-Telecommunications-Union.pdf) |
 | Center for International Forestry Research and World Agroforestry | [Q121461382](https://www.wikidata.org/wiki/Q121461382) | CGIAR entities | [Treaty](https://www.austlii.edu.au/cgi-bin/sinodisp/au/other/dfat/treaties/ATS/1993/13.html?stem=0&synonyms=0&query=CIFOR%20Agreement) |
 | Central Africa Forests Commission | [Q5060269](https://www.wikidata.org/wiki/Q5060269) | none | [Treaty](https://comifac.org/wp-content/uploads/2017/12/Trait%C3%A9%20COMIFAC%202005_fr_ang_esp_por.pdf) |
@@ -448,7 +449,6 @@ There are currently 543 international organisations in the table.
 | Pacific Tourism Organisation | [Q7568120](https://www.wikidata.org/wiki/Q7568120) | Pacific Islands Forum | [Treaty](http://www.paclii.org/pits/en/treaty_database/1999/1.html) |
 | Pan African Postal Union | N/A | none | [Treaty](https://www.jus.uio.no/english/services/library/treaties/07/7-05/oau_postal_union.html) |
 | Pan American Health Organization | [Q1856835](https://www.wikidata.org/wiki/Q1856835) | OAS institutions and bodies | [www.jstor.org](https://www.jstor.org/stable/4548819) |
-| Pan-African Non-Petroleum Producers Association | [Q4653348](https://www.wikidata.org/wiki/Q4653348) | none | [Treaty]('[Not found]') |
 | Pan‐American Institute of Geography and History | [Q7129603](https://www.wikidata.org/wiki/Q7129603) | OAS institutions and bodies | [www.govinfo.gov](https://www.govinfo.gov/content/pkg/SERIALSET-09927_00_00-037-0107-0000/pdf/SERIALSET-09927_00_00-037-0107-0000.pdf) |
 | Parliamentary Assembly of the Mediterranean | [Q3369689](https://www.wikidata.org/wiki/Q3369689) | none | [Treaty](https://pam.int/wp-content/uploads/2021/12/PAM-Statutes-EN-FR-.pdf) |
 | Parliamentary Assembly of Turkic States | [Q4345435](https://www.wikidata.org/wiki/Q4345435) | Organization of Turkic States entities | [Treaty](https://web.archive.org/web/20230329043622/https://www.turk-pa.org/file/236_1580134295_5318.pdf) |
