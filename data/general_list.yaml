@@ -118,6 +118,15 @@ Mercosur:
   Name_en: Mercosur
   Name_other_en: Southern Common Market
   Treaty_url: https://www.worldtradelaw.net/document.php?id=fta/agreements/mercosurfta.pdf
+Mercosur Parliament:
+  Wikidata_code: Q2723083
+  Entity_type: International organisation
+  Org_family: Mercosur entities
+  Country: zz
+  Name_en: Mercosur Parliament
+  Name_es: Parlamento del Mercosur
+  Name_other_en:
+  Treaty_url: https://www.parlamentomercosur.org/innovaportal/file/7308/1/protocolo_es.pdf
 African Union:
   Wikidata_code: Q7159
   Entity_type: International organisation
