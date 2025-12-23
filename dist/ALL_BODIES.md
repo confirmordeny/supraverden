@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 542 international organisations in the table.
+There are currently 543 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -13,6 +13,7 @@ There are currently 542 international organisations in the table.
 | African Court of Justice and Human Rights | [Q24963791](https://www.wikidata.org/wiki/Q24963791) | African Union entities | [Treaty](https://www.peaceau.org/uploads/protocol-statute-african-court-justice-and-human-rights-en.pdf) |
 | African Development Bank | [Q340195](https://www.wikidata.org/wiki/Q340195) | African Union entities | [Treaty](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Legal-Documents/Agreement_establishing_the_African_development_bank_-_2016_edition.pdf) |
 | African Development Fund | [Q100411453](https://www.wikidata.org/wiki/Q100411453) | African Union entities | [Treaty](https://www.afdb.org/en/documents/agreement-establishing-african-development-fund-2016-edition) |
+| African Energy Commission | [Q4689761](https://www.wikidata.org/wiki/Q4689761) | African Union entities | [Treaty](https://web.archive.org/web/20250219222510/https://au.int/sites/default/files/treaties/37310-treaty-0023_-_convention_of_the_african_energy_commission_e.pdf) |
 | African Export-Import Bank | [Q4689766](https://www.wikidata.org/wiki/Q4689766) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201890/volume-1890-I-32192-English.pdf) |
 | African Groundnut Council | [Q4689777](https://www.wikidata.org/wiki/Q4689777) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%20846/volume-846-I-12123-English.pdf) |
 | African Intellectual Property organisation | [Q1476775](https://www.wikidata.org/wiki/Q1476775) | none | [Treaty](https://www.wipo.int/wipolex/en/text/582620) |
