@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 543 international organisations in the table.
+There are currently 544 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -398,6 +398,7 @@ There are currently 543 international organisations in the table.
 | Mekong River Commission | [Q935878](https://www.wikidata.org/wiki/Q935878) | none | [Treaty](https://www.mrcmekong.org/wp-content/uploads/2024/08/1995-Mekong-Agreement.pdf) |
 | Melanesian Spearhead Group | [Q1918937](https://www.wikidata.org/wiki/Q1918937) | none | [Treaty](https://msgsec.info/wp-content/uploads/2024/10/UN-Depository-_-Agreement-Establishng-the-MSG-2007.pdf) |
 | Mercosur | [Q4264](https://www.wikidata.org/wiki/Q4264) | Mercosur entities | [Treaty](https://www.worldtradelaw.net/document.php?id=fta/agreements/mercosurfta.pdf) |
+| Mercosur Parliament | [Q2723083](https://www.wikidata.org/wiki/Q2723083) | Mercosur entities | [Treaty](https://www.parlamentomercosur.org/innovaportal/file/7308/1/protocolo_es.pdf) |
 | Moselle Commission | [Q114056411](https://www.wikidata.org/wiki/Q114056411) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%202375/v2375.pdf) |
 | Multilateral Investment Guarantee Agency | [Q1043527](https://www.wikidata.org/wiki/Q1043527) | World Bank Group entities | [Treaty](https://www.miga.org/sites/default/files/archive/Documents/MIGA%20Convention%20(April%202018).pdf) |
 | New Development Bank | [Q8579145](https://www.wikidata.org/wiki/Q8579145) | BRICS entities | [Treaty](https://www.ndb.int/wp-content/uploads/2022/11/Agreement-on-the-New-Development-Bank.pdf) |
