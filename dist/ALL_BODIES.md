@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 545 international organisations in the table.
+There are currently 546 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -386,6 +386,7 @@ There are currently 545 international organisations in the table.
 | Justice Studies Center for the Americas | N/A | OAS institutions and bodies | [web.archive.org](https://web.archive.org/web/20050418013202/https://www.oas.org/juridico/english/ga-res99/agres1.htm) |
 | King Abdullah Bin Abdulaziz International Centre for Interreligious and | [Q6324948](https://www.wikidata.org/wiki/Q6324948) | none | [Treaty](https://www.kaiciid.org/node/2641) |
 | Lake Chad Basin Commission | [Q2986599](https://www.wikidata.org/wiki/Q2986599) | none | [Treaty](https://faolex.fao.org/docs/pdf/cmr1076.pdf) |
+| Lake Tanganyika Authority: | [Q30261886](https://www.wikidata.org/wiki/Q30261886) | none | [Treaty](http://lta.iwlearn.org/documents/the-convention-on-the-sustainable-management-of-lake-tanganyika-eng.pdf) |
 | Latin American and the Caribbean Economic System | [Q605595](https://www.wikidata.org/wiki/Q605595) | none | [Treaty](https://sela.org/wp-content/uploads/2023/07/t023600000397-0-convenio_de_panama_-enero_2006.pdf) |
 | Latin American Civil Aviation Commission | [Q131103399](https://www.wikidata.org/wiki/Q131103399) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201241/volume-1241-I-20170-English.pdf) |
 | Latin American Energy Organization | [Q3356053](https://www.wikidata.org/wiki/Q3356053) | none | [Treaty](https://biblioteca.olade.org/opac-tmpl/Documentos/old0058.pdf) |
