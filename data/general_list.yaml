@@ -6,7 +6,9 @@ Council of Europe:
   Name_en: Council of Europe
   Abbreviation_en: null
   Treaty_url: https://rm.coe.int/1680a1c6b3
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Conseil de l'Europe
+  Name_es: Consejo de Europa
 Benelux:
   Wikidata_code: Q13116
   Entity_type: International organisation
@@ -15,6 +17,8 @@ Benelux:
   Name_en: Benelux
   Abbreviation_en: null
   Treaty_url: https://www.benelux.int/wp-content/uploads/2023/02/BeneluxVerdrag_2008.pdf
+  Name_fr: Benelux
+  Name_es: Benelux
 Andean Community:
   Wikidata_code: Q471690
   Entity_type: International organisation
@@ -23,6 +27,8 @@ Andean Community:
   Name_en: Andean Community
   Abbreviation_en: null
   Treaty_url: https://www.comunidadandina.org/StaticFiles/201338102616Acuerdo_Cartagena.pdf
+  Name_fr: Communauté andine des Nations
+  Name_es: Comunidad Andina
 Court of Justice of the Andean Community:
   Wikidata_code: Q5789480
   Entity_type: International organisation
@@ -31,6 +37,7 @@ Court of Justice of the Andean Community:
   Name_en: Court of Justice of the Andean Community
   Abbreviation_en: null
   Treaty_url: https://www.comunidadandina.org/StaticFiles/201338102616Acuerdo_Cartagena.pdf
+  Name_es: Tribunal de Justicia de la Comunidad Andina
 Union State:
   Wikidata_code: Q166110
   Entity_type: International organisation
@@ -39,6 +46,8 @@ Union State:
   Name_en: Union State
   Abbreviation_en: null
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%202121/v2121.pdf
+  Name_fr: Union de la Russie et de la Biélorussie
+  Name_es: Unión de Rusia y Bielorrusia
 Commonwealth of Independent States:
   Wikidata_code: Q7779
   Entity_type: International organisation
@@ -47,6 +56,8 @@ Commonwealth of Independent States:
   Name_en: Commonwealth of Independent States
   Abbreviation_en: CIS
   Treaty_url: https://www.coe.int/en/web/venice-commission/-/CDL(1994)054-e
+  Name_fr: communauté des États indépendants
+  Name_es: Comunidad de Estados Independientes
 Organisation of Eastern Caribbean States:
   Wikidata_code: Q392770
   Entity_type: International organisation
@@ -55,6 +66,8 @@ Organisation of Eastern Caribbean States:
   Name_en: Organisation of Eastern Caribbean States
   Abbreviation_en: OECS
   Treaty_url: https://caricom.org/documents/legaldocuments/9240-treaty-oecs.htm
+  Name_fr: Organisation des États de la Caraïbe orientale
+  Name_es: Organización de Estados del Caribe Oriental
 Eastern Caribbean Central Bank:
   Wikidata_code: Q1210260
   Entity_type: International organisation
@@ -63,6 +76,8 @@ Eastern Caribbean Central Bank:
   Name_en: Eastern Caribbean Central Bank
   Abbreviation_en: ECCB
   Treaty_url: https://www.eccb-centralbank.org/viewPDF/documents/2022-05-27-06-12-30-ECCB-Agreement.pdf
+  Name_fr: Banque Centrale des Caraïbes Orientales
+  Name_es: Banco Central del Caribe Oriental
 Organization for Security and Co-operation in Europe:
   Wikidata_code: Q81299
   Entity_type: International organisation
@@ -71,6 +86,8 @@ Organization for Security and Co-operation in Europe:
   Name_en: Organization for Security and Co-operation in Europe
   Abbreviation_en: OSCE
   Treaty_url: '[N/A OSCE]'
+  Name_fr: Organisation pour la sécurité et la coopération en Europe
+  Name_es: Organización para la Seguridad y la Cooperación en Europa
 North Atlantic Treaty Organisation:
   Wikidata_code: Q7184
   Entity_type: International organisation
@@ -79,6 +96,8 @@ North Atlantic Treaty Organisation:
   Name_en: North Atlantic Treaty Organisation
   Abbreviation_en: NATO
   Treaty_url: https://www.nato.int/cps/en/natohq/official_texts_17120.htm
+  Name_fr: Organisation du traité de l'Atlantique nord
+  Name_es: OTAN
 Caribbean Community:
   Wikidata_code: Q205995
   Entity_type: International organisation
@@ -87,6 +106,8 @@ Caribbean Community:
   Name_en: Caribbean Community
   Abbreviation_en: Caricom
   Treaty_url: https://researchbriefings.files.parliament.uk/documents/CBP-7376/CBP-7376.pdf
+  Name_fr: Communauté caribéenne
+  Name_es: Comunidad del Caribe
 Caribbean Examinations Council:
   Wikidata_code: Q5039378
   Entity_type: International organisation
@@ -111,6 +132,8 @@ Association of Southeast Asian Nations:
   Name_en: Association of Southeast Asian Nations
   Abbreviation_en: ASEAN
   Treaty_url: https://assets.publishing.service.gov.uk/media/5a7c072ee5274a7318b9097a/8472.pdf
+  Name_fr: Association des nations de l'Asie du Sud-Est
+  Name_es: Asociación de las Naciones de Asia Sudoriental
 Mercosur:
   Wikidata_code: Q4264
   Entity_type: International organisation
@@ -119,6 +142,8 @@ Mercosur:
   Name_en: Mercosur
   Name_other_en: Southern Common Market
   Treaty_url: https://www.worldtradelaw.net/document.php?id=fta/agreements/mercosurfta.pdf
+  Name_fr: Marché commun du Sud
+  Name_es: Mercosur
 Mercosur Parliament:
   Wikidata_code: Q2723083
   Entity_type: International organisation
@@ -126,8 +151,9 @@ Mercosur Parliament:
   Country: zz
   Name_en: Mercosur Parliament
   Name_es: Parlamento del Mercosur
-  Name_other_en:
+  Name_other_en: null
   Treaty_url: https://www.parlamentomercosur.org/innovaportal/file/7308/1/protocolo_es.pdf
+  Name_fr: Parlement du Mercosur
 African Union:
   Wikidata_code: Q7159
   Entity_type: International organisation
@@ -137,6 +163,8 @@ African Union:
   Abbreviation_en: AU
   Treaty_url: https://au.int/sites/default/files/treaties/7758-treaty-0021_-_CONSTITUTIVE_ACT_OF_THE_AFRICAN_UNION_E.pdf
   OpenSanctions_id: bic-AFUNETAA
+  Name_fr: Union africaine
+  Name_es: Unión Africana
 Africa Centres for Disease Control and Prevention:
   Wikidata_code: Q88234914
   Entity_type: International organisation
@@ -146,6 +174,7 @@ Africa Centres for Disease Control and Prevention:
   Abbreviation_en: Africa CDC
   Treaty_url: https://web.archive.org/web/20250220005838/https://au.int/sites/default/files/treaties/42517-treaty-EN_Revised_Statute_Africa_CDC.pdf
   OpenSanctions_id: '[No code found.]'
+  Name_fr: Centre africain pour la surveillance et la prévention des maladies
 Arctic Council:
   Wikidata_code: Q674182
   Entity_type: International organisation
@@ -154,6 +183,8 @@ Arctic Council:
   Name_en: Arctic Council
   Abbreviation_en: null
   Treaty_url: https://oaarchive.arctic-council.org/server/api/core/bitstreams/bdc15f51-fb91-4e0d-9037-3e8618e7b98f/content
+  Name_fr: Conseil de l'Arctique
+  Name_es: Consejo Ártico
 Eurasian Economic Union:
   Wikidata_code: Q4173083
   Entity_type: International organisation
@@ -162,6 +193,8 @@ Eurasian Economic Union:
   Name_en: Eurasian Economic Union
   Abbreviation_en: EAEU
   Treaty_url: https://www.wto.org/english/thewto_e/acc_e/kaz_e/wtacckaz85_leg_1.pdf
+  Name_fr: Union économique eurasiatique
+  Name_es: Unión Económica Eurasiática
 Organization of Arab Petroleum Exporting Countries:
   Wikidata_code: Q1052077
   Entity_type: International organisation
@@ -170,6 +203,8 @@ Organization of Arab Petroleum Exporting Countries:
   Name_en: Organization of Arab Petroleum Exporting Countries
   Abbreviation_en: OAPEC
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%20681/volume-681-I-9707-English.pdf
+  Name_fr: Organisation des pays arabes exportateurs de pétrole
+  Name_es: Organización de Países Árabes Exportadores de Petróleo
 Organization of the Petroleum Exporting Countries:
   Wikidata_code: Q7795
   Entity_type: International organisation
@@ -178,6 +213,8 @@ Organization of the Petroleum Exporting Countries:
   Name_en: Organization of the Petroleum Exporting Countries
   Abbreviation_en: OPEC
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%20443/volume-443-I-6363-English.pdf
+  Name_fr: Organisation des pays exportateurs de pétrole
+  Name_es: Organización de Países Exportadores de Petróleo
 Financial Action Task Force:
   Wikidata_code: Q681487
   Entity_type: International organisation
@@ -186,6 +223,8 @@ Financial Action Task Force:
   Name_en: Financial Action Task Force
   Abbreviation_en: FATF
   Treaty_url: https://www.ico.org/documents/cy2021-22/ica-2022-e.pdf
+  Name_fr: Groupe d'action financière
+  Name_es: Grupo de Acción Financiera Internacional
 European Court of Human Rights:
   Wikidata_code: Q122880
   Entity_type: International organisation
@@ -194,6 +233,8 @@ European Court of Human Rights:
   Name_en: European Court of Human Rights
   Abbreviation_en: ECHR
   Treaty_url: https://www.echr.coe.int/documents/d/echr/convention_ENG
+  Name_fr: Cour européenne des droits de l'homme
+  Name_es: Tribunal Europeo de Derechos Humanos
 International Hydrographic Organisation:
   Wikidata_code: Q233611
   Entity_type: International organisation
@@ -202,6 +243,8 @@ International Hydrographic Organisation:
   Name_en: International Hydrographic Organisation
   Abbreviation_en: null
   Treaty_url: https://iho.int/uploads/user/pubs/misc/M1_Separatedocs/Convention_new_EN.pdf
+  Name_fr: Organisation hydrographique internationale
+  Name_es: Organización Hidrográfica Internacional
 European Free Trade Association:
   Wikidata_code: Q166546
   Entity_type: International organisation
@@ -210,6 +253,8 @@ European Free Trade Association:
   Name_en: European Free Trade Association
   Abbreviation_en: EFTA
   Treaty_url: https://www.efta.int/sites/default/files/uploads/2024-04/Vaduz_Convention_Agreement_Updated_1_November_2021.pdf
+  Name_fr: Association européenne de libre-échange
+  Name_es: Asociación Europea de Libre Comercio
 European Centre for Medium-Range Weather Forecasts:
   Wikidata_code: Q1274195
   Entity_type: International organisation
@@ -218,6 +263,8 @@ European Centre for Medium-Range Weather Forecasts:
   Name_en: European Centre for Medium-Range Weather Forecasts
   Abbreviation_en: ECMWF
   Treaty_url: https://www.ecmwf.int/sites/default/files/amended_convention_protocol_privileges_en.pdf
+  Name_fr: centre européen de prévision météorologique à moyen terme
+  Name_es: Centro Europeo de Previsiones Meteorológicas a Plazo Medio
 International Grains Council:
   Wikidata_code: Q6050768
   Entity_type: International organisation
@@ -226,6 +273,8 @@ International Grains Council:
   Name_en: International Grains Council
   Abbreviation_en: null
   Treaty_url: https://treaties.un.org/doc/Treaties/1995/07/19950701%2008-42%20PM/Ch_XIX_41_a_bp.pdf
+  Name_fr: Conseil international des céréales
+  Name_es: Consejo Internacional de Cereales
 International Coffee Organisation:
   Wikidata_code: Q48192
   Entity_type: International organisation
@@ -234,6 +283,8 @@ International Coffee Organisation:
   Name_en: International Coffee Organisation
   Abbreviation_en: null
   Treaty_url: https://www.ico.org/documents/cy2021-22/ica-2022-e.pdf
+  Name_fr: Organisation internationale du café
+  Name_es: Organización Internacional del Café
 International Sugar Organisation:
   Wikidata_code: Q691632
   Entity_type: International organisation
@@ -242,6 +293,8 @@ International Sugar Organisation:
   Name_en: International Sugar Organisation
   Abbreviation_en: null
   Treaty_url: https://treaties.un.org/doc/Treaties/1993/01/19930120%2004-38%20AM/Ch_XIX_37p.pdf
+  Name_fr: Organisation internationale du sucre
+  Name_es: Organización Internacional del Azúcar
 International Cocoa Organization:
   Wikidata_code: Q1667326
   Entity_type: International organisation
@@ -250,6 +303,8 @@ International Cocoa Organization:
   Name_en: International Cocoa Organization
   Abbreviation_en: null
   Treaty_url: https://www.icco.org/wp-content/uploads/2019/06/ICA-1986-English.pdf
+  Name_fr: Organisation internationale du cacao
+  Name_es: Organización Internacional del Cacao
 International Whaling Commission:
   Wikidata_code: Q1053889
   Entity_type: International organisation
@@ -258,6 +313,8 @@ International Whaling Commission:
   Name_en: International Whaling Commission
   Abbreviation_en: null
   Treaty_url: https://archive.iwc.int/pages/download.php?direct=1&noattach=true&ref=3607&ext=pdf&k=
+  Name_fr: Commission baleinière internationale
+  Name_es: Comisión Ballenera Internacional
 International Rubber Study Group:
   Wikidata_code: Q131542072
   Entity_type: International organisation
@@ -266,6 +323,8 @@ International Rubber Study Group:
   Name_en: International Rubber Study Group
   Abbreviation_en: IRSG
   Treaty_url: https://www.rubberstudy.org/storage/uploads/contentfile/18902/yVf21ESEis.pdf
+  Name_fr: International Rubber Study Group
+  Name_es: International Rubber Study Group
 International Lead and Zinc Study Group:
   Wikidata_code: Q12131043
   Entity_type: International organisation
@@ -282,6 +341,7 @@ International Telecommunications Satellite Organisation:
   Name_en: International Telecommunications Satellite Organisation
   Abbreviation_en: ITSO
   Treaty_url: https://itso.int/wp-content/uploads/2018/01/ITSO-Agreement-Booklet-new-version-FINAL-EnFrEs.pdf
+  Name_fr: Organisation internationale de télécommunications par satellite
 Oslo and Paris Commissions:
   Wikidata_code: Q125870138
   Entity_type: International organisation
@@ -314,6 +374,7 @@ European Telecommunications Satellite Organization:
   Name_en: European Telecommunications Satellite Organization
   Abbreviation_en: Eutelsat IGO
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201519/volume-1519-I-26342-English.pdf
+  Name_fr: Organisation européenne de télécommunications par satellite
 North-East Atlantic Fisheries Commission:
   Wikidata_code: Q15106130
   Entity_type: International organisation
@@ -322,6 +383,7 @@ North-East Atlantic Fisheries Commission:
   Name_en: North-East Atlantic Fisheries Commission
   Abbreviation_en: NEAFC
   Treaty_url: https://www.neafc.org/system/files/Text-of-NEAFC-Convention-04.pdf
+  Name_fr: North East Atlantic Fishery Commission
 International Mobile Satellite Organization:
   Wikidata_code: Q1666759
   Entity_type: International organisation
@@ -330,6 +392,7 @@ International Mobile Satellite Organization:
   Name_en: International Mobile Satellite Organization
   Abbreviation_en: IMSO
   Treaty_url: https://imso.org/wp-content/uploads/2025/03/IMSO-C-1976-A-5-Resolution-A.529-E-F-S-R-1.pdf
+  Name_fr: International Mobile Satellite Organization
 North Atlantic Salmon Conservation Organization:
   Wikidata_code: Q7053997
   Entity_type: International organisation
@@ -338,6 +401,7 @@ North Atlantic Salmon Conservation Organization:
   Name_en: North Atlantic Salmon Conservation Organization
   Abbreviation_en: NASCO
   Treaty_url: https://nasco.int/wp-content/uploads/2020/05/NASCO_Handbook.pdf
+  Name_fr: Organisation pour la conservation du saumon de l'Atlantique Nord
 European Organization for Astronomical Research in the Southern Hemisphere:
   Wikidata_code: Q151991
   Entity_type: International organisation
@@ -347,6 +411,8 @@ European Organization for Astronomical Research in the Southern Hemisphere:
   Name_other_en: European Southern Observatory
   Abbreviation_en: null
   Treaty_url: https://assets.publishing.service.gov.uk/media/5a7c9c43e5274a29d8363b4a/5767.pdf
+  Name_fr: Observatoire européen austral
+  Name_es: Observatorio Europeo del Sur
 European Space Agency:
   Wikidata_code: Q42262
   Entity_type: International organisation
@@ -355,6 +421,8 @@ European Space Agency:
   Name_en: European Space Agency
   Abbreviation_en: null
   Treaty_url: https://download.esa.int/docs/LEX-L/ESA-Ratification-acts/United_Kingdom_(28_Mar_1978).pdf
+  Name_fr: Agence spatiale européenne
+  Name_es: Agencia Espacial Europea
 European Forest Institute:
   Wikidata_code: Q580400
   Entity_type: International organisation
@@ -363,6 +431,8 @@ European Forest Institute:
   Name_en: European Forest Institute
   Abbreviation_en: null
   Treaty_url: https://efi.int/sites/default/files/files/members/EFI_convention_final_SIW.pdf
+  Name_fr: Institut européen de la forêt
+  Name_es: Instituto Forestal Europeo
 Global Combat Air Programme International Government Organisation:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -387,6 +457,8 @@ International Criminal Police Organization:
   Name_en: International Criminal Police Organization
   Abbreviation_en: INTERPOL
   Treaty_url: https://web.archive.org/web/20160222055903/https://www.interpol.int/content/download/9429/69209/version/9/file/Constitution.pdf
+  Name_fr: Interpol
+  Name_es: Interpol
 European Committee for Prevention of Torture:
   Wikidata_code: Q1378135
   Entity_type: International organisation
@@ -395,6 +467,9 @@ European Committee for Prevention of Torture:
   Name_en: European Committee for Prevention of Torture
   Abbreviation_en: null
   Treaty_url: https://rm.coe.int/16806dbaa3
+  Name_fr: comité européen pour la prévention de la torture et des peines ou traitements
+    inhumains ou dégradants
+  Name_es: Comité Europeo para la prevención de la tortura
 Common Fund for Commodities:
   Wikidata_code: Q604488
   Entity_type: International organisation
@@ -411,6 +486,8 @@ African Development Bank:
   Name_en: African Development Bank
   Abbreviation_en: null
   Treaty_url: https://www.afdb.org/fileadmin/uploads/afdb/Documents/Legal-Documents/Agreement_establishing_the_African_development_bank_-_2016_edition.pdf
+  Name_fr: Banque africaine de développement
+  Name_es: Banco Africano de Desarrollo
 African Development Fund:
   Wikidata_code: Q100411453
   Entity_type: International organisation
@@ -427,6 +504,8 @@ Asian Development Bank:
   Name_en: Asian Development Bank
   Abbreviation_en: null
   Treaty_url: https://www.adb.org/sites/default/files/institutional-document/32120/charter.pdf
+  Name_fr: Banque asiatique de développement
+  Name_es: Banco Asiático de Desarrollo
 Asian Infrastructure Investment Bank:
   Wikidata_code: Q18109843
   Entity_type: International organisation
@@ -435,6 +514,8 @@ Asian Infrastructure Investment Bank:
   Name_en: Asian Infrastructure Investment Bank
   Abbreviation_en: null
   Treaty_url: https://www.aiib.org/en/about-aiib/basic-documents/_download/articles-of-agreement/basic_document_english-bank_articles_of_agreement.pdf
+  Name_fr: banque asiatique d'investissement pour les infrastructures
+  Name_es: Banco Asiático de Inversión en Infraestructura
 Commonwealth Secretariat:
   Wikidata_code: Q3954348
   Entity_type: International organisation
@@ -444,6 +525,8 @@ Commonwealth Secretariat:
   Abbreviation_en: null
   Treaty_url: null
   Source: https://www.legislation.gov.uk/ukpga/1966/10
+  Name_fr: Commonwealth Secretariat
+  Name_es: Secretaría de la Mancomunidad de Naciones
 Commonwealth Telecommunications Organisation:
   Wikidata_code: Q5153868
   Entity_type: International organisation
@@ -453,6 +536,7 @@ Commonwealth Telecommunications Organisation:
   Abbreviation_en: null
   Treaty_url: null
   Source: https://assets.publishing.service.gov.uk/media/5a82bacf40f0b62305b940a4/TS_20_2017_CM_9512_WEB.pdf
+  Name_fr: Commonwealth Telecommunications Organisation
 CAB International:
   Wikidata_code: Q5008528
   Entity_type: International organisation
@@ -461,6 +545,8 @@ CAB International:
   Name_en: CAB International
   Abbreviation_en: CABI
   Treaty_url: https://www.cabi.org/wp-content/uploads/PDFs/AboutCABI/CABI-Agreement-2016.pdf
+  Name_fr: CAB International
+  Name_es: CAB International
 European Organisation for the Safety of Air Navigation:
   Wikidata_code: Q663492
   Entity_type: International organisation
@@ -469,6 +555,8 @@ European Organisation for the Safety of Air Navigation:
   Name_en: European Organisation for the Safety of Air Navigation
   Abbreviation_en: EUROCONTROL
   Treaty_url: https://www.interlex-portal.eu/FindLaw/Login/Index?returnUrl=%2FFindLaw%2FExport%2FExportMultiDocs%3Ftype%3Dpdf%26idsString%3D6742981
+  Name_fr: Eurocontrol
+  Name_es: Eurocontrol
 European Bank for Reconstruction and Development:
   Wikidata_code: Q488981
   Entity_type: International organisation
@@ -477,6 +565,8 @@ European Bank for Reconstruction and Development:
   Name_en: European Bank for Reconstruction and Development
   Abbreviation_en: null
   Treaty_url: https://www.ebrd.com/content/dam/ebrd_dxp/assets/pdfs/institutional-documents/basic-documents-of-the-ebrd-july-2025-english.pdf
+  Name_fr: Banque européenne pour la reconstruction et le développement
+  Name_es: Banco Europeo para la Reconstrucción y el Desarrollo
 Caribbean Development Bank:
   Wikidata_code: Q3772571
   Entity_type: International organisation
@@ -485,6 +575,8 @@ Caribbean Development Bank:
   Name_en: Caribbean Development Bank
   Abbreviation_en: CBD
   Treaty_url: https://treaties.un.org/doc/Treaties/1970/01/19700126%2006-49%20AM/Ch_X_06p.pdf
+  Name_fr: Banque de développement des Caraïbes
+  Name_es: Banco de Desarrollo del Caribe
 Cooperation Council for the Arab States of the Gulf:
   Wikidata_code: Q217172
   Entity_type: International organisation
@@ -495,6 +587,8 @@ Cooperation Council for the Arab States of the Gulf:
   Name_other_en_2: Cooperation Council for the Arab States of the Persian Gulf
   Abbreviation_en: GCC
   Treaty_url: https://www.wipo.int/wipolex/en/text/590122
+  Name_fr: Conseil de coopération du Golfe
+  Name_es: Consejo de Cooperación para los Estados Árabes del Golfo
 Economic Cooperation Organization:
   Wikidata_code: Q225950
   Entity_type: International organisation
@@ -503,6 +597,8 @@ Economic Cooperation Organization:
   Name_en: Economic Cooperation Organization
   Abbreviation_en: null
   Treaty_url: https://eco.int/wp-content/uploads/2017/05/Agreement-on-Legal-Status-of-the-ECO-National-Representatives-and-International-Staff.pdf
+  Name_fr: Organisation de coopération économique
+  Name_es: Organización de Cooperación Económica
 Organization of Ibero-American States:
   Wikidata_code: Q421023
   Entity_type: International organisation
@@ -511,6 +607,9 @@ Organization of Ibero-American States:
   Name_en: Organization of Ibero-American States
   Abbreviation_en: null
   Treaty_url: https://oei.int/wp-content/uploads/1985/12/reglamento-de-la-oei.pdf
+  Name_fr: Organisation des États Ibéro-américains
+  Name_es: Organización de Estados Iberoamericanos para la Educación, la Ciencia y
+    la Cultura
 Organization of the Black Sea Economic Cooperation:
   Wikidata_code: Q380340
   Entity_type: International organisation
@@ -519,6 +618,8 @@ Organization of the Black Sea Economic Cooperation:
   Name_en: Organization of the Black Sea Economic Cooperation
   Abbreviation_en: BSEC
   Treaty_url: https://www.bsec-organization.org/UploadedDocuments/StatutoryDocumentsAgreements/CHARTERFourthEdition7July.pdf
+  Name_fr: Organisation de coopération économique de la mer Noire
+  Name_es: Cooperación Económica del Mar Negro
 Pacific Alliance:
   Wikidata_code: Q7122288
   Entity_type: International organisation
@@ -527,6 +628,8 @@ Pacific Alliance:
   Name_en: Pacific Alliance
   Abbreviation_en: null
   Treaty_url: https://www.mfat.govt.nz/assets/Trade-agreements/Pacific-Alliance-NZ-FTA/Consolidated-Pacific-Alliance-Additional-Protocol.pdf
+  Name_fr: Alliance du Pacifique
+  Name_es: Alianza del Pacífico
 South Asian Association for Regional Cooperation:
   Wikidata_code: Q145700
   Entity_type: International organisation
@@ -535,6 +638,8 @@ South Asian Association for Regional Cooperation:
   Name_en: South Asian Association for Regional Cooperation
   Abbreviation_en: SAARC
   Treaty_url: https://www.saarc-sec.org/index.php/about-saarc/saarc-charter
+  Name_fr: Association sud-asiatique pour la coopération régionale
+  Name_es: Asociación Sudasiática para la Cooperación Regional
 Union of South American Nations:
   Wikidata_code: Q4230
   Entity_type: International organisation
@@ -543,6 +648,8 @@ Union of South American Nations:
   Name_en: Union of South American Nations
   Abbreviation_en: null
   Treaty_url: https://www.icwa.in/WriteReadData/L45218/1496229018.pdf
+  Name_fr: Union des nations sud-américaines
+  Name_es: Unión de Naciones Suramericanas
 Pacific Islands Forum:
   Wikidata_code: Q757276
   Entity_type: International organisation
@@ -552,6 +659,8 @@ Pacific Islands Forum:
   Name_former_en: South Pacific Forum
   Abbreviation_en: null
   Treaty_url: https://forumsec.org/publications/treaty-collection
+  Name_fr: Forum des îles du Pacifique
+  Name_es: Foro de las Islas del Pacífico
 East African Community:
   Wikidata_code: Q337456
   Entity_type: International organisation
@@ -560,6 +669,8 @@ East African Community:
   Name_en: East African Community
   Abbreviation_en: null
   Treaty_url: https://investmentpolicy.unctad.org/international-investment-agreements/treaty-files/2487/download
+  Name_fr: communauté d'Afrique de l'Est
+  Name_es: Comunidad Africana Oriental
 Economic Community of Central African States:
   Wikidata_code: Q189966
   Entity_type: International organisation
@@ -568,6 +679,8 @@ Economic Community of Central African States:
   Name_en: Economic Community of Central African States
   Abbreviation_en: null
   Treaty_url: https://investmentpolicy.unctad.org/international-investment-agreements/treaty-files/2401/download
+  Name_fr: Communauté économique des États de l'Afrique centrale
+  Name_es: Comunidad Económica de los Estados de África Central
 Economic Community of West African States:
   Wikidata_code: Q193272
   Entity_type: International organisation
@@ -576,6 +689,8 @@ Economic Community of West African States:
   Name_en: Economic Community of West African States
   Abbreviation_en: ECOWAS
   Treaty_url: https://www.ecowas.int/wp-content/uploads/2022/06/THE-1975-TREATY-OF-ECOWAS.pdf
+  Name_fr: communauté économique des États de l'Afrique de l'Ouest
+  Name_es: Comunidad Económica de Estados de África Occidental
 Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation:
   Wikidata_code: Q795985
   Entity_type: International organisation
@@ -584,6 +699,9 @@ Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation:
   Name_en: Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation
   Abbreviation_en: BIMSTEC
   Treaty_url: https://bimstec.org/images/content_page_pdf/1696679710_BIMSTEC%20Charter.pdf
+  Name_fr: Bay of Bengal Initiative for MultiSectoral Technical and Economic Cooperation
+  Name_es: Iniciativa de la Bahía de Bengala para la Cooperación Técnica y Económica
+    Multisectorial
 Union for the Mediterranean:
   Wikidata_code: Q192177
   Entity_type: International organisation
@@ -592,6 +710,8 @@ Union for the Mediterranean:
   Name_en: Union for the Mediterranean
   Abbreviation_en: null
   Treaty_url: https://ufmsecretariat.org/wp-content/uploads/2012/09/Statutes-UfMS.pdf
+  Name_fr: Union pour la Méditerranée
+  Name_es: Unión para el Mediterráneo
 Council of Europe Development Bank:
   Wikidata_code: Q611107
   Entity_type: International organisation
@@ -600,6 +720,8 @@ Council of Europe Development Bank:
   Name_en: Council of Europe Development Bank
   Abbreviation_en: null
   Treaty_url: https://coebank.org/documents/51/CEB_Articles_of_Agreement_August_2023.pdf
+  Name_fr: banque de développement du Conseil de l'Europe
+  Name_es: Banco de Desarrollo del Consejo de Europa
 World Customs Organisation:
   Wikidata_code: Q605326
   Entity_type: International organisation
@@ -608,6 +730,8 @@ World Customs Organisation:
   Name_en: World Customs Organisation
   Abbreviation_en: null
   Treaty_url: https://www.wcoomd.org/-/media/wco/public/global/pdf/about-us/legal-instruments/conventions-and-agreements/ccc/convccc.pdf?la=en
+  Name_fr: Organisation mondiale des douanes
+  Name_es: Organización Mundial de Aduanas
 Organisation for Joint Armament Cooperation:
   Wikidata_code: Q521227
   Entity_type: International organisation
@@ -616,6 +740,8 @@ Organisation for Joint Armament Cooperation:
   Name_en: Organisation for Joint Armament Cooperation
   Abbreviation_en: OCCAR
   Treaty_url: https://www.occar.int/systems/file_download.ashx?pg=139&ver=2
+  Name_fr: Organisation conjointe de coopération en matière d'armement
+  Name_es: Organización para la Cooperación Conjunta en Materia de Armamento
 Organisation for Economic Co-operation and Development:
   Wikidata_code: Q41550
   Entity_type: International organisation
@@ -625,6 +751,8 @@ Organisation for Economic Co-operation and Development:
   Abbreviation_en: OECD
   Treaty_url: https://www.oecd.org/en/about/legal/text-of-the-convention-on-the-organisation-for-economic-co-operation-and-development.html
   OpenSanctions_id: NK-HfnndSjpSFjgYwPw2RpFpt
+  Name_fr: Organisation de coopération et de développement économiques
+  Name_es: Organización para la Cooperación y el Desarrollo Económico
 Indian Ocean Rim Association:
   Wikidata_code: Q2297691
   Entity_type: International organisation
@@ -633,6 +761,8 @@ Indian Ocean Rim Association:
   Name_en: Indian Ocean Rim Association
   Abbreviation_en: null
   Treaty_url: https://www.un.org/en/ga/sixth/70/docs/iora_charter.pdf
+  Name_fr: Association des États riverains de l'océan Indien
+  Name_es: Cooperación Regional del Océano Índico
 European Organisation for the Exploitation of Meteorological Satellites:
   Wikidata_code: Q692163
   Entity_type: International organisation
@@ -641,6 +771,8 @@ European Organisation for the Exploitation of Meteorological Satellites:
   Name_en: European Organisation for the Exploitation of Meteorological Satellites
   Abbreviation_en: EUMETSAT
   Treaty_url: https://docs.pca-cpa.org/2016/01/Convention-for-the-Establishment-of-a-European-Organization-for-the-Exploitation-of-Meteorological-Satellites-EUMETSAT.pdf
+  Name_fr: EUMETSAT
+  Name_es: Organización Europea para la Explotación de Satélites Meteorológicos
 International Copper Study Group:
   Wikidata_code: Q17084551
   Entity_type: International organisation
@@ -649,6 +781,7 @@ International Copper Study Group:
   Name_en: International Copper Study Group
   Abbreviation_en: null
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201662/v1662.pdf
+  Name_es: Grupo Internacional de Estudio sobre el Cobre
 International Pepper Community:
   Wikidata_code: Q17022497
   Entity_type: International organisation
@@ -665,6 +798,8 @@ International Organisation of Vine and Wine:
   Name_en: International Organisation of Vine and Wine
   Abbreviation_en: null
   Treaty_url: https://www.oiv.int/sites/default/files/documents/en-oiv-accord-20010403.pdf
+  Name_fr: Organisation internationale de la vigne et du vin
+  Name_es: Organización Internacional de la Viña y el Vino
 International Jute Study Group:
   Wikidata_code: Q16849197
   Entity_type: International organisation
@@ -682,6 +817,8 @@ International Olive Council:
   Name_former_en: International Olive Oil Council
   Abbreviation_en: null
   Treaty_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A22016A1028%2801%29
+  Name_fr: Conseil oléicole international
+  Name_es: Consejo Oleícola Internacional
 Asian and Pacific Coconut Community:
   Wikidata_code: Q16962216
   Entity_type: International organisation
@@ -706,6 +843,8 @@ Permanent Court of Arbitration:
   Name_en: Permanent Court of Arbitration
   Abbreviation_en: null
   Treaty_url: https://docs.pca-cpa.org/2016/01/1899-Convention-for-the-Pacific-Settlement-of-International-Disputes.pdf
+  Name_fr: Cour permanente d'arbitrage
+  Name_es: Corte Permanente de Arbitraje
 Nordic Council:
   Wikidata_code: Q146165
   Entity_type: International organisation
@@ -714,6 +853,8 @@ Nordic Council:
   Name_en: Nordic Council
   Abbreviation_en: null
   Treaty_url: https://norden.diva-portal.org/smash/get/diva2:1250815/FULLTEXT01.pdf
+  Name_fr: Conseil nordique
+  Name_es: Consejo Nórdico
 Nordic Council of Ministers:
   Wikidata_code: Q182379
   Entity_type: International organisation
@@ -722,6 +863,8 @@ Nordic Council of Ministers:
   Name_en: Nordic Council of Ministers
   Abbreviation_en: null
   Treaty_url: https://www.norden.org/en/node/40247
+  Name_fr: Conseil nordique des ministres
+  Name_es: Consejo Nórdico de Ministros
 Advisory Centre on World Trade Organization Law:
   Wikidata_code: Q3664799
   Entity_type: International organisation
@@ -739,6 +882,8 @@ African Court of Justice and Human Rights:
   Name_en: African Court of Justice and Human Rights
   Abbreviation_en: null
   Treaty_url: https://www.peaceau.org/uploads/protocol-statute-african-court-justice-and-human-rights-en.pdf
+  Name_fr: Cour africaine de justice et des droits de l'homme
+  Name_es: Corte Africana de Justicia y Derechos Humanos
 International Bureau of Weights and Measures:
   Wikidata_code: Q229478
   Entity_type: International organisation
@@ -747,6 +892,8 @@ International Bureau of Weights and Measures:
   Name_en: International Bureau of Weights and Measures
   Abbreviation_en: BIPM
   Treaty_url: https://www.bipm.org/documents/20126/44107685/metre-convention.pdf/cd9c9e57-0cc6-4cda-2930-ec1d7c853743?version=1.9&t=1686910612244&download=true
+  Name_fr: Bureau international des poids et mesures
+  Name_es: Oficina Internacional de Pesas y Medidas
 International Commission on Civil Status:
   Wikidata_code: Q677893
   Entity_type: International organisation
@@ -755,6 +902,8 @@ International Commission on Civil Status:
   Name_en: International Commission on Civil Status
   Abbreviation_en: CIEC
   Treaty_url: https://ciec1.org/wp-content/uploads/2025/03/Rules_of_the_ICCS.pdf
+  Name_fr: Commission internationale de l'état civil
+  Name_es: Comisión Internacional del Estado Civil
 International Vaccine Institute:
   Wikidata_code: Q6054186
   Entity_type: International organisation
@@ -763,6 +912,8 @@ International Vaccine Institute:
   Name_en: International Vaccine Institute
   Abbreviation_en: null
   Treaty_url: https://www.ivi.int/wp-content/uploads/2022/03/IVI_Est_Agreement__Constitution_amended-_English.pdf
+  Name_fr: International Vaccine Institute
+  Name_es: Instituto Internacional de Vacunas
 Pacific Aviation Safety Office:
   Wikidata_code: Q16962397
   Entity_type: International organisation
@@ -779,6 +930,8 @@ International Institute for the Unification of Private Law:
   Name_en: International Institute for the Unification of Private Law
   Abbreviation_en: UNIDROIT
   Treaty_url: https://www.unidroit.org/wp-content/uploads/2021/05/statute.pdf
+  Name_fr: Institut international pour l'unification du droit privé
+  Name_es: Instituto Internacional para la Unificación del Derecho Privado
 Regional Cooperation Agreement on Combating Piracy and Armed Robbery against Ships in Asia:
   Wikidata_code: Q7309031
   Entity_type: International organisation
@@ -788,6 +941,8 @@ Regional Cooperation Agreement on Combating Piracy and Armed Robbery against Shi
     Ships in Asia
   Abbreviation_en: null
   Treaty_url: https://www.mofa.go.jp/mofaj/gaiko/kaiyo/pdfs/kyotei_s.pdf
+  Name_fr: Accord de coopération régionale sur la lutte contre la piraterie et les
+    vols à main armée contre les navires en Asie
 Intergovernmental Council of Copper Exporting Countries:
   Wikidata_code: Q1023742
   Entity_type: International organisation
@@ -796,6 +951,8 @@ Intergovernmental Council of Copper Exporting Countries:
   Name_en: Intergovernmental Council of Copper Exporting Countries
   Abbreviation_en: null
   Treaty_url: https://www.austlii.edu.au/au/other/dfat/treaties/ATS/1975/43.html
+  Name_fr: Conseil intergouvernemental des pays exportateurs de cuivre
+  Name_es: Consejo Intergubernamental de Países Exportadores de Cobre
 East Mediterranean Gas Forum:
   Wikidata_code: Q97163711
   Entity_type: International organisation
@@ -812,6 +969,8 @@ Gas Exporting Countries Forum:
   Name_en: Gas Exporting Countries Forum
   Abbreviation_en: null
   Treaty_url: https://www.gecf.org/Portals/0/PDF/GECF%20Agreement%20and%20Statute.pdf
+  Name_fr: Forum des pays exportateurs de gaz
+  Name_es: Foro de Países Exportadores de Gas
 International Pacific Halibut Commission:
   Wikidata_code: Q6052294
   Entity_type: International organisation
@@ -829,6 +988,8 @@ ANZUS:
   Abbreviation_en: null
   Source: https://history.state.gov/milestones/1945-1952/anzus
   Treaty_url: https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Completed_Inquiries/jfadt/usrelations/appendixb
+  Name_fr: ANZUS
+  Name_es: ANZUS
 Salzburg Forum:
   Wikidata_code: Q7406988
   Entity_type: International organisation
@@ -853,6 +1014,8 @@ Southern African Customs Union:
   Name_en: Southern African Customs Union
   Abbreviation_en: SACU
   Treaty_url: https://www.sacu.int/uploads/documents/6a7ae39b41cba945b083e93a2e1a103d7cee629c.pdf
+  Name_fr: Union douanière d'Afrique australe
+  Name_es: Unión Aduanera de África Austral
 International Commission for the Protection of the Danube River:
   Wikidata_code: Q699466
   Entity_type: International organisation
@@ -862,6 +1025,7 @@ International Commission for the Protection of the Danube River:
   Abbreviation_en: null
   Notes: Not to be confused with the Danube Commission.
   Treaty_url: https://www.icpdr.org/sites/default/files/DRPC%20English%20ver.pdf
+  Name_es: Comisión Internacional para la Protección del Río Danubio
 Danube Commission:
   Wikidata_code: Q911204
   Entity_type: International organisation
@@ -872,6 +1036,7 @@ Danube Commission:
   Notes: Not to be confused with the International Commission for the Protection of
     the Danube River.
   Treaty_url: https://www.danubecommission.org/uploads/doc/convention-en.pdf
+  Name_fr: Commission du Danube
 International Boundary and Water Commission:
   Wikidata_code: Q8348493
   Entity_type: International organisation
@@ -880,6 +1045,7 @@ International Boundary and Water Commission:
   Name_en: International Boundary and Water Commission
   Abbreviation_en: IBWC
   Treaty_url: https://www.ibwc.gov/wp-content/uploads/2022/11/TREATY_OF_1889.pdf
+  Name_es: Comisión Internacional de Límites y Aguas
 Great Lakes Fishery Commission:
   Wikidata_code: Q2986576
   Entity_type: International organisation
@@ -888,6 +1054,7 @@ Great Lakes Fishery Commission:
   Name_en: Great Lakes Fishery Commission
   Abbreviation_en: null
   Treaty_url: https://laws-lois.justice.gc.ca/eng/acts/F-17/FullText.html
+  Name_fr: Commission des pêcheries des Grands Lacs
 European Patent Organisation:
   Wikidata_code: Q685547
   Entity_type: International organisation
@@ -896,6 +1063,8 @@ European Patent Organisation:
   Name_en: European Patent Organisation
   Abbreviation_en: EPOrg
   Treaty_url: https://link.epo.org/web/EPC_17th_edition_2020_en.pdf
+  Name_fr: Organisation européenne des brevets
+  Name_es: Organización Europea de Patentes
 Inter-American Investment Corporation:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -913,6 +1082,8 @@ Organisation of Islamic Cooperation:
   Name_former_en: Organisation of the Islamic Conference
   Abbreviation_en: null
   Treaty_url: https://www.oic-oci.org/upload/documents/charter/en/oic_charter_2018_en.pdf
+  Name_fr: Organisation de la Coopération Islamique
+  Name_es: Organización para la Cooperación Islámica
 International Investment Bank:
   Wikidata_code: Q1824234
   Entity_type: International organisation
@@ -921,6 +1092,8 @@ International Investment Bank:
   Name_en: International Investment Bank
   Abbreviation_en: null
   Treaty_url: https://iib.int/files/agreement_establishing_iib_with_its_charter.pdf
+  Name_fr: Banque internationale d'investissement
+  Name_es: Banco Internacional de Inversiones
 Indian Ocean Commission:
   Wikidata_code: Q1115631
   Entity_type: International organisation
@@ -929,6 +1102,8 @@ Indian Ocean Commission:
   Name_en: Indian Ocean Commission
   Abbreviation_en: null
   Treaty_url: https://www.assemblee-nationale.fr/dyn/16/textes/l16b0150_accord-international.pdf
+  Name_fr: Commission de l'océan Indien
+  Name_es: Comisión del Océano Índico
 Central American Integration System:
   Wikidata_code: Q190028
   Entity_type: International organisation
@@ -937,6 +1112,8 @@ Central American Integration System:
   Name_en: Central American Integration System
   Abbreviation_en: null
   Treaty_url: https://www.sica.int/busqueda/busqueda_archivo.aspx?Archivo=prot_320_1_04052005.htm
+  Name_fr: système d'intégration centraméricain
+  Name_es: Sistema de la Integración Centroamericana
 Multilateral Investment Guarantee Agency:
   Wikidata_code: Q1043527
   Entity_type: International organisation
@@ -945,6 +1122,8 @@ Multilateral Investment Guarantee Agency:
   Name_en: Multilateral Investment Guarantee Agency
   Abbreviation_en: null
   Treaty_url: https://www.miga.org/sites/default/files/archive/Documents/MIGA%20Convention%20(April%202018).pdf
+  Name_fr: Agence multilatérale de garantie des investissements
+  Name_es: Organismo Multilateral de Garantía de Inversiones
 Pacific Tourism Organisation:
   Wikidata_code: Q7568120
   Entity_type: International organisation
@@ -961,6 +1140,8 @@ Amazon Cooperation Treaty Organization:
   Name_en: Amazon Cooperation Treaty Organization
   Abbreviation_en: null
   Treaty_url: http://www.paclii.org/pits/en/treaty_database/1999/1.html
+  Name_fr: Organisation du traité de coopération amazonienne
+  Name_es: Organización del Tratado de Cooperación Amazónica
 ASEAN Free Trade Area:
   Wikidata_code: Q297472
   Entity_type: International organisation
@@ -969,6 +1150,7 @@ ASEAN Free Trade Area:
   Name_en: ASEAN Free Trade Area
   Abbreviation_en: null
   Treaty_url: https://web.archive.org/web/20070614155734/http://www.worldtradelaw.net/fta/agreements/afta.pdf
+  Name_fr: Zone de libre échange de l'ASEAN
 Nordic Investment Bank:
   Wikidata_code: Q2020649
   Entity_type: International organisation
@@ -977,6 +1159,8 @@ Nordic Investment Bank:
   Name_en: Nordic Investment Bank
   Abbreviation_en: NIB
   Treaty_url: https://web.archive.org/web/20240613035236/https://www.jus.uio.no/english/services/library/treaties/09/9-02/nordic-investment-bank.html
+  Name_fr: banque nordique d’investissement
+  Name_es: Banco Nórdico de Inversiones
 Niger Basin Authority:
   Wikidata_code: Q1162546
   Entity_type: International organisation
@@ -985,6 +1169,8 @@ Niger Basin Authority:
   Name_en: Niger Basin Authority
   Abbreviation_en: null
   Treaty_url: http://gis.nacse.org/tfdd/tfdddocs/418ENG.pdf
+  Name_fr: Autorité du Bassin du Niger
+  Name_es: Autoridad de la Cuenca del Río Níger
 Organization of Turkic States:
   Wikidata_code: Q596850
   Entity_type: International organisation
@@ -993,6 +1179,8 @@ Organization of Turkic States:
   Name_en: Organization of Turkic States
   Abbreviation_en: null
   Treaty_url: https://www.turkicstates.org/u/d/basic-documents/nakhchivan-agreement-on-the-establishment-of-the-copperation-council-of-turkic-speaking-states-1-en.pdf
+  Name_fr: Organisation des États turciques
+  Name_es: Organización de Estados Túrquicos
 Common Market for Eastern and Southern Africa:
   Wikidata_code: Q1165797
   Entity_type: International organisation
@@ -1001,6 +1189,8 @@ Common Market for Eastern and Southern Africa:
   Name_en: Common Market for Eastern and Southern Africa
   Abbreviation_en: COMESA
   Treaty_url: https://www.comesa.int/wp-content/uploads/2019/02/comesa-treaty-revised-20092012_with-zaire_final.pdf
+  Name_fr: marché commun de l'Afrique orientale et australe
+  Name_es: Mercado Común de África Oriental y Austral
 COMESA Court of Justice:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -1019,6 +1209,8 @@ Community of Portuguese Language Countries:
   Name_other_en: Community of Portuguese-Speaking Countries
   Abbreviation_en: null
   Treaty_url: http://www.worldlii.org/int/other/treaties/UNTSer/2003/692.pdf
+  Name_fr: communauté des pays de langue portugaise
+  Name_es: Comunidad de Países de Lengua Portuguesa
 Collective Security Treaty Organization:
   Wikidata_code: Q318693
   Entity_type: International organisation
@@ -1028,6 +1220,8 @@ Collective Security Treaty Organization:
   Abbreviation_en: CSTO
   Treaty_url: https://en.odkb-csto.org/documents/documents/ustav_organizatsii_dogovora_o_kollektivnoy_bezopasnosti_/#loaded
   OpenSanctions_id: rupep-company-43588
+  Name_fr: Organisation du traité de sécurité collective
+  Name_es: Organización del Tratado de la Seguridad Colectiva
 Agency for Aerial Navigation Safety in Africa and Madagascar:
   Wikidata_code: Q2826699
   Entity_type: International organisation
@@ -1036,6 +1230,7 @@ Agency for Aerial Navigation Safety in Africa and Madagascar:
   Name_en: Agency for Aerial Navigation Safety in Africa and Madagascar
   Abbreviation_en: ASECNA
   Treaty_url: https://www.asecna.aero/images/Docs/Publications/Convention/Convention_ASECNA_Version_Anglaise.pdf
+  Name_fr: Agence pour la sécurité de la navigation aérienne en Afrique et à Madagascar
 Shanghai Cooperation Organisation:
   Wikidata_code: Q485207
   Entity_type: International organisation
@@ -1044,6 +1239,8 @@ Shanghai Cooperation Organisation:
   Name_en: Shanghai Cooperation Organisation
   Abbreviation_en: null
   Treaty_url: https://www.mea.gov.in/Portal/LegalTreatiesDoc/000M3130.pdf
+  Name_fr: Organisation de coopération de Shanghai
+  Name_es: Organización de Cooperación de Shanghái
 Northwest Atlantic Fisheries Organization:
   Wikidata_code: Q580933
   Entity_type: International organisation
@@ -1052,6 +1249,7 @@ Northwest Atlantic Fisheries Organization:
   Name_en: Northwest Atlantic Fisheries Organization
   Abbreviation_en: NAFO
   Treaty_url: https://www.nafo.int/Portals/0/PDFs/key-publications/NAFOConvention.pdf
+  Name_fr: Organisation des pêches de l'Atlantique nord-ouest
 Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organisation:
   Wikidata_code: Q1480793
   Entity_type: International organisation
@@ -1060,6 +1258,8 @@ Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organisatio
   Name_en: Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organisation
   Abbreviation_en: null
   Treaty_url: https://www.ctbto.org/sites/default/files/2022-10/Resolution_English_3.pdf
+  Name_fr: Groupe des fournisseurs nucléaires
+  Name_es: Grupo de abastecedores nucleares
 Association of Caribbean States:
   Wikidata_code: Q1147937
   Entity_type: International organisation
@@ -1068,6 +1268,8 @@ Association of Caribbean States:
   Name_en: Association of Caribbean States
   Abbreviation_en: ACS
   Treaty_url: https://www.acs-aec.org/sites/default/files/acs_convention_eng.doc
+  Name_fr: Association des États de la Caraïbe
+  Name_es: Asociación de Estados del Caribe
 Dutch Language Union:
   Wikidata_code: Q152299
   Entity_type: International organisation
@@ -1076,6 +1278,8 @@ Dutch Language Union:
   Name_en: Dutch Language Union
   Abbreviation_en: null
   Treaty_url: https://taalunie.org/feeds/download/taalunieverdrag-1980-en-616e8.pdf/Taalunieverdrag%20(1980,%20Engels)/original
+  Name_fr: Union de la langue néerlandaise
+  Name_es: Unión de la Lengua Neerlandesa
 Science and Technology Center in Ukraine:
   Wikidata_code: Q7433636
   Entity_type: International organisation
@@ -1092,6 +1296,8 @@ Arab Maghreb Union:
   Name_en: Arab Maghreb Union
   Abbreviation_en: null
   Treaty_url: https://wits.worldbank.org/GPTAD/PDF/archive/MAGHREB.pdf
+  Name_fr: Union du Maghreb arabe
+  Name_es: Unión del Magreb Árabe
 South Centre:
   Wikidata_code: Q498517
   Entity_type: International organisation
@@ -1100,6 +1306,7 @@ South Centre:
   Name_en: South Centre
   Abbreviation_en: null
   Treaty_url: https://www.southcentre.int/wp-content/uploads/2013/02/Intergovernmental-Agreement_EN.pdf
+  Name_fr: centre Sud
 Commission for the Conservation of Southern Bluefin Tuna:
   Wikidata_code: Q22032253
   Entity_type: International organisation
@@ -1116,6 +1323,7 @@ North East Atlantic Fisheries Commission:
   Name_en: North East Atlantic Fisheries Commission
   Abbreviation_en: null
   Treaty_url: https://www.neafc.org/system/files/Text-of-NEAFC-Convention-04.pdf
+  Name_fr: North East Atlantic Fishery Commission
 North Atlantic Marine Mammal Commission:
   Wikidata_code: Q3076178
   Entity_type: International organisation
@@ -1124,6 +1332,8 @@ North Atlantic Marine Mammal Commission:
   Name_en: North Atlantic Marine Mammal Commission
   Abbreviation_en: null
   Treaty_url: https://nammco.wpengine.com/wp-content/uploads/2016/10/nammco-agreement-with-signatures-and-logo.pdf
+  Name_fr: North Atlantic Marine Mammal Commission
+  Name_es: Comisión Para los Mamíferos Marinos del Atlántico Norte
 South East Atlantic Fisheries Organisation:
   Wikidata_code: Q3492244
   Entity_type: International organisation
@@ -1132,6 +1342,7 @@ South East Atlantic Fisheries Organisation:
   Name_en: South East Atlantic Fisheries Organisation
   Abbreviation_en: null
   Treaty_url: http://www.seafo.org/About/Convention-Text
+  Name_fr: South East Atlantic Fisheries Organisation
 Baltic Marine Environment Protection Commission:
   Wikidata_code: Q1563503
   Entity_type: International organisation
@@ -1140,6 +1351,8 @@ Baltic Marine Environment Protection Commission:
   Name_en: Baltic Marine Environment Protection Commission
   Abbreviation_en: HELCOM
   Treaty_url: https://helcom.fi/wp-content/uploads/2019/06/Helsinki-Convention_July-2014.pdf
+  Name_fr: Helcom
+  Name_es: Comisión de Helsinki
 Organisation of African, Caribbean and Pacific States:
   Wikidata_code: Q294278
   Entity_type: International organisation
@@ -1148,6 +1361,8 @@ Organisation of African, Caribbean and Pacific States:
   Name_en: Organisation of African, Caribbean and Pacific States
   Abbreviation_en: null
   Treaty_url: https://www.jus.uio.no/english/services/library/treaties/14/14-03/acp.html
+  Name_fr: Organisation des États d’Afrique, des Caraïbes et du Pacifique
+  Name_es: Estados de África, del Caribe y del Pacífico
 New Development Bank:
   Wikidata_code: Q8579145
   Entity_type: International organisation
@@ -1156,6 +1371,8 @@ New Development Bank:
   Name_en: New Development Bank
   Abbreviation_en: null
   Treaty_url: https://www.ndb.int/wp-content/uploads/2022/11/Agreement-on-the-New-Development-Bank.pdf
+  Name_fr: Nouvelle banque de développement
+  Name_es: BRICS Development Bank
 North Pacific Marine Science Organization:
   Wikidata_code: Q21015877
   Entity_type: International organisation
@@ -1172,6 +1389,8 @@ Pacific Community:
   Name_en: Pacific Community
   Abbreviation_en: SPC
   Treaty_url: https://www.austlii.edu.au/au/other/dfat/treaties/1948/15.html
+  Name_fr: Communauté du Pacifique
+  Name_es: Comunidad del Pacífico
 Nigeria–São Tomé and Príncipe Joint Development Authority:
   Wikidata_code: Q7033072
   Entity_type: International organisation
@@ -1196,6 +1415,8 @@ Commission for Environmental Cooperation:
   Name_en: Commission for Environmental Cooperation
   Abbreviation_en: null
   Treaty_url: https://ustr.gov/sites/default/files/naaec.pdf
+  Name_fr: Commission de coopération environnementale
+  Name_es: Comisión para la Cooperación Abiental
 Inter-American Tropical Tuna Commission:
   Wikidata_code: Q3153044
   Entity_type: International organisation
@@ -1204,6 +1425,8 @@ Inter-American Tropical Tuna Commission:
   Name_en: Inter-American Tropical Tuna Commission
   Abbreviation_en: null
   Treaty_url: https://web.archive.org/web/20160513131225/http://www.iattc.org/PDFFiles/IATTC_convention_1949.pdf
+  Name_fr: Inter-American Tropical Tuna Commission
+  Name_es: Comisión Interamericana del Atún Tropical
 Intergovernmental Organisation for International Carriage by Rail:
   Wikidata_code: Q2333216
   Entity_type: International organisation
@@ -1212,6 +1435,9 @@ Intergovernmental Organisation for International Carriage by Rail:
   Name_en: Intergovernmental Organisation for International Carriage by Rail
   Abbreviation_en: null
   Treaty_url: https://otif.org/fileadmin/user_upload/otif_verlinkte_files/07_veroeff/01_COTIF_80/cotif-1980-e.pdf
+  Name_fr: Organisation intergouvernementale pour les transports internationaux ferroviaires
+  Name_es: Organización Intergubernamental para los Transportes Internacionales por
+    Ferrocarril
 Organization for the Prohibition of Chemical Weapons:
   Wikidata_code: Q842490
   Entity_type: International organisation
@@ -1220,6 +1446,8 @@ Organization for the Prohibition of Chemical Weapons:
   Name_en: Organization for the Prohibition of Chemical Weapons
   Abbreviation_en: null
   Treaty_url: https://www.opcw.org/sites/default/files/documents/CWC/CWC_en.pdf
+  Name_fr: Organisation pour l'interdiction des armes chimiques
+  Name_es: Organización para la Prohibición de Armas Químicas
 International Union for the Protection of New Varieties of Plants:
   Wikidata_code: Q690318
   Entity_type: International organisation
@@ -1228,6 +1456,8 @@ International Union for the Protection of New Varieties of Plants:
   Name_en: International Union for the Protection of New Varieties of Plants
   Abbreviation_en: null
   Treaty_url: https://www.upov.int/edocs/pubdocs/en/upov_pub_221.pdf
+  Name_fr: Union pour la protection des obtentions végétales
+  Name_es: Unión Internacional para la Protección de Nuevas Variedades de Plantas
 EUCLID University:
   Wikidata_code: Q3046238
   Entity_type: International organisation
@@ -1236,6 +1466,7 @@ EUCLID University:
   Name_en: EUCLID University
   Abbreviation_en: null
   Treaty_url: https://www.euclid.int/documents/fa-en.pdf
+  Name_fr: pôle universitaire Euclide
 International Joint Commission:
   Wikidata_code: Q6051258
   Entity_type: International organisation
@@ -1244,6 +1475,7 @@ International Joint Commission:
   Name_en: International Joint Commission
   Abbreviation_en: null
   Treaty_url: https://www.ijc.org/sites/default/files/2018-07/Boundary%20Waters%20Treaty%20of%201909.pdf
+  Name_fr: Commission mixte internationale
 International Energy Agency:
   Wikidata_code: Q826700
   Entity_type: International organisation
@@ -1252,6 +1484,8 @@ International Energy Agency:
   Name_en: International Energy Agency
   Abbreviation_en: null
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201040/volume-1040-I-15664-English.pdf
+  Name_fr: Agence internationale de l'énergie
+  Name_es: Agencia Internacional de la Energía
 International Renewable Energy Agency:
   Wikidata_code: Q392739
   Entity_type: International organisation
@@ -1260,6 +1494,8 @@ International Renewable Energy Agency:
   Name_en: International Renewable Energy Agency
   Abbreviation_en: IRENA
   Treaty_url: https://assets.publishing.service.gov.uk/media/5a807aa540f0b62302693c04/TS_8.2015_Cm_9062_WEB_ACC.pdf
+  Name_fr: Agence internationale pour les énergies renouvelables
+  Name_es: Agencia Internacional de las Energías Renovables
 Agreement on the Conservation of Albatrosses and Petrels:
   Wikidata_code: Q331541
   Entity_type: International organisation
@@ -1268,6 +1504,7 @@ Agreement on the Conservation of Albatrosses and Petrels:
   Name_en: Agreement on the Conservation of Albatrosses and Petrels
   Abbreviation_en: null
   Treaty_url: https://www.acap.aq/agreement-text/206-agreement-on-the-conservation-of-albatrosses-and-petrels/file
+  Name_fr: Accord sur la conservation des albatros et des pétrels
 Comprehensive Nuclear-Test-Ban Treaty Organisation:
   Wikidata_code: Q15211422
   Entity_type: International organisation
@@ -1276,6 +1513,10 @@ Comprehensive Nuclear-Test-Ban Treaty Organisation:
   Name_en: Comprehensive Nuclear-Test-Ban Treaty Organisation
   Abbreviation_en: CTBTO
   Treaty_url: https://www.ctbto.org/sites/default/files/2023-10/2022_treaty_booklet_E.pdf
+  Name_fr: Commission préparatoire de l’Organisation du traité d’interdiction complète
+    des essais nucléaires
+  Name_es: Comisión Preparatoria del Tratado de Prohibición Completa de los Ensayos
+    Nucleares
 Energy Community:
   Wikidata_code: Q2989312
   Entity_type: International organisation
@@ -1284,6 +1525,7 @@ Energy Community:
   Name_en: Energy Community
   Abbreviation_en: null
   Treaty_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=legissum:l27074
+  Name_fr: communauté de l'énergie
 Collaborative Inter-Governmental Scientific Research Institute:
   Wikidata_code: Q15991224
   Entity_type: International organisation
@@ -1300,6 +1542,8 @@ International Cospas-Sarsat Programme:
   Name_en: International Cospas-Sarsat Programme
   Abbreviation_en: null
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201518/v1518.pdf
+  Name_fr: Cospas-Sarsat
+  Name_es: Cospas-Sarsat
 International Centre for Genetic Engineering and Biotechnology:
   Wikidata_code: Q6049095
   Entity_type: International organisation
@@ -1316,6 +1560,8 @@ Mano River Union:
   Name_en: Mano River Union
   Abbreviation_en: null
   Treaty_url: https://wits.worldbank.org/GPTAD/PDF/archive/MRU.pdf
+  Name_fr: Union du fleuve Mano
+  Name_es: Unión del Río Mano
 Association of Iron Ore Exporting Countries:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -1332,6 +1578,7 @@ African Groundnut Council:
   Name_en: African Groundnut Council
   Abbreviation_en: null
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%20846/volume-846-I-12123-English.pdf
+  Name_es: Consejo Africano del Cacahuete
 International Anti-Corruption Academy:
   Wikidata_code: Q876957
   Entity_type: International organisation
@@ -1340,6 +1587,8 @@ International Anti-Corruption Academy:
   Name_en: International Anti-Corruption Academy
   Abbreviation_en: null
   Treaty_url: https://www.iaca.int/images/PDF/IACA_Agreement_ENGLISH.pdf
+  Name_fr: Académie internationale de lutte contre la corruption
+  Name_es: Academia Internacional contra la Corrupción
 Conseil de l'Entente:
   Wikidata_code: Q945574
   Entity_type: International organisation
@@ -1348,6 +1597,8 @@ Conseil de l'Entente:
   Name_en: Conseil de l'Entente
   Abbreviation_en: null
   Treaty_url: http://www.conseildelentente.org/images/pdf/charte/charte_du_conseil_de_lentente.pdf
+  Name_fr: Conseil de l'Entente
+  Name_es: Consejo de la Entente
 Desert Locust Control Organisation for Eastern Africa:
   Wikidata_code: Q30596094
   Entity_type: International organisation
@@ -1364,6 +1615,7 @@ International Science and Technology Center:
   Name_en: International Science and Technology Center
   Abbreviation_en: null
   Treaty_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:22017A0214(01)
+  Name_fr: Centre international pour la science et la technologie
 International Commission for the Conservation of Atlantic Tunas:
   Wikidata_code: Q840267
   Entity_type: International organisation
@@ -1372,6 +1624,8 @@ International Commission for the Conservation of Atlantic Tunas:
   Name_en: International Commission for the Conservation of Atlantic Tunas
   Abbreviation_en: null
   Treaty_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A21986A0618%2801%29
+  Name_fr: Commission internationale pour la conservation des thonidés de l'Atlantique
+  Name_es: Comisión Internacional para la Conservación del Atún Atlántico
 Economic Community of the Great Lakes Countries:
   Wikidata_code: Q1331783
   Entity_type: International organisation
@@ -1380,6 +1634,7 @@ Economic Community of the Great Lakes Countries:
   Name_en: Economic Community of the Great Lakes Countries
   Abbreviation_en: null
   Treaty_url: https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800f81f4&clang=_en
+  Name_fr: communauté économique des Pays des Grands Lacs
 International Bauxite Association:
   Wikidata_code: Q111593546
   Entity_type: International organisation
@@ -1388,6 +1643,7 @@ International Bauxite Association:
   Name_en: International Bauxite Association
   Abbreviation_en: null
   Treaty_url: https://treaties.un.org/Pages/showDetails.aspx?objid=0800000280100e36&clang=_en
+  Name_fr: Association internationale de la bauxite
 International Boundary Commission:
   Wikidata_code: Q29467091
   Entity_type: International organisation
@@ -1396,6 +1652,7 @@ International Boundary Commission:
   Name_en: International Boundary Commission
   Abbreviation_en: null
   Treaty_url: https://www.internationalboundarycommission.org/uploads/treaties/treaty%20of%201908%20(english).pdf
+  Name_fr: Commission de la frontière internationale
 African Trade and Investment Development Insurance:
   Wikidata_code: Q60742417
   Entity_type: International organisation
@@ -1420,6 +1677,8 @@ European Molecular Biology Laboratory:
   Name_en: European Molecular Biology Laboratory
   Abbreviation_en: null
   Treaty_url: https://www.embl.org/documents/wp-content/uploads/2020/05/establishingEMBL.pdf
+  Name_fr: Laboratoire européen de biologie moléculaire
+  Name_es: Laboratorio Europeo de Biología Molecular
 International Centre for Settlement of Investment Disputes:
   Wikidata_code: Q899770
   Entity_type: International organisation
@@ -1428,6 +1687,8 @@ International Centre for Settlement of Investment Disputes:
   Name_en: International Centre for Settlement of Investment Disputes
   Abbreviation_en: ICSID
   Treaty_url: https://icsid.worldbank.org/sites/default/files/documents/ICSID_Convention.pdf
+  Name_fr: Centre international pour le règlement des différends relatifs aux investissements
+  Name_es: Centro Internacional de Arreglo de Diferencias Relativas a Inversiones
 Center for International Forestry Research and World Agroforestry:
   Wikidata_code: Q121461382
   Entity_type: International organisation
@@ -1444,20 +1705,23 @@ Africa Rice Center:
   Name_en: Africa Rice Center
   Name_other_en: AfricaRice
   Name_former_en: West Africa Rice Development Association
-  Abbreviation_en:
+  Abbreviation_en: null
   Abbreviation_former_en: WARDA
   Treaty_url: https://faolex.fao.org/docs/pdf/mul215505.pdf
-  Source: 
+  Source: null
+  Name_fr: Centre du riz pour l'Afrique
 International Livestock Research Institute:
   Wikidata_code: Q1666743
   Entity_type: International organisation
   Org_family: CGIAR entities
   Country: zz
   Name_en: International Livestock Research Institute
-  Name_other_en:
+  Name_other_en: null
   Abbreviation_en: ILRI
   Treaty_url: https://hdl.handle.net/10568/67391
-  Source: 
+  Source: null
+  Name_fr: Institut international de recherche sur l’élevage
+  Name_es: Instituto Internacional de Investigaciones Pecuarias
 Association of Natural Rubber Producing Countries:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -1474,6 +1738,8 @@ West African Economic and Monetary Union:
   Name_en: West African Economic and Monetary Union
   Abbreviation_en: null
   Treaty_url: https://www.bceao.int/sites/default/files/inline-files/TraiteUMOA2010_tr_Eng.pdf
+  Name_fr: Union économique et monétaire ouest-africaine
+  Name_es: Unión Económica y Monetaria del África Occidental
 African Regional Intellectual Property Organization:
   Wikidata_code: Q384434
   Entity_type: International organisation
@@ -1482,6 +1748,8 @@ African Regional Intellectual Property Organization:
   Name_en: African Regional Intellectual Property Organization
   Abbreviation_en: ARIPO
   Treaty_url: https://www.wipo.int/wipolex/en/text/588142
+  Name_fr: African Regional Intellectual Property Organization
+  Name_es: Organización Regional Africana de Propiedad Intelectual
 African Intellectual Property organisation:
   Wikidata_code: Q1476775
   Entity_type: International organisation
@@ -1491,6 +1759,8 @@ African Intellectual Property organisation:
   Abbreviation_en: OAPI
   Treaty_url: https://www.wipo.int/wipolex/en/text/582620
   Notes: The abbreviation "OAPI" is used even in English.
+  Name_fr: Organisation africaine de la propriété intellectuelle
+  Name_es: Organización Africana de la Propiedad Intelectual
 Convention for the Conservation of Antarctic Marine Living Resources:
   Wikidata_code: Q97382426
   Entity_type: International organisation
@@ -1515,6 +1785,8 @@ GUAM Organization for Democracy and Economic Development:
   Name_en: GUAM Organization for Democracy and Economic Development
   Abbreviation_en: null
   Treaty_url: https://guam-organization.org/en/charter-of-organization-for-democracy-and-economic-development-guam/
+  Name_fr: GUAM
+  Name_es: GUAM
 SAARC Development Fund:
   Wikidata_code: Q120512563
   Entity_type: International organisation
@@ -1531,6 +1803,7 @@ Asian Productivity organisation:
   Name_en: Asian Productivity organisation
   Abbreviation_en: null
   Treaty_url: https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/35/11124
+  Name_fr: Organisation asiatique de productivité
 Caribbean Meteorological Organisation:
   Wikidata_code: Q5039400
   Entity_type: International organisation
@@ -1555,6 +1828,7 @@ International Committee of Military Medicine:
   Name_en: International Committee of Military Medicine
   Abbreviation_en: ICMM
   Treaty_url: https://cimm-icmm.org/wp-content/uploads/2025/03/241008-ENG-Statutes-of-the-ICMM.pdf
+  Name_fr: Comité international de médecine militaire
 International Council for Exploration of the Sea:
   Wikidata_code: Q1613859
   Entity_type: International organisation
@@ -1563,6 +1837,8 @@ International Council for Exploration of the Sea:
   Name_en: International Council for Exploration of the Sea
   Abbreviation_en: null
   Treaty_url: https://www.ices.dk/about-ICES/who-we-are/Documents/ICES_Convention_1964.pdf
+  Name_fr: Conseil international pour l'exploration de la mer
+  Name_es: Consejo Internacional para la Exploración del Mar
 International Development Law Organization:
   Wikidata_code: Q11977461
   Entity_type: International organisation
@@ -1571,6 +1847,8 @@ International Development Law Organization:
   Name_en: International Development Law Organization
   Abbreviation_en: IDLO
   Treaty_url: https://www.idlo.int/sites/default/files/documents/idlo_establishment_agreement_2019.pdf
+  Name_fr: Organisation internationale de droit du développement
+  Name_es: IDLO
 International Commission on Missing Persons:
   Wikidata_code: Q676812
   Entity_type: International organisation
@@ -1579,6 +1857,7 @@ International Commission on Missing Persons:
   Name_en: International Commission on Missing Persons
   Abbreviation_en: ICMP
   Treaty_url: https://assets.publishing.service.gov.uk/media/5a80296de5274a2e87db836f/TS_9.2015_Cm_9063_WEB_ACC.pdf
+  Name_fr: Commission internationale pour les personnes disparues
 International Institute of Refrigeration:
   Wikidata_code: Q3152339
   Entity_type: International organisation
@@ -1587,6 +1866,7 @@ International Institute of Refrigeration:
   Name_en: International Institute of Refrigeration
   Abbreviation_en: IIR
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%20826/volume-826-I-11837-English.pdf
+  Name_fr: Institut international du froid
 Latin American Integration Association:
   Wikidata_code: Q607301
   Entity_type: International organisation
@@ -1595,6 +1875,8 @@ Latin American Integration Association:
   Name_en: Latin American Integration Association
   Abbreviation_en: null
   Treaty_url: https://www2.aladi.org/biblioteca/Publicaciones/ALADI/Secretaria_General/Documentos_Sin_Codigos/Caja_062_001_en.pdf
+  Name_fr: Association latino-américaine d’intégration
+  Name_es: Asociación Latinoamericana de Integración
 Hague Conference on Private International Law:
   Wikidata_code: Q4130823
   Entity_type: International organisation
@@ -1603,6 +1885,8 @@ Hague Conference on Private International Law:
   Name_en: Hague Conference on Private International Law
   Abbreviation_en: null
   Treaty_url: https://assets.hcch.net/docs/d7d051ae-6dd1-4881-a3b5-f7dbcaad02ea.pdf
+  Name_fr: Conférence de la Haye de droit international privé
+  Name_es: Conferencia de La Haya de Derecho Internacional Privado
 Group of Latin American and Caribbean Sugar Exporting Countries:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -1619,6 +1903,8 @@ Inter-American Center for Tax Administrations:
   Name_en: Inter-American Center for Tax Administrations
   Abbreviation_en: CIAT
   Treaty_url: https://ciatorg.sharepoint.com/sites/cds/Conocimientos/Gerencia_Ejecutiva_Operaciones/GestionInstitucional/LinieamientosEstrategicos/EstatutosyReglamentos/pdf/bylaws_regulatios_en.pdf?ga=1
+  Name_fr: centre inter-américain des administrations fiscales
+  Name_es: Centro Interamericano de Administraciones Tributarias
 Global Crop Diversity Trust:
   Wikidata_code: Q2004478
   Entity_type: International organisation
@@ -1627,6 +1913,7 @@ Global Crop Diversity Trust:
   Name_en: Global Crop Diversity Trust
   Abbreviation_en: null
   Treaty_url: https://www.croptrust.org/fileadmin/uploads/croptrust/Documents/Policy_Documents/Establish-Agreement-english.pdf
+  Name_fr: Global Crop Diversity Trust
 Joint Institute for Nuclear Research:
   Wikidata_code: Q259517
   Entity_type: International organisation
@@ -1635,6 +1922,8 @@ Joint Institute for Nuclear Research:
   Name_en: Joint Institute for Nuclear Research
   Abbreviation_en: null
   Treaty_url: https://www.jinr.ru/wp-content/uploads/Advisory_Bodies/Agreement_JINR_English.pdf
+  Name_fr: Institut unifié de recherches nucléaires
+  Name_es: Instituto Central de Investigaciones Nucleares
 Joint Vienna Institute:
   Wikidata_code: Q128996047
   Entity_type: International organisation
@@ -1651,6 +1940,8 @@ International Tropical Timber Organisation:
   Name_en: International Tropical Timber Organisation
   Abbreviation_en: null
   Treaty_url: https://www.itto.int/direct/topics/topics_pdf_download/topics_id=3363&no=1&disp=inline
+  Name_fr: Organisation Internationale pour les Bois Tropicaux
+  Name_es: Organización Internacional de las Maderas Tropicales
 Lake Chad Basin Commission:
   Wikidata_code: Q2986599
   Entity_type: International organisation
@@ -1659,6 +1950,7 @@ Lake Chad Basin Commission:
   Name_en: Lake Chad Basin Commission
   Abbreviation_en: null
   Treaty_url: https://faolex.fao.org/docs/pdf/cmr1076.pdf
+  Name_fr: Commission du bassin du lac Tchad
 International Tea Promotion Association:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -1675,6 +1967,8 @@ World Organisation for Animal Health:
   Name_en: World Organisation for Animal Health
   Abbreviation_en: null
   Treaty_url: https://api.parliament.uk/uk-treaties/treaties/8880
+  Name_fr: Organisation mondiale de la santé animale
+  Name_es: Organización Mundial de Sanidad Animal
 North Pacific Anadromous Fish Commission:
   Wikidata_code: Q12599115
   Entity_type: International organisation
@@ -1699,6 +1993,8 @@ Parliamentary Assembly of the Mediterranean:
   Name_en: Parliamentary Assembly of the Mediterranean
   Abbreviation_en: null
   Treaty_url: https://pam.int/wp-content/uploads/2021/12/PAM-Statutes-EN-FR-.pdf
+  Name_fr: Assemblée parlementaire de la Méditerranée
+  Name_es: Asamblea Parlamentaria del Mediterráneo
 Secretariat of the Convention on Biological Diversity:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -1715,6 +2011,8 @@ European and Mediterranean Plant Protection Organization:
   Name_en: European and Mediterranean Plant Protection Organization
   Abbreviation_en: null
   Treaty_url: https://www.eppo.int/ABOUT_EPPO/eppo_convention
+  Name_fr: Organisation européenne et méditerranéenne pour la protection des plantes
+  Name_es: European and Mediterranean Plant Protection Organization
 Energy Charter Conference:
   Wikidata_code: Q121286812
   Entity_type: International organisation
@@ -1731,6 +2029,8 @@ EU-LAC International Foundation:
   Name_en: EU-LAC International Foundation
   Abbreviation_en: EU-LAC
   Treaty_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:22019A0412(01)&rid=1
+  Name_fr: Fondation EU-LAC
+  Name_es: Fundación EU-LAC
 Secreriat of the Antarctic Treaty:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -1747,6 +2047,8 @@ Central African Economic and Monetary Community:
   Name_en: Central African Economic and Monetary Community
   Abbreviation_en: CEMAC
   Treaty_url: https://www.wipo.int/wipolex/en/text/593945
+  Name_fr: Communauté économique et monétaire de l'Afrique centrale
+  Name_es: Comunidad Económica y Monetaria de África Central
 Central Africa Forests Commission:
   Wikidata_code: Q5060269
   Entity_type: International organisation
@@ -1755,6 +2057,7 @@ Central Africa Forests Commission:
   Name_en: Central Africa Forests Commission
   Abbreviation_en: COMIFAC
   Treaty_url: https://comifac.org/wp-content/uploads/2017/12/Trait%C3%A9%20COMIFAC%202005_fr_ang_esp_por.pdf
+  Name_fr: Commission des forêts d'Afrique centrale
 Caribbean Court of Justice:
   Wikidata_code: Q775029
   Entity_type: International organisation
@@ -1763,6 +2066,8 @@ Caribbean Court of Justice:
   Name_en: Caribbean Court of Justice
   Abbreviation_en: null
   Treaty_url: https://ccj.org/wp-content/uploads/2021/02/ccj_agreement.pdf
+  Name_fr: Cour caribéenne de justice
+  Name_es: Corte de Justicia del Caribe
 Brazilian-Argentine Agency for Accounting and Control of Nuclear Materials:
   Wikidata_code: Q290585
   Entity_type: International organisation
@@ -1771,6 +2076,7 @@ Brazilian-Argentine Agency for Accounting and Control of Nuclear Materials:
   Name_en: Brazilian-Argentine Agency for Accounting and Control of Nuclear Materials
   Abbreviation_en: ABBAC
   Treaty_url: https://www.iaea.org/sites/default/files/infcirc435.pdf
+  Name_es: Agencia Brasileño-Argentina de Contabilidad y Control de Materiales Nucleares
 Central Commission for the Navigation of the Rhine:
   Wikidata_code: Q190650
   Entity_type: International organisation
@@ -1779,6 +2085,8 @@ Central Commission for the Navigation of the Rhine:
   Name_en: Central Commission for the Navigation of the Rhine
   Abbreviation_en: CCNR
   Treaty_url: https://www.ccr-zkr.org/files/conventions/convrev_e.pdf
+  Name_fr: Commission centrale pour la navigation du Rhin
+  Name_es: Comisión Central para la Navegación del Rin
 Bank of the Central African States:
   Wikidata_code: Q189972
   Entity_type: International organisation
@@ -1787,6 +2095,8 @@ Bank of the Central African States:
   Name_en: Bank of the Central African States
   Abbreviation_en: BEAC
   Treaty_url: https://www.beac.int/wp-content/uploads/2016/11/TrCemac-rev.pdf
+  Name_fr: Banque des États de l'Afrique centrale
+  Name_es: Banco de los Estados de África Central
 West African Monetary Union:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -1811,6 +2121,8 @@ Southern African Development Community:
   Name_en: Southern African Development Community
   Abbreviation_en: SADC
   Treaty_url: https://www.sadc.int/sites/default/files/2021-11/Declaration__Treaty_of_SADC_0.pdf
+  Name_fr: Communauté de développement d'Afrique australe
+  Name_es: Comunidad de Desarrollo de África Austral
 Southeast Asian Ministers of Education Organisation:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -1843,6 +2155,8 @@ International Organisation of Legal Metrology:
   Name_en: International Organisation of Legal Metrology
   Abbreviation_en: OIML
   Treaty_url: https://www.oiml.org/en/files/pdf_b/b001-e68.pdf
+  Name_fr: Organisation internationale de métrologie légale
+  Name_es: Organización Internacional de Metrología Legal
 King Abdullah Bin Abdulaziz International Centre for Interreligious and Intercultural Dialogue:
   Wikidata_code: Q6324948
   Entity_type: International organisation
@@ -1852,6 +2166,7 @@ King Abdullah Bin Abdulaziz International Centre for Interreligious and Intercul
     Intercultural Dialogue
   Abbreviation_en: KAICIID
   Treaty_url: https://www.kaiciid.org/node/2641
+  Name_fr: KAICIID Dialogue Centre
 Organisation for Joint Armament Co-operation:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -1884,6 +2199,7 @@ Benelux Organisation for Intellectual Property:
   Name_en: Benelux Organisation for Intellectual Property
   Abbreviation_en: null
   Treaty_url: https://www.boip.int/uploads/inline/230210%20Benelux%20Convention%20on%20Intellectual%20Property.pdf
+  Name_fr: Office Benelux de la propriété intellectuelle
 European Public Law Organization:
   Wikidata_code: Q119789715
   Entity_type: International organisation
@@ -1916,6 +2232,7 @@ Central American Bank for Economic Integration:
   Name_en: Central American Bank for Economic Integration
   Abbreviation_en: CABEI
   Treaty_url: https://bcie2014.sharepoint.com/sites/DocPub/Doc_Pub/Forms/Tipo%20documental.aspx?id=%2Fsites%2FDocPub%2FDoc%5FPub%2F617%2FConstitutive%20Agreement%20modified%20AG%2E6%2E2020%2Epdf&parent=%2Fsites%2FDocPub%2FDoc%5FPub%2F617&p=true&ga=1
+  Name_es: Banco Centroamericano de Integración Económica
 European Organization for Nuclear Research:
   Wikidata_code: Q42944
   Entity_type: International organisation
@@ -1924,6 +2241,8 @@ European Organization for Nuclear Research:
   Name_en: European Organization for Nuclear Research
   Abbreviation_en: CERN
   Treaty_url: https://council.web.cern.ch/en/content/convention-establishment-european-organization-nuclear-research
+  Name_fr: CERN
+  Name_es: Organización Europea para la Investigación Nuclear
 Intergovernmental Authority on Development:
   Wikidata_code: Q499039
   Entity_type: International organisation
@@ -1932,6 +2251,8 @@ Intergovernmental Authority on Development:
   Name_en: Intergovernmental Authority on Development
   Abbreviation_en: IGAD
   Treaty_url: https://igad.int/download/agreement-establishing-the-intergovernmental-authority-on-development-igad/#
+  Name_fr: Autorité intergouvernementale pour le développement
+  Name_es: Autoridad Intergubernamental sobre el Desarrollo de África Oriental
 International Centre for Migration Policy Development:
   Wikidata_code: Q498496
   Entity_type: International organisation
@@ -1940,6 +2261,8 @@ International Centre for Migration Policy Development:
   Name_en: International Centre for Migration Policy Development
   Abbreviation_en: ICMPD
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%203132/v3132.pdf
+  Name_fr: Centre international pour le développement de politiques migratoires
+  Name_es: Centro Internacional para el Desarrollo de Políticas Migratorias
 Organisation for the Prohibition of Nuclear Weapons in Latin America and the Caribbean:
   Wikidata_code: Q3369762
   Entity_type: International organisation
@@ -1985,6 +2308,8 @@ International Road Transport Union:
   Name_en: International Road Transport Union
   Abbreviation_en: IRU
   Treaty_url: https://treaties.un.org/doc/Treaties/1952/03/19520326%2003-36%20PM/Ch_XI_B_1_2_3.pdf
+  Name_fr: Union internationale des transports routiers
+  Name_es: Organización internacional del transporte por carretera
 Iran-United States Claims Tribunal:
   Wikidata_code: Q501576
   Entity_type: International organisation
@@ -1993,6 +2318,7 @@ Iran-United States Claims Tribunal:
   Name_en: Iran-United States Claims Tribunal
   Abbreviation_en: null
   Treaty_url: https://iusct.com/foundingdocuments-2/#1691403316129-a7533aea-5fc8
+  Name_fr: Tribunal irano-américain de réclamations
 Intersputnik International Organization of Space Communications:
   Wikidata_code: Q1548793
   Entity_type: International organisation
@@ -2001,6 +2327,8 @@ Intersputnik International Organization of Space Communications:
   Name_en: Intersputnik International Organization of Space Communications
   Abbreviation_en: Intersputnik
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%20862/volume-862-I-12343-English.pdf
+  Name_fr: Interspoutnik
+  Name_es: Intersputnik
 International Organisation of La Francophonie:
   Wikidata_code: Q134102
   Entity_type: International organisation
@@ -2009,6 +2337,8 @@ International Organisation of La Francophonie:
   Name_en: International Organisation of La Francophonie
   Abbreviation_en: null
   Treaty_url: https://www.francophonie.org/sites/default/files/2019-09/charte_francophonie_antananarivo_2005.pdf
+  Name_fr: Organisation internationale de la francophonie
+  Name_es: Organización Internacional de la Francofonía
 Intergovernmental University Institute of Cooperation:
   Wikidata_code: '[No specific code.]'
   Entity_type: International organisation
@@ -2033,6 +2363,7 @@ International Institute of Administrative Sciences:
   Name_en: International Institute of Administrative Sciences
   Abbreviation_en: IIAS
   Treaty_url: https://media.timtul.com/media/web_iias/IIAS%20Statutes_20231122045546.pdf
+  Name_fr: Institut international des sciences administratives
 International Civil Defence Organization:
   Wikidata_code: Q162656
   Entity_type: International organisation
@@ -2041,6 +2372,8 @@ International Civil Defence Organization:
   Name_en: International Civil Defence Organization
   Abbreviation_en: ICDO
   Treaty_url: https://icdo.org/files/documents/constitution/icdo_constitution_en.pdf
+  Name_fr: Organisation Internationale de Protection Civile
+  Name_es: Organización Internacional de Protección Civil
 International Bank for Economic Co-operation:
   Wikidata_code: Q1520558
   Entity_type: International organisation
@@ -2057,6 +2390,8 @@ Islamic Development Bank:
   Name_en: Islamic Development Bank
   Abbreviation_en: IsDB
   Treaty_url: https://www.isdb.org/sites/default/files/media/documents/2023-09/IsDB%20Articles%20of%20Agreement.pdf
+  Name_fr: Banque islamique de développement
+  Name_es: Banco Islámico de Desarrollo
 International Institute for Democracy and Electoral Assistance:
   Wikidata_code: Q46340424
   Entity_type: International organisation
@@ -2065,6 +2400,8 @@ International Institute for Democracy and Electoral Assistance:
   Name_en: International Institute for Democracy and Electoral Assistance
   Abbreviation_en: International IDEA
   Treaty_url: https://www.idea.int/sites/default/files/media_resources/International-IDEA-statutes-EN-2023.pdf
+  Name_fr: International IDEA
+  Name_es: Instituto Internacional para la Democracia y Asistencia Electoral
 Latin American Civil Aviation Commission:
   Wikidata_code: Q131103399
   Entity_type: International organisation
@@ -2089,6 +2426,7 @@ Mekong River Commission:
   Name_en: Mekong River Commission
   Abbreviation_en: MRC
   Treaty_url: https://www.mrcmekong.org/wp-content/uploads/2024/08/1995-Mekong-Agreement.pdf
+  Name_fr: Mekong River Commission
 Caribbean Telecommunications Union:
   Wikidata_code: Q115803554
   Entity_type: International organisation
@@ -2105,6 +2443,7 @@ Eastern and Southern African Trade and Development Bank:
   Name_en: Eastern and Southern African Trade and Development Bank
   Abbreviation_en: null
   Treaty_url: https://www.tdbgroup.org/wp-content/uploads/2024/01/TDB-Charter-English-01.01.2024.pdf
+  Name_es: Banco Africano de Desarrollo y Comercio del Este y Sureste
 East African Development Bank:
   Wikidata_code: Q5327655
   Entity_type: International organisation
@@ -2113,6 +2452,8 @@ East African Development Bank:
   Name_en: East African Development Bank
   Abbreviation_en: EADB
   Treaty_url: https://eadb.org/site/assets/files/1125/eadb-treaty-charter.pdf
+  Name_fr: East African Development Bank
+  Name_es: Banco de Desarrollo de África Oriental
 Latin-American Centre for Physics:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -2129,6 +2470,7 @@ Nordic Environment Finance Corporation:
   Name_en: Nordic Environment Finance Corporation
   Abbreviation_en: NEFCO
   Treaty_url: https://www.nefco.int/wp-content/uploads/2019/04/NEFCO_Constituent-Documents_2017.pdf
+  Name_fr: Nefco
 Fund for the Development of the Indigenous Peoples of Latin America and the Caribbean:
   Wikidata_code: Q125689468
   Entity_type: International organisation
@@ -2138,6 +2480,7 @@ Fund for the Development of the Indigenous Peoples of Latin America and the Cari
     the Caribbean
   Abbreviation_en: FILAC
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201728/volume-1728-I-30177-English.pdf
+  Name_es: Fondo para el desarrollo de pueblos indígenas de América Latina y el Caribee
 Black Sea Trade and Development Bank:
   Wikidata_code: Q2061083
   Entity_type: International organisation
@@ -2146,6 +2489,8 @@ Black Sea Trade and Development Bank:
   Name_en: Black Sea Trade and Development Bank
   Abbreviation_en: BSTDB
   Treaty_url: https://www.bstdb.org/Establishing_Agreement_BSTDB.pdf
+  Name_fr: Banque de développement de la mer Noire
+  Name_es: Banco de Comercio y Desarrollo del Mar Negro
 European Company for the Financing of Railroad Rolling Stock:
   Wikidata_code: Q1374986
   Entity_type: International organisation
@@ -2154,6 +2499,8 @@ European Company for the Financing of Railroad Rolling Stock:
   Name_en: European Company for the Financing of Railroad Rolling Stock
   Abbreviation_en: EUROFIMA
   Treaty_url: https://www.eurofima.org/sites/default/assets/Image/investor-relations/constitutive-documents/convention_e.pdf
+  Name_fr: EUROFIMA
+  Name_es: EUROFIMA
 Asian Clearing Union:
   Wikidata_code: Q2150936
   Entity_type: International organisation
@@ -2170,6 +2517,8 @@ Latin American Energy Organization:
   Name_en: Latin American Energy Organization
   Abbreviation_en: null
   Treaty_url: https://biblioteca.olade.org/opac-tmpl/Documentos/old0058.pdf
+  Name_fr: Organisation latino-américaine de l'énergie
+  Name_es: Organización Latinoamericana de Energía
 Africa Finance Corporation:
   Wikidata_code: Q23578910
   Entity_type: International organisation
@@ -2178,6 +2527,7 @@ Africa Finance Corporation:
   Name_en: Africa Finance Corporation
   Abbreviation_en: null
   Treaty_url: http://www.parliament.go.ke/sites/default/files/2025-02/Agreement%20for%20the%20Establishment%20of%20the%20Africa%20Finance%20Corporation%20and%20Explanantory%20Memorandum%20from%20the%20Foreign%20%26%20Diaspora%20Affairs.pdf
+  Name_es: Corporación Financiera Africana
 African Export-Import Bank:
   Wikidata_code: Q4689766
   Entity_type: International organisation
@@ -2186,6 +2536,8 @@ African Export-Import Bank:
   Name_en: African Export-Import Bank
   Abbreviation_en: Afreximbank
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201890/volume-1890-I-32192-English.pdf
+  Name_fr: Banque africaine d'import-export
+  Name_es: Banco Africano de Importación y Exportación
 Latin American Reserve Fund:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -2202,6 +2554,8 @@ Latin American and the Caribbean Economic System:
   Name_en: Latin American and the Caribbean Economic System
   Abbreviation_en: SELA
   Treaty_url: https://sela.org/wp-content/uploads/2023/07/t023600000397-0-convenio_de_panama_-enero_2006.pdf
+  Name_fr: système économique latino-américain et caribéen
+  Name_es: Sistema Económico Latinoamericano y del Caribe
 International Center for Promotion of Enterprises:
   Wikidata_code: Q6049045
   Entity_type: International organisation
@@ -2218,6 +2572,8 @@ OPEC Fund for International Development:
   Name_en: OPEC Fund for International Development
   Abbreviation_en: Organization of the Petroleum Exporting Countries
   Treaty_url: https://publications.opecfund.org/view/586730821/6/
+  Name_fr: Fonds de l'OPEP pour le développement international
+  Name_es: Fondo OPEP para el Desarrollo Internacional
 Eurasian Development Bank:
   Wikidata_code: Q498991
   Entity_type: International organisation
@@ -2227,6 +2583,8 @@ Eurasian Development Bank:
   Abbreviation_en: null
   Treaty_url: https://eabr.org/upload/iblock/c91/foundation-documents.pdf
   OpenSanctions_id: bic-EABRKZKA
+  Name_fr: Banque eurasiatique de développement
+  Name_es: Banco de Desarrollo Euroasiático
 Central Bank of West African States:
   Wikidata_code: Q620942
   Entity_type: International organisation
@@ -2235,6 +2593,8 @@ Central Bank of West African States:
   Name_en: Central Bank of West African States
   Abbreviation_en: BCEAO
   Treaty_url: https://edit.wti.org/document/show/pdf/57ce5bd9-ef38-4a1d-abd5-ed07f1f155bf
+  Name_fr: Banque centrale des États de l'Afrique de l'Ouest
+  Name_es: Banco Central de los Estados de África Occidental
 West African Development Bank:
   Wikidata_code: Q2883427
   Entity_type: International organisation
@@ -2243,6 +2603,8 @@ West African Development Bank:
   Name_en: West African Development Bank
   Abbreviation_en: BOAD
   Treaty_url: https://edit.wti.org/document/show/pdf/57ce5bd9-ef38-4a1d-abd5-ed07f1f155bf
+  Name_fr: Banque ouest-africaine de développement
+  Name_es: Banco de Desarrollo del África Occidental
 Liptako-Gourma Region Integrated Development Authority:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -2259,6 +2621,8 @@ CAF - Development Bank of Latin America and the Caribbean:
   Name_en: CAF - Development Bank of Latin America and the Caribbean
   Abbreviation_en: null
   Treaty_url: http://www.commonlii.org/jm/legis/consol_act/adcaa1999386.pdf
+  Name_fr: Corporación Andina de Fomento
+  Name_es: CAF -banco de desarrollo de América Latina y el Caribe
 International Iberian Nanotechnology Laboratory:
   Wikidata_code: Q6051048
   Entity_type: International organisation
@@ -2267,6 +2631,7 @@ International Iberian Nanotechnology Laboratory:
   Name_en: International Iberian Nanotechnology Laboratory
   Abbreviation_en: INL
   Treaty_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/59-2007-628500
+  Name_es: Laboratorio Ibérico Internacional de Nanotecnología
 Latin American Faculty of Social Sciences:
   Wikidata_code: Q255898
   Entity_type: International organisation
@@ -2275,6 +2640,8 @@ Latin American Faculty of Social Sciences:
   Name_en: Latin American Faculty of Social Sciences
   Abbreviation_en: FLACSO
   Treaty_url: http://www.worldlii.org/int/other/treaties/UNTSer/1976/165.pdf
+  Name_fr: Facultad Latinoamericana de Ciencias Sociales
+  Name_es: Facultad Latinoamericana de Ciencias Sociales
 Pacific Salmon Commission:
   Wikidata_code: Q7122672
   Entity_type: International organisation
@@ -2283,6 +2650,7 @@ Pacific Salmon Commission:
   Name_en: Pacific Salmon Commission
   Abbreviation_en: null
   Treaty_url: https://www.psc.org/download/45/miscellaneous/2337/pacific-salmon-treaty.pdf
+  Name_fr: Pacific Salmon Commission
 International Exhibition Bureau:
   Wikidata_code: Q1010514
   Entity_type: International organisation
@@ -2292,7 +2660,8 @@ International Exhibition Bureau:
   Name_fr: Bureau International des Expositions
   Abbreviation_en: BIE
   Treaty_url: https://www.state.gov/wp-content/uploads/2019/02/17-510-Multilateral-Cultural-Expositions.pdf
-  Source: https://www.aph.gov.au/-/media/02_Parliamentary_Business/24_Committees/244_Joint_Committees/JSCT/2015/11August2015/ATS_39.pdf  
+  Source: https://www.aph.gov.au/-/media/02_Parliamentary_Business/24_Committees/244_Joint_Committees/JSCT/2015/11August2015/ATS_39.pdf
+  Name_es: Bureau international des expositions
 International Centre for the Study of the Preservation and the Restoration of Cultural Property:
   Wikidata_code: Q590182
   Entity_type: International organisation
@@ -2302,7 +2671,11 @@ International Centre for the Study of the Preservation and the Restoration of Cu
     of Cultural Property
   Abbreviation_en: ICCROM
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201321/volume-1321-I-22032-English.pdf
-CGIAR System Organization :
+  Name_fr: centre international d'études pour la conservation et la restauration des
+    biens culturels
+  Name_es: Centro Internacional de Estudios de Conservación y Restauración de los
+    Bienes Culturales
+CGIAR System Organization:
   Wikidata_code: Q1128401
   Entity_type: International organisation
   Org_family: CGIAR entities
@@ -2311,6 +2684,8 @@ CGIAR System Organization :
   Name_former_en: CGIAR
   Abbreviation_en: CGIAR
   Treaty_url: https://cgspace.cgiar.org/server/api/core/bitstreams/8aa699f3-1099-4d0d-af47-9892a0604f55/content?authentication-token=eyJhbGciOiJIUzI1NiJ9.eyJlaWQiOiI2NjVlOTAxZS00OGNiLTRlYmEtOGMzZi1kMGVjNDMxNzNkZDQiLCJzZyI6W10sImF1dGhlbnRpY2F0aW9uTWV0aG9kIjoicGFzc3dvcmQiLCJleHAiOjE3MzM1ODAzOTd9.kiKKOV7F05wemIxZhZobZxGuIxQ2BCVcoD9T8sCWg5A
+  Name_fr: CGIAR
+  Name_es: CGIAR
 International Centre for Agriculture Research in the Dry Areas:
   Wikidata_code: Q601277
   Entity_type: International organisation
@@ -2319,6 +2694,7 @@ International Centre for Agriculture Research in the Dry Areas:
   Name_en: International Centre for Agriculture Research in the Dry Areas
   Abbreviation_en: ICARDA
   Treaty_url: https://icarda.org/sites/default/files/2020-09/ICARDA%20Charter.pdf
+  Name_fr: centre international de recherche agricole dans les zones arides
 Secretariat of the BBNJ Agreement:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -2335,6 +2711,8 @@ Central African States Development Bank:
   Name_en: Central African States Development Bank
   Abbreviation_en: null
   Treaty_url: https://web.archive.org/web/20231004104704/https://www.bdeac.org/upload/docs/application/pdf/2015-04/accord_portant_creation_de_la_bdeac.pdf
+  Name_fr: Banque de développement des États de l'Afrique centrale
+  Name_es: Banco de Desarrollo de los Estados del África Central
 Benelux Court of Justice:
   Wikidata_code: Q2613970
   Entity_type: International organisation
@@ -2344,6 +2722,7 @@ Benelux Court of Justice:
   Abbreviation_en: null
   Treaty_url: null
   Source: https://www.benelux.int/en/information-for-citizens/benelux-union/our-organisation/
+  Name_fr: Cour de Justice Benelux
 Eastern Caribbean Supreme Court:
   Wikidata_code: Q3001122
   Entity_type: International organisation
@@ -2355,6 +2734,8 @@ Eastern Caribbean Supreme Court:
   Source: https://www.legislation.gov.uk/uksi/1967/223/pdfs/uksi_19670223_en.pdf
   Source_2: https://www.constituteproject.org/constitution/Grenada_1992
   Notes: ''
+  Name_fr: Cour suprême de la Caraïbe orientale
+  Name_es: Suprema Corte del Caribe Oriental
 Zambezi Watercourse Commission:
   Wikidata_code: Q8065663
   Entity_type: International organisation
@@ -2364,6 +2745,7 @@ Zambezi Watercourse Commission:
   Abbreviation_en: ZAMCOM
   Treaty_url: https://www.zambezicommission.org/sites/default/files/clusters_pdfs/ZAMCOM%20agreement.pdf
   Source: null
+  Name_fr: Zambezi Watercourse Commission
 East African Court of Justice:
   Wikidata_code: Q5327654
   Entity_type: International organisation
@@ -2382,6 +2764,8 @@ Global Green Growth Institute:
   Abbreviation_en: GGGI
   Treaty_url: https://gggi.org/wp-content/uploads/2017/10/Agreement-on-the-Establishment-of-the-GGGI.pdf
   Source: null
+  Name_fr: Institut sur la croissance verte globale
+  Name_es: Instituto de Crecimiento Verde Mundial
 International Bamboo and Rattan Organization:
   Wikidata_code: Q6052145
   Entity_type: International organisation
@@ -2391,6 +2775,7 @@ International Bamboo and Rattan Organization:
   Abbreviation_en: INBAR
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%202132/v2132.pdf#page=215
   Source: null
+  Name_fr: Réseau international de recherche sur le bambou et le rotin
 Caribbean Agricultural Research and Development Institute:
   Wikidata_code: Q25339749
   Entity_type: International organisation
@@ -2437,6 +2822,8 @@ International Commission for the Protection of the Elbe River:
   Abbreviation_en: null
   Treaty_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:21993A0223%2801%29&rid=1
   Source: null
+  Name_fr: Internationale Kommission zum Schutz der Elbe
+  Name_es: Internationale Kommission zum Schutz der Elbe
 International Meuse Commission:
   Wikidata_code: Q124290267
   Entity_type: International organisation
@@ -2446,6 +2833,7 @@ International Meuse Commission:
   Abbreviation_en: IMC
   Treaty_url: https://web.archive.org/web/20220523160539/http://environnement.wallonie.be/legis/international/accord004.htm
   Source: null
+  Name_fr: Commission Internationale de la Meuse
 African Telecommunications Union:
   Wikidata_code: Q4689935
   Entity_type: International organisation
@@ -2491,6 +2879,8 @@ Council of the Baltic Sea States:
   Abbreviation_en: CBSS
   Treaty_url: null
   Source: https://lagen.nu/prop/1998/99:24
+  Name_fr: Conseil des États de la mer Baltique
+  Name_es: Consejo de Estados del Mar Báltico
 Secretariat of the Central European Free Trade Agreement:
   Wikidata_code: '[No code.]'
   Entity_type: International organisation
@@ -2510,6 +2900,7 @@ Andean Parliament:
   Abbreviation_en: null
   Treaty_url: https://www.wipo.int/wipolex/en/text/593530
   Source: null
+  Name_fr: Parlement andin
 Eurasian Patent Organization:
   Wikidata_code: Q1374303
   Entity_type: International organisation
@@ -2519,6 +2910,7 @@ Eurasian Patent Organization:
   Abbreviation_en: EAPO
   Treaty_url: https://www.eapo.org/en/documents-2/legal-protection-of-inventions/eurasian-patent-convention/
   Source: null
+  Name_fr: Organisation eurasienne des brevets
 African Civil Service Observatory:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -2548,6 +2940,8 @@ Caribbean Disaster Emergency Management Agency:
   Abbreviation_en: CDEMA
   Treaty_url: https://www.cdema.org/cdema_agreement.pdf
   Source: null
+  Name_fr: Agence caribéenne pour la gestion des urgences et des désastres
+  Name_es: Agencia Caribeña para el Manejo de Emergencias por Desastres
 EFTA Court:
   Wikidata_code: Q610886
   Entity_type: International organisation
@@ -2558,6 +2952,8 @@ EFTA Court:
   Abbreviation_en: null
   Treaty_url: null
   Source: https://www.efta.int/sites/default/files/documents/legal-texts/the-surveillance-and-court-agreement/agreement-annexes-and-protocols/Surveillance-and-Court-Agreement-consolidated.pdf
+  Name_fr: Cour de justice de l'Association européenne de libre-échange
+  Name_es: Tribunal de la Asociación Europea de Libre Comercio
 Economic Court of the Commonwealth of Independent States:
   Wikidata_code: Q4306397
   Entity_type: International organisation
@@ -2585,6 +2981,7 @@ Central American Court of Justice:
   Abbreviation_en: null
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201821/volume-1821-I-31191-English.pdf
   Source: null
+  Name_es: Corte Centroamericana de Justicia
 Judicial Committee of the Privy Council:
   Wikidata_code: Q1710982
   Entity_type: International organisation
@@ -2594,6 +2991,8 @@ Judicial Committee of the Privy Council:
   Abbreviation_en: JCPC
   Treaty_url: null
   Source: https://supremecourt.uk/uploads/speech_lord_hodge_jcpc_270225_03e7773ac9.pdf
+  Name_fr: Comité judiciaire du Conseil privé
+  Name_es: Comité Judicial del Consejo Privado
 Inter-American Statistical Institute:
   Wikidata_code: Q55725862
   Entity_type: International organisation
@@ -2603,6 +3002,7 @@ Inter-American Statistical Institute:
   Abbreviation_en: IASI
   Treaty_url: null
   Source: https://www.archives.gov/federal-register/codification/executive-order/09698.html
+  Name_es: Instituto Interamericano de Estadística
 International Solar Alliance:
   Wikidata_code: Q21594952
   Entity_type: International organisation
@@ -2612,6 +3012,8 @@ International Solar Alliance:
   Abbreviation_en: ISA
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/No%20Volume/54949/Part/I-54949-08000002804ed824.pdf
   Source: null
+  Name_fr: Alliance solaire internationale
+  Name_es: Alianza Solar Internacional
 Limpopo Watercourse Commission:
   Wikidata_code: '[No code.]'
   Entity_type: International organisation
@@ -2676,20 +3078,22 @@ Asian Reinsurance Corporation:
   Org_family: none
   Country: zz
   Name_en: Asian Reinsurance Corporation
-  Name_other_en:
-  Abbreviation_en:
+  Name_other_en: null
+  Abbreviation_en: null
   Treaty_url: http://lawinfochina.com/display.aspx?id=7447&lib=tax
-  Source: 
+  Source: null
 International Commission for the Protection of the Rhine:
   Wikidata_code: Q1667341
   Entity_type: International organisation
   Org_family: none
   Country: zz
   Name_en: International Commission for the Protection of the Rhine
-  Name_other_en:
-  Abbreviation_en:
+  Name_other_en: null
+  Abbreviation_en: null
   Treaty_url: https://www.iksr.org/fileadmin/user_upload/DKDM/Dokumente/Rechtliche_Basis/EN/legal_En_1999.pdf
-  Source: 
+  Source: null
+  Name_fr: Commission internationale pour la protection du Rhin
+  Name_es: comisión Internacional para la Protección del Rin
 Caribbean Council of Legal Education:
   Wikidata_code: Q117210367
   Entity_type: International organisation
@@ -2699,37 +3103,40 @@ Caribbean Council of Legal Education:
   Name_other_en: Council of Legal Education
   Abbreviation_en: CLE
   Treaty_url: https://drupal.caricom.org/sites/default/files/2021-06/Agreement-Establishing-The-Council-of-Legal-Education.pdf
-  Source: 
+  Source: null
 Melanesian Spearhead Group:
   Wikidata_code: Q1918937
   Entity_type: International organisation
   Org_family: none
   Country: zz
   Name_en: Melanesian Spearhead Group
-  Name_other_en:
+  Name_other_en: null
   Abbreviation_en: MSG
   Treaty_url: https://msgsec.info/wp-content/uploads/2024/10/UN-Depository-_-Agreement-Establishng-the-MSG-2007.pdf
-  Source: 
+  Source: null
+  Name_fr: Groupe mélanésien Fer de lance
 Arms Trade Treaty Secretariat:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
   Country: zz
   Name_en: Arms Trade Treaty Secretariat
-  Name_other_en:
-  Abbreviation_en:
+  Name_other_en: null
+  Abbreviation_en: null
   Treaty_url: https://www.fedlex.admin.ch/eli/cc/2016/477/fr
-  Source: 
+  Source: null
 International Rice Research Institute:
   Wikidata_code: Q1204921
   Entity_type: International organisation
   Org_family: CGIAR entities
   Country: zz
   Name_en: International Rice Research Institute
-  Name_other_en:
+  Name_other_en: null
   Abbreviation_en: IRRI
   Treaty_url: https://www.austlii.edu.au/cgi-bin/viewdoc/au/other/dfat/treaties/2001/6.html
-  Source: 
+  Source: null
+  Name_fr: Institut international de recherche sur le riz
+  Name_es: Instituto Internacional de Investigación del Arroz
 International Union for Conservation of Nature and Natural Resources:
   Wikidata_code: Q48268
   Entity_type: International organisation
@@ -2740,26 +3147,32 @@ International Union for Conservation of Nature and Natural Resources:
   Abbreviation_en: IUCN
   Treaty_url: https://portals.iucn.org/library/sites/library/files/documents/2024-019-En.pdf
   Source: https://iucn.org/sites/default/files/2022-05/1948-001.pdf
+  Name_fr: Union internationale pour la conservation de la nature
+  Name_es: Unión Internacional para la Conservación de la Naturaleza
 International Potato Center:
   Wikidata_code: Q1054322
   Entity_type: International organisation
   Org_family: CGIAR entities
   Country: zz
   Name_en: International Potato Center
-  Name_other_en: 
+  Name_other_en: null
   Abbreviation_en: CIP
   Treaty_url: https://hdl.handle.net/10947/3876
   Source: https://apps.rree.gob.pe/portal/webtratados.nsf/xsp/.ibmmodres/domino/OpenAttachment/VICUS/MREPERU!!portal/tratados.nsf/348053BF2DE693820525769A005863F0/$FILE/B-2697.pdf
+  Name_fr: centre international de la pomme de terre
+  Name_es: Centro Internacional de la Papa
 International Center for Tropical Agriculture:
   Wikidata_code: Q1054314
   Entity_type: International organisation
   Org_family: CGIAR entities
   Country: zz
   Name_en: International Center for Tropical Agriculture
-  Name_other_en:
+  Name_other_en: null
   Abbreviation_en: CIAT
   Treaty_url: https://hdl.handle.net/10947/420
-  Source:
+  Source: null
+  Name_fr: centre international d’agriculture tropicale
+  Name_es: Centro Internacional de Agricultura Tropical
 Court of Conciliation and Arbitration:
   Wikidata_code: Q3001076
   Entity_type: International organisation
@@ -2768,58 +3181,61 @@ Court of Conciliation and Arbitration:
   Name_en: Court of Conciliation and Arbitration
   Name_other_en: OSCE Court of Conciliation and Arbitration
   Abbreviation_en: CCA
-  Treaty_url:
+  Treaty_url: null
   Source: https://www.osce.org/sites/default/files/f/documents/a/0/111409_2.pdf
+  Name_fr: Cour européenne de conciliation et d'arbitrage
 Asia-Pacific Telecommunity:
   Wikidata_code: Q4806261
   Entity_type: International organisation
   Org_family: none
   Country: zz
   Name_en: Asia-Pacific Telecommunity
-  Name_other_en:
+  Name_other_en: null
   Abbreviation_en: APT
   Treaty_url: https://apt.int/pdfs/Constitution.pdf
-  Source: 
+  Source: null
 Central American Maritime Transport Commission:
-  Wikidata_code: [No code found.]
+  Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
   Country: zz
   Name_en: Central American Maritime Transport Commission
-  Name_other_en:
+  Name_other_en: null
   Abbreviation_en: COCATRAM
-  Treaty_url:
+  Treaty_url: null
   Source: http://legislacion.asamblea.gob.ni/Instrumentos.nsf/550cbe82091cc613062578b80075d823/1dac0b4d5d103f5806257377007b78b3/$FILE/Acuerdo%20de%20Sede%20entre%20el%20Gobienro%20de%20la%20Rep%C3%BAblica%20de%20Nicaragua%20y%20la%20Comision%20Centroamericana%20de%20Transporte%20Maritimo.pdf
 Central American Educational and Cultural Coordination:
-  Wikidata_code: [No code found.]
+  Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
   Country: zz
   Name_en: Central American Educational and Cultural Coordination
-  Name_other_en:
+  Name_other_en: null
   Abbreviation_en: CECC
   Treaty_url: https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?param1=NRTC&nValor1=1&nValor2=72651&nValor3=88737&strTipM=TC
-  Source:
+  Source: null
 Moselle Commission:
   Wikidata_code: Q114056411
   Entity_type: International organisation
   Org_family: none
   Country: zz
   Name_en: Moselle Commission
-  Name_other_en:
-  Abbreviation_en:
+  Name_other_en: null
+  Abbreviation_en: null
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%202375/v2375.pdf
-  Source:
+  Source: null
+  Name_fr: Commission de la Moselle
 Parliamentary Assembly of Turkic States:
   Wikidata_code: Q4345435
   Entity_type: International organisation
   Org_family: Organization of Turkic States entities
   Country: zz
   Name_en: Parliamentary Assembly of Turkic States
-  Name_other_en:
+  Name_other_en: null
   Abbreviation_en: TURKPA
   Treaty_url: https://web.archive.org/web/20230329043622/https://www.turk-pa.org/file/236_1580134295_5318.pdf
-  Source:
+  Source: null
+  Name_fr: Assemblée parlementaire des États turciques
 Turkic Academy:
   Wikidata_code: Q18508934
   Entity_type: International organisation
@@ -2827,18 +3243,19 @@ Turkic Academy:
   Country: zz
   Name_en: Turkic Academy
   Name_other_en: International Turkic Academy
-  Abbreviation_en: 
+  Abbreviation_en: null
   Treaty_url: https://cdn.tbmm.gov.tr/KKBSPublicFile/D24/Y4/T1/WebOnergeMetni/1573a9b9-dfe9-4283-ab56-5d02be912191.pdf
   Source: https://adilet.zan.kz/rus/docs/Z2200000117
+  Name_fr: Académie turcique
 Court of the Eurasian Economic Union:
-  Wikidata_code: [No code found.]
+  Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: Eurasian Economic Union entities
   Country: zz
   Name_en: Court of the Eurasian Economic Union
   Abbreviation_en: EAEU Court
   Treaty_url: https://www.un.org/en/ga/sixth/70/docs/treaty_on_eeu.pdf
-  Source:
+  Source: null
 African Energy Commission:
   Wikidata_code: Q4689761
   Entity_type: International organisation
@@ -2847,7 +3264,7 @@ African Energy Commission:
   Name_en: African Energy Commission
   Abbreviation_en: AFREC
   Treaty_url: https://web.archive.org/web/20250219222510/https://au.int/sites/default/files/treaties/37310-treaty-0023_-_convention_of_the_african_energy_commission_e.pdf
-  Source:
+  Source: null
 Caribbean Regional Fisheries Mechanism:
   Wikidata_code: Q117198149
   Entity_type: International organisation
@@ -2856,16 +3273,16 @@ Caribbean Regional Fisheries Mechanism:
   Name_en: Caribbean Regional Fisheries Mechanism
   Abbreviation_en: CRFM
   Treaty_url: https://www.crfm.int/index.php?option=com_k2&view=item&layout=item&id=2&Itemid=116
-  Source: 
+  Source: null
 International Commission for the Protection of the Scheldt:
-  Wikidata_code: [No code found.]
+  Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
   Country: zz
   Name_en: International Commission for the Protection of the Scheldt
-  Abbreviation_en:
+  Abbreviation_en: null
   Treaty_url: https://www.isc-cie.org/wp-content/uploads/ACC-GENT_Accord-Escaut.pdf
-  Source: 
+  Source: null
 Lake Tanganyika Authority:
   Wikidata_code: Q30261886
   Entity_type: International organisation
@@ -2874,4 +3291,5 @@ Lake Tanganyika Authority:
   Name_en: Lake Tanganyika Authority
   Abbreviation_en: LTA
   Treaty_url: http://lta.iwlearn.org/documents/the-convention-on-the-sustainable-management-of-lake-tanganyika-eng.pdf
-  Source: 
+  Source: null
+  Name_fr: Autorité du Lac Tanganyika
