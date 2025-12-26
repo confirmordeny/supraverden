@@ -192,6 +192,7 @@ United Nations Environment Programme:
   Abbreviation_fr: 
   Name_other_en: UN Environment Programme
   Source: https://www.un.org/Depts/ptd/about-us/un-organisations
+  OpenSanctions_id: [No code found.]
 Office of the United Nations High Commissioner for Refugees:
   Wikidata_code: Q28606331
   Org_family: UN and affiliates
@@ -202,6 +203,7 @@ Office of the United Nations High Commissioner for Refugees:
   Abbreviation_fr: 
   Name_other_en: Office of the UN High Commissioner for Refugees
   Source: https://www.un.org/sites/un2.un.org/files/un_system_chart.pdf
+  OpenSanctions_id: [No code found.]
 United Nations Office for Project Services:
   Wikidata_code: Q2531088
   Org_family: UN and affiliates
@@ -212,6 +214,7 @@ United Nations Office for Project Services:
   Abbreviation_fr: 
   Name_other_en: UN Office for Project Services
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
+  OpenSanctions_id: NK-ijZcLvfYrYTcHqGkftojPm
 United Nations Population Fund:
   Wikidata_code: Q623036
   Org_family: UN and affiliates
@@ -222,6 +225,7 @@ United Nations Population Fund:
   Abbreviation_fr: 
   Name_other_en: UN Population Fund
   Source: https://www.un.org/sites/un2.un.org/files/un_system_chart.pdf
+  OpenSanctions_id: [No code found.]
 United Nations World Food Programme:
   Wikidata_code: Q204344
   Org_family: UN and affiliates
