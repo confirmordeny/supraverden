@@ -600,6 +600,7 @@ European Ombudsman:
   Abbreviation_en: null
   Type: EU body
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY
+  OpenSanctions_id: [No code found.]
 European Public Prosecutor’s Office:
   Wikidata_code: Q5413070
   Entity_type: International organisation
@@ -609,6 +610,7 @@ European Public Prosecutor’s Office:
   Abbreviation_en: EPPO
   Type: EU body
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY
+  OpenSanctions_id: [No code found.]
 European Data Protection Board:
   Wikidata_code: Q26877724
   Entity_type: International organisation
@@ -618,6 +620,7 @@ European Data Protection Board:
   Abbreviation_en: EDPB
   Type: EU body
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY
+  OpenSanctions_id: [No code found.]
 European Defence Agency:
   Wikidata_code: Q1134173
   Entity_type: International organisation
@@ -627,6 +630,7 @@ European Defence Agency:
   Abbreviation_en: EDA
   Type: EU common foreign and security policy agency or body
   Source: https://web.archive.org/web/20230503174334/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32015D1835
+  OpenSanctions_id: [No code found.]
 European Union Satellite Centre:
   Wikidata_code: Q1388519
   Entity_type: International organisation
@@ -649,6 +653,7 @@ Supply Agency of the European Atomic Energy Community:
   Name_other_en: Euratom Supply Agency
   Type: Euratom agencies and bodies
   Source: https://www.legislation.gov.uk/eut/euratom/title/II/chapter/6
+  OpenSanctions_id: [No code found.]
 Fusion for Energy Joint Undertaking:
   Wikidata_code: Q5510278
   Entity_type: International organisation
@@ -661,6 +666,7 @@ Fusion for Energy Joint Undertaking:
     Fusion Energy (Fusion for Energy)
   Type: Euratom agencies and bodies
   Source: https://web.archive.org/web/20240305173612/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32007D0198
+  OpenSanctions_id: [No code found.]
 Chips Joint Undertaking:
   Wikidata_code: Q133884004
   Entity_type: International organisation
@@ -671,6 +677,7 @@ Chips Joint Undertaking:
   Name_other_en: Chips JU
   Type: EU joint undertaking
   Source: https://web.archive.org/web/20231025101944/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1782
+  OpenSanctions_id: [No code found.]
 Circular Bio-based Europe Joint Undertaking:
   Wikidata_code: Q133884431
   Entity_type: International organisation
@@ -681,6 +688,7 @@ Circular Bio-based Europe Joint Undertaking:
   Abbreviation_en: CBE JU
   Type: EU joint undertaking
   Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085
+  OpenSanctions_id: [No code found.]
 Clean Aviation Joint Undertaking:
   Wikidata_code: Q133884512
   Entity_type: International organisation
@@ -691,6 +699,7 @@ Clean Aviation Joint Undertaking:
   Abbreviation_en: CAJU
   Type: EU joint undertaking
   Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085
+  OpenSanctions_id: [No code found.]
 Clean Hydrogen Joint Undertaking:
   Wikidata_code: Q133884630
   Entity_type: International organisation
@@ -701,6 +710,7 @@ Clean Hydrogen Joint Undertaking:
   Abbreviation_en: null
   Type: EU joint undertaking
   Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085
+  OpenSanctions_id: [No code found.]
 Europe’s Rail Joint Undertaking:
   Wikidata_code: Q133884985
   Entity_type: International organisation
@@ -711,6 +721,7 @@ Europe’s Rail Joint Undertaking:
   Abbreviation_en: null
   Type: EU joint undertaking
   Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085
+  OpenSanctions_id: [No code found.]
 Global Health EDCTP3 Joint Undertaking:
   Wikidata_code: Q30296681
   Entity_type: International organisation
@@ -721,6 +732,7 @@ Global Health EDCTP3 Joint Undertaking:
   Abbreviation_en: null
   Type: EU joint undertaking
   Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085
+  OpenSanctions_id: [No code found.]
 Innovative Health Initiative Joint Undertaking:
   Wikidata_code: Q118695652
   Entity_type: International organisation
@@ -731,6 +743,7 @@ Innovative Health Initiative Joint Undertaking:
   Abbreviation_en: null
   Type: EU joint undertaking
   Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085
+  OpenSanctions_id: [No code found.]
 European High Performance Computing Joint Undertaking:
   Wikidata_code: Q60983149
   Entity_type: International organisation
@@ -741,6 +754,7 @@ European High Performance Computing Joint Undertaking:
   Abbreviation_en: EuroHPC JU
   Type: EU joint undertaking
   Source: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32021R1173
+  OpenSanctions_id: [No code found.]
 SESAR 3 Joint Undertaking:
   Wikidata_code: Q3055255
   Entity_type: International organisation
@@ -752,6 +766,7 @@ SESAR 3 Joint Undertaking:
   Abbreviation_en: null
   Type: EU joint undertaking
   Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085
+  OpenSanctions_id: [No code found.]
 Smart Networks and Services Joint Undertaking:
   Wikidata_code: Q133886014
   Entity_type: International organisation
@@ -762,6 +777,7 @@ Smart Networks and Services Joint Undertaking:
   Abbreviation_en: null
   Type: EU joint undertaking
   Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085
+  OpenSanctions_id: [No code found.]
 European Schools:
   Wikidata_code: Q30104861
   Entity_type: International organisation
@@ -770,3 +786,4 @@ European Schools:
   Name_en: European Schools
   Abbreviation_en: null
   Treaty_url: https://www.eursc.eu/BasicTexts/SW1_21994A0817-en.pdf
+  OpenSanctions_id: [No code found.]
