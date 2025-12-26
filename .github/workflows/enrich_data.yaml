@@ -1,27 +1,4 @@
-name: Enrich data with data from Wikidata
-
-on:
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  enrich-data:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-
-      - name: Install dependencies
-        run: pip install pyyaml requests
-
-      - name: Run Python Script
+- name: Run Python Script
         shell: python
         run: |
           import yaml
@@ -45,14 +22,12 @@ jobs:
           USER_AGENT = "SupraverdenBot/1.0 (github.com/confirmordeny/supraverden)"
 
           def get_wikidata_info(q_code):
-              """Fetches OpenSanctions ID, French Name, and Spanish Name."""
+              """Fetches data using OPTIONAL clauses so missing IDs don't block Names."""
               if not q_code: return None
               
-              # 1. THROTTLE
-              time.sleep(1.0)
+              time.sleep(1.0) # Rate limiting
               
-              # SPARQL: Get ID (P10632), Label FR, Label ES. 
-              # OPTIONAL is used so missing one doesn't fail the others.
+              # SPARQL Query: Uses OPTIONAL for every field
               query = f"""
               SELECT ?id ?name_fr ?name_es WHERE {{
                 BIND(wd:{q_code} AS ?item)
@@ -72,12 +47,11 @@ jobs:
                   )
                   
                   if resp.status_code == 429:
-                      print(f"  [!] Rate Limit (429) hit on {q_code}. Sleeping 10s...")
+                      print(f"  [!] Rate Limit (429) hit. Sleeping 10s...")
                       time.sleep(10)
                       return None
                       
                   if resp.status_code != 200:
-                      print(f"  [!] HTTP Error {resp.status_code} on {q_code}")
                       return None
 
                   data = resp.json()
@@ -86,7 +60,6 @@ jobs:
                   if not bindings:
                       return None
 
-                  # Extract values safely
                   row = bindings[0]
                   return {
                       'os_id': row.get('id', {}).get('value'),
@@ -95,14 +68,13 @@ jobs:
                   }
 
               except Exception as e:
-                  print(f"  [!] Connection error fetching {q_code}: {e}")
+                  print(f"  [!] Connection error: {e}")
                   return None
 
           def sanitize_yaml_lines(raw_lines):
-              """Fixes indentation, dangling text, and unquoted brackets."""
+              """Clean up common YAML formatting errors."""
               cleaned = []
               for line in raw_lines:
-                  original_line = line
                   stripped = line.strip()
                   
                   # Fix Root Indentation
@@ -114,18 +86,10 @@ jobs:
                   if ':' in stripped and '[' in stripped:
                       if re.search(r':\s*\[.*\]\.?$', stripped):
                           key, val = stripped.split(':', 1)
-                          val = val.strip()
-                          cleaned.append(f'{line.split(":")[0]}: "{val}"\n')
+                          cleaned.append(f'{line.split(":")[0]}: "{val.strip()}"\n')
                           continue
 
-                  # Fix Dangling Text
-                  if (line.startswith('  ') and stripped and 
-                      not stripped.startswith('#') and 
-                      not stripped.startswith('-') and 
-                      ':' not in stripped):
-                      cleaned.append('# [AUTO-FIXED] ' + line)
-                  else:
-                      cleaned.append(line)
+                  cleaned.append(line)
               return cleaned
 
           def process_file(file_path):
@@ -139,6 +103,7 @@ jobs:
               with open(file_path, 'r', encoding='utf-8') as f:
                   lines = f.readlines()
 
+              # Extract Header
               header = ""
               for line in lines:
                   if line.strip().startswith("#") or line.strip() == "":
@@ -149,9 +114,8 @@ jobs:
               clean_lines = sanitize_yaml_lines(lines)
               try:
                   data = yaml.safe_load("".join(clean_lines))
-              except yaml.YAMLError as exc:
+              except yaml.YAMLError:
                   print(f"CRITICAL: Could not parse {file_path}. Skipping.")
-                  print(exc)
                   return False
 
               if not data:
@@ -159,27 +123,27 @@ jobs:
                   return False
 
               updated_count = 0
-              print(f"Scanning {len(data)} items...")
-              sys.stdout.flush()
 
               for name, info in data.items():
                   if not isinstance(info, dict) or 'Wikidata_code' not in info:
                       continue
 
-                  w_code = str(info['Wikidata_code']).strip()
-                  if not w_code.startswith('Q') or '[' in w_code:
+                  # 1. CLEAN CODE: Remove brackets if present [Q123] -> Q123
+                  w_code = str(info['Wikidata_code']).replace('[', '').replace(']', '').strip()
+                  
+                  if not w_code.startswith('Q'):
                       continue
 
-                  # CHECK: Do we have all the data we want?
+                  # 2. CHECK STATUS
                   has_os_id = 'OpenSanctions_id' in info
                   has_fr = 'Name_fr' in info
                   has_es = 'Name_es' in info
 
-                  # Skip if we already have everything
+                  # If we have everything, move on
                   if has_os_id and has_fr and has_es:
                       continue
 
-                  print(f"Enriching {name} ({w_code})...")
+                  print(f"Checking {name} ({w_code})...")
                   sys.stdout.flush()
                   
                   results = get_wikidata_info(w_code)
@@ -187,19 +151,17 @@ jobs:
                   if results:
                       changes_made = False
                       
-                      # Add OpenSanctions ID if missing and found
+                      # Only add if missing in file AND present in Wikidata
                       if not has_os_id and results['os_id']:
                           info['OpenSanctions_id'] = results['os_id']
                           print(f"  -> Added ID: {results['os_id']}")
                           changes_made = True
 
-                      # Add French Name if missing and found
                       if not has_fr and results['name_fr']:
                           info['Name_fr'] = results['name_fr']
                           print(f"  -> Added FR: {results['name_fr']}")
                           changes_made = True
 
-                      # Add Spanish Name if missing and found
                       if not has_es and results['name_es']:
                           info['Name_es'] = results['name_es']
                           print(f"  -> Added ES: {results['name_es']}")
@@ -212,7 +174,7 @@ jobs:
                   with open(file_path, 'w', encoding='utf-8') as f:
                       f.write(header)
                       yaml.dump(data, f, default_flow_style=False, sort_keys=False, allow_unicode=True)
-                  print(f"Successfully updated {updated_count} records in {file_path}.")
+                  print(f"SUCCESS: Updated {updated_count} records in {file_path}.")
                   return True
               else:
                   print(f"No updates for {file_path}.")
@@ -226,13 +188,3 @@ jobs:
 
           if not any_updates:
               print("\nNo changes made to any files.")
-
-      - name: Commit changes
-        if: success()
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          git add data/*.yaml
-          
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Enrich data: IDs and FR/ES names" && git push)
