@@ -1,4 +1,27 @@
-- name: Run Python Script
+name: Enrich data with data from Wikidata
+
+on:
+  workflow_dispatch: # Allows you to click "Run workflow" manually
+
+permissions:
+  contents: write # Essential for committing changes back to the repo
+
+jobs:
+  enrich-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install pyyaml requests
+
+      - name: Run Enrichment Script
         shell: python
         run: |
           import yaml
@@ -8,7 +31,8 @@
           import os
           import time
 
-          # --- CONFIGURATION ---
+          # ================= CONFIGURATION =================
+          # List of files to process relative to repo root
           TARGET_FILES = [
               'data/general_list.yaml',
               'data/arab_league_bodies.yaml',
@@ -17,20 +41,30 @@
               'data/oas_bodies.yaml',
               'data/united_nations.yaml'
           ]
-           
-          WIKIDATA_URL = "https://query.wikidata.org/sparql"
+          
+          WIKIDATA_ENDPOINT = "https://query.wikidata.org/sparql"
           USER_AGENT = "SupraverdenBot/1.0 (github.com/confirmordeny/supraverden)"
+          # =================================================
 
-          def get_wikidata_info(q_code):
-              """Fetches data using OPTIONAL clauses so missing IDs don't block Names."""
-              if not q_code: return None
+          def get_wikidata_data(q_code):
+              """
+              Queries Wikidata for:
+              1. OpenSanctions ID (P10632)
+              2. French Label
+              3. Spanish Label
               
-              time.sleep(1.0) # Rate limiting
+              Returns a dictionary or None if connection fails.
+              """
+              # Respect Wikidata API limits (avoid 429 Too Many Requests)
+              time.sleep(1.0)
               
-              # SPARQL Query: Uses OPTIONAL for every field
+              # SPARQL Query Explanation:
+              # - OPTIONAL is crucial: it allows partial results.
+              # - If an item has a French name but no ID, we still get the name.
               query = f"""
               SELECT ?id ?name_fr ?name_es WHERE {{
                 BIND(wd:{q_code} AS ?item)
+                
                 OPTIONAL {{ ?item wdt:P10632 ?id . }}
                 OPTIONAL {{ ?item rdfs:label ?name_fr . FILTER(LANG(?name_fr) = "fr") }}
                 OPTIONAL {{ ?item rdfs:label ?name_es . FILTER(LANG(?name_es) = "es") }}
@@ -39,51 +73,60 @@
               """
               
               try:
-                  resp = requests.get(
-                      WIKIDATA_URL, 
+                  response = requests.get(
+                      WIKIDATA_ENDPOINT, 
                       params={'format': 'json', 'query': query}, 
                       headers={'User-Agent': USER_AGENT},
                       timeout=30
                   )
-                  
-                  if resp.status_code == 429:
-                      print(f"  [!] Rate Limit (429) hit. Sleeping 10s...")
+
+                  # Handle Rate Limits specifically
+                  if response.status_code == 429:
+                      print(f"    [!] Rate Limit hit (429). Sleeping 10s...")
                       time.sleep(10)
                       return None
-                      
-                  if resp.status_code != 200:
+                  
+                  if response.status_code != 200:
+                      print(f"    [!] HTTP Error {response.status_code}")
                       return None
 
-                  data = resp.json()
+                  data = response.json()
                   bindings = data.get('results', {}).get('bindings', [])
                   
                   if not bindings:
-                      return None
+                      return {}
 
-                  row = bindings[0]
+                  # Extract data safely from the JSON response
+                  result_row = bindings[0]
                   return {
-                      'os_id': row.get('id', {}).get('value'),
-                      'name_fr': row.get('name_fr', {}).get('value'),
-                      'name_es': row.get('name_es', {}).get('value')
+                      'os_id': result_row.get('id', {}).get('value'),
+                      'name_fr': result_row.get('name_fr', {}).get('value'),
+                      'name_es': result_row.get('name_es', {}).get('value')
                   }
 
               except Exception as e:
-                  print(f"  [!] Connection error: {e}")
+                  print(f"    [!] Connection Exception: {e}")
                   return None
 
-          def sanitize_yaml_lines(raw_lines):
-              """Clean up common YAML formatting errors."""
+          def clean_yaml_content(lines):
+              """
+              Helper to fix common YAML syntax errors before parsing.
+              - Fixes root indentation
+              - Quotes unquoted list-like strings (e.g. key: [value])
+              """
               cleaned = []
-              for line in raw_lines:
+              for line in lines:
                   stripped = line.strip()
                   
-                  # Fix Root Indentation
+                  # 1. Fix Root Indentation issues (lines starting with 1 space)
                   if line.startswith(' ') and not line.startswith('  ') and stripped.endswith(':'):
                       cleaned.append(stripped + '\n')
                       continue
 
-                  # Fix Unquoted Brackets
-                  if ':' in stripped and '[' in stripped:
+                  # 2. Fix Unquoted Brackets (e.g., Wikidata_code: [Q123])
+                  # YAML parsers hate [ ] unless they are quoted or actual lists.
+                  if ':' in stripped and '[' in stripped and not stripped.startswith('#'):
+                      # Regex detects "Key: [Value]" pattern at end of line
                       if re.search(r':\s*\[.*\]\.?$', stripped):
                           key, val = stripped.split(':', 1)
                           cleaned.append(f'{line.split(":")[0]}: "{val.strip()}"\n')
@@ -92,99 +135,139 @@
                   cleaned.append(line)
               return cleaned
 
-          def process_file(file_path):
-              print(f"\n--- Processing {file_path} ---")
+          def process_single_file(file_path):
+              """
+              Reads a file, checks for missing data, fetches from Wikidata, 
+              and saves if changes are found.
+              """
+              print(f"\n--- Reading {file_path} ---")
               sys.stdout.flush() 
-              
+
               if not os.path.exists(file_path):
-                  print(f"Skipping: File not found.")
+                  print(f"  [X] File not found.")
                   return False
 
+              # Read file content
               with open(file_path, 'r', encoding='utf-8') as f:
-                  lines = f.readlines()
+                  original_lines = f.readlines()
 
-              # Extract Header
-              header = ""
-              for line in lines:
+              # Extract Header (comments at the top) to preserve them later
+              header_block = ""
+              for line in original_lines:
                   if line.strip().startswith("#") or line.strip() == "":
-                      header += line
+                      header_block += line
                   else:
                       break
               
-              clean_lines = sanitize_yaml_lines(lines)
+              # Parse YAML safely
+              cleaned_lines = clean_yaml_content(original_lines)
               try:
-                  data = yaml.safe_load("".join(clean_lines))
-              except yaml.YAMLError:
-                  print(f"CRITICAL: Could not parse {file_path}. Skipping.")
+                  data = yaml.safe_load("".join(cleaned_lines))
+              except yaml.YAMLError as exc:
+                  print(f"  [!] YAML Parsing Error: {exc}")
                   return False
 
               if not data:
-                  print("No data found.")
+                  print("  [i] File is empty or invalid.")
                   return False
 
-              updated_count = 0
+              updates_count = 0
 
+              # Iterate through every item in the YAML file
               for name, info in data.items():
+                  # Sanity check: must be a dictionary and have a Wikidata code
                   if not isinstance(info, dict) or 'Wikidata_code' not in info:
                       continue
 
-                  # 1. CLEAN CODE: Remove brackets if present [Q123] -> Q123
-                  w_code = str(info['Wikidata_code']).replace('[', '').replace(']', '').strip()
+                  # --- CLEAN INPUT ---
+                  raw_code = str(info['Wikidata_code'])
+                  # Remove brackets [ ] and whitespace
+                  w_code = raw_code.replace('[', '').replace(']', '').strip()
                   
+                  # Validate format (must start with Q)
                   if not w_code.startswith('Q'):
+                      # print(f"  [i] Skipping {name}: Invalid code '{w_code}'") 
                       continue
 
-                  # 2. CHECK STATUS
+                  # --- CHECK LOCAL DATA ---
+                  # What do we already have?
                   has_os_id = 'OpenSanctions_id' in info
                   has_fr = 'Name_fr' in info
                   has_es = 'Name_es' in info
 
-                  # If we have everything, move on
+                  # If we have everything, skip immediately (Optimization)
                   if has_os_id and has_fr and has_es:
                       continue
 
-                  print(f"Checking {name} ({w_code})...")
+                  print(f"  > Checking {name} ({w_code})...")
                   sys.stdout.flush()
                   
-                  results = get_wikidata_info(w_code)
+                  # --- FETCH REMOTE DATA ---
+                  remote_data = get_wikidata_data(w_code)
                   
-                  if results:
-                      changes_made = False
-                      
-                      # Only add if missing in file AND present in Wikidata
-                      if not has_os_id and results['os_id']:
-                          info['OpenSanctions_id'] = results['os_id']
-                          print(f"  -> Added ID: {results['os_id']}")
-                          changes_made = True
+                  if not remote_data:
+                      continue
 
-                      if not has_fr and results['name_fr']:
-                          info['Name_fr'] = results['name_fr']
-                          print(f"  -> Added FR: {results['name_fr']}")
-                          changes_made = True
+                  # --- UPDATE LOGIC ---
+                  item_changed = False
+                  
+                  # 1. Update OpenSanctions ID
+                  if not has_os_id and remote_data.get('os_id'):
+                      info['OpenSanctions_id'] = remote_data['os_id']
+                      print(f"    + Added ID: {remote_data['os_id']}")
+                      item_changed = True
 
-                      if not has_es and results['name_es']:
-                          info['Name_es'] = results['name_es']
-                          print(f"  -> Added ES: {results['name_es']}")
-                          changes_made = True
-                      
-                      if changes_made:
-                          updated_count += 1
+                  # 2. Update French Name
+                  if not has_fr and remote_data.get('name_fr'):
+                      info['Name_fr'] = remote_data['name_fr']
+                      print(f"    + Added FR: {remote_data['name_fr']}")
+                      item_changed = True
 
-              if updated_count > 0:
+                  # 3. Update Spanish Name
+                  if not has_es and remote_data.get('name_es'):
+                      info['Name_es'] = remote_data['name_es']
+                      print(f"    + Added ES: {remote_data['name_es']}")
+                      item_changed = True
+                  
+                  if item_changed:
+                      updates_count += 1
+
+              # --- SAVE FILE ---
+              if updates_count > 0:
+                  print(f"  -> Saving {file_path} with {updates_count} updates.")
                   with open(file_path, 'w', encoding='utf-8') as f:
-                      f.write(header)
+                      f.write(header_block) # Write the preserved header comments
+                      # Dump data with clean formatting
                       yaml.dump(data, f, default_flow_style=False, sort_keys=False, allow_unicode=True)
-                  print(f"SUCCESS: Updated {updated_count} records in {file_path}.")
                   return True
               else:
-                  print(f"No updates for {file_path}.")
+                  print(f"  -> No changes needed.")
                   return False
 
-          # --- MAIN LOOP ---
-          any_updates = False
-          for f in TARGET_FILES:
-              if process_file(f):
-                  any_updates = True
+          # ================= MAIN EXECUTION =================
+          any_files_updated = False
+          
+          for file_path in TARGET_FILES:
+              try:
+                  if process_single_file(file_path):
+                      any_files_updated = True
+              except Exception as e:
+                  print(f"CRITICAL ERROR processing {file_path}: {e}")
 
-          if not any_updates:
-              print("\nNo changes made to any files.")
+          if not any_files_updated:
+              print("\nDone. No updates were required.")
+
+      - name: Commit changes
+        if: success()
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Check if there are changes before committing
+          git add data/*.yaml
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Enrich: Add OpenSanctions IDs, French & Spanish names"
+            git push
+          fi
