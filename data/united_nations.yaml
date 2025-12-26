@@ -9,9 +9,10 @@ United Nations:
   Name_fr: Organisation des Nations unies
   Abbreviation_en: UN
   Abbreviation_fr: ONU
-  Name_other_en: 
+  Name_other_en: null
   Source: https://www.un.org/en/about-us/main-bodies
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
+  Name_es: Organización de las Naciones Unidas
 United Nations Security Council:
   Wikidata_code: Q37470
   Org_family: UN and affiliates
@@ -19,10 +20,11 @@ United Nations Security Council:
   Name_en: United Nations Security Council
   Name_fr: Conseil de sécurité des Nations unies
   Abbreviation_en: UNSC
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: UN Security Council
   Source: https://www.un.org/en/about-us/main-bodies
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
+  Name_es: Consejo de Seguridad de las Naciones Unidas
 United Nations Economic and Social Council:
   Wikidata_code: Q170075
   Org_family: UN and affiliates
@@ -30,10 +32,11 @@ United Nations Economic and Social Council:
   Name_en: United Nations Economic and Social Council
   Name_fr: Conseil économique et social des Nations unies
   Abbreviation_en: ECOSOC
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: UN Economic and Social Council
   Source: https://www.un.org/en/about-us/main-bodies
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
+  Name_es: Consejo Económico y Social de las Naciones Unidas
 United Nations General Assembly:
   Wikidata_code: Q47423
   Org_family: UN and affiliates
@@ -41,32 +44,35 @@ United Nations General Assembly:
   Name_en: United Nations General Assembly
   Name_fr: Assemblée générale des Nations unies
   Abbreviation_en: UNGA
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: UN General Assembly
   Source: https://www.un.org/en/about-us/main-bodies
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
+  Name_es: Asamblea General de las Naciones Unidas
 United Nations Trusteeship Council:
   Wikidata_code: Q219693
   Org_family: UN and affiliates
   Country: zz
   Name_en: United Nations Trusteeship Council
   Name_fr: Conseil de tutelle des Nations unies
-  Abbreviation_en:
-  Abbreviation_fr: 
+  Abbreviation_en: null
+  Abbreviation_fr: null
   Name_other_en: UN Trusteeship Council
   Source: https://www.un.org/en/about-us/main-bodies
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
+  Name_es: Consejo de Administración Fiduciaria de las Naciones Unidas
 United Nations Secretariat:
   Wikidata_code: Q220563
   Org_family: UN and affiliates
   Country: zz
   Name_en: United Nations Secretariat
   Name_fr: Secrétariat des Nations unies
-  Abbreviation_en:
-  Abbreviation_fr: 
+  Abbreviation_en: null
+  Abbreviation_fr: null
   Name_other_en: UN Secretariat
   Source: https://www.un.org/en/about-us/main-bodies
   OpenSanctions_id: bic-UNATCHG1
+  Name_es: Secretaría general de Naciones Unidas
 International Court of Justice:
   Wikidata_code: Q7801
   Org_family: UN and affiliates
@@ -74,10 +80,11 @@ International Court of Justice:
   Name_en: International Court of Justice
   Name_fr: Cour internationale de justice
   Abbreviation_en: ICJ
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://www.un.org/en/about-us/main-bodies
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
+  Name_es: Corte Internacional de Justicia
 Food and Agriculture Organization:
   Wikidata_code: Q82151
   Org_family: UN and affiliates
@@ -85,11 +92,12 @@ Food and Agriculture Organization:
   Name_en: Food and Agriculture Organization
   Name_fr: Organisation des Nations unies pour l'alimentation et l'agriculture
   Abbreviation_en: FAO
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Type: UN specialized agency
   Source: https://www.un.org/Depts/ptd/about-us/un-organisations
   OpenSanctions_id: NK-NuGLAXMYwi7QnLjQKKoByS
+  Name_es: Organización de las Naciones Unidas para la Alimentación y la Agricultura
 International Bank for Reconstruction and Development:
   Wikidata_code: Q191384
   Org_family: UN and affiliates
@@ -98,10 +106,11 @@ International Bank for Reconstruction and Development:
   Name_fr: Banque internationale pour la reconstruction et le développement
   Abbreviation_en: IBRD
   Abbreviation_fr: BIRD
-  Name_other_en: 
+  Name_other_en: null
   Type: UN specialized agency
   Source: https://timeline.worldbank.org/content/dam/sites/timeline/docs/migrated/event12-UNagt-agreement-30151254.pdf
   OpenSanctions_id: NK-oH2ZzPZow6U9gumm83ujeQ
+  Name_es: Banco Internacional de Reconstrucción y Fomento
 International Civil Aviation Organization:
   Wikidata_code: Q125761
   Org_family: UN and affiliates
@@ -109,11 +118,12 @@ International Civil Aviation Organization:
   Name_en: International Civil Aviation Organization
   Name_fr: Organisation de l'aviation civile internationale
   Abbreviation_en: ICAO
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Type: UN specialized agency
   Source: https://www.un.org/Depts/ptd/about-us/un-organisations
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
+  Name_es: Organización de Aviación Civil Internacional
 International Fund for Agricultural Development:
   Wikidata_code: Q689859
   Org_family: UN and affiliates
@@ -121,11 +131,12 @@ International Fund for Agricultural Development:
   Name_en: International Fund for Agricultural Development
   Name_fr: Fonds international de développement agricole
   Abbreviation_en: IFAD
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Type: UN specialized agency
   Source: https://www.un.org/Depts/ptd/about-us/un-organisations
   OpenSanctions_id: bic-IFADITRR
+  Name_es: Fondo Internacional de Desarrollo Agrícola
 International Telecommunication Union:
   Wikidata_code: Q376150
   Org_family: UN and affiliates
@@ -133,22 +144,24 @@ International Telecommunication Union:
   Name_en: International Telecommunication Union
   Name_fr: Union internationale des télécommunications
   Abbreviation_en: ITU
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Type: UN specialized agency
   Source: https://www.un.org/Depts/ptd/about-us/un-organisations
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
+  Name_es: Unión Internacional de Telecomunicaciones
 United Nations Children’s Fund:
   Wikidata_code: Q740308
   Org_family: UN and affiliates
   Country: zz
   Name_en: United Nations Children’s Fund
-  Name_fr:
+  Name_fr: null
   Abbreviation_en: UNICEF
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: UN Children's Fund
   Source: https://www.un.org/Depts/ptd/about-us/un-organisations
   OpenSanctions_id: NK-RwFaSVsHm7tyoSHDSdL47E/
+  Name_es: Unicef
 United Nations Development Programme:
   Wikidata_code: Q161718
   Org_family: UN and affiliates
@@ -156,32 +169,33 @@ United Nations Development Programme:
   Name_en: United Nations Development Programme
   Name_fr: Programme des Nations unies pour le développement
   Abbreviation_en: UNDP
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: UN Development Programme
   Source: https://www.un.org/Depts/ptd/about-us/un-organisations
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
+  Name_es: Programa de las Naciones Unidas para el Desarrollo
 United Nations Division for Sustainable Development:
-  Wikidata_code: [No code found]
+  Wikidata_code: '[No code found]'
   Org_family: UN and affiliates
   Country: zz
   Name_en: United Nations Division for Sustainable Development
-  Name_fr:
-  Abbreviation_en:
-  Abbreviation_fr:
-  Name_other_en: 
+  Name_fr: null
+  Abbreviation_en: null
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://www.un.org/en/about-us/main-bodies
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
 United Nations Environment Management Group:
-  Wikidata_code: [No code found.]
+  Wikidata_code: '[No code found.]'
   Org_family: UN and affiliates
   Country: zz
   Name_en: United Nations Environment Management Group
-  Name_fr: 
+  Name_fr: null
   Abbreviation_en: EMG
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: UN Environment Management Group
   Source: https://www.un.org/Depts/ptd/about-us/un-organisations
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
 United Nations Environment Programme:
   Wikidata_code: Q182016
   Org_family: UN and affiliates
@@ -189,21 +203,22 @@ United Nations Environment Programme:
   Name_en: United Nations Environment Programme
   Name_fr: Programme des Nations unies pour l'environnement
   Abbreviation_en: UNEP
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: UN Environment Programme
   Source: https://www.un.org/Depts/ptd/about-us/un-organisations
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
+  Name_es: Programa de las Naciones Unidas para el Medio Ambiente
 Office of the United Nations High Commissioner for Refugees:
   Wikidata_code: Q28606331
   Org_family: UN and affiliates
   Country: zz
   Name_en: Office of the United Nations High Commissioner for Refugees
-  Name_fr: 
+  Name_fr: null
   Abbreviation_en: UNHCR
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: Office of the UN High Commissioner for Refugees
   Source: https://www.un.org/sites/un2.un.org/files/un_system_chart.pdf
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
 United Nations Office for Project Services:
   Wikidata_code: Q2531088
   Org_family: UN and affiliates
@@ -211,10 +226,11 @@ United Nations Office for Project Services:
   Name_en: United Nations Office for Project Services
   Name_fr: Bureau des Nations Unies pour les services d'appui aux projets
   Abbreviation_en: UNOPS
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: UN Office for Project Services
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: NK-ijZcLvfYrYTcHqGkftojPm
+  Name_es: Oficina de las Naciones Unidas de Servicios para Proyectos
 United Nations Population Fund:
   Wikidata_code: Q623036
   Org_family: UN and affiliates
@@ -222,10 +238,11 @@ United Nations Population Fund:
   Name_en: United Nations Population Fund
   Name_fr: Fonds des Nations unies pour la population
   Abbreviation_en: UNFPA
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: UN Population Fund
   Source: https://www.un.org/sites/un2.un.org/files/un_system_chart.pdf
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
+  Name_es: Fondo de Población de las Naciones Unidas
 United Nations World Food Programme:
   Wikidata_code: Q204344
   Org_family: UN and affiliates
@@ -233,22 +250,24 @@ United Nations World Food Programme:
   Name_en: United Nations World Food Programme
   Name_fr: Programme alimentaire mondial
   Abbreviation_en: WFP
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: UN World Food Programme
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
+  Name_es: Programa Mundial de Alimentos
 World Bank:
   Wikidata_code: Q7164
   Org_family: UN and affiliates
   Country: zz
   Name_en: World Bank
   Name_fr: Banque mondiale
-  Abbreviation_en: 
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_en: null
+  Abbreviation_fr: null
+  Name_other_en: null
   Type: UN specialized agency
   Source: https://www.un.org/en/about-us/specialized-agencies
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
+  Name_es: Banco Mundial
 World Health Organization:
   Wikidata_code: Q7817
   Org_family: UN and affiliates
@@ -256,11 +275,12 @@ World Health Organization:
   Name_en: World Health Organization
   Name_fr: Organisation mondiale de la santé
   Abbreviation_en: WHO
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Type: UN specialized agency
   Source: https://www.un.org/en/about-us/specialized-agencies
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
+  Name_es: Organización Mundial de la Salud
 World Intellectual Property Organization:
   Wikidata_code: Q177773
   Org_family: UN and affiliates
@@ -268,11 +288,12 @@ World Intellectual Property Organization:
   Name_en: World Intellectual Property Organization
   Name_fr: Organisation mondiale de la propriété intellectuelle
   Abbreviation_en: WIPO
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Type: UN specialized agency
   Source: https://www.un.org/en/about-us/specialized-agencies
   OpenSanctions_id: kprusi-a4603b8123e3b32448ddc8c4da6d586b0aeebdb2
+  Name_es: Organización Mundial de la Propiedad Intelectual
 International Maritime Organization:
   Wikidata_code: Q201054
   Org_family: UN and affiliates
@@ -280,11 +301,12 @@ International Maritime Organization:
   Name_en: International Maritime Organization
   Name_fr: Organisation maritime internationale
   Abbreviation_en: IMO
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: International Maritime Organisation
   Type: UN specialized agency
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
+  Name_es: Organización Marítima Internacional
 United Nations Educational, Scientific and Cultural Organization:
   Wikidata_code: Q7809
   Org_family: UN and affiliates
@@ -292,11 +314,12 @@ United Nations Educational, Scientific and Cultural Organization:
   Name_en: United Nations Educational, Scientific and Cultural Organization
   Name_fr: Organisation des Nations unies pour l'éducation, la science et la culture
   Abbreviation_en: UNESCO
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Type: UN specialized agency
   Source: https://www.un.org/en/about-us/specialized-agencies
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
+  Name_es: UNESCO
 International Labour Organization:
   Wikidata_code: Q54129
   Org_family: UN and affiliates
@@ -304,11 +327,12 @@ International Labour Organization:
   Name_en: International Labour Organization
   Name_fr: Organisation internationale du travail
   Abbreviation_en: ILO
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Type: UN specialized agency
   Source: https://www.un.org/en/about-us/specialized-agencies
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
+  Name_es: Organización Internacional del Trabajo
 Universal Postal Union:
   Wikidata_code: Q17495
   Org_family: UN and affiliates
@@ -316,11 +340,12 @@ Universal Postal Union:
   Name_en: Universal Postal Union
   Name_fr: Union postale universelle
   Abbreviation_en: UPU
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Type: UN specialized agency
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
+  Name_es: Unión Postal Universal
 International Monetary Fund:
   Wikidata_code: Q7804
   Org_family: UN and affiliates
@@ -328,11 +353,12 @@ International Monetary Fund:
   Name_en: International Monetary Fund
   Name_fr: Fonds monétaire international
   Abbreviation_en: IMF
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Type: UN specialized agency
   Source: https://www.un.org/en/about-us/specialized-agencies
   OpenSanctions_id: NK-fpJvxsfBQQdc49ArT2txiQ
+  Name_es: Fondo Monetario Internacional
 International Atomic Energy Agency:
   Wikidata_code: Q41984
   Org_family: UN and affiliates
@@ -340,10 +366,11 @@ International Atomic Energy Agency:
   Name_en: International Atomic Energy Agency
   Name_fr: Agence internationale de l'énergie atomique
   Abbreviation_en: IAEA
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://www.un.org/en/about-us/specialized-agencies
   OpenSanctions_id: kprusi-7c1673a72776402e41981875790d4939498ad14a
+  Name_es: Organismo Internacional de Energía Atómica
 World Meteorological Organization:
   Wikidata_code: Q170424
   Org_family: UN and affiliates
@@ -351,11 +378,12 @@ World Meteorological Organization:
   Name_en: World Meteorological Organization
   Name_fr: Organisation météorologique mondiale
   Abbreviation_en: WMO
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Type: UN specialized agency
   Source: https://www.un.org/en/about-us/specialized-agencies
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
+  Name_es: Organización Meteorológica Mundial
 International Organization for Migration:
   Wikidata_code: Q472311
   Org_family: UN and affiliates
@@ -363,10 +391,11 @@ International Organization for Migration:
   Name_en: International Organization for Migration
   Name_fr: Organisation internationale pour les migrations
   Abbreviation_en: IOM
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://www.un.org/en/about-us/specialized-agencies
   OpenSanctions_id: NK-behW9iF6wk8trvEFcHVZYe
+  Name_es: Organización Internacional para las Migraciones
 International Criminal Court:
   Wikidata_code: Q47488
   Org_family: UN and affiliates
@@ -374,21 +403,25 @@ International Criminal Court:
   Name_en: International Criminal Court
   Name_fr: Cour pénale internationale
   Abbreviation_en: ICC
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://www.un.org/en/about-us/specialized-agencies
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
+  Name_es: Corte Penal Internacional
 Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organization:
   Wikidata_code: Q15211422
   Org_family: UN and affiliates
   Country: zz
   Name_en: Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organization
-  Name_fr: Commission préparatoire de l’Organisation du traité d’interdiction complète des essais nucléaires
+  Name_fr: Commission préparatoire de l’Organisation du traité d’interdiction complète
+    des essais nucléaires
   Abbreviation_en: CTBTO
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: Comprehensive Nuclear-Test-Ban Treaty Organization Preparatory Commission
   Source: https://www.un.org/en/about-us/specialized-agencies
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
+  Name_es: Comisión Preparatoria del Tratado de Prohibición Completa de los Ensayos
+    Nucleares
 International Seabed Authority:
   Wikidata_code: Q333727
   Org_family: UN and affiliates
@@ -396,10 +429,11 @@ International Seabed Authority:
   Name_en: International Seabed Authority
   Name_fr: Autorité internationale des fonds marins
   Abbreviation_en: ISA
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://www.un.org/en/about-us/specialized-agencies
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
+  Name_es: Autoridad Internacional de los Fondos Marinos
 International Tribunal for the Law of the Sea:
   Wikidata_code: Q639118
   Org_family: UN and affiliates
@@ -407,10 +441,11 @@ International Tribunal for the Law of the Sea:
   Name_en: International Tribunal for the Law of the Sea
   Name_fr: Tribunal international du droit de la mer
   Abbreviation_en: ITLOS
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://www.un.org/en/about-us/specialized-agencies
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
+  Name_es: Tribunal Internacional del Derecho del Mar
 United Nations Tourism:
   Wikidata_code: Q61923
   Org_family: UN and affiliates
@@ -418,12 +453,13 @@ United Nations Tourism:
   Name_en: United Nations Tourism
   Name_fr: ONU Tourisme
   Abbreviation_en: UN Tourism
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: UN Tourism
   Name_former_en: World Tourism Organization
   Type: UN specialized agency
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
+  Name_es: ONU Turismo
 United Nations Industrial Development Organization:
   Wikidata_code: Q386120
   Org_family: UN and affiliates
@@ -431,11 +467,12 @@ United Nations Industrial Development Organization:
   Name_en: United Nations Industrial Development Organization
   Name_fr: Organisation des Nations unies pour le développement industriel
   Abbreviation_en: UNIDO
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: UN Industrial Development Organization
   Type: UN specialized agency
   Source: https://www.un.org/en/about-us/specialized-agencies
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
+  Name_es: Organización de las Naciones Unidas para el Desarrollo Industrial
 International Law Commission:
   Wikidata_code: Q684656
   Org_family: UN and affiliates
@@ -443,10 +480,11 @@ International Law Commission:
   Name_en: International Law Commission
   Name_fr: Commission du droit international
   Abbreviation_en: ILC
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
+  Name_es: Comisión de Derecho internacional
 International Finance Corporation:
   Wikidata_code: Q656801
   Org_family: UN and affiliates
@@ -454,102 +492,104 @@ International Finance Corporation:
   Name_en: International Finance Corporation
   Name_fr: Société financière internationale
   Abbreviation_en: IFC
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
+  Name_es: Corporación Financiera Internacional
 International Development Association:
-  Wikidata_code: [No code found.]
+  Wikidata_code: '[No code found.]'
   Org_family: UN and affiliates
   Country: zz
   Name_en: International Development Association
-  Name_fr: 
+  Name_fr: null
   Abbreviation_en: IDA
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
 Fishery Committee for the Eastern Central Atlantic:
   Wikidata_code: Q12617572
   Org_family: UN and affiliates
-  Legal_type: FAO statutory body 
+  Legal_type: FAO statutory body
   Country: zz
   Name_en: Fishery Committee for the Eastern Central Atlantic
-  Name_fr: 
+  Name_fr: null
   Abbreviation_en: CECAF
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
 South West Indian Ocean Fisheries Commission:
   Wikidata_code: Q134724816
   Org_family: UN and affiliates
-  Legal_type: FAO statutory body 
+  Legal_type: FAO statutory body
   Country: zz
   Name_en: South West Indian Ocean Fisheries Commission
-  Name_fr: 
+  Name_fr: null
   Abbreviation_en: SWIOFC
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
 Committee for Inland Fisheries and Aquaculture of Africa:
   Wikidata_code: Q134723795
   Org_family: UN and affiliates
-  Legal_type: FAO statutory body 
+  Legal_type: FAO statutory body
   Country: zz
   Name_en: Committee for Inland Fisheries and Aquaculture of Africa
-  Name_fr: 
+  Name_fr: null
   Abbreviation_en: CIFAA
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
 Commission for Inland Fisheries and Aquaculture of Latin America and the Caribbean:
-  Wikidata_code: [No code found.]
+  Wikidata_code: '[No code found.]'
   Org_family: UN and affiliates
   Country: zz
-  Name_en: Commission for Inland Fisheries and Aquaculture of Latin America and the Caribbean
-  Name_fr: 
+  Name_en: Commission for Inland Fisheries and Aquaculture of Latin America and the
+    Caribbean
+  Name_fr: null
   Abbreviation_en: COPESCAALC
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
 European Inland Fisheries and Aquaculture Advisory Commission:
   Wikidata_code: Q114965341
   Org_family: UN and affiliates
   Legal_type: FAO statutory body
   Country: zz
   Name_en: European Inland Fisheries and Aquaculture Advisory Commission
-  Name_fr: 
+  Name_fr: null
   Abbreviation_en: EIFAAC
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
 Indian Ocean Fishery Commission:
   Wikidata_code: Q96186510
   Org_family: UN and affiliates
   Country: zz
   Name_en: Indian Ocean Fishery Commission
-  Name_fr: 
+  Name_fr: null
   Abbreviation_en: IOFC
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
 Western Central Atlantic Fishery Commission:
   Wikidata_code: Q134724817
   Org_family: UN and affiliates
   Country: zz
   Name_en: Western Central Atlantic Fishery Commission
-  Name_fr: 
+  Name_fr: null
   Abbreviation_en: WECAFC
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
 International Trade Centre:
   Wikidata_code: Q1184878
   Org_family: UN and affiliates
@@ -557,10 +597,11 @@ International Trade Centre:
   Name_en: International Trade Centre
   Name_fr: Centre du commerce international
   Abbreviation_en: ITC
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
+  Name_es: Centro de Comercio Internacional
 Organisation for the Prohibition of Chemical Weapons:
   Wikidata_code: Q842490
   Org_family: UN and affiliates
@@ -568,21 +609,25 @@ Organisation for the Prohibition of Chemical Weapons:
   Name_en: Organisation for the Prohibition of Chemical Weapons
   Name_fr: Organisation pour l'interdiction des armes chimiques
   Abbreviation_en: OPCW
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
+  Name_es: Organización para la Prohibición de Armas Químicas
 United Nations Interregional Crime and Justice Research Institute:
   Wikidata_code: Q1427752
   Org_family: UN and affiliates
   Country: zz
   Name_en: United Nations Interregional Crime and Justice Research Institute
-  Name_fr: Institut interrégional de recherche des Nations unies sur la criminalité et la justice
+  Name_fr: Institut interrégional de recherche des Nations unies sur la criminalité
+    et la justice
   Abbreviation_en: UNICRI
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: UN Interregional Crime and Justice Research Institute
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
+  Name_es: Instituto Interregional de las Naciones Unidas para Investigaciones sobre
+    el Crimen y la Justicia
 United Nations Research Institute For Social Development:
   Wikidata_code: Q962612
   Org_family: UN and affiliates
@@ -590,10 +635,11 @@ United Nations Research Institute For Social Development:
   Name_en: United Nations Research Institute For Social Development
   Name_fr: Institut de recherche des Nations unies pour le développement social
   Abbreviation_en: UNRISD
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: UN Research Institute For Social Development
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
-  OpenSanctions_id: [No code found.]
+  OpenSanctions_id: '[No code found.]'
+  Name_es: Instituto de Investigación de las Naciones Unidas para el Desarrollo Social
 United Nations Institute for Disarmament Research:
   Wikidata_code: Q3152150
   Org_family: UN and affiliates
@@ -601,7 +647,7 @@ United Nations Institute for Disarmament Research:
   Name_en: United Nations Institute for Disarmament Research
   Name_fr: Institut des Nations unies pour la recherche sur le désarmement
   Abbreviation_en: UNIDIR
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: UN Institute for Disarmament Research
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
 United Nations Human Settlements Programme:
@@ -611,9 +657,10 @@ United Nations Human Settlements Programme:
   Name_en: United Nations Human Settlements Programme
   Name_fr: Programme des Nations unies pour les établissements humains
   Abbreviation_en: UN-HABITAT
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: UN-HABITAT
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
+  Name_es: Programa de Naciones Unidas para los Asentamientos Humanos
 United Nations Human Rights Council:
   Wikidata_code: Q205650
   Org_family: UN and affiliates
@@ -621,17 +668,18 @@ United Nations Human Rights Council:
   Name_en: United Nations Human Rights Council
   Name_fr: Conseil des droits de l'Homme des Nations unies
   Abbreviation_en: UNHRC
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: Human Rights Council
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
+  Name_es: Consejo de Derechos Humanos de las Naciones Unidas
 Joint Inspection Unit of the United Nations System:
   Wikidata_code: Q1500903
   Org_family: UN and affiliates
   Country: zz
   Name_en: Joint Inspection Unit of the United Nations System
-  Name_fr: 
+  Name_fr: null
   Abbreviation_en: JIU
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: Joint Inspection Unit
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
 United Nations Volunteers:
@@ -641,18 +689,19 @@ United Nations Volunteers:
   Name_en: United Nations Volunteers
   Name_fr: Volontaires des Nations unies
   Abbreviation_en: UNV
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: UN Volunteers
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
+  Name_es: Voluntarios de las Naciones Unidas
 United Nations Disarmament Commission:
   Wikidata_code: Q4229685
   Org_family: UN and affiliates
   Country: zz
   Name_en: United Nations Disarmament Commission
-  Name_fr: 
+  Name_fr: null
   Abbreviation_en: UNDC
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
 UN Women:
   Wikidata_code: Q641576
@@ -660,10 +709,11 @@ UN Women:
   Country: zz
   Name_en: UN Women
   Name_fr: ONU Femmes
-  Abbreviation_en: 
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_en: null
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
+  Name_es: ONU Mujeres
 United Nations Commission on International Trade Law:
   Wikidata_code: Q698232
   Org_family: UN and affiliates
@@ -671,19 +721,24 @@ United Nations Commission on International Trade Law:
   Name_en: United Nations Commission on International Trade Law
   Name_fr: Commission des Nations unies pour le droit commercial international
   Abbreviation_en: UNCITRAL
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://legal.un.org/ola/div_itld.aspx
+  Name_es: Comisión de las Naciones Unidas para el Derecho Mercantil Internacional
 United Nations Relief and Works Agency for Palestine Refugees in the Near East:
   Wikidata_code: Q846656
   Org_family: UN and affiliates
   Country: zz
-  Name_en: United Nations Relief and Works Agency for Palestine Refugees in the Near East
-  Name_fr: Office de secours et de travaux des Nations unies pour les réfugiés de Palestine dans le Proche-Orient
+  Name_en: United Nations Relief and Works Agency for Palestine Refugees in the Near
+    East
+  Name_fr: Office de secours et de travaux des Nations unies pour les réfugiés de
+    Palestine dans le Proche-Orient
   Abbreviation_en: UNRWA
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
+  Name_es: Agencia de Naciones Unidas para los Refugiados de Palestina en Oriente
+    Próximo
 World Trade Organization:
   Wikidata_code: Q7825
   Org_family: UN and affiliates
@@ -691,9 +746,10 @@ World Trade Organization:
   Name_en: World Trade Organization
   Name_fr: Organisation mondiale du commerce
   Abbreviation_en: WTO
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
+  Name_es: Organización Mundial del Comercio
 United Nations Institute for Training and Research:
   Wikidata_code: Q131878
   Org_family: UN and affiliates
@@ -701,29 +757,33 @@ United Nations Institute for Training and Research:
   Name_en: United Nations Institute for Training and Research
   Name_fr: Institut des Nations unies pour la formation et la recherche
   Abbreviation_en: UNITAR
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
+  Name_es: Instituto de las Naciones Unidas para la Formación y la Investigación
 United Nations System Staff College:
   Wikidata_code: Q16959083
   Org_family: UN and affiliates
   Country: zz
   Name_en: United Nations System Staff College
-  Name_fr: 
+  Name_fr: null
   Abbreviation_en: UNSSC
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: UN System Staff College
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
+  Name_es: Escuela Superior del Personal del Sistema de las Naciones Unidas
 International Residual Mechanism for Criminal Tribunals:
   Wikidata_code: Q1667632
   Org_family: UN and affiliates
   Country: zz
   Name_en: International Residual Mechanism for Criminal Tribunals
-  Name_fr: Mécanisme international appelé à exercer les fonctions résiduelles des Tribunaux pénaux
+  Name_fr: Mécanisme international appelé à exercer les fonctions résiduelles des
+    Tribunaux pénaux
   Abbreviation_en: IRMCT
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
+  Name_es: Mecanismo Residual Internacional de los Tribunales Penales
 United Nations Capital Development Fund:
   Wikidata_code: Q356037
   Org_family: UN and affiliates
@@ -731,9 +791,10 @@ United Nations Capital Development Fund:
   Name_en: United Nations Capital Development Fund
   Name_fr: Fonds d'équipement des Nations unies
   Abbreviation_en: UNCDF
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: UN Capital Development Fund
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
+  Name_es: Fondo de las Naciones Unidas para el Desarrollo del Capital
 United Nations University:
   Wikidata_code: Q492442
   Org_family: UN and affiliates
@@ -741,9 +802,10 @@ United Nations University:
   Name_en: United Nations University
   Name_fr: Université des Nations unies
   Abbreviation_en: UNU
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: UN University
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
+  Name_es: Universidad de Naciones Unidas
 Economic and Social Commission for Western Asia:
   Wikidata_code: Q1355485
   Org_family: UN and affiliates
@@ -751,7 +813,7 @@ Economic and Social Commission for Western Asia:
   Name_en: Economic and Social Commission for Western Asia
   Name_fr: Commission économique et sociale pour l'Asie occidentale
   Abbreviation_en: ESCWA
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: United Nations Economic and Social Commission for Western Asia
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
 Economic Commission for Africa:
@@ -761,9 +823,10 @@ Economic Commission for Africa:
   Name_en: Economic Commission for Africa
   Name_fr: Commission économique pour l'Afrique
   Abbreviation_en: ECA
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: United Nations Economic Commission for Africa
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
+  Name_es: Comisión Económica para África
 Economic Commission for Europe:
   Wikidata_code: Q659012
   Org_family: UN and affiliates
@@ -771,9 +834,10 @@ Economic Commission for Europe:
   Name_en: Economic Commission for Europe
   Name_fr: Commission économique pour l'Europe
   Abbreviation_en: ECE
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: United Nations Economic Commission for Europe
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
+  Name_es: Comisión Económica de las Naciones Unidas para Europa
 Economic Commission for Latin America and the Caribbean:
   Wikidata_code: Q32874
   Org_family: UN and affiliates
@@ -781,9 +845,10 @@ Economic Commission for Latin America and the Caribbean:
   Name_en: Economic Commission for Latin America and the Caribbean
   Name_fr: Commission économique pour l'Amérique latine et les Caraïbes
   Abbreviation_en: ECLAC
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: United Nations Economic Commission for Latin America and the Caribbean
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
+  Name_es: Comisión Económica para América Latina y el Caribe
 Economic and Social Commission for Asia and the Pacific:
   Wikidata_code: Q1142901
   Org_family: UN and affiliates
@@ -791,7 +856,7 @@ Economic and Social Commission for Asia and the Pacific:
   Name_en: Economic and Social Commission for Asia and the Pacific
   Name_fr: Commission économique et sociale pour l'Asie et le Pacifique
   Abbreviation_en: ESCAP
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: United Nations Economic and Social Commission for Asia and the Pacific
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
 Statistical Commission:
@@ -800,8 +865,8 @@ Statistical Commission:
   Country: zz
   Name_en: Statistical Commission
   Name_fr: Commission de statistique de l’ONU
-  Abbreviation_en:
-  Abbreviation_fr: 
+  Abbreviation_en: null
+  Abbreviation_fr: null
   Name_other_en: United Nations Statistical Commission
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
 Commission on Population and Development:
@@ -811,7 +876,7 @@ Commission on Population and Development:
   Name_en: Commission on Population and Development
   Name_fr: Commission de la population et du développement
   Abbreviation_en: CPD
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: United Nations Commission on Population and Development
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
 Commission for Social Development:
@@ -819,9 +884,9 @@ Commission for Social Development:
   Org_family: UN and affiliates
   Country: zz
   Name_en: Commission for Social Development
-  Name_fr: 
+  Name_fr: null
   Abbreviation_en: CSocD
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: United Nations Commission for Social Development
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
 Commission on the Status of Women:
@@ -831,9 +896,10 @@ Commission on the Status of Women:
   Name_en: Commission on the Status of Women
   Name_fr: Commission de la condition de la femme
   Abbreviation_en: CSW
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: United Nations Commission on the Status of Women
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
+  Name_es: Comisión de la Condición Jurídica y Social de la Mujer
 Commission on Narcotic Drugs:
   Wikidata_code: Q469618
   Org_family: UN and affiliates
@@ -841,17 +907,18 @@ Commission on Narcotic Drugs:
   Name_en: Commission on Narcotic Drugs
   Name_fr: Commission des stupéfiants des Nations unies
   Abbreviation_en: CND
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: United Nations Commission on Narcotic Drugs
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
+  Name_es: Comisión de Estupefacientes de Naciones Unidas
 Commission on Crime Prevention and Criminal Justice:
   Wikidata_code: Q104842946
   Org_family: UN and affiliates
   Country: zz
   Name_en: Commission on Crime Prevention and Criminal Justice
-  Name_fr: 
+  Name_fr: null
   Abbreviation_en: CCPCJ
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: United Nations Commission on Crime Prevention and Criminal Justice
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
 Commission on Science and Technology for Development:
@@ -859,9 +926,9 @@ Commission on Science and Technology for Development:
   Org_family: UN and affiliates
   Country: zz
   Name_en: Commission on Science and Technology for Development
-  Name_fr:
+  Name_fr: null
   Abbreviation_en: CSTD
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: United Nations Commission on Science and Technology for Development
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
 United Nations Forum on Forests:
@@ -871,9 +938,10 @@ United Nations Forum on Forests:
   Name_en: United Nations Forum on Forests
   Name_fr: Forum des Nations unies sur les forêts
   Abbreviation_en: UNFF
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: UN Forum on Forests
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
+  Name_es: Foro de las Naciones Unidas sobre los bosques
 High-Level Political Forum on Sustainable Development:
   Wikidata_code: Q17078095
   Org_family: UN and affiliates
@@ -881,9 +949,10 @@ High-Level Political Forum on Sustainable Development:
   Name_en: High-Level Political Forum on Sustainable Development
   Name_fr: Forum politique de haut niveau pour le développement durable
   Abbreviation_en: HLPF
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
+  Name_es: Foro Político de Alto Nivel sobre Desarrollo Sostenible
 United Nations Peacebuilding Commission:
   Wikidata_code: Q1534084
   Org_family: UN and affiliates
@@ -891,9 +960,10 @@ United Nations Peacebuilding Commission:
   Name_en: United Nations Peacebuilding Commission
   Name_fr: Commission de consolidation de la paix
   Abbreviation_en: PBC
-  Abbreviation_fr: 
+  Abbreviation_fr: null
   Name_other_en: UN Peacebuilding Commission
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
+  Name_es: Comisión de Consolidación de la Paz
 International Narcotics Control Board:
   Wikidata_code: Q667217
   Org_family: UN and affiliates
@@ -901,9 +971,10 @@ International Narcotics Control Board:
   Name_en: International Narcotics Control Board
   Name_fr: Organe international de contrôle des stupéfiants
   Abbreviation_en: INCB
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://ecosoc.un.org/en/about-us/ecosoc-subsidiary-bodies
+  Name_es: Junta Internacional de Fiscalización de Estupefacientes
 UNAIDS Programme Coordinating Board:
   Wikidata_code: Q588982
   Org_family: UN and affiliates
@@ -911,9 +982,10 @@ UNAIDS Programme Coordinating Board:
   Name_en: UNAIDS Programme Coordinating Board
   Name_fr: Conseil de coordination du programme de l'ONUSIDA
   Abbreviation_en: PCB
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://ecosoc.un.org/en/about-us/ecosoc-subsidiary-bodies
+  Name_es: Programa Conjunto de las Naciones Unidas sobre el VIH/sida
 United Nations Joint Staff Pension Fund:
   Wikidata_code: Q28455859
   Org_family: UN and affiliates
@@ -921,83 +993,85 @@ United Nations Joint Staff Pension Fund:
   Name_en: United Nations Joint Staff Pension Fund
   Name_fr: Caisse commune des pensions du personnel des Nations Unies
   Abbreviation_en: UNJSPF
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://www.un.org/internaljustice/oaj/en/united-nations-joint-staff-pension-fund-unjspf
+  Name_es: Caja Común de Pensiones del Personal de las Naciones Unidas
 Indian Ocean Tuna Commission:
   Wikidata_code: Q12613354
   Org_family: UN and affiliates
-  Legal_type: FAO statutory body 
+  Legal_type: FAO statutory body
   Country: zz
   Name_en: Indian Ocean Tuna Commission
   Name_fr: Commission des thons de l'océan Indien
   Abbreviation_en: IOTC
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/
 Asia-Pacific Fishery Commission:
   Wikidata_code: Q4806252
   Org_family: UN and affiliates
-  Legal_type: FAO statutory body 
+  Legal_type: FAO statutory body
   Country: zz
   Name_en: Asia-Pacific Fishery Commission
-  Name_fr:
+  Name_fr: null
   Abbreviation_en: APFIC
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/
 Western and Central Pacific Fisheries Commission:
   Wikidata_code: Q2565027
   Org_family: UN and affiliates
-  Legal_type: FAO statutory body 
+  Legal_type: FAO statutory body
   Country: zz
   Name_en: Western and Central Pacific Fisheries Commission
-  Name_fr: 
+  Name_fr: null
   Abbreviation_en: WCPFC
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/
+  Name_es: Comisión de Pesca del Pacífico Occidental y Central
 General Fisheries Commission for the Mediterranean:
   Wikidata_code: Q134724326
   Org_family: UN and affiliates
-  Legal_type: FAO statutory body 
+  Legal_type: FAO statutory body
   Country: zz
   Name_en: General Fisheries Commission for the Mediterranean
-  Name_fr: 
+  Name_fr: null
   Abbreviation_en: GFCM
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/
 Central Asian and Caucasus Regional Fisheries and Aquaculture Commission:
   Wikidata_code: Q134723600
   Org_family: UN and affiliates
-  Legal_type: FAO statutory body 
+  Legal_type: FAO statutory body
   Country: zz
   Name_en: Central Asian and Caucasus Regional Fisheries and Aquaculture Commission
-  Name_fr: 
+  Name_fr: null
   Abbreviation_en: CACFish
-  Abbreviation_fr: 
-  Name_other_en: 
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/
 Coordinating Working Party on Fishery Statistics:
   Wikidata_code: Q5168022
   Org_family: UN and affiliates
-  Legal_type: FAO statutory body 
+  Legal_type: FAO statutory body
   Country: zz
   Name_en: Coordinating Working Party on Fishery Statistics
-  Name_fr: 
-  Abbreviation_en:
-  Abbreviation_fr: 
-  Name_other_en: 
+  Name_fr: null
+  Abbreviation_en: null
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/
 Regional Commission for Fisheries:
   Wikidata_code: Q134724812
   Org_family: UN and affiliates
-  Legal_type: FAO statutory body 
+  Legal_type: FAO statutory body
   Country: zz
   Name_en: Regional Commission for Fisheries
-  Name_fr: 
-  Abbreviation_en:
-  Abbreviation_fr: 
-  Name_other_en: 
+  Name_fr: null
+  Abbreviation_en: null
+  Abbreviation_fr: null
+  Name_other_en: null
   Source: https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/
