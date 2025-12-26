@@ -399,6 +399,7 @@ European Training Foundation:
   Abbreviation_en: ETF
   Type: EU decentralised agency
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: [No code found.]
 European Union Agency for Asylum:
   Wikidata_code: Q4002697
   Entity_type: International organisation
@@ -409,6 +410,7 @@ European Union Agency for Asylum:
   Name_other_en: EU Agency for Asylum
   Type: EU decentralised agency
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: [No code found.]
 European Union Agency for Cybersecurity:
   Wikidata_code: Q1377194
   Entity_type: International organisation
@@ -419,6 +421,7 @@ European Union Agency for Cybersecurity:
   Name_other_en: EU Agency for Cybersecurity
   Type: EU decentralised agency
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: [No code found.]
 European Union Agency for Fundamental Rights:
   Wikidata_code: Q48790
   Entity_type: International organisation
