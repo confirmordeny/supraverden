@@ -236,6 +236,7 @@ United Nations World Food Programme:
   Abbreviation_fr: 
   Name_other_en: UN World Food Programme
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
+  OpenSanctions_id: [No code found.]
 World Bank:
   Wikidata_code: Q7164
   Org_family: UN and affiliates
@@ -247,6 +248,7 @@ World Bank:
   Name_other_en: 
   Type: UN specialized agency
   Source: https://www.un.org/en/about-us/specialized-agencies
+  OpenSanctions_id: [No code found.]
 World Health Organization:
   Wikidata_code: Q7817
   Org_family: UN and affiliates
@@ -258,6 +260,7 @@ World Health Organization:
   Name_other_en: 
   Type: UN specialized agency
   Source: https://www.un.org/en/about-us/specialized-agencies
+  OpenSanctions_id: [No code found.]
 World Intellectual Property Organization:
   Wikidata_code: Q177773
   Org_family: UN and affiliates
@@ -269,6 +272,7 @@ World Intellectual Property Organization:
   Name_other_en: 
   Type: UN specialized agency
   Source: https://www.un.org/en/about-us/specialized-agencies
+  OpenSanctions_id: kprusi-a4603b8123e3b32448ddc8c4da6d586b0aeebdb2
 International Maritime Organization:
   Wikidata_code: Q201054
   Org_family: UN and affiliates
@@ -280,6 +284,7 @@ International Maritime Organization:
   Name_other_en: International Maritime Organisation
   Type: UN specialized agency
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
+  OpenSanctions_id: [No code found.]
 United Nations Educational, Scientific and Cultural Organization:
   Wikidata_code: Q7809
   Org_family: UN and affiliates
@@ -291,6 +296,7 @@ United Nations Educational, Scientific and Cultural Organization:
   Name_other_en: 
   Type: UN specialized agency
   Source: https://www.un.org/en/about-us/specialized-agencies
+  OpenSanctions_id: [No code found.]
 International Labour Organization:
   Wikidata_code: Q54129
   Org_family: UN and affiliates
