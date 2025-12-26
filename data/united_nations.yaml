@@ -308,6 +308,7 @@ International Labour Organization:
   Name_other_en: 
   Type: UN specialized agency
   Source: https://www.un.org/en/about-us/specialized-agencies
+  OpenSanctions_id: [No code found.]
 Universal Postal Union:
   Wikidata_code: Q17495
   Org_family: UN and affiliates
@@ -319,6 +320,7 @@ Universal Postal Union:
   Name_other_en: 
   Type: UN specialized agency
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
+  OpenSanctions_id: [No code found.]
 International Monetary Fund:
   Wikidata_code: Q7804
   Org_family: UN and affiliates
@@ -330,6 +332,7 @@ International Monetary Fund:
   Name_other_en: 
   Type: UN specialized agency
   Source: https://www.un.org/en/about-us/specialized-agencies
+  OpenSanctions_id: NK-fpJvxsfBQQdc49ArT2txiQ
 International Atomic Energy Agency:
   Wikidata_code: Q41984
   Org_family: UN and affiliates
@@ -340,6 +343,7 @@ International Atomic Energy Agency:
   Abbreviation_fr: 
   Name_other_en: 
   Source: https://www.un.org/en/about-us/specialized-agencies
+  OpenSanctions_id: kprusi-7c1673a72776402e41981875790d4939498ad14a
 World Meteorological Organization:
   Wikidata_code: Q170424
   Org_family: UN and affiliates
