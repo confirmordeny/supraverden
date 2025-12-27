@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 547 international organisations in the table.
+There are currently 548 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -75,6 +75,7 @@ There are currently 547 international organisations in the table.
 | Caribbean Agricultural Research and Development Institute | [Q25339749](https://www.wikidata.org/wiki/Q25339749) | Caribbean Community entities | [Treaty](https://faolex.fao.org/docs/pdf/jam70785.pdf) |
 | Caribbean Centre for Development Administration | [Q117193380](https://www.wikidata.org/wiki/Q117193380) | Caribbean Community entities | [Treaty](https://www.caricad.net/wp-content/themes/caricad/includes/pdf/Treaty-Establishing-CARICAD.pdf) |
 | Caribbean Community | [Q205995](https://www.wikidata.org/wiki/Q205995) | Caribbean Community entities | [Treaty](https://researchbriefings.files.parliament.uk/documents/CBP-7376/CBP-7376.pdf) |
+| Caribbean Community Climate Change Centre | N/A | Caribbean Community entities | [Treaty](https://caricom.org/wp-content/uploads/Agreement-Establishing-The-Caribbean-Community-Climate-Change-Centre-CCCCC.pdf) |
 | Caribbean Community Implementation Agency for Crime and Security | [Q117197891](https://www.wikidata.org/wiki/Q117197891) | Caribbean Community entities | [Treaty](http://www.commonlii.org/caribbean/other/treaties/CaricomTSer/2006/9.pdf) |
 | Caribbean Council of Legal Education | [Q117210367](https://www.wikidata.org/wiki/Q117210367) | Caribbean Community entities | [Treaty](https://drupal.caricom.org/sites/default/files/2021-06/Agreement-Establishing-The-Council-of-Legal-Education.pdf) |
 | Caribbean Court of Justice | [Q775029](https://www.wikidata.org/wiki/Q775029) | Caribbean Community entities | [Treaty](https://ccj.org/wp-content/uploads/2021/02/ccj_agreement.pdf) |
