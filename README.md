@@ -27,3 +27,6 @@ We gratefully acknowledge data made publicly available by a number of organisati
 Data taken from UK Central Government websites is reproduced under the [Open Government Licence v3](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 
 Parts of the data within this repo include Q codes were sourced from [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page), which is available under the CC0 Public Domain Dedication license. 
+
+--------------------------------------------------------------------------------------
+Created by [confirmordeny](https://github.com/confirmordeny)
