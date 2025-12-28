@@ -19,7 +19,7 @@ of the organisations listed that meet the repo's [criteria for inclusion](CRITER
 
 ## See also
 * [Criteria for inclusion](CRITERIA_FOR_INCLUSION.md)
-* [Read me](READ_ME.md)
+* [Read me](../READ_ME.md)
 
 
 
