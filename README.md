@@ -6,6 +6,7 @@ This repo is in the very early stages.
 ## Documentation
 
 * [Criteria for inclusion](docs/CRITERIA_FOR_INCLUSION.md)
+* [Research](docs/RESEARCH.md)
 
 ## Contributing
 
