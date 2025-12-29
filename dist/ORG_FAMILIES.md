@@ -20,7 +20,7 @@
 * EFTA entities (3 entities)
 * EU institutions and bodies (77 entities)
 * Eurasian Economic Union entities (3 entities)
-* Mercosur entities (2 entities)
+* Mercosur entities (3 entities)
 * none (244 entities)
 * Nordic Council entities (5 entities)
 * North South bodies (9 entities)
