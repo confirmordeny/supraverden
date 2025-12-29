@@ -154,6 +154,17 @@ Mercosur Parliament:
   Name_other_en: null
   Treaty_url: https://www.parlamentomercosur.org/innovaportal/file/7308/1/protocolo_es.pdf
   Name_fr: Parlement du Mercosur
+Permanent Review Tribunal of Mercosur:
+  Wikidata_code: Q2452542
+  Entity_type: International organisation
+  Org_family: Mercosur entities
+  Country: zz
+  Name_en: Permanent Review Tribunal of Mercosur
+  Name_es:
+  Name_other_en:
+  Treaty_url:
+  Source: https://www.europarl.europa.eu/RegData/etudes/IDAN/2022/653652/EXPO_IDA(2022)653652_EN.pdf
+  Name_fr:
 African Union:
   Wikidata_code: Q7159
   Entity_type: International organisation
