@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 550 international organisations in the table.
+There are currently 551 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -9,6 +9,7 @@ There are currently 550 international organisations in the table.
 | Africa Finance Corporation | [Q23578910](https://www.wikidata.org/wiki/Q23578910) | none | [Treaty](http://www.parliament.go.ke/sites/default/files/2025-02/Agreement%20for%20the%20Establishment%20of%20the%20Africa%20Finance%20Corporation%20and%20Explanantory%20Memorandum%20from%20the%20Foreign%20%26%20Diaspora%20Affairs.pdf) |
 | Africa Rice Center | [Q383924](https://www.wikidata.org/wiki/Q383924) | CGIAR entities | [Treaty](https://faolex.fao.org/docs/pdf/mul215505.pdf) |
 | African and Malagasy Council for Higher Education | [Q2993667](https://www.wikidata.org/wiki/Q2993667) | none | [Treaty](https://scienceetbiencommun.pressbooks.pub/cames/back-matter/annexe-iv-actualisation-des-textes-juridiques-du-cames-en-2000/) |
+| African Civil Aviation Commission | [Q88402135](https://www.wikidata.org/wiki/Q88402135) | African Union entities | [Treaty](https://web.archive.org/web/20250219222517/https://au.int/sites/default/files/treaties/37304-treaty-0040_-_constitution_for_the_african_civil_aviation_commission_-_afcac_revised_en.pdf) |
 | African Civil Service Observatory | N/A | none | [Treaty](https://www.ofpa.net/wp-content/uploads/2017/10/nvostatuts.pdf) |
 | African Court of Justice and Human Rights | [Q24963791](https://www.wikidata.org/wiki/Q24963791) | African Union entities | [Treaty](https://www.peaceau.org/uploads/protocol-statute-african-court-justice-and-human-rights-en.pdf) |
 | African Development Bank | [Q340195](https://www.wikidata.org/wiki/Q340195) | African Union entities | [Treaty](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Legal-Documents/Agreement_establishing_the_African_development_bank_-_2016_edition.pdf) |
@@ -438,7 +439,7 @@ There are currently 550 international organisations in the table.
 | Organisation of African, Caribbean and Pacific States | [Q294278](https://www.wikidata.org/wiki/Q294278) | none | [Treaty](https://www.jus.uio.no/english/services/library/treaties/14/14-03/acp.html) |
 | Organisation of Eastern Caribbean States | [Q392770](https://www.wikidata.org/wiki/Q392770) | Caribbean Community entities | [Treaty](https://caricom.org/documents/legaldocuments/9240-treaty-oecs.htm) |
 | Organisation of Islamic Cooperation | [Q47543](https://www.wikidata.org/wiki/Q47543) | none | [Treaty](https://www.oic-oci.org/upload/documents/charter/en/oic_charter_2018_en.pdf) |
-| Organization for Security and Co-operation in Europe | [Q81299](https://www.wikidata.org/wiki/Q81299) | OSCE entities | [Treaty]('[N/A OSCE]') |
+| Organization for Security and Co-operation in Europe | [Q81299](https://www.wikidata.org/wiki/Q81299) | OSCE entities | N/A |
 | Organization for the Prohibition of Chemical Weapons | [Q842490](https://www.wikidata.org/wiki/Q842490) | none | [Treaty](https://www.opcw.org/sites/default/files/documents/CWC/CWC_en.pdf) |
 | Organization of American States | [Q123759](https://www.wikidata.org/wiki/Q123759) | OAS institutions and bodies | [www.oas.org](https://www.oas.org/en/sla/dil/docs/inter_american_treaties_A-41_charter_OAS.pdf) |
 | Organization of Arab Petroleum Exporting Countries | [Q1052077](https://www.wikidata.org/wiki/Q1052077) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%20681/volume-681-I-9707-English.pdf) |
