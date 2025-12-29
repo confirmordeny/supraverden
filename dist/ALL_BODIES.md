@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 548 international organisations in the table.
+There are currently 549 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -18,6 +18,7 @@ There are currently 548 international organisations in the table.
 | African Groundnut Council | [Q4689777](https://www.wikidata.org/wiki/Q4689777) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%20846/volume-846-I-12123-English.pdf) |
 | African Intellectual Property organisation | [Q1476775](https://www.wikidata.org/wiki/Q1476775) | none | [Treaty](https://www.wipo.int/wipolex/en/text/582620) |
 | African Regional Intellectual Property Organization | [Q384434](https://www.wikidata.org/wiki/Q384434) | none | [Treaty](https://www.wipo.int/wipolex/en/text/588142) |
+| African Risk Capacity Agency | N/A | African Union | [Treaty](https://web.archive.org/web/20250220014432/https://au.int/sites/default/files/treaties/7800-treaty-0043_-_agreement_for_the_establishment_of_the_african_risk_capacity_arc_agency_e.pdf) |
 | African Telecommunications Union | [Q4689935](https://www.wikidata.org/wiki/Q4689935) | none | [Treaty](https://atuuat.africa/wp-content/uploads/2019/11/ATU-Constitution-and-Convention-Cape-Town-1999-Rev.-Harare-2014.pdf) |
 | African Trade and Investment Development Insurance | [Q60742417](https://www.wikidata.org/wiki/Q60742417) | Common Market for Eastern and Southern Africa entities | [Treaty](https://www.atidi.africa/wp-content/uploads/2023/10/ATI-Treaty-2022-001-Certified-091023-Stamped.pdf) |
 | African Union | [Q7159](https://www.wikidata.org/wiki/Q7159) | African Union entities | [Treaty](https://au.int/sites/default/files/treaties/7758-treaty-0021_-_CONSTITUTIVE_ACT_OF_THE_AFRICAN_UNION_E.pdf) |
