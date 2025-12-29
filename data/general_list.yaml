@@ -186,6 +186,14 @@ Africa Centres for Disease Control and Prevention:
   Treaty_url: https://web.archive.org/web/20250220005838/https://au.int/sites/default/files/treaties/42517-treaty-EN_Revised_Statute_Africa_CDC.pdf
   OpenSanctions_id: '[No code found.]'
   Name_fr: Centre africain pour la surveillance et la prévention des maladies
+African Civil Aviation Commission:
+  Wikidata_code: Q88402135
+  Entity_type: International organisation
+  Org_family: African Union entities
+  Country: zz
+  Name_en: African Civil Aviation Commission
+  Abbreviation_en: AFCAC
+  Treaty_url: https://web.archive.org/web/20250219222517/https://au.int/sites/default/files/treaties/37304-treaty-0040_-_constitution_for_the_african_civil_aviation_commission_-_afcac_revised_en.pdf
 Arctic Council:
   Wikidata_code: Q674182
   Entity_type: International organisation
