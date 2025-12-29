@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 549 international organisations in the table.
+There are currently 550 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -462,6 +462,7 @@ There are currently 549 international organisations in the table.
 | Permanent Inter-State Committee for Drought Control in the Sahel | N/A | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201985/v1985.pdf) |
 | Permanent Joint Technical Commission for Nile Waters | N/A | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%20453/volume-453-I-6519-English.pdf) |
 | Permanent Okavango River Basin Water Commission | [Q96097566](https://www.wikidata.org/wiki/Q96097566) | none | [Treaty](https://www.iea.ulaval.ca/en/treaty-text/5021) |
+| Permanent Review Tribunal of Mercosur | [Q2452542](https://www.wikidata.org/wiki/Q2452542) | Mercosur entities | [www.europarl.europa.eu](https://www.europarl.europa.eu/RegData/etudes/IDAN/2022/653652/EXPO_IDA(2022)653652_EN.pdf) |
 | Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organization | [Q15211422](https://www.wikidata.org/wiki/Q15211422) | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
 | Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organisation | [Q1480793](https://www.wikidata.org/wiki/Q1480793) | none | [Treaty](https://www.ctbto.org/sites/default/files/2022-10/Resolution_English_3.pdf) |
 | Regional Commission for Fisheries | [Q134724812](https://www.wikidata.org/wiki/Q134724812) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
