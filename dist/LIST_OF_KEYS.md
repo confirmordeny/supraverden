@@ -4,6 +4,8 @@
   * former
     * en
   * fr
+  * other
+    * en
 * Country
 * Entity_type
 * Legal_type
