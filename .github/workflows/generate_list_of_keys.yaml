@@ -8,7 +8,6 @@ on:
       - 'data/arab_league_bodies.yaml'
       - 'data/eu_bodies.yaml'
       - 'data/general_list.yaml'
-      - 'data/north_south_bodies.yaml'
       - 'data/oas_bodies.yaml'
       - 'data/united_nations.yaml'
       
@@ -40,7 +39,6 @@ jobs:
               'data/eu_bodies.yaml',
               'data/general_list.yaml',
               'data/oas_bodies.yaml',
-              'data/north_south_bodies.yaml',
               'data/united_nations.yaml'
           ]
           output_file = 'dist/LIST_OF_KEYS.md'
