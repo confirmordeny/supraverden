@@ -3111,10 +3111,11 @@ ECOWAS Parliament:
   Org_family: ECOWAS entities
   Country: zz
   Name_en: ECOWAS Parliament
-  Name_other_en:
-  Abbreviation_en:
-  Treaty_url: 
+  Name_other_en: null
+  Abbreviation_en: null
+  Treaty_url: null
   Source: https://investmentpolicy.unctad.org/international-investment-agreements/treaty-files/5476/download
+  Name_fr: Parlement de la CEDEAO
 Caribbean Disaster Emergency Management Agency:
   Wikidata_code: Q5039374
   Entity_type: International organisation
@@ -3586,7 +3587,7 @@ North/South Ministerial Council:
   Name_fr: Ministerrådet Nord–Syd
 Coalition for Disaster Resilient Infrastructure:
   Wikidata_code: Q85753142
-  Org_family:
+  Org_family: null
   Country: zz
   Name_en: Coalition for Disaster Resilient Infrastructure
   Source: https://www.mea.gov.in/Portal/LegalTreatiesDoc/022M3846.pdf
