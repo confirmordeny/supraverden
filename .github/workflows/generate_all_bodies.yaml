@@ -44,7 +44,6 @@ jobs:
 
           # Define input and output file paths
           input_files = [
-              'data/arab_league_bodies.yaml',
               'data/eu_bodies.yaml',
               'data/general_list.yaml',
               'data/united_nations.yaml'
