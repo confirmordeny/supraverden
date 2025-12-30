@@ -15,7 +15,7 @@
 * Council of Europe entities (4 entities)
 * East African Community (2 entities)
 * Economic and Monetary Community of Central Africa (3 entities)
-* ECOWAS entities (2 entities)
+* ECOWAS entities (3 entities)
 * EFTA entities (3 entities)
 * EU institutions and bodies (77 entities)
 * Eurasian Economic Union entities (3 entities)
