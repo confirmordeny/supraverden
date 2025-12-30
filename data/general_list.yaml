@@ -3105,6 +3105,16 @@ ECOWAS Court of Justice:
   Abbreviation_en: null
   Treaty_url: null
   Source: https://www.ecowas.int/institutions/community-court-of-justice/
+ECOWAS Parliament:
+  Wikidata_code: Q97374162
+  Entity_type: International organisation
+  Org_family: ECOWAS entities
+  Country: zz
+  Name_en: ECOWAS Parliament
+  Name_other_en:
+  Abbreviation_en:
+  Treaty_url: 
+  Source: https://investmentpolicy.unctad.org/international-investment-agreements/treaty-files/5476/download
 Caribbean Disaster Emergency Management Agency:
   Wikidata_code: Q5039374
   Entity_type: International organisation
