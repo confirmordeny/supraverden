@@ -1,0 +1,213 @@
+# This workflow automates the process of generating a combined Markdown list
+# from all three data files. It runs on every push to the main branch.
+
+name: Generate combined bodies list
+
+on:
+  # Triggers the workflow on push events for the "main" branch
+  push:
+    branches:
+      - main
+    paths:
+      # Run when any of the data files change
+      - 'data/eu_bodies.yaml'
+      - 'data/general_list.yaml'
+      - 'data/united_nations.yaml'
+      
+  # Allows this workflow to run manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      # 1. Checks out repository under $GITHUB_WORKSPACE, so job can access it
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Sets up Python 3.x environment
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      # 3. Runs an inline Python script to generate the alphabetical Markdown list
+      - name: Generate Alphabetical Markdown List
+        run: |
+          python3 - <<'EOF'
+          import os
+          import sys
+          import re
+
+          # --- CONFIGURATION ---
+          # Define input and output file paths
+          input_files = [
+              'data/eu_bodies.yaml',
+              'data/general_list.yaml',
+              'data/united_nations.yaml'
+          ]
+          output_file = 'dist/BODIES_LIST.md'
+
+          # --- PARSING LOGIC ---
+          def parse_file(filepath):
+              '''Parses the custom YAML-like file format.'''
+              if not os.path.exists(filepath):
+                  print(f'Error: Input file not found at {filepath}')
+                  return []
+              
+              organizations = []
+              with open(filepath, 'r', encoding='utf-8') as f:
+                  current_org = None
+                  for line in f:
+                      stripped_line = line.strip()
+                      # Skip comments and empty lines
+                      if not stripped_line or stripped_line.startswith('#'):
+                          continue
+                      
+                      # A new organization is a non-indented line
+                      if not line.startswith(' '):
+                          if current_org:
+                              organizations.append(current_org)
+                          org_name = stripped_line.rstrip(':')
+                          current_org = {'_main_name': org_name}
+                      # A property for the current organization
+                      elif current_org is not None and ':' in stripped_line:
+                          try:
+                              key, value = stripped_line.split(':', 1)
+                              current_org[key.strip()] = value.strip()
+                          except ValueError:
+                              pass # Skip malformed lines
+                  
+                  # Append the last organization in the file
+                  if current_org:
+                      organizations.append(current_org)
+              return organizations
+
+          # --- HELPER: LINK GENERATOR ---
+          def get_source_link(org):
+              treaty_url = org.get('Treaty_url')
+              source = org.get('Source', 'N/A')
+
+              if treaty_url and treaty_url.strip():
+                  return f'[Treaty]({treaty_url.strip()})'
+              elif 'un_system_chart' in source:
+                  return '[UN Chart](https://www.un.org/en/delegate/page/un-system-chart)'
+              elif 'fao.org/unfao/govbodies' in source:
+                  return '[FAO Bodies](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/)'
+              elif source.startswith('http'):
+                  return f'[Source]({source})'
+              return None
+
+          def get_wikidata_link(org):
+              code = org.get('Wikidata_code')
+              if code and code.strip().startswith('Q'):
+                  return f'[Wikidata](https://www.wikidata.org/wiki/{code})'
+              return None
+
+          # --- MARKDOWN GENERATOR ---
+          def generate_alphabetical_list(organizations):
+              lines = []
+              
+              # 1. Sort organizations by English name or Main name
+              sorted_orgs = sorted(
+                  organizations, 
+                  key=lambda x: (x.get('Name_en') or x.get('_main_name') or '').strip().lower()
+              )
+
+              # 2. Group by First Letter
+              groups = {}
+              for org in sorted_orgs:
+                  name = org.get('Name_en') or org.get('_main_name')
+                  if not name: continue
+                  
+                  # Get first character, handle special chars
+                  first_char = name.strip().lstrip('"\'').upper()[0]
+                  if not first_char.isalpha():
+                      first_char = '#'
+                  
+                  if first_char not in groups:
+                      groups[first_char] = []
+                  groups[first_char].append(org)
+
+              sorted_keys = sorted(groups.keys())
+
+              # 3. Create Top Navigation (A B C...)
+              lines.append('<div id="top"></div>\n') # Invisible anchor for Top
+              nav_links = []
+              for letter in sorted_keys:
+                  # Markdown anchor links usually lowercase the ID
+                  nav_links.append(f'[{letter}](#{letter.lower()})')
+              
+              lines.append(' | '.join(nav_links))
+              lines.append('\n---\n')
+
+              # 4. Build List Body
+              for letter in sorted_keys:
+                  # Section Header with ID
+                  lines.append(f'## {letter}\n')
+                  
+                  for org in groups[letter]:
+                      name = org.get('Name_en') or org.get('_main_name')
+                      family = org.get('Org_family')
+                      
+                      # Format: - **Name** *Family* (Links)
+                      entry = f'- **{name}**'
+                      
+                      extras = []
+                      if family and family != 'N/A':
+                          extras.append(f'*{family}*')
+                      
+                      # Add Links
+                      wd_link = get_wikidata_link(org)
+                      src_link = get_source_link(org)
+                      
+                      links_text = []
+                      if wd_link: links_text.append(wd_link)
+                      if src_link: links_text.append(src_link)
+                      
+                      if links_text:
+                          extras.append(f"({' | '.join(links_text)})")
+                      
+                      if extras:
+                          entry += f" {' '.join(extras)}"
+                      
+                      lines.append(entry)
+                  
+                  # Back to Top Link after every section
+                  lines.append('\n[↑ Back to Top](#top)\n')
+
+              return '\n'.join(lines)
+
+          # --- MAIN EXECUTION ---
+          all_organizations = []
+          print("Starting data processing...")
+          
+          for input_file in input_files:
+              print(f"Reading {input_file}...")
+              data = parse_file(input_file)
+              all_organizations.extend(data)
+
+          print(f"Total organizations found: {len(all_organizations)}")
+          
+          md_content = generate_alphabetical_list(all_organizations)
+
+          # Ensure the output directory exists
+          os.makedirs(os.path.dirname(output_file), exist_ok=True)
+          
+          with open(output_file, 'w', encoding='utf-8') as f:
+              f.write('# Alphabetical List of International Bodies\n\n')
+              f.write(md_content)
+              
+          print(f"Successfully wrote alphabetical list to '{output_file}'")
+          EOF
+
+      # 4. Commits the generated file back to the repository if there are any changes
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: Auto-update alphabetical bodies list"
+          # NOTE: Matches the output_file defined in the python script above
+          file_pattern: "dist/BODIES_LIST.md"
