@@ -1,4 +1,4 @@
-# Alphabetical List of International Bodies
+# Alphabetical list of names of international organisations in English
 
 <div id="top"></div>
 
