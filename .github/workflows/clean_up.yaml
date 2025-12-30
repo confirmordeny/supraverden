@@ -15,5 +15,5 @@ jobs:
         with:
           token: ${{ github.token }}
           repository: ${{ github.repository }}
-          retain_days: 14 # Deletes everything older than 14 days
+          retain_days: 5 # Deletes everything older than 5 days
           keep_minimum_runs: 0 # Be careful, this allows deleting ALL old runs
