@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 551 international organisations in the table.
+There are currently 550 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -379,7 +379,6 @@ There are currently 551 international organisations in the table.
 | InterTradeIreland | [Q13157417](https://www.wikidata.org/wiki/Q13157417) | North South bodies | [www.northsouthministerialcouncil.org](https://www.northsouthministerialcouncil.org/north-south-implementation-bodies) |
 | Inter‐American Children’s Institute | N/A | OAS institutions and bodies | [iin.oea.org](https://iin.oea.org/pdf-iin/Acta-fundacional-del-IIN.pdf) |
 | Inter‐American Commission of Women | [Q5779117](https://www.wikidata.org/wiki/Q5779117) | OAS institutions and bodies | [www.oas.org](https://www.oas.org/xxxivga/english/reference_docs/Estatuto_CIM.pdf) |
-| Inter‐American Court on Human Rights | [Q1547804](https://www.wikidata.org/wiki/Q1547804) | OAS institutions and bodies | [web.archive.org](https://web.archive.org/web/20250928032120/https://www.oas.org/dil/treaties_b-32_american_convention_on_human_rights.pdf) |
 | Inter‐American Institute for Cooperation on Agriculture | [Q3152323](https://www.wikidata.org/wiki/Q3152323) | OAS institutions and bodies | [www.oas.org](https://www.oas.org/en/sla/dil/inter_american_treaties_C-17_Convention_Inter-American_Institute_Cooperation_Agriculture.asp) |
 | Iran-United States Claims Tribunal | [Q501576](https://www.wikidata.org/wiki/Q501576) | none | [Treaty](https://iusct.com/foundingdocuments-2/#1691403316129-a7533aea-5fc8) |
 | Islamic Development Bank | [Q41230](https://www.wikidata.org/wiki/Q41230) | Organisation of Islamic Cooperation | [Treaty](https://www.isdb.org/sites/default/files/media/documents/2023-09/IsDB%20Articles%20of%20Agreement.pdf) |
