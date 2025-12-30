@@ -35,7 +35,6 @@ jobs:
           # List of files to process relative to repo root
           TARGET_FILES = [
               'data/general_list.yaml',
-              'data/arab_league_bodies.yaml',
               'data/eu_bodies.yaml',
               'data/united_nations.yaml'
           ]
