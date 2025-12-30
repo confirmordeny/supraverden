@@ -202,7 +202,6 @@ Inter-American Court of Human Rights:
   Name_fr: Cour interaméricaine des droits de l'homme
   Name_es: Corte Interamericana de Derechos Humanos
   Type: OAS court
-  OpenSanctions_id: '[No code found.]'
 Inter-American Commission on Human Rights:
   Wikidata_code: Q1589444
   Entity_type: International organisation
@@ -233,7 +232,7 @@ Organization for Security and Co-operation in Europe:
   Country: zz
   Name_en: Organization for Security and Co-operation in Europe
   Abbreviation_en: OSCE
-  Treaty_url:
+  Treaty_url: null
   Name_fr: Organisation pour la sécurité et la coopération en Europe
   Name_es: Organización para la Seguridad y la Cooperación en Europa
 North Atlantic Treaty Organisation:
@@ -308,11 +307,11 @@ Permanent Review Tribunal of Mercosur:
   Org_family: Mercosur entities
   Country: zz
   Name_en: Permanent Review Tribunal of Mercosur
-  Name_es:
-  Name_other_en:
-  Treaty_url:
+  Name_es: null
+  Name_other_en: null
+  Treaty_url: null
   Source: https://www.europarl.europa.eu/RegData/etudes/IDAN/2022/653652/EXPO_IDA(2022)653652_EN.pdf
-  Name_fr:
+  Name_fr: null
 African Union:
   Wikidata_code: Q7159
   Entity_type: International organisation
@@ -342,6 +341,7 @@ African Civil Aviation Commission:
   Name_en: African Civil Aviation Commission
   Abbreviation_en: AFCAC
   Treaty_url: https://web.archive.org/web/20250219222517/https://au.int/sites/default/files/treaties/37304-treaty-0040_-_constitution_for_the_african_civil_aviation_commission_-_afcac_revised_en.pdf
+  Name_fr: Commission africaine de l'aviation civile
 Arctic Council:
   Wikidata_code: Q674182
   Entity_type: International organisation
@@ -3466,31 +3466,31 @@ Caribbean Centre for Development Administration:
   Org_family: Caribbean Community entities
   Country: zz
   Name_en: Caribbean Centre for Development Administration
-  Name_fr:
+  Name_fr: null
   Abbreviation_en: CARICAD
-  Treaty_url:  https://www.caricad.net/wp-content/themes/caricad/includes/pdf/Treaty-Establishing-CARICAD.pdf
-  Source:
+  Treaty_url: https://www.caricad.net/wp-content/themes/caricad/includes/pdf/Treaty-Establishing-CARICAD.pdf
+  Source: null
 Caribbean Community Climate Change Centre:
   Wikidata_code: Q117286619
   Entity_type: International organisation
   Org_family: Caribbean Community entities
   Country: zz
   Name_en: Caribbean Community Climate Change Centre
-  Name_fr:
+  Name_fr: null
   Abbreviation_en: CCCCC
   Abbreviation_other_en: 5Cs
   Treaty_url: https://caricom.org/wp-content/uploads/Agreement-Establishing-The-Caribbean-Community-Climate-Change-Centre-CCCCC.pdf
-  Source:
+  Source: null
 African Risk Capacity Agency:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: African Union
   Country: zz
   Name_en: African Risk Capacity Agency
-  Name_fr:
+  Name_fr: null
   Abbreviation_en: ARC Agency
   Treaty_url: https://web.archive.org/web/20250220014432/https://au.int/sites/default/files/treaties/7800-treaty-0043_-_agreement_for_the_establishment_of_the_african_risk_capacity_arc_agency_e.pdf
-  Source:
+  Source: null
 British-Irish Council:
   Wikidata_code: Q2655795
   Org_family: North South bodies
@@ -3567,6 +3567,3 @@ North/South Ministerial Council:
   Source: https://www.northsouthministerialcouncil.org/north-south-implementation-bodies
   OpenSanctions_id: '[No code found.]'
   Name_fr: Ministerrådet Nord–Syd
-
-
-  
