@@ -1,9 +1,10 @@
 # All Supranational Bodies
 
-There are currently 550 international organisations in the table.
+There are currently 551 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
+| Administrative Tribunal of the Organization of American States | N/A | Org_family: OAS institutions and bodies | [www.oas.org](https://www.oas.org/ext/Portals/31/documents/Statute%20of%20the%20Administrative%20Tribunal%20I.pdf) |
 | Advisory Centre on World Trade Organization Law | [Q3664799](https://www.wikidata.org/wiki/Q3664799) | none | [Treaty](https://web.archive.org/web/20140224004105/http://www.minbuza.nl/en/key-topics/treaties/search-the-treaty-database/1999/11/009244.html) |
 | Africa Centres for Disease Control and Prevention | [Q88234914](https://www.wikidata.org/wiki/Q88234914) | African Union entities | [Treaty](https://web.archive.org/web/20250220005838/https://au.int/sites/default/files/treaties/42517-treaty-EN_Revised_Statute_Africa_CDC.pdf) |
 | Africa Finance Corporation | [Q23578910](https://www.wikidata.org/wiki/Q23578910) | none | [Treaty](http://www.parliament.go.ke/sites/default/files/2025-02/Agreement%20for%20the%20Establishment%20of%20the%20Africa%20Finance%20Corporation%20and%20Explanantory%20Memorandum%20from%20the%20Foreign%20%26%20Diaspora%20Affairs.pdf) |
