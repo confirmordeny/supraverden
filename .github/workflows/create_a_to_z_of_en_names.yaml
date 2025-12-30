@@ -139,7 +139,7 @@ jobs:
           os.makedirs(os.path.dirname(output_file), exist_ok=True)
           
           with open(output_file, 'w', encoding='utf-8') as f:
-              f.write('# Alphabetical List of International Bodies\n\n')
+              f.write('# Alphabetical list of names of international organisations in English\n\n')
               f.write(md_content)
               
           print(f"Successfully wrote alphabetical list to '{output_file}'")
