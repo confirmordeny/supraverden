@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 551 international organisations in the table.
+There are currently 552 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -103,6 +103,7 @@ There are currently 551 international organisations in the table.
 | Circular Bio-based Europe Joint Undertaking | [Q133884431](https://www.wikidata.org/wiki/Q133884431) | EU institutions and bodies | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085) |
 | Clean Aviation Joint Undertaking | [Q133884512](https://www.wikidata.org/wiki/Q133884512) | EU institutions and bodies | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085) |
 | Clean Hydrogen Joint Undertaking | [Q133884630](https://www.wikidata.org/wiki/Q133884630) | EU institutions and bodies | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085) |
+| Coalition for Disaster Resilient Infrastructure | [Q85753142](https://www.wikidata.org/wiki/Q85753142) |  | [Treaty](https://www.cdri.world/upload/pages/CDRI_Charter_October%202019_English.pdf) |
 | Collaborative Inter-Governmental Scientific Research Institute | [Q15991224](https://www.wikidata.org/wiki/Q15991224) | none | [Treaty](https://www.cisri.org/docs/Treaty_Establishing_CISRI_11.pdf) |
 | Collective Security Treaty Organization | [Q318693](https://www.wikidata.org/wiki/Q318693) | none | [Treaty](https://en.odkb-csto.org/documents/documents/ustav_organizatsii_dogovora_o_kollektivnoy_bezopasnosti_/#loaded) |
 | COMESA Court of Justice | N/A | Common Market for Eastern and Southern Africa entities | [Treaty](https://www.comesa.int/wp-content/uploads/2019/02/comesa-treaty-revised-20092012_with-zaire_final.pdf) |
