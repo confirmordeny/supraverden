@@ -19,7 +19,7 @@ There are currently 550 international organisations in the table.
 | African Groundnut Council | [Q4689777](https://www.wikidata.org/wiki/Q4689777) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%20846/volume-846-I-12123-English.pdf) |
 | African Intellectual Property organisation | [Q1476775](https://www.wikidata.org/wiki/Q1476775) | none | [Treaty](https://www.wipo.int/wipolex/en/text/582620) |
 | African Regional Intellectual Property Organization | [Q384434](https://www.wikidata.org/wiki/Q384434) | none | [Treaty](https://www.wipo.int/wipolex/en/text/588142) |
-| African Risk Capacity Agency | N/A | African Union | [Treaty](https://web.archive.org/web/20250220014432/https://au.int/sites/default/files/treaties/7800-treaty-0043_-_agreement_for_the_establishment_of_the_african_risk_capacity_arc_agency_e.pdf) |
+| African Risk Capacity Agency | N/A | African Union entities | [Treaty](https://web.archive.org/web/20250220014432/https://au.int/sites/default/files/treaties/7800-treaty-0043_-_agreement_for_the_establishment_of_the_african_risk_capacity_arc_agency_e.pdf) |
 | African Telecommunications Union | [Q4689935](https://www.wikidata.org/wiki/Q4689935) | none | [Treaty](https://atuuat.africa/wp-content/uploads/2019/11/ATU-Constitution-and-Convention-Cape-Town-1999-Rev.-Harare-2014.pdf) |
 | African Trade and Investment Development Insurance | [Q60742417](https://www.wikidata.org/wiki/Q60742417) | Common Market for Eastern and Southern Africa entities | [Treaty](https://www.atidi.africa/wp-content/uploads/2023/10/ATI-Treaty-2022-001-Certified-091023-Stamped.pdf) |
 | African Union | [Q7159](https://www.wikidata.org/wiki/Q7159) | African Union entities | [Treaty](https://au.int/sites/default/files/treaties/7758-treaty-0021_-_CONSTITUTIVE_ACT_OF_THE_AFRICAN_UNION_E.pdf) |
@@ -438,7 +438,7 @@ There are currently 550 international organisations in the table.
 | Organisation of African, Caribbean and Pacific States | [Q294278](https://www.wikidata.org/wiki/Q294278) | none | [Treaty](https://www.jus.uio.no/english/services/library/treaties/14/14-03/acp.html) |
 | Organisation of Eastern Caribbean States | [Q392770](https://www.wikidata.org/wiki/Q392770) | Caribbean Community entities | [Treaty](https://caricom.org/documents/legaldocuments/9240-treaty-oecs.htm) |
 | Organisation of Islamic Cooperation | [Q47543](https://www.wikidata.org/wiki/Q47543) | none | [Treaty](https://www.oic-oci.org/upload/documents/charter/en/oic_charter_2018_en.pdf) |
-| Organization for Security and Co-operation in Europe | [Q81299](https://www.wikidata.org/wiki/Q81299) | OSCE entities | N/A |
+| Organization for Security and Co-operation in Europe | [Q81299](https://www.wikidata.org/wiki/Q81299) | OSCE entities | [Treaty](null) |
 | Organization for the Prohibition of Chemical Weapons | [Q842490](https://www.wikidata.org/wiki/Q842490) | none | [Treaty](https://www.opcw.org/sites/default/files/documents/CWC/CWC_en.pdf) |
 | Organization of American States | [Q123759](https://www.wikidata.org/wiki/Q123759) | OAS institutions and bodies | [www.oas.org](https://www.oas.org/en/sla/dil/docs/inter_american_treaties_A-41_charter_OAS.pdf) |
 | Organization of Arab Petroleum Exporting Countries | [Q1052077](https://www.wikidata.org/wiki/Q1052077) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%20681/volume-681-I-9707-English.pdf) |
@@ -462,7 +462,7 @@ There are currently 550 international organisations in the table.
 | Permanent Inter-State Committee for Drought Control in the Sahel | N/A | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201985/v1985.pdf) |
 | Permanent Joint Technical Commission for Nile Waters | N/A | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%20453/volume-453-I-6519-English.pdf) |
 | Permanent Okavango River Basin Water Commission | [Q96097566](https://www.wikidata.org/wiki/Q96097566) | none | [Treaty](https://www.iea.ulaval.ca/en/treaty-text/5021) |
-| Permanent Review Tribunal of Mercosur | [Q2452542](https://www.wikidata.org/wiki/Q2452542) | Mercosur entities | [www.europarl.europa.eu](https://www.europarl.europa.eu/RegData/etudes/IDAN/2022/653652/EXPO_IDA(2022)653652_EN.pdf) |
+| Permanent Review Tribunal of Mercosur | [Q2452542](https://www.wikidata.org/wiki/Q2452542) | Mercosur entities | [Treaty](null) |
 | Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organization | [Q15211422](https://www.wikidata.org/wiki/Q15211422) | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
 | Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organisation | [Q1480793](https://www.wikidata.org/wiki/Q1480793) | none | [Treaty](https://www.ctbto.org/sites/default/files/2022-10/Resolution_English_3.pdf) |
 | Regional Commission for Fisheries | [Q134724812](https://www.wikidata.org/wiki/Q134724812) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
