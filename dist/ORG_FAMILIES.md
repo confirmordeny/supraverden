@@ -24,6 +24,7 @@
 * Nordic Council entities (5 entities)
 * North South bodies (9 entities)
 * OAS institutions and bodies (11 entities)
+* Org_family: OAS institutions and bodies (1 entity)
 * Organisation for Economic Co-operation and Development entities (3 entities)
 * Organisation of Islamic Cooperation (1 entity)
 * Organization of the Black Sea Economic Cooperation (2 entities)
