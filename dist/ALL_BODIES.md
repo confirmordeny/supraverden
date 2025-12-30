@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 553 international organisations in the table.
+There are currently 555 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -45,6 +45,8 @@ There are currently 553 international organisations in the table.
 | Arab League | [Q7172](https://www.wikidata.org/wiki/Q7172) | Arab League entities | [Treaty](https://www.refworld.org/legal/constinstr/las/1945/en/13854) |
 | Arab Maghreb Union | [Q370862](https://www.wikidata.org/wiki/Q370862) | none | [Treaty](https://wits.worldbank.org/GPTAD/PDF/archive/MAGHREB.pdf) |
 | Arab Monetary Fund | [Q624307](https://www.wikidata.org/wiki/Q624307) | Arab League entities | [Treaty](https://www.amf.org.ae/sites/default/files/uploads/The%20Articles%20of%20Agreement%20of%20the%20AMF%20-%20English_0.pdf) |
+| Arab Organization for Agricultural Development | [Q30082921](https://www.wikidata.org/wiki/Q30082921) | Arab League entities | [Treaty](https://www.lloc.gov.bh/Legislation/HTM/D0475) |
+| Arab Organization for Communication and Information Technologies | [Q4783192](https://www.wikidata.org/wiki/Q4783192) | Arab League entities | [Treaty](https://decree.om/2005/tre20050026a/) |
 | Arab Satellite Communications Organisation | [Q624426](https://www.wikidata.org/wiki/Q624426) | Arab League entities | [Treaty](https://www.lloc.gov.bh/FullEn/L0199.docx) |
 | Arab States Broadcasting Union | [Q4783249](https://www.wikidata.org/wiki/Q4783249) | Arab League entities | [Treaty](https://haqqi.s3.eu-north-1.amazonaws.com/2014-04/HRIDRL0151_ArabBroadcastUnion_Ar_19.pdf) |
 | Arab Women Organization | [Q12245743](https://www.wikidata.org/wiki/Q12245743) | Arab League entities | [Treaty](https://www.lloc.gov.bh/FullEn/L2402.docx) |
@@ -103,7 +105,7 @@ There are currently 553 international organisations in the table.
 | Circular Bio-based Europe Joint Undertaking | [Q133884431](https://www.wikidata.org/wiki/Q133884431) | EU institutions and bodies | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085) |
 | Clean Aviation Joint Undertaking | [Q133884512](https://www.wikidata.org/wiki/Q133884512) | EU institutions and bodies | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085) |
 | Clean Hydrogen Joint Undertaking | [Q133884630](https://www.wikidata.org/wiki/Q133884630) | EU institutions and bodies | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085) |
-| Coalition for Disaster Resilient Infrastructure | [Q85753142](https://www.wikidata.org/wiki/Q85753142) |  | [Treaty](https://www.cdri.world/upload/pages/CDRI_Charter_October%202019_English.pdf) |
+| Coalition for Disaster Resilient Infrastructure | [Q85753142](https://www.wikidata.org/wiki/Q85753142) | null | [Treaty](https://www.cdri.world/upload/pages/CDRI_Charter_October%202019_English.pdf) |
 | Collaborative Inter-Governmental Scientific Research Institute | [Q15991224](https://www.wikidata.org/wiki/Q15991224) | none | [Treaty](https://www.cisri.org/docs/Treaty_Establishing_CISRI_11.pdf) |
 | Collective Security Treaty Organization | [Q318693](https://www.wikidata.org/wiki/Q318693) | none | [Treaty](https://en.odkb-csto.org/documents/documents/ustav_organizatsii_dogovora_o_kollektivnoy_bezopasnosti_/#loaded) |
 | COMESA Court of Justice | N/A | Common Market for Eastern and Southern Africa entities | [Treaty](https://www.comesa.int/wp-content/uploads/2019/02/comesa-treaty-revised-20092012_with-zaire_final.pdf) |
@@ -159,7 +161,7 @@ There are currently 553 international organisations in the table.
 | Economic Cooperation Organization | [Q225950](https://www.wikidata.org/wiki/Q225950) | none | [Treaty](https://eco.int/wp-content/uploads/2017/05/Agreement-on-Legal-Status-of-the-ECO-National-Representatives-and-International-Staff.pdf) |
 | Economic Court of the Commonwealth of Independent States | [Q4306397](https://www.wikidata.org/wiki/Q4306397) | none | [Treaty](null) |
 | ECOWAS Court of Justice | [Q30324003](https://www.wikidata.org/wiki/Q30324003) | ECOWAS entities | [Treaty](null) |
-| ECOWAS Parliament | [Q97374162](https://www.wikidata.org/wiki/Q97374162) | ECOWAS entities | [investmentpolicy.unctad.org](https://investmentpolicy.unctad.org/international-investment-agreements/treaty-files/5476/download) |
+| ECOWAS Parliament | [Q97374162](https://www.wikidata.org/wiki/Q97374162) | ECOWAS entities | [Treaty](null) |
 | EFTA Court | [Q610886](https://www.wikidata.org/wiki/Q610886) | EFTA entities | [Treaty](null) |
 | Energy Charter Conference | [Q121286812](https://www.wikidata.org/wiki/Q121286812) | none | [Treaty](https://www.energycharter.org/fileadmin/DocumentsMedia/Legal/ECTC-en.pdf) |
 | Energy Community | [Q2989312](https://www.wikidata.org/wiki/Q2989312) | none | [Treaty](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=legissum:l27074) |
