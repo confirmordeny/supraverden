@@ -37,7 +37,7 @@ jobs:
               'data/general_list.yaml',
               'data/united_nations.yaml'
           ]
-          output_file = 'dist/BODIES_LIST.md'
+          output_file = 'dist/ENGLISH_A_TO_Z_LIST.md'
 
           # --- PARSING LOGIC ---
           def parse_file(filepath):
