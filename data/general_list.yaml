@@ -8,6 +8,7 @@ Council of Europe:
   Treaty_url: https://rm.coe.int/1680a1c6b3
   OpenSanctions_id: '[No code found.]'
   Name_es: Consejo de Europa
+  Name_fr: Conseil de l'Europe
 Benelux:
   Wikidata_code: Q13116
   Entity_type: International organisation
@@ -3723,8 +3724,8 @@ Arab Organization for Agricultural Development:
   Abbreviation_en: AOAD
   Treaty_url: https://www.lloc.gov.bh/Legislation/HTM/D0475
   OpenSanctions_id: '[No code found.]'
-  Name_fr:
-  Name_es:
+  Name_fr: null
+  Name_es: null
 Arab Organization for Communication and Information Technologies:
   Wikidata_code: Q4783192
   Entity_type: International organisation
@@ -3734,5 +3735,5 @@ Arab Organization for Communication and Information Technologies:
   Abbreviation_en: AICTO
   Treaty_url: https://decree.om/2005/tre20050026a/
   OpenSanctions_id: '[No code found.]'
-  Name_fr:
-  Name_es:
+  Name_fr: null
+  Name_es: null
