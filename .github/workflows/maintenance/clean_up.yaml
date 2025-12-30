@@ -1,4 +1,4 @@
-name: Cleanup Old Runs
+name: Cleanup old runs
 
 on: 
   workflow_dispatch: # This allows you to click a button to run it manually
