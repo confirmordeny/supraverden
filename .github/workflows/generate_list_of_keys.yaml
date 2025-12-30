@@ -1,4 +1,4 @@
-name: Generate List of Keys
+name: Generate list of keys
 
 on:
   push:
