@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 552 international organisations in the table.
+There are currently 553 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -159,6 +159,7 @@ There are currently 552 international organisations in the table.
 | Economic Cooperation Organization | [Q225950](https://www.wikidata.org/wiki/Q225950) | none | [Treaty](https://eco.int/wp-content/uploads/2017/05/Agreement-on-Legal-Status-of-the-ECO-National-Representatives-and-International-Staff.pdf) |
 | Economic Court of the Commonwealth of Independent States | [Q4306397](https://www.wikidata.org/wiki/Q4306397) | none | [Treaty](null) |
 | ECOWAS Court of Justice | [Q30324003](https://www.wikidata.org/wiki/Q30324003) | ECOWAS entities | [Treaty](null) |
+| ECOWAS Parliament | [Q97374162](https://www.wikidata.org/wiki/Q97374162) | ECOWAS entities | [investmentpolicy.unctad.org](https://investmentpolicy.unctad.org/international-investment-agreements/treaty-files/5476/download) |
 | EFTA Court | [Q610886](https://www.wikidata.org/wiki/Q610886) | EFTA entities | [Treaty](null) |
 | Energy Charter Conference | [Q121286812](https://www.wikidata.org/wiki/Q121286812) | none | [Treaty](https://www.energycharter.org/fileadmin/DocumentsMedia/Legal/ECTC-en.pdf) |
 | Energy Community | [Q2989312](https://www.wikidata.org/wiki/Q2989312) | none | [Treaty](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=legissum:l27074) |
