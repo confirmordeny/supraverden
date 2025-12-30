@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 550 international organisations in the table.
+There are currently 561 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -268,8 +268,12 @@ There are currently 550 international organisations in the table.
 | Innovative Health Initiative Joint Undertaking | [Q118695652](https://www.wikidata.org/wiki/Q118695652) | EU institutions and bodies | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085) |
 | Inter-American Center for Tax Administrations | [Q2585529](https://www.wikidata.org/wiki/Q2585529) | none | [Treaty](https://ciatorg.sharepoint.com/sites/cds/Conocimientos/Gerencia_Ejecutiva_Operaciones/GestionInstitucional/LinieamientosEstrategicos/EstatutosyReglamentos/pdf/bylaws_regulatios_en.pdf?ga=1) |
 | Inter-American Commission on Human Rights | [Q1589444](https://www.wikidata.org/wiki/Q1589444) | OAS institutions and bodies | [Treaty](https://www.oas.org/dil/treaties_b-32_american_convention_on_human_rights.pdf) |
+| Inter-American Commission on Human Rights | [Q1589444](https://www.wikidata.org/wiki/Q1589444) | OAS institutions and bodies | [Treaty](https://www.oas.org/dil/treaties_b-32_american_convention_on_human_rights.pdf) |
+| Inter-American Court of Human Rights | [Q1547804](https://www.wikidata.org/wiki/Q1547804) | OAS institutions and bodies | [Treaty](https://www.oas.org/dil/treaties_b-32_american_convention_on_human_rights.pdf) |
 | Inter-American Court of Human Rights | [Q1547804](https://www.wikidata.org/wiki/Q1547804) | OAS institutions and bodies | [Treaty](https://www.oas.org/dil/treaties_b-32_american_convention_on_human_rights.pdf) |
 | Inter-American Defense Board | [Q1665759](https://www.wikidata.org/wiki/Q1665759) | OAS institutions and bodies | [Treaty](null) |
+| Inter-American Defense Board | [Q1665759](https://www.wikidata.org/wiki/Q1665759) | OAS institutions and bodies | [Treaty](null) |
+| Inter-American Development Bank | [Q1153087](https://www.wikidata.org/wiki/Q1153087) | OAS institutions and bodies | [Treaty](https://www.oas.org/dil/treaties_C-15_Agreement_Establishing_the_Inter-American_Development_Bank.htm) |
 | Inter-American Development Bank | [Q1153087](https://www.wikidata.org/wiki/Q1153087) | OAS institutions and bodies | [Treaty](https://www.oas.org/dil/treaties_C-15_Agreement_Establishing_the_Inter-American_Development_Bank.htm) |
 | Inter-American Institute for Global Change Research | [Q6044567](https://www.wikidata.org/wiki/Q6044567) | none | [Treaty](https://www.iai.int/pdf/en/agreement_establishing_the_IAI_en.pdf) |
 | Inter-American Investment Corporation | N/A | none | [Treaty](https://assets.publishing.service.gov.uk/media/640b3cdc8fa8f5560820da5b/TS_11.2023_Agreement_Establishing_InterAmerican_Investment_Corporation.pdf) |
@@ -378,7 +382,10 @@ There are currently 550 international organisations in the table.
 | Intersputnik International Organization of Space Communications | [Q1548793](https://www.wikidata.org/wiki/Q1548793) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%20862/volume-862-I-12343-English.pdf) |
 | InterTradeIreland | [Q13157417](https://www.wikidata.org/wiki/Q13157417) | North South bodies | [www.northsouthministerialcouncil.org](https://www.northsouthministerialcouncil.org/north-south-implementation-bodies) |
 | Inter‐American Children’s Institute | N/A | OAS institutions and bodies | [iin.oea.org](https://iin.oea.org/pdf-iin/Acta-fundacional-del-IIN.pdf) |
+| Inter‐American Children’s Institute | N/A | OAS institutions and bodies | [iin.oea.org](https://iin.oea.org/pdf-iin/Acta-fundacional-del-IIN.pdf) |
 | Inter‐American Commission of Women | [Q5779117](https://www.wikidata.org/wiki/Q5779117) | OAS institutions and bodies | [www.oas.org](https://www.oas.org/xxxivga/english/reference_docs/Estatuto_CIM.pdf) |
+| Inter‐American Commission of Women | [Q5779117](https://www.wikidata.org/wiki/Q5779117) | OAS institutions and bodies | [www.oas.org](https://www.oas.org/xxxivga/english/reference_docs/Estatuto_CIM.pdf) |
+| Inter‐American Institute for Cooperation on Agriculture | [Q3152323](https://www.wikidata.org/wiki/Q3152323) | OAS institutions and bodies | [www.oas.org](https://www.oas.org/en/sla/dil/inter_american_treaties_C-17_Convention_Inter-American_Institute_Cooperation_Agriculture.asp) |
 | Inter‐American Institute for Cooperation on Agriculture | [Q3152323](https://www.wikidata.org/wiki/Q3152323) | OAS institutions and bodies | [www.oas.org](https://www.oas.org/en/sla/dil/inter_american_treaties_C-17_Convention_Inter-American_Institute_Cooperation_Agriculture.asp) |
 | Iran-United States Claims Tribunal | [Q501576](https://www.wikidata.org/wiki/Q501576) | none | [Treaty](https://iusct.com/foundingdocuments-2/#1691403316129-a7533aea-5fc8) |
 | Islamic Development Bank | [Q41230](https://www.wikidata.org/wiki/Q41230) | Organisation of Islamic Cooperation | [Treaty](https://www.isdb.org/sites/default/files/media/documents/2023-09/IsDB%20Articles%20of%20Agreement.pdf) |
@@ -386,6 +393,7 @@ There are currently 550 international organisations in the table.
 | Joint Institute for Nuclear Research | [Q259517](https://www.wikidata.org/wiki/Q259517) | none | [Treaty](https://www.jinr.ru/wp-content/uploads/Advisory_Bodies/Agreement_JINR_English.pdf) |
 | Joint Vienna Institute | [Q128996047](https://www.wikidata.org/wiki/Q128996047) | none | [Treaty](https://www.elibrary.imf.org/display/book/9781451971125/ch062.xml) |
 | Judicial Committee of the Privy Council | [Q1710982](https://www.wikidata.org/wiki/Q1710982) | none | [Treaty](null) |
+| Justice Studies Center for the Americas | N/A | OAS institutions and bodies | [web.archive.org](https://web.archive.org/web/20050418013202/https://www.oas.org/juridico/english/ga-res99/agres1.htm) |
 | Justice Studies Center for the Americas | N/A | OAS institutions and bodies | [web.archive.org](https://web.archive.org/web/20050418013202/https://www.oas.org/juridico/english/ga-res99/agres1.htm) |
 | King Abdullah Bin Abdulaziz International Centre for Interreligious and | [Q6324948](https://www.wikidata.org/wiki/Q6324948) | none | [Treaty](https://www.kaiciid.org/node/2641) |
 | Lake Chad Basin Commission | [Q2986599](https://www.wikidata.org/wiki/Q2986599) | none | [Treaty](https://faolex.fao.org/docs/pdf/cmr1076.pdf) |
@@ -441,6 +449,7 @@ There are currently 550 international organisations in the table.
 | Organization for Security and Co-operation in Europe | [Q81299](https://www.wikidata.org/wiki/Q81299) | OSCE entities | N/A |
 | Organization for the Prohibition of Chemical Weapons | [Q842490](https://www.wikidata.org/wiki/Q842490) | none | [Treaty](https://www.opcw.org/sites/default/files/documents/CWC/CWC_en.pdf) |
 | Organization of American States | [Q123759](https://www.wikidata.org/wiki/Q123759) | OAS institutions and bodies | [www.oas.org](https://www.oas.org/en/sla/dil/docs/inter_american_treaties_A-41_charter_OAS.pdf) |
+| Organization of American States | [Q123759](https://www.wikidata.org/wiki/Q123759) | OAS institutions and bodies | [www.oas.org](https://www.oas.org/en/sla/dil/docs/inter_american_treaties_A-41_charter_OAS.pdf) |
 | Organization of Arab Petroleum Exporting Countries | [Q1052077](https://www.wikidata.org/wiki/Q1052077) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%20681/volume-681-I-9707-English.pdf) |
 | Organization of Ibero-American States | [Q421023](https://www.wikidata.org/wiki/Q421023) | none | [Treaty](https://oei.int/wp-content/uploads/1985/12/reglamento-de-la-oei.pdf) |
 | Organization of the Black Sea Economic Cooperation | [Q380340](https://www.wikidata.org/wiki/Q380340) | Organization of the Black Sea Economic Cooperation | [Treaty](https://www.bsec-organization.org/UploadedDocuments/StatutoryDocumentsAgreements/CHARTERFourthEdition7July.pdf) |
@@ -455,6 +464,8 @@ There are currently 550 international organisations in the table.
 | Pacific Tourism Organisation | [Q7568120](https://www.wikidata.org/wiki/Q7568120) | Pacific Islands Forum | [Treaty](http://www.paclii.org/pits/en/treaty_database/1999/1.html) |
 | Pan African Postal Union | N/A | none | [Treaty](https://www.jus.uio.no/english/services/library/treaties/07/7-05/oau_postal_union.html) |
 | Pan American Health Organization | [Q1856835](https://www.wikidata.org/wiki/Q1856835) | OAS institutions and bodies | [www.jstor.org](https://www.jstor.org/stable/4548819) |
+| Pan American Health Organization | [Q1856835](https://www.wikidata.org/wiki/Q1856835) | OAS institutions and bodies | [www.jstor.org](https://www.jstor.org/stable/4548819) |
+| Pan‐American Institute of Geography and History | [Q7129603](https://www.wikidata.org/wiki/Q7129603) | OAS institutions and bodies | [www.govinfo.gov](https://www.govinfo.gov/content/pkg/SERIALSET-09927_00_00-037-0107-0000/pdf/SERIALSET-09927_00_00-037-0107-0000.pdf) |
 | Pan‐American Institute of Geography and History | [Q7129603](https://www.wikidata.org/wiki/Q7129603) | OAS institutions and bodies | [www.govinfo.gov](https://www.govinfo.gov/content/pkg/SERIALSET-09927_00_00-037-0107-0000/pdf/SERIALSET-09927_00_00-037-0107-0000.pdf) |
 | Parliamentary Assembly of the Mediterranean | [Q3369689](https://www.wikidata.org/wiki/Q3369689) | none | [Treaty](https://pam.int/wp-content/uploads/2021/12/PAM-Statutes-EN-FR-.pdf) |
 | Parliamentary Assembly of Turkic States | [Q4345435](https://www.wikidata.org/wiki/Q4345435) | Organization of Turkic States entities | [Treaty](https://web.archive.org/web/20230329043622/https://www.turk-pa.org/file/236_1580134295_5318.pdf) |
