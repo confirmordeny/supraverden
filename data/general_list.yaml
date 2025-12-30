@@ -1,3 +1,920 @@
+European Union:
+  Wikidata_code: Q458
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Union
+  Abbreviation_en: EU
+  Type: EU itself
+  Source: https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Union européenne
+  Name_es: Unión Europea
+Council of the European Union:
+  Wikidata_code: Q8896
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: Council of the European Union
+  Name_other_en: Council of the EU
+  Name_other_2_en: Council of ministers
+  Type: EU institution
+  Source: https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Conseil de l'Union européenne
+  Name_es: Consejo de la Unión Europea
+Court of Justice of the European Union:
+  Wikidata_code: Q4951
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: Court of Justice of the European Union
+  Abbreviation_en: CJEU
+  Name_other_en: European Court of Justice
+  Type: EU institution
+  Source: https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Cour de justice de l'Union européenne
+  Name_es: Tribunal de Justicia de la Unión Europea
+European Central Bank:
+  Wikidata_code: Q8901
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Central Bank
+  Abbreviation_en: ECB
+  Type: EU institution
+  Source: https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT
+  OpenSanctions_id: NK-Ubo23KznV2pvcXMiQkTmvd
+  Name_fr: Banque centrale européenne
+  Name_es: Banco Central Europeo
+European Commission:
+  Wikidata_code: Q8880
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Commission
+  Type: EU institution
+  Source: https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT
+  OpenSanctions_id: NK-KSpcRjPdvBkwrdiTx3VxGT
+  Name_fr: Commission européenne
+  Name_es: Comisión Europea
+European Council:
+  Wikidata_code: Q8886
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Council
+  Abbreviation_en: EUCO
+  Type: EU institution
+  Source: https://web.archive.org/web/20250823025229/https://publications.europa.eu/resource/cellar/688a7a98-3110-4ffe-a6b3-8972d8445325.0007.01/DOC_19
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Conseil européen
+  Name_es: Consejo Europeo
+European Court of Auditors:
+  Wikidata_code: Q8900
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Court of Auditors
+  Abbreviation_en: ECA
+  Type: EU institution
+  Source: https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Cour des comptes européenne
+  Name_es: Tribunal de Cuentas de la Unión Europea
+European Parliament:
+  Wikidata_code: Q8889
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Parliament
+  Name_fr: Parlement européen
+  Abbreviation_en: EP
+  Name_other_en: null
+  Type: EU institution
+  Source: https://web.archive.org/web/20250827094704/https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/types-institutions-and-bodies_en
+  OpenSanctions_id: '[No code found.]'
+  Name_es: Parlamento Europeo
+European Investment Bank:
+  Wikidata_code: Q192247
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Investment Bank
+  Type: EU body formed by treaty
+  Source: https://web.archive.org/web/20250828040215/https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:11957E/TXT
+  OpenSanctions_id: NK-7nAZcmSJNBZMqsstpfrtJB/
+  Name_fr: Banque européenne d'investissement
+  Name_es: Banco Europeo de Inversiones
+European University Institute:
+  Wikidata_code: Q1378099
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European University Institute
+  Type: EU body formed by treaty
+  Source: https://web.archive.org/web/20250527174136/https://www.eui.eu/Documents/AboutEUI/Convention/English.pdf
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Institut universitaire européen
+  Name_es: Instituto Universitario Europeo
+European Atomic Energy Community:
+  Wikidata_code: Q8919
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Atomic Energy Community
+  Abbreviation_en: EAEC
+  Name_other_en: Euratom
+  Type: EU body formed by treaty
+  Source: https://web.archive.org/web/20240828070935/https://eur-lex.europa.eu/EN/legal-content/summary/treaty-on-the-european-atomic-energy-community-euratom.html
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Communauté européenne de l'énergie atomique
+  Name_es: Comunidad Europea de la Energía Atómica
+Unified Patent Court:
+  Wikidata_code: Q7884942
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: Unified Patent Court
+  Abbreviation_en: UPC
+  Type: EU body formed by treaty
+  Source: https://web.archive.org/web/20230515032632/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:42013A0620(01)
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Juridiction unique des brevets
+European Stability Mechanism:
+  Wikidata_code: Q1130098
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Stability Mechanism
+  Abbreviation_en: ESM
+  Type: EU body formed by treaty
+  Source: https://web.archive.org/web/20250615150335/https://www.esm.europa.eu/system/files/document/2023-10/05-TESM2-HR1.en12.pdf
+  OpenSanctions_id: NK-nw2rgJpD8uoci2TT5t7yvK
+  Name_fr: Mécanisme européen de stabilité
+  Name_es: Mecanismo Europeo de Estabilidad
+European Climate, Infrastructure and Environment Executive Agency:
+  Wikidata_code: Q106818821
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Climate, Infrastructure and Environment Executive Agency
+  Abbreviation_en: CINEA
+  Type: EU executive agency
+  Source: https://web.archive.org/web/20221222153402/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=LEGISSUM:l10120
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Agence exécutive européenne pour le climat, les infrastructures et l’environnement
+European Education and Culture Executive Agency:
+  Wikidata_code: Q1383639
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Education and Culture Executive Agency
+  Abbreviation_en: EACEA
+  Type: EU executive agency
+  Source: https://web.archive.org/web/20221222153402/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=LEGISSUM:l10120
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Agence exécutive européenne pour l’éducation et la culture
+  Name_es: Agencia Ejecutiva en el Ámbito Educativo, Audiovisual y Cultural (EACEA)
+European Health and Digital Executive Agency:
+  Wikidata_code: Q107636399
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Health and Digital Executive Agency
+  Abbreviation_en: HaDEA
+  Type: EU executive agency
+  Source: https://web.archive.org/web/20221222153402/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=LEGISSUM:l10120
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Agence exécutive européenne pour la santé et le numérique
+European Innovation Council and Small and Medium-sized Executive Agency:
+  Wikidata_code: Q734374
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Innovation Council and Small and Medium-sized Executive Agency
+  Abbreviation_en: EISMEA
+  Name_other_en: European Innovation Council and SMEs Executive Agency
+  Type: EU executive agency
+  Source: https://web.archive.org/web/20221222153402/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=LEGISSUM:l10120
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Agence exécutive pour le Conseil européen de l’innovation et les PME
+European Research Council Executive Agency:
+  Wikidata_code: Q107641323
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Research Council Executive Agency
+  Abbreviation_en: ERCEA
+  Type: EU executive agency
+  Source: https://web.archive.org/web/20221222153402/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=LEGISSUM:l10120
+  OpenSanctions_id: '[No code found.]'
+European Research Executive Agency:
+  Wikidata_code: Q3606472
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Research Executive Agency
+  Abbreviation_en: EREA
+  Type: EU executive agency
+  Source: https://web.archive.org/web/20221222153402/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=LEGISSUM:l10120
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Agence exécutive européenne pour la recherche
+Agency for Support for BEREC:
+  Wikidata_code: Q107658738
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: Agency for Support for BEREC
+  Abbreviation_en: BEREC Office
+  Name_other_en: BEREC Office
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: '[No code found.]'
+Agency for the Cooperation of Energy Regulators:
+  Wikidata_code: Q392883
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: Agency for the Cooperation of Energy Regulators
+  Abbreviation_en: ACER
+  Name_other_en: European Union Agency for the Cooperation of Energy Regulators
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Agence de l'Union européenne pour la coopération des régulateurs de l’énergie
+  Name_es: Agencia de Cooperación de los Reguladores de la Energía
+Community Plant Variety Office:
+  Wikidata_code: Q1501010
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: Community Plant Variety Office
+  Abbreviation_en: CPVO
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Office communautaire des variétés végétales
+EU Authority for Anti-Money Laundering and Countering the Financing of Terrorism:
+  Wikidata_code: Q124795462
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: EU Authority for Anti-Money Laundering and Countering the Financing of
+  Abbreviation_en: AMLA
+  Name_other_en: Anti-Money Laundering Authority
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Autorité de lutte contre le blanchiment de capitaux
+European Foundation for the Improvement of Living and Working Conditions:
+  Wikidata_code: Q1377549
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Foundation for the Improvement of Living and Working Conditions
+  Name_other_en: Eurofound
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Fondation européenne pour l'amélioration des conditions de vie et de travail
+European Union Agency for Criminal Justice Cooperation:
+  Wikidata_code: Q940784
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Union Agency for Criminal Justice Cooperation
+  Name_other_en: Eurojust
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Eurojust
+  Name_es: Eurojust
+European Agency for Safety and Health at Work:
+  Wikidata_code: Q571118
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Agency for Safety and Health at Work
+  Abbreviation_en: EU-OSHA
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Agence européenne pour la sécurité et la santé au travail
+  Name_es: Agencia Europea para la Seguridad y la Salud en el Trabajo
+European Banking Authority:
+  Wikidata_code: Q769548
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Banking Authority
+  Abbreviation_en: EBA
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Autorité bancaire européenne
+  Name_es: Autoridad Bancaria Europea
+European Centre for Disease Prevention and Control:
+  Wikidata_code: Q918501
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Centre for Disease Prevention and Control
+  Abbreviation_en: ECDC
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Centre européen de prévention et de contrôle des maladies
+  Name_es: Centro Europeo para la Prevención y Control de Enfermedades
+European Centre for the Development of Vocational Training:
+  Wikidata_code: Q116214
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Centre for the Development of Vocational Training
+  Abbreviation_en: Cedefop
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: centre européen pour le développement de la formation professionnelle
+  Name_es: Centro Europeo para el Desarrollo de la Formación Profesional
+European Chemicals Agency:
+  Wikidata_code: Q48798
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Chemicals Agency
+  Abbreviation_en: ECHA
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Agence européenne des produits chimiques
+  Name_es: Agencia Europea de Sustancias y Preparados Químicos
+European Environment Agency:
+  Wikidata_code: Q632988
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Environment Agency
+  Abbreviation_en: EEA
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Agence européenne pour l'environnement
+  Name_es: Agencia Europea de Medio Ambiente
+European Fisheries Control Agency:
+  Wikidata_code: Q201372
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Fisheries Control Agency
+  Abbreviation_en: EFCA
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Agence communautaire de contrôle des pêches
+  Name_es: Agencia Comunitaria de Control de la Pesca
+European Food Safety Authority:
+  Wikidata_code: Q516521
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Food Safety Authority
+  Abbreviation_en: EFSA
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Autorité européenne de sécurité des aliments
+  Name_es: Autoridad Europea de Seguridad Alimentaria
+European Institute for Gender Equality:
+  Wikidata_code: Q48718
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Institute for Gender Equality
+  Abbreviation_en: EIGE
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Institut européen pour l'égalité entre les hommes et les femmes
+  Name_es: Instituto Europeo de la Igualdad de Género
+European Insurance and Occupational Pensions Authority:
+  Wikidata_code: Q2116004
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Insurance and Occupational Pensions Authority
+  Abbreviation_en: EIOPA
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Autorité européenne des assurances et des pensions professionnelles
+  Name_es: Autoridad Europea de Seguros y Pensiones de Jubilación
+European Labour Authority:
+  Wikidata_code: Q56296301
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Labour Authority
+  Abbreviation_en: ELA
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Autorité européenne du travail
+  Name_es: Autoridad Laboral Europea
+European Maritime Safety Agency:
+  Wikidata_code: Q922693
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Maritime Safety Agency
+  Abbreviation_en: EMSA
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Agence européenne pour la sécurité maritime
+  Name_es: Agencia Europea de Seguridad Marítima
+European Medicines Agency:
+  Wikidata_code: Q130146
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Medicines Agency
+  Abbreviation_en: EMA
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Agence européenne des médicaments
+  Name_es: Agencia Europea de Medicamentos
+European Training Foundation:
+  Wikidata_code: Q372042
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Training Foundation
+  Abbreviation_en: ETF
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Fondation européenne pour la formation
+European Union Agency for Asylum:
+  Wikidata_code: Q4002697
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Union Agency for Asylum
+  Abbreviation_en: EUAA
+  Name_other_en: EU Agency for Asylum
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Agence de l’Union européenne pour l’asile
+European Union Agency for Cybersecurity:
+  Wikidata_code: Q1377194
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Union Agency for Cybersecurity
+  Abbreviation_en: ENISA
+  Name_other_en: EU Agency for Cybersecurity
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Agence européenne chargée de la sécurité des réseaux et de l'information
+  Name_es: Agencia de la Unión Europea para la Ciberseguridad
+European Union Agency for Fundamental Rights:
+  Wikidata_code: Q48790
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Union Agency for Fundamental Rights
+  Abbreviation_en: FRA
+  Name_other_en: EU Agency for Fundamental Rights
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Agence des droits fondamentaux de l'Union européenne
+  Name_es: Agencia de los Derechos Fundamentales de la Unión Europea
+European Union Agency for Law Enforcement Training:
+  Wikidata_code: Q1377490
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Union Agency for Law Enforcement Training
+  Abbreviation_en: CEPOL
+  Name_other_en: EU Agency for Law Enforcement Training
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Agence de l'Union européenne pour la formation des services répressifs
+  Name_es: Escuela Europea de Policía
+European Union Agency for Railways:
+  Wikidata_code: Q369273
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Union Agency for Railways
+  Abbreviation_en: ERA
+  Name_other_en: EU Agency for Railways
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Agence de l’Union européenne pour les chemins de fer
+  Name_es: Agencia Ferroviaria Europea
+European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice:
+  Wikidata_code: Q4440501
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Union Agency for the Operational Management of Large-Scale IT
+    Systems in the Area of Freedom, Security and Justice
+  Abbreviation_en: eu-LISA
+  Name_other_en: EU Agency for the Operational Management of Large-Scale IT Systems
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Agence européenne pour la gestion opérationnelle des systèmes d'information
+    à grande échelle au sein de l'espace de liberté, de sécurité et de justice
+European Union Agency for the Space Programme:
+  Wikidata_code: Q55610347
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Union Agency for the Space Programme
+  Abbreviation_en: EUSPA
+  Name_other_en: EU Agency for the Space Programme
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Agence de l'Union Européenne pour le programme spatial
+  Name_es: Agencia de la Unión Europea para el Programa Espacial
+European Union Aviation Safety Agency:
+  Wikidata_code: Q276255
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Union Aviation Safety Agency
+  Abbreviation_en: EASA
+  Name_other_en: EU Aviation Safety Agency
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Agence européenne de la sécurité aérienne
+  Name_es: Agencia Europea de Seguridad Aérea
+European Union Drugs Agency:
+  Wikidata_code: Q1377256
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Union Drugs Agency
+  Abbreviation_en: EUDA
+  Name_other_en: EU Drugs Agency
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: agence de l’Union européenne sur les drogues
+European Union Intellectual Property Office:
+  Wikidata_code: Q792534
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Union Intellectual Property Office
+  Abbreviation_en: EUIPO
+  Name_other_en: EU Intellectual Property Office
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Office de l'Union européenne de la propriété intellectuelle
+  Name_es: Oficina de Propiedad Intelectual de la Unión Europea
+Europol:
+  Wikidata_code: Q207203
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: Europol
+  Name_other_en: European Police Office
+  Name_other_2_en: European Union Agency for Law Enforcement Cooperation
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Europol
+  Name_es: Europol
+European Border and Coast Guard Agency:
+  Wikidata_code: Q21786841
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Border and Coast Guard Agency
+  Name_other_en: Frontex
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Agence européenne de garde-frontières et de garde-côtes
+  Name_es: Guardia Europea de Fronteras y Costas
+Single Resolution Board:
+  Wikidata_code: Q19516507
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: Single Resolution Board
+  Abbreviation_en: SRB
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Conseil de résolution unique
+European Securities and Markets Authority:
+  Wikidata_code: Q769112
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Securities and Markets Authority
+  Abbreviation_en: ESMA
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: bic-ESMAFRP2
+  Name_fr: Autorité européenne des marchés financiers
+  Name_es: Autoridad Europea de Valores y Mercados
+Translation Centre for the Bodies of the European Union:
+  Wikidata_code: Q333743
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: Translation Centre for the Bodies of the European Union
+  Abbreviation_en: CdT
+  Type: EU decentralised agency
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Centre de traduction des organes de l'Union européenne
+European Committee of the Regions:
+  Wikidata_code: Q205203
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Committee of the Regions
+  Abbreviation_en: CoR
+  Type: EU body
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Comité des régions
+  Name_es: Comité de las Regiones
+European Cybersecurity Competence Centre:
+  Wikidata_code: Q107658626
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Cybersecurity Competence Centre
+  Abbreviation_en: ECCC
+  Type: EU body
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY
+  OpenSanctions_id: '[No code found.]'
+European Data Protection Supervisor:
+  Wikidata_code: Q1377705
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Data Protection Supervisor
+  Abbreviation_en: EDPS
+  Type: EU body
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Contrôleur européen de la protection des données
+  Name_es: Supervisor Europeo de Protección de Datos
+European Economic and Social Committee:
+  Wikidata_code: Q331024
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Economic and Social Committee
+  Abbreviation_en: EESC
+  Type: EU body
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Comité économique et social européen
+  Name_es: Comité Económico y Social Europeo
+European External Action Service:
+  Wikidata_code: Q672941
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European External Action Service
+  Abbreviation_en: EEAS
+  Type: EU body
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Service européen pour l'action extérieure
+  Name_es: Servicio Europeo de Acción Exterior
+European Ombudsman:
+  Wikidata_code: Q220893
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Ombudsman
+  Abbreviation_en: null
+  Type: EU body
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: médiateur européen
+  Name_es: Defensor del Pueblo Europeo
+European Public Prosecutor’s Office:
+  Wikidata_code: Q5413070
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Public Prosecutor’s Office
+  Abbreviation_en: EPPO
+  Type: EU body
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Parquet européen
+  Name_es: Fiscalía Europea
+European Data Protection Board:
+  Wikidata_code: Q26877724
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Data Protection Board
+  Abbreviation_en: EDPB
+  Type: EU body
+  Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Comité européen de la protection des données
+  Name_es: Comité Europeo de Protección de Datos
+European Defence Agency:
+  Wikidata_code: Q1134173
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Defence Agency
+  Abbreviation_en: EDA
+  Type: EU common foreign and security policy agency or body
+  Source: https://web.archive.org/web/20230503174334/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32015D1835
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Agence européenne de défense
+  Name_es: Agencia Europea de Defensa
+European Union Satellite Centre:
+  Wikidata_code: Q1388519
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European Union Satellite Centre
+  Abbreviation_en: EUSC
+  Name_other_en: SATCEN
+  Name_other_2_en: EU Satellite Centre
+  Type: EU common foreign and security policy agency or body
+  Source: https://web.archive.org/web/20230514042152/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014D0401
+  OpenSanctions_id: bic-EUSNES21
+  Name_fr: centre satellitaire de l'Union européenne
+  Name_es: Centro de Satélites de la Unión Europea
+Supply Agency of the European Atomic Energy Community:
+  Wikidata_code: Q1374308
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: Supply Agency of the European Atomic Energy Community
+  Abbreviation_en: ESA
+  Name_other_en: Euratom Supply Agency
+  Type: Euratom agencies and bodies
+  Source: https://www.legislation.gov.uk/eut/euratom/title/II/chapter/6
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Agence d'approvisionnement d'EURATOM
+Fusion for Energy Joint Undertaking:
+  Wikidata_code: Q5510278
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: Fusion for Energy Joint Undertaking
+  Abbreviation_en: F4E
+  Name_other_en: Fusion for Energy
+  Name_other_2_en: The European Joint Undertaking for ITER and the Development of
+  Type: Euratom agencies and bodies
+  Source: https://web.archive.org/web/20240305173612/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32007D0198
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Fusion for Energy
+  Name_es: Fusion for Energy
+Chips Joint Undertaking:
+  Wikidata_code: Q133884004
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: Chips Joint Undertaking
+  Abbreviation_en: null
+  Name_other_en: Chips JU
+  Type: EU joint undertaking
+  Source: https://web.archive.org/web/20231025101944/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1782
+  OpenSanctions_id: '[No code found.]'
+Circular Bio-based Europe Joint Undertaking:
+  Wikidata_code: Q133884431
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: Circular Bio-based Europe Joint Undertaking
+  Name_other_en: Circular Bio-based Europe JU
+  Abbreviation_en: CBE JU
+  Type: EU joint undertaking
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085
+  OpenSanctions_id: '[No code found.]'
+Clean Aviation Joint Undertaking:
+  Wikidata_code: Q133884512
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: Clean Aviation Joint Undertaking
+  Name_other_en: Clean Aviation JU
+  Abbreviation_en: CAJU
+  Type: EU joint undertaking
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085
+  OpenSanctions_id: '[No code found.]'
+Clean Hydrogen Joint Undertaking:
+  Wikidata_code: Q133884630
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: Clean Hydrogen Joint Undertaking
+  Name_other_en: Clean Hydrogen JU
+  Abbreviation_en: null
+  Type: EU joint undertaking
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085
+  OpenSanctions_id: '[No code found.]'
+Europe’s Rail Joint Undertaking:
+  Wikidata_code: Q133884985
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: Europe’s Rail Joint Undertaking
+  Name_other_en: Europe’s Rail JU
+  Abbreviation_en: null
+  Type: EU joint undertaking
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085
+  OpenSanctions_id: '[No code found.]'
+Global Health EDCTP3 Joint Undertaking:
+  Wikidata_code: Q30296681
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: Global Health EDCTP3 Joint Undertaking
+  Name_other_en: Global Health EDCTP3 JU
+  Abbreviation_en: null
+  Type: EU joint undertaking
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085
+  OpenSanctions_id: '[No code found.]'
+Innovative Health Initiative Joint Undertaking:
+  Wikidata_code: Q118695652
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: Innovative Health Initiative Joint Undertaking
+  Name_other_en: Innovative Health Initiative JU
+  Abbreviation_en: null
+  Type: EU joint undertaking
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085
+  OpenSanctions_id: '[No code found.]'
+European High Performance Computing Joint Undertaking:
+  Wikidata_code: Q60983149
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: European High Performance Computing Joint Undertaking
+  Name_other_en: European High Performance Computing JU
+  Abbreviation_en: EuroHPC JU
+  Type: EU joint undertaking
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32021R1173
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: entreprise commune européenne pour le calcul à haute performance
+  Name_es: Empresa Común Europea de Informática de Alto Rendimiento
+SESAR 3 Joint Undertaking:
+  Wikidata_code: Q3055255
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: SESAR 3 Joint Undertaking
+  Name_other_en: SESAR 3 JU
+  Name_other_2_en: Single European Sky ATM Research 3 Joint Undertaking
+  Abbreviation_en: null
+  Type: EU joint undertaking
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085
+  OpenSanctions_id: '[No code found.]'
+  Name_fr: Entreprise commune SESAR
+Smart Networks and Services Joint Undertaking:
+  Wikidata_code: Q133886014
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: eu
+  Name_en: Smart Networks and Services Joint Undertaking
+  Name_other_en: Smart Networks and Services JU
+  Abbreviation_en: null
+  Type: EU joint undertaking
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085
+  OpenSanctions_id: '[No code found.]'
+European Schools:
+  Wikidata_code: Q30104861
+  Entity_type: International organisation
+  Org_family: EU institutions and bodies
+  Country: zz
+  Name_en: European Schools
+  Abbreviation_en: null
+  Treaty_url: https://www.eursc.eu/BasicTexts/SW1_21994A0817-en.pdf
+  OpenSanctions_id: '[No code found.]'
 Council of Europe:
   Wikidata_code: Q8908
   Entity_type: International organisation
