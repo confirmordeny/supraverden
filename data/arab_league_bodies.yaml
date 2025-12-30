@@ -122,4 +122,26 @@ Arab Satellite Communications Organisation:
   Treaty_url: https://www.lloc.gov.bh/FullEn/L0199.docx
   OpenSanctions_id: '[No code found.]'
   Name_fr: Organisation arabe des satellites de communications
-  Name_es: Organización árabe de comunicaciones por satélite (Arabsat)
+  Name_es: Organización árabe de comunicaciones por satélite
+Arab Organization for Agricultural Development:
+  Wikidata_code: Q30082921
+  Entity_type: International organisation
+  Org_family: Arab League entities
+  Country: zz
+  Name_en: Arab Organization for Agricultural Development
+  Abbreviation_en: AOAD
+  Treaty_url: https://www.lloc.gov.bh/Legislation/HTM/D0475
+  OpenSanctions_id: '[No code found.]'
+  Name_fr:
+  Name_es:
+Arab Organization for Communication and Information Technologies:
+  Wikidata_code: Q4783192
+  Entity_type: International organisation
+  Org_family: Arab League entities
+  Country: zz
+  Name_en: Arab Organization for Communication and Information Technologies
+  Abbreviation_en: AICTO
+  Treaty_url: https://decree.om/2005/tre20050026a/
+  OpenSanctions_id: '[No code found.]'
+  Name_fr:
+  Name_es:
