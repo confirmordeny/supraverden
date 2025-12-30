@@ -23,7 +23,7 @@
 * Mercosur entities (3 entities)
 * none (244 entities)
 * Nordic Council entities (5 entities)
-* North South bodies (18 entities)
+* North South bodies (9 entities)
 * OAS institutions and bodies (12 entities)
 * Organisation for Economic Co-operation and Development entities (3 entities)
 * Organisation of Islamic Cooperation (1 entity)
