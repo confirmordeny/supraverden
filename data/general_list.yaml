@@ -178,6 +178,13 @@ Justice Studies Center for the Americas:
   Type: OAS entity
   Source: https://web.archive.org/web/20050418013202/https://www.oas.org/juridico/english/ga-res99/agres1.htm
   OpenSanctions_id: '[No code found.]'
+Administrative Tribunal of the Organization of American States:
+  Wikidata_code: '[No code found.]'
+  Org_family: Org_family: OAS institutions and bodies
+  Country: zz
+  Name_en: Administrative Tribunal of the Organization of American States
+  Source: https://www.oas.org/ext/Portals/31/documents/Statute%20of%20the%20Administrative%20Tribunal%20I.pdf
+  OpenSanctions_id: '[No code found.]'
 Inter-American Development Bank:
   Wikidata_code: Q1153087
   Entity_type: International organisation
@@ -3567,3 +3574,4 @@ North/South Ministerial Council:
   Source: https://www.northsouthministerialcouncil.org/north-south-implementation-bodies
   OpenSanctions_id: '[No code found.]'
   Name_fr: Ministerrådet Nord–Syd
+
