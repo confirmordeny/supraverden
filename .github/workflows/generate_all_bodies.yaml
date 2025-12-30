@@ -10,7 +10,6 @@ on:
       - main
     paths:
       # Run when any of the data files change
-      - 'data/arab_league_bodies.yaml'
       - 'data/eu_bodies.yaml'
       - 'data/general_list.yaml'
       - 'data/united_nations.yaml'
