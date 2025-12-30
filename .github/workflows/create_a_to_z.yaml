@@ -149,4 +149,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "docs: Auto-update alphabetical bodies list"
-          file_pattern: "dist/BODIES_LIST.md"
+          file_pattern: "dist/ENGLISH_A_TO_Z_LIST.md"
