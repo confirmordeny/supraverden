@@ -574,6 +574,7 @@
 - Secretariat of the Convention on Biological Diversity
 - SESAR 3 Joint Undertaking
 - Shanghai Cooperation Organisation
+- Simón Bolívar Andean University
 - Single Resolution Board
 - Smart Networks and Services Joint Undertaking
 - South Asian Association for Regional Cooperation
