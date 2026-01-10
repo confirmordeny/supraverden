@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 555 international organisations in the table.
+There are currently 556 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -485,6 +485,7 @@ There are currently 555 international organisations in the table.
 | Secretariat of the Convention on Biological Diversity | N/A | UN Environment Programme entities | [Treaty](https://www.cbd.int/doc/legal/cbd-en.pdf) |
 | SESAR 3 Joint Undertaking | [Q3055255](https://www.wikidata.org/wiki/Q3055255) | EU institutions and bodies | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085) |
 | Shanghai Cooperation Organisation | [Q485207](https://www.wikidata.org/wiki/Q485207) | none | [Treaty](https://www.mea.gov.in/Portal/LegalTreatiesDoc/000M3130.pdf) |
+| Simón Bolívar Andean University | [Q136663772](https://www.wikidata.org/wiki/Q136663772) | Andean Community entities | [Treaty](https://www.uasb.edu.ec/wp-content/uploads/2021/03/ESTATUTO.pdf) |
 | Single Resolution Board | [Q19516507](https://www.wikidata.org/wiki/Q19516507) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | Smart Networks and Services Joint Undertaking | [Q133886014](https://www.wikidata.org/wiki/Q133886014) | EU institutions and bodies | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085) |
 | South Asian Association for Regional Cooperation | [Q145700](https://www.wikidata.org/wiki/Q145700) | none | [Treaty](https://www.saarc-sec.org/index.php/about-saarc/saarc-charter) |
