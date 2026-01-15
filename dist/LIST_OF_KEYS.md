@@ -6,6 +6,13 @@
   * fr
   * other
     * en
+* Assessment
+  * against
+    * FATFA
+      * definition
+* Basis
+  * for
+    * assessment
 * Country
 * Entity_type
 * Legal_type
