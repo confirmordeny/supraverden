@@ -13,6 +13,8 @@ United Nations:
   Source: https://www.un.org/en/about-us/main-bodies
   OpenSanctions_id: '[No code found.]'
   Name_es: Organización de las Naciones Unidas
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B1
 United Nations Security Council:
   Wikidata_code: Q37470
   Org_family: UN and affiliates
