@@ -23,7 +23,7 @@ Council of the European Union:
   OpenSanctions_id: '[No code found.]'
   Name_fr: Conseil de l'Union européenne
   Name_es: Consejo de la Unión Europea
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATFA_definition: Included
   Basis_for_assessment: B8
 Court of Justice of the European Union:
   Wikidata_code: Q4951
@@ -38,7 +38,7 @@ Court of Justice of the European Union:
   OpenSanctions_id: '[No code found.]'
   Name_fr: Cour de justice de l'Union européenne
   Name_es: Tribunal de Justicia de la Unión Europea
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATFA_definition: Included
   Basis_for_assessment: B8
 European Central Bank:
   Wikidata_code: Q8901
@@ -52,7 +52,7 @@ European Central Bank:
   OpenSanctions_id: NK-Ubo23KznV2pvcXMiQkTmvd
   Name_fr: Banque centrale européenne
   Name_es: Banco Central Europeo
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATFA_definition: Included
   Basis_for_assessment: B8
 European Commission:
   Wikidata_code: Q8880
@@ -65,7 +65,7 @@ European Commission:
   OpenSanctions_id: NK-KSpcRjPdvBkwrdiTx3VxGT
   Name_fr: Commission européenne
   Name_es: Comisión Europea
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATFA_definition: Included
   Basis_for_assessment: B8
 European Council:
   Wikidata_code: Q8886
@@ -79,7 +79,7 @@ European Council:
   OpenSanctions_id: '[No code found.]'
   Name_fr: Conseil européen
   Name_es: Consejo Europeo
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATFA_definition: Included
   Basis_for_assessment: B8
 European Court of Auditors:
   Wikidata_code: Q8900
@@ -93,7 +93,7 @@ European Court of Auditors:
   OpenSanctions_id: '[No code found.]'
   Name_fr: Cour des comptes européenne
   Name_es: Tribunal de Cuentas de la Unión Europea
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATFA_definition: Included
   Basis_for_assessment: B8
 European Parliament:
   Wikidata_code: Q8889
@@ -108,7 +108,7 @@ European Parliament:
   Source: https://web.archive.org/web/20250827094704/https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/types-institutions-and-bodies_en
   OpenSanctions_id: '[No code found.]'
   Name_es: Parlamento Europeo
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATFA_definition: Included
   Basis_for_assessment: B8
 European Investment Bank:
   Wikidata_code: Q192247
@@ -536,8 +536,9 @@ European Union Agency for Railways:
   OpenSanctions_id: '[No code found.]'
   Name_fr: Agence de l’Union européenne pour les chemins de fer
   Name_es: Agencia Ferroviaria Europea
-European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice:
-  Wikidata_code: Q4440501
+? European Union Agency for the Operational Management of Large-Scale IT Systems in
+  the Area of Freedom, Security and Justice
+: Wikidata_code: Q4440501
   Entity_type: International organisation
   Org_family: EU institutions and bodies
   Country: eu
@@ -1225,7 +1226,7 @@ Association of Southeast Asian Nations:
   Treaty_url: https://assets.publishing.service.gov.uk/media/5a7c072ee5274a7318b9097a/8472.pdf
   Name_fr: Association des nations de l'Asie du Sud-Est
   Name_es: Asociación de las Naciones de Asia Sudoriental
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATFA_definition: Included
   Basis_for_assessment: B7
 Mercosur:
   Wikidata_code: Q4264
@@ -4682,7 +4683,7 @@ Simón Bolívar Andean University:
   Org_family: Andean Community entities
   Country: zz
   Name_en: Simón Bolívar Andean University
-  Abbreviation_en:
+  Abbreviation_en: null
   Treaty_url: https://www.uasb.edu.ec/wp-content/uploads/2021/03/ESTATUTO.pdf
   OpenSanctions_id: '[No code found.]'
 Asian-African Legal Consultative Organisation:
@@ -4692,7 +4693,7 @@ Asian-African Legal Consultative Organisation:
   Country: zz
   Name_en: Asian-African Legal Consultative Organisation
   Abbreviation_en: AALCO
-  Treaty_url:
+  Treaty_url: null
   Source: https://www.aalco.int/Basicdocuments/HEADQUARTERS%20AGREEMENT%20BETWEEN%20THE%20GOVERNMENT%20OF%20THE%20REPUBLIC%20OF%20INDIA%20AND%20THE%20ASIAN%20AFRICAN%20LEGAL%20CONSULTATIVE%20COMMITTEE.pdf
   OpenSanctions_id: '[No code found.]'
 East African Legislative Assembly:
@@ -4703,8 +4704,9 @@ East African Legislative Assembly:
   Name_en: East African Legislative Assembly
   Abbreviation_en: EALA
   Treaty_url: https://www.eala.org/uploads/EAC_TREATY.pdf
-  Source:
+  Source: null
   OpenSanctions_id: '[No code found.]'
+  Name_fr: Assemblée législative est-africaine
 North Pacific Fisheries Commission:
   Wikidata_code: Q24834021
   Entity_type: International organisation
@@ -4713,5 +4715,5 @@ North Pacific Fisheries Commission:
   Name_en: North Pacific Fisheries Commission
   Abbreviation_en: NPFC
   Treaty_url: https://www.npfc.int/system/files/2017-01/Convention%20Text.pdf
-  Source:
+  Source: null
   OpenSanctions_id: '[No code found.]'
