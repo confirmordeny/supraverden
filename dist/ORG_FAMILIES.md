@@ -36,6 +36,6 @@
 * UN and affiliates (92 entities)
 * UN Environment Programme entities (2 entities)
 * Union of South American Nations entities (1 entity)
-* Unspecified (1 entity)
+* Unspecified (2 entities)
 * West African Economic and Monetary Union (4 entities)
 * World Bank Group entities (2 entities)
