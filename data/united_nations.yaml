@@ -1054,6 +1054,7 @@ Western and Central Pacific Fisheries Commission:
   Name_other_en: null
   Source: https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/
   Name_es: Comisión de Pesca del Pacífico Occidental y Central
+  OpenSanctions_id: '[No code found.]'
 General Fisheries Commission for the Mediterranean:
   Wikidata_code: Q134724326
   Org_family: UN and affiliates
@@ -1065,6 +1066,7 @@ General Fisheries Commission for the Mediterranean:
   Abbreviation_fr: null
   Name_other_en: null
   Source: https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/
+  OpenSanctions_id: '[No code found.]'
 Central Asian and Caucasus Regional Fisheries and Aquaculture Commission:
   Wikidata_code: Q134723600
   Org_family: UN and affiliates
@@ -1076,6 +1078,7 @@ Central Asian and Caucasus Regional Fisheries and Aquaculture Commission:
   Abbreviation_fr: null
   Name_other_en: null
   Source: https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/
+  OpenSanctions_id: '[No code found.]'
 Coordinating Working Party on Fishery Statistics:
   Wikidata_code: Q5168022
   Org_family: UN and affiliates
@@ -1087,6 +1090,7 @@ Coordinating Working Party on Fishery Statistics:
   Abbreviation_fr: null
   Name_other_en: null
   Source: https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/
+  OpenSanctions_id: '[No code found.]'
 Regional Commission for Fisheries:
   Wikidata_code: Q134724812
   Org_family: UN and affiliates
@@ -1098,3 +1102,4 @@ Regional Commission for Fisheries:
   Abbreviation_fr: null
   Name_other_en: null
   Source: https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/
+  OpenSanctions_id: '[No code found.]'
