@@ -10,7 +10,7 @@
 |---|---|---|---|
 | Asia-Pacific Fishery Commission | [Q4806252](https://www.wikidata.org/wiki/Q4806252) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Central Asian and Caucasus Regional Fisheries and Aquaculture Commission | [Q134723600](https://www.wikidata.org/wiki/Q134723600) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
-| Commission for Inland Fisheries and Aquaculture of Latin America and the Caribbean | N/A | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
+| Commission for Inland Fisheries and Aquaculture of Latin America and the | N/A | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Commission for Social Development | [Q3684758](https://www.wikidata.org/wiki/Q3684758) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Commission on Crime Prevention and Criminal Justice | [Q104842946](https://www.wikidata.org/wiki/Q104842946) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Commission on Narcotic Drugs | [Q469618](https://www.wikidata.org/wiki/Q469618) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
@@ -82,7 +82,7 @@
 | United Nations Office for Project Services | [Q2531088](https://www.wikidata.org/wiki/Q2531088) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations Peacebuilding Commission | [Q1534084](https://www.wikidata.org/wiki/Q1534084) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations Population Fund | [Q623036](https://www.wikidata.org/wiki/Q623036) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
-| United Nations Relief and Works Agency for Palestine Refugees in the Near East | [Q846656](https://www.wikidata.org/wiki/Q846656) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
+| United Nations Relief and Works Agency for Palestine Refugees in the Near | [Q846656](https://www.wikidata.org/wiki/Q846656) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations Research Institute For Social Development | [Q962612](https://www.wikidata.org/wiki/Q962612) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations Secretariat | [Q220563](https://www.wikidata.org/wiki/Q220563) | UN and affiliates | [Main Bodies](https://www.un.org/en/about-us/main-bodies) |
 | United Nations Security Council | [Q37470](https://www.wikidata.org/wiki/Q37470) | UN and affiliates | [Main Bodies](https://www.un.org/en/about-us/main-bodies) |
