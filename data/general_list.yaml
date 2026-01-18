@@ -4695,3 +4695,13 @@ Asian-African Legal Consultative Organisation:
   Treaty_url:
   Source: https://www.aalco.int/Basicdocuments/HEADQUARTERS%20AGREEMENT%20BETWEEN%20THE%20GOVERNMENT%20OF%20THE%20REPUBLIC%20OF%20INDIA%20AND%20THE%20ASIAN%20AFRICAN%20LEGAL%20CONSULTATIVE%20COMMITTEE.pdf
   OpenSanctions_id: '[No code found.]'
+East African Legislative Assembly:
+  Wikidata_code: Q5327657
+  Entity_type: International organisation
+  Org_family: East African Community
+  Country: zz
+  Name_en: East African Legislative Assembly
+  Abbreviation_en: EALA
+  Treaty_url: https://www.eala.org/uploads/EAC_TREATY.pdf
+  Source:
+  OpenSanctions_id: '[No code found.]'
