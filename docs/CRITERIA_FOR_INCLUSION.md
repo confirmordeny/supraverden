@@ -3,6 +3,8 @@
 # Introduction
 The aim is to create a list of international organisations. For this purpose, we will define an international organisation as a legal person created by legal agreements between countries. To be clear, this should not cover organisations that operate in multiple countries but that are created under and subject to the national law (domestic law) of one country. If, however, an organisation is created under the laws of one country but is recognised as an international organisation in its home country by being afforded special immunities and privileges then it can be included.
 
+An organisation that operates in multiple countries around the world but that is subject to the laws of the countries in which it is based would not be included. For example, World Rugby is the international governing body for rugby union but is subject to the laws of Ireland where it is headquartered in the normal way and so it would not be included. Similarly, companies that trade in multiple countries without any special immunities or privileges would not be included.
+
 With some exceptions, only organisations that are legal persons in their own right are included. This means that in general we will only include organisations that exist legally distinct from their individual members, that can sue and be sued and own property. Sometimes an organisation is set up without legal personality initially but legal personality is granted later to enable the organisation to enter into contracts so that it can employ staff and obtain goods and services from suppliers. Once legal personality is granted the organisation can be included.
 
 # What is meant by a legal agreement?
