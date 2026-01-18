@@ -5,6 +5,7 @@ This repo is in the very early stages.
 
 ## Main outputs
 * [All bodies](dist/ALL_BODIES.md)
+* [Alphabetical list of names of international organisations in English](dist/ENGLISH_A_TO_Z_LIST.md)
 
 ## Documentation
 
