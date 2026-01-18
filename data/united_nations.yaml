@@ -309,6 +309,8 @@ International Maritime Organization:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
   Name_es: Organización Marítima Internacional
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B2
 United Nations Educational, Scientific and Cultural Organization:
   Wikidata_code: Q7809
   Org_family: UN and affiliates
