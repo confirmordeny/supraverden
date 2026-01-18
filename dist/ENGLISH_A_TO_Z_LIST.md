@@ -495,6 +495,7 @@
 - North Atlantic Treaty Organisation
 - North East Atlantic Fisheries Commission
 - North Pacific Anadromous Fish Commission
+- North Pacific Fisheries Commission
 - North Pacific Marine Science Organization
 - North-East Atlantic Fisheries Commission
 - North/South Language Body
