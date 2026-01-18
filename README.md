@@ -37,5 +37,10 @@ This repo include Q codes sourced from [Wikidata](https://www.wikidata.org/wiki/
 
 Quotes from FATFA publications are published in this repo under the principles of [fair dealing](https://www.gov.uk/guidance/exceptions-to-copyright#:~:text=%E2%80%98Fair%20dealing%E2%80%99%20is,with%20the%20work%3F) for the UK and [fair use](https://www.copyright.gov/fair-use/) for the USA. 
 
+## The name of the Repo
+The name Supraverden was created by mixing European languages:
+* [Supra](https://www.websters1913.com/words/Supra) — Latin for above/beyond and used in the [supranational] (https://en.wiktionary.org/wiki/supranational) which is used in English, French and German
+* [verden](https://en.wiktionary.org/wiki/verden) — Danish and Norweigan for World
+
 --------------------------------------------------------------------------------------
 Created by [confirmordeny](https://github.com/confirmordeny)
