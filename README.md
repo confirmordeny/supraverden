@@ -40,7 +40,7 @@ Quotes from FATFA publications are published in this repo under the principles o
 ## The name of the Repo
 The name Supraverden was created by mixing European languages:
 * [Supra](https://www.websters1913.com/words/Supra) — Latin word meaning over, above or beyond and used in the [supranational](https://en.wiktionary.org/wiki/supranational) which is used in English, French and German
-* [verden](https://en.wiktionary.org/wiki/verden) — Danish and Norweigan for World
+* [Verden](https://en.wiktionary.org/wiki/verden) — Danish and Norweigan for World
 
 --------------------------------------------------------------------------------------
 Created by [confirmordeny](https://github.com/confirmordeny)
