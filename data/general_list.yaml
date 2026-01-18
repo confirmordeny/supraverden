@@ -4705,3 +4705,13 @@ East African Legislative Assembly:
   Treaty_url: https://www.eala.org/uploads/EAC_TREATY.pdf
   Source:
   OpenSanctions_id: '[No code found.]'
+North Pacific Fisheries Commission:
+  Wikidata_code: Q24834021
+  Entity_type: International organisation
+  Org_family: none
+  Country: zz
+  Name_en: North Pacific Fisheries Commission
+  Abbreviation_en: NPFC
+  Treaty_url: https://www.npfc.int/system/files/2017-01/Convention%20Text.pdf
+  Source:
+  OpenSanctions_id: '[No code found.]'
