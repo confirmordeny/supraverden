@@ -1,9 +1,10 @@
 # All Supranational Bodies
 
-There are currently 557 international organisations in the table.
+There are currently 560 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
+| ? European Union Agency for the Operational Management of Large-Scale IT Systems in | N/A | N/A | N/A |
 | Administrative Tribunal of the Organization of American States | N/A | OAS institutions and bodies | [www.oas.org](https://www.oas.org/ext/Portals/31/documents/Statute%20of%20the%20Administrative%20Tribunal%20I.pdf) |
 | Advisory Centre on World Trade Organization Law | [Q3664799](https://www.wikidata.org/wiki/Q3664799) | none | [Treaty](https://web.archive.org/web/20140224004105/http://www.minbuza.nl/en/key-topics/treaties/search-the-treaty-database/1999/11/009244.html) |
 | Africa Centres for Disease Control and Prevention | [Q88234914](https://www.wikidata.org/wiki/Q88234914) | African Union entities | [Treaty](https://web.archive.org/web/20250220005838/https://au.int/sites/default/files/treaties/42517-treaty-EN_Revised_Statute_Africa_CDC.pdf) |
@@ -62,7 +63,7 @@ There are currently 557 international organisations in the table.
 | Asian Infrastructure Investment Bank | [Q18109843](https://www.wikidata.org/wiki/Q18109843) | none | [Treaty](https://www.aiib.org/en/about-aiib/basic-documents/_download/articles-of-agreement/basic_document_english-bank_articles_of_agreement.pdf) |
 | Asian Productivity organisation | [Q16166565](https://www.wikidata.org/wiki/Q16166565) | none | [Treaty](https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/35/11124) |
 | Asian Reinsurance Corporation | N/A | none | [Treaty](http://lawinfochina.com/display.aspx?id=7447&lib=tax) |
-| Asian-African Legal Consultative Organisation | N/A | none | [www.aalco.int](https://www.aalco.int/Basicdocuments/HEADQUARTERS%20AGREEMENT%20BETWEEN%20THE%20GOVERNMENT%20OF%20THE%20REPUBLIC%20OF%20INDIA%20AND%20THE%20ASIAN%20AFRICAN%20LEGAL%20CONSULTATIVE%20COMMITTEE.pdf) |
+| Asian-African Legal Consultative Organisation | N/A | none | [Treaty](null) |
 | Association of Caribbean States | [Q1147937](https://www.wikidata.org/wiki/Q1147937) | none | [Treaty](https://www.acs-aec.org/sites/default/files/acs_convention_eng.doc) |
 | Association of Iron Ore Exporting Countries | N/A | none | [Treaty](https://international.vlex.com/vid/accord-portant-creation-l-851216190) |
 | Association of Natural Rubber Producing Countries | N/A | none | [Treaty](https://treaties.fcdo.gov.uk/data/Library2/pdf/1993-TS0036.pdf) |
@@ -147,6 +148,7 @@ There are currently 557 international organisations in the table.
 | East African Community | [Q337456](https://www.wikidata.org/wiki/Q337456) | East African Community | [Treaty](https://investmentpolicy.unctad.org/international-investment-agreements/treaty-files/2487/download) |
 | East African Court of Justice | [Q5327654](https://www.wikidata.org/wiki/Q5327654) | none | [Treaty](https://www.eacj.org//wp-content/uploads/2012/08/EACJ-Treaty.pdf) |
 | East African Development Bank | [Q5327655](https://www.wikidata.org/wiki/Q5327655) | East African Community | [Treaty](https://eadb.org/site/assets/files/1125/eadb-treaty-charter.pdf) |
+| East African Legislative Assembly | [Q5327657](https://www.wikidata.org/wiki/Q5327657) | East African Community | [Treaty](https://www.eala.org/uploads/EAC_TREATY.pdf) |
 | East Mediterranean Gas Forum | [Q97163711](https://www.wikidata.org/wiki/Q97163711) | none | [Treaty](https://www.parliament.cy/images/media/redirectfile/EMGF%20signed%20Statute_%CE%9C%CE%AD%CF%81%CE%BF%CF%82%20%CE%99%20%CE%9D%CE%BF%CE%BC%CE%BF%CF%83%CF%87%CE%B5%CE%B4%CE%AF%CE%BF%CF%85.pdf) |
 | Eastern and Southern African Trade and Development Bank | [Q13657031](https://www.wikidata.org/wiki/Q13657031) | Common Market for Eastern and Southern Africa entities | [Treaty](https://www.tdbgroup.org/wp-content/uploads/2024/01/TDB-Charter-English-01.01.2024.pdf) |
 | Eastern Caribbean Central Bank | [Q1210260](https://www.wikidata.org/wiki/Q1210260) | Caribbean Community entities | [Treaty](https://www.eccb-centralbank.org/viewPDF/documents/2022-05-27-06-12-30-ECCB-Agreement.pdf) |
@@ -240,7 +242,7 @@ There are currently 557 international organisations in the table.
 | European Union Agency for Fundamental Rights | [Q48790](https://www.wikidata.org/wiki/Q48790) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | European Union Agency for Law Enforcement Training | [Q1377490](https://www.wikidata.org/wiki/Q1377490) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | European Union Agency for Railways | [Q369273](https://www.wikidata.org/wiki/Q369273) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
-| European Union Agency for the Operational Management of Large-Scale IT | [Q4440501](https://www.wikidata.org/wiki/Q4440501) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
+| European Union Agency for the Operational Management of Large-Scale IT | N/A | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | European Union Agency for the Space Programme | [Q55610347](https://www.wikidata.org/wiki/Q55610347) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | European Union Aviation Safety Agency | [Q276255](https://www.wikidata.org/wiki/Q276255) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | European Union Drugs Agency | [Q1377256](https://www.wikidata.org/wiki/Q1377256) | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
@@ -425,6 +427,7 @@ There are currently 557 international organisations in the table.
 | North Atlantic Treaty Organisation | [Q7184](https://www.wikidata.org/wiki/Q7184) | none | [Treaty](https://www.nato.int/cps/en/natohq/official_texts_17120.htm) |
 | North East Atlantic Fisheries Commission | [Q15106130](https://www.wikidata.org/wiki/Q15106130) | none | [Treaty](https://www.neafc.org/system/files/Text-of-NEAFC-Convention-04.pdf) |
 | North Pacific Anadromous Fish Commission | [Q12599115](https://www.wikidata.org/wiki/Q12599115) | none | [Treaty](https://www.npafc.org/wp-content/uploads/Public-Documents/Handbook/Handbook-3rd-E-Convention-Only-English.pdf) |
+| North Pacific Fisheries Commission | [Q24834021](https://www.wikidata.org/wiki/Q24834021) | none | [Treaty](https://www.npfc.int/system/files/2017-01/Convention%20Text.pdf) |
 | North Pacific Marine Science Organization | [Q21015877](https://www.wikidata.org/wiki/Q21015877) | none | [Treaty](https://meetings.pices.int/about/convention) |
 | North-East Atlantic Fisheries Commission | [Q15106130](https://www.wikidata.org/wiki/Q15106130) | none | [Treaty](https://www.neafc.org/system/files/Text-of-NEAFC-Convention-04.pdf) |
 | North/South Language Body | [Q7754333](https://www.wikidata.org/wiki/Q7754333) | North South bodies | [www.northsouthministerialcouncil.org](https://www.northsouthministerialcouncil.org/north-south-implementation-bodies) |
