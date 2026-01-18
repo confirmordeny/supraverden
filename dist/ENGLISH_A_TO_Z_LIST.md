@@ -171,6 +171,7 @@
 - East African Community
 - East African Court of Justice
 - East African Development Bank
+- East African Legislative Assembly
 - East Mediterranean Gas Forum
 - Eastern and Southern African Trade and Development Bank
 - Eastern Caribbean Central Bank
