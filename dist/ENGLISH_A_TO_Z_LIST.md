@@ -66,6 +66,7 @@
 - Asian Infrastructure Investment Bank
 - Asian Productivity organisation
 - Asian Reinsurance Corporation
+- Asian-African Legal Consultative Organisation
 - Association of Caribbean States
 - Association of Iron Ore Exporting Countries
 - Association of Natural Rubber Producing Countries
