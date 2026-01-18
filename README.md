@@ -18,7 +18,7 @@ See [Code of conduct](CODE_OF_CONDUCT.md)
 ## Copyright and license
 Copyright © Confirmordeny 2025–⁠2026 released under a [Creative Commons Attribution Share Alike 4.0 International](LICENSE.md)
 
-The author of this repository respects intellectual property rights. If you believe any content here infringes your copyright, please [raise an issue](https://github.com/confirmordeny/supraverden/issues/new) on the repo.
+The author of this repository respects intellectual property rights. If you believe any content here infringes your copyright, please [raise an issue](https://github.com/confirmordeny/supraverden/issues/new?title=Copyright%20Query) on the repo.
 
 In some cases, it may be possible to make contributions available under other licences. Please get in touch if this is something you would like to explore.
 
