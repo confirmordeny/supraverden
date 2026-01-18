@@ -1012,6 +1012,8 @@ Organization of American States:
   Type: OAS itself
   Source: https://www.oas.org/en/sla/dil/docs/inter_american_treaties_A-41_charter_OAS.pdf
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included
+  Basis_for_assessment: B4
 Pan‐American Institute of Geography and History:
   Wikidata_code: Q7129603
   Entity_type: International organisation
@@ -1170,7 +1172,7 @@ North Atlantic Treaty Organisation:
   Abbreviation_en: NATO
   Treaty_url: https://www.nato.int/cps/en/natohq/official_texts_17120.htm
   Assessment_against_FATFA_definition: Included
-  Basis_for_assessment: B4
+  Basis_for_assessment: B5
   Name_fr: Organisation du traité de l'Atlantique nord
   Name_es: OTAN
 Caribbean Community:
