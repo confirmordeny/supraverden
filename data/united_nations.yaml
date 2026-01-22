@@ -861,6 +861,7 @@ Economic Commission for Europe:
   Name_other_en: United Nations Economic Commission for Europe
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Comisión Económica de las Naciones Unidas para Europa
+  OpenSanctions_id: '[No code found.]'
 Economic Commission for Latin America and the Caribbean:
   Wikidata_code: Q32874
   Org_family: UN and affiliates
@@ -872,6 +873,7 @@ Economic Commission for Latin America and the Caribbean:
   Name_other_en: United Nations Economic Commission for Latin America and the Caribbean
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Comisión Económica para América Latina y el Caribe
+  OpenSanctions_id: '[No code found.]'
 Economic and Social Commission for Asia and the Pacific:
   Wikidata_code: Q1142901
   Org_family: UN and affiliates
@@ -882,6 +884,7 @@ Economic and Social Commission for Asia and the Pacific:
   Abbreviation_fr: null
   Name_other_en: United Nations Economic and Social Commission for Asia and the Pacific
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
+  OpenSanctions_id: '[No code found.]'
 Statistical Commission:
   Wikidata_code: Q15042419
   Org_family: UN and affiliates
@@ -892,6 +895,7 @@ Statistical Commission:
   Abbreviation_fr: null
   Name_other_en: United Nations Statistical Commission
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
+  OpenSanctions_id: '[No code found.]'
 Commission on Population and Development:
   Wikidata_code: Q5152731
   Org_family: UN and affiliates
@@ -902,6 +906,7 @@ Commission on Population and Development:
   Abbreviation_fr: null
   Name_other_en: United Nations Commission on Population and Development
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
+  OpenSanctions_id: '[No code found.]'
 Commission for Social Development:
   Wikidata_code: Q3684758
   Org_family: UN and affiliates
@@ -912,6 +917,7 @@ Commission for Social Development:
   Abbreviation_fr: null
   Name_other_en: United Nations Commission for Social Development
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
+  OpenSanctions_id: '[No code found.]'
 Commission on the Status of Women:
   Wikidata_code: Q2614097
   Org_family: UN and affiliates
@@ -923,6 +929,7 @@ Commission on the Status of Women:
   Name_other_en: United Nations Commission on the Status of Women
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Comisión de la Condición Jurídica y Social de la Mujer
+  OpenSanctions_id: '[No code found.]'
 Commission on Narcotic Drugs:
   Wikidata_code: Q469618
   Org_family: UN and affiliates
@@ -934,6 +941,7 @@ Commission on Narcotic Drugs:
   Name_other_en: United Nations Commission on Narcotic Drugs
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Comisión de Estupefacientes de Naciones Unidas
+  OpenSanctions_id: '[No code found.]'
 Commission on Crime Prevention and Criminal Justice:
   Wikidata_code: Q104842946
   Org_family: UN and affiliates
