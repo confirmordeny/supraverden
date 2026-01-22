@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 560 international organisations in the table.
+There are currently 561 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -103,6 +103,7 @@ There are currently 560 international organisations in the table.
 | Central Asian and Caucasus Regional Fisheries and Aquaculture Commission | [Q134723600](https://www.wikidata.org/wiki/Q134723600) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Central Bank of West African States | [Q620942](https://www.wikidata.org/wiki/Q620942) | West African Economic and Monetary Union | [Treaty](https://edit.wti.org/document/show/pdf/57ce5bd9-ef38-4a1d-abd5-ed07f1f155bf) |
 | Central Commission for the Navigation of the Rhine | [Q190650](https://www.wikidata.org/wiki/Q190650) | none | [Treaty](https://www.ccr-zkr.org/files/conventions/convrev_e.pdf) |
+| Centre on Integrated Rural Development for Asia and the Pacific | [Q5011840](https://www.wikidata.org/wiki/Q5011840) | none | [Treaty](https://faolex.fao.org/docs/pdf/mal33937.pdf) |
 | Chips Joint Undertaking | [Q133884004](https://www.wikidata.org/wiki/Q133884004) | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20231025101944/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1782) |
 | Circular Bio-based Europe Joint Undertaking | [Q133884431](https://www.wikidata.org/wiki/Q133884431) | EU institutions and bodies | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085) |
 | Clean Aviation Joint Undertaking | [Q133884512](https://www.wikidata.org/wiki/Q133884512) | EU institutions and bodies | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085) |
