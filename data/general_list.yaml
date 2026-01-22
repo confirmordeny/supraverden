@@ -1322,6 +1322,7 @@ Organization of Arab Petroleum Exporting Countries:
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%20681/volume-681-I-9707-English.pdf
   Name_fr: Organisation des pays arabes exportateurs de pétrole
   Name_es: Organización de Países Árabes Exportadores de Petróleo
+  OpenSanctions_id: '[No code found.]'
 Organization of the Petroleum Exporting Countries:
   Wikidata_code: Q7795
   Entity_type: International organisation
@@ -1332,6 +1333,7 @@ Organization of the Petroleum Exporting Countries:
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%20443/volume-443-I-6363-English.pdf
   Name_fr: Organisation des pays exportateurs de pétrole
   Name_es: Organización de Países Exportadores de Petróleo
+  OpenSanctions_id: '[No code found.]'
 Financial Action Task Force:
   Wikidata_code: Q681487
   Entity_type: International organisation
@@ -1342,6 +1344,7 @@ Financial Action Task Force:
   Treaty_url: https://www.ico.org/documents/cy2021-22/ica-2022-e.pdf
   Name_fr: Groupe d'action financière
   Name_es: Grupo de Acción Financiera Internacional
+  OpenSanctions_id: '[No code found.]'
 European Court of Human Rights:
   Wikidata_code: Q122880
   Entity_type: International organisation
@@ -1352,6 +1355,7 @@ European Court of Human Rights:
   Treaty_url: https://www.echr.coe.int/documents/d/echr/convention_ENG
   Name_fr: Cour européenne des droits de l'homme
   Name_es: Tribunal Europeo de Derechos Humanos
+  OpenSanctions_id: '[No code found.]'
 International Hydrographic Organisation:
   Wikidata_code: Q233611
   Entity_type: International organisation
