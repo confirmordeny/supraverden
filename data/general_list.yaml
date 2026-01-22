@@ -1289,6 +1289,7 @@ African Civil Aviation Commission:
   Abbreviation_en: AFCAC
   Treaty_url: https://web.archive.org/web/20250219222517/https://au.int/sites/default/files/treaties/37304-treaty-0040_-_constitution_for_the_african_civil_aviation_commission_-_afcac_revised_en.pdf
   Name_fr: Commission africaine de l'aviation civile
+  OpenSanctions_id: '[No code found.]'
 Arctic Council:
   Wikidata_code: Q674182
   Entity_type: International organisation
@@ -1299,6 +1300,7 @@ Arctic Council:
   Treaty_url: https://oaarchive.arctic-council.org/server/api/core/bitstreams/bdc15f51-fb91-4e0d-9037-3e8618e7b98f/content
   Name_fr: Conseil de l'Arctique
   Name_es: Consejo Ártico
+  OpenSanctions_id: '[No code found.]'
 Eurasian Economic Union:
   Wikidata_code: Q4173083
   Entity_type: International organisation
@@ -1309,6 +1311,7 @@ Eurasian Economic Union:
   Treaty_url: https://www.wto.org/english/thewto_e/acc_e/kaz_e/wtacckaz85_leg_1.pdf
   Name_fr: Union économique eurasiatique
   Name_es: Unión Económica Eurasiática
+  OpenSanctions_id: '[No code found.]'
 Organization of Arab Petroleum Exporting Countries:
   Wikidata_code: Q1052077
   Entity_type: International organisation
