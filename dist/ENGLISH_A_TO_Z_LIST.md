@@ -89,6 +89,7 @@
 - Benelux Court of Justice
 - Benelux Organisation for Intellectual Property
 - Black Sea Trade and Development Bank
+- Board of Peace
 - Brazilian-Argentine Agency for Accounting and Control of Nuclear Materials
 - British-Irish Council
 
