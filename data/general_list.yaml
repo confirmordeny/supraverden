@@ -1473,6 +1473,7 @@ International Telecommunications Satellite Organisation:
   Abbreviation_en: ITSO
   Treaty_url: https://itso.int/wp-content/uploads/2018/01/ITSO-Agreement-Booklet-new-version-FINAL-EnFrEs.pdf
   Name_fr: Organisation internationale de télécommunications par satellite
+  OpenSanctions_id: '[No code found.]'
 Oslo and Paris Commissions:
   Wikidata_code: Q125870138
   Entity_type: International organisation
@@ -1481,6 +1482,7 @@ Oslo and Paris Commissions:
   Name_en: Oslo and Paris Commissions
   Abbreviation_en: null
   Treaty_url: https://www.ospar.org/site/assets/files/1169/ospar_convention.pdf
+  OpenSanctions_id: '[No code found.]'
 International Oil Pollution Compensation Fund:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -1489,6 +1491,7 @@ International Oil Pollution Compensation Fund:
   Name_en: International Oil Pollution Compensation Fund
   Abbreviation_en: null
   Treaty_url: https://iopcfunds.org/wp-content/uploads/2018/03/69CLC_e.pdf
+  OpenSanctions_id: '[No code found.]'
 International Oil Pollution Compensation Fund 1992:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -1497,6 +1500,7 @@ International Oil Pollution Compensation Fund 1992:
   Name_en: International Oil Pollution Compensation Fund 1992
   Abbreviation_en: null
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201956/v1956.pdf
+  OpenSanctions_id: '[No code found.]'
 European Telecommunications Satellite Organization:
   Wikidata_code: Q47537350
   Entity_type: International organisation
@@ -1506,6 +1510,7 @@ European Telecommunications Satellite Organization:
   Abbreviation_en: Eutelsat IGO
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201519/volume-1519-I-26342-English.pdf
   Name_fr: Organisation européenne de télécommunications par satellite
+  OpenSanctions_id: '[No code found.]'
 North-East Atlantic Fisheries Commission:
   Wikidata_code: Q15106130
   Entity_type: International organisation
@@ -1515,6 +1520,7 @@ North-East Atlantic Fisheries Commission:
   Abbreviation_en: NEAFC
   Treaty_url: https://www.neafc.org/system/files/Text-of-NEAFC-Convention-04.pdf
   Name_fr: North East Atlantic Fishery Commission
+  OpenSanctions_id: '[No code found.]'
 International Mobile Satellite Organization:
   Wikidata_code: Q1666759
   Entity_type: International organisation
@@ -1524,6 +1530,7 @@ International Mobile Satellite Organization:
   Abbreviation_en: IMSO
   Treaty_url: https://imso.org/wp-content/uploads/2025/03/IMSO-C-1976-A-5-Resolution-A.529-E-F-S-R-1.pdf
   Name_fr: International Mobile Satellite Organization
+  OpenSanctions_id: '[No code found.]'
 North Atlantic Salmon Conservation Organization:
   Wikidata_code: Q7053997
   Entity_type: International organisation
@@ -1533,6 +1540,7 @@ North Atlantic Salmon Conservation Organization:
   Abbreviation_en: NASCO
   Treaty_url: https://nasco.int/wp-content/uploads/2020/05/NASCO_Handbook.pdf
   Name_fr: Organisation pour la conservation du saumon de l'Atlantique Nord
+  OpenSanctions_id: '[No code found.]'
 European Organization for Astronomical Research in the Southern Hemisphere:
   Wikidata_code: Q151991
   Entity_type: International organisation
@@ -1544,6 +1552,7 @@ European Organization for Astronomical Research in the Southern Hemisphere:
   Treaty_url: https://assets.publishing.service.gov.uk/media/5a7c9c43e5274a29d8363b4a/5767.pdf
   Name_fr: Observatoire européen austral
   Name_es: Observatorio Europeo del Sur
+  OpenSanctions_id: '[No code found.]'
 European Space Agency:
   Wikidata_code: Q42262
   Entity_type: International organisation
@@ -1554,6 +1563,7 @@ European Space Agency:
   Treaty_url: https://download.esa.int/docs/LEX-L/ESA-Ratification-acts/United_Kingdom_(28_Mar_1978).pdf
   Name_fr: Agence spatiale européenne
   Name_es: Agencia Espacial Europea
+  OpenSanctions_id: bic-ESAZFRPP
 European Forest Institute:
   Wikidata_code: Q580400
   Entity_type: International organisation
@@ -1564,6 +1574,7 @@ European Forest Institute:
   Treaty_url: https://efi.int/sites/default/files/files/members/EFI_convention_final_SIW.pdf
   Name_fr: Institut européen de la forêt
   Name_es: Instituto Forestal Europeo
+  OpenSanctions_id: '[No code found.]'
 Global Combat Air Programme International Government Organisation:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -1572,6 +1583,7 @@ Global Combat Air Programme International Government Organisation:
   Name_en: Global Combat Air Programme International Government Organisation
   Abbreviation_en: null
   Treaty_url: https://assets.publishing.service.gov.uk/media/6762c109e6ff7c8a1fde9ab4/TS_98.2024_Convention_Establishment_GCAP_International_Government_Organisation.pdf
+  OpenSanctions_id: '[No code found.]'
 Square Kilometre Array Observatory:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -1580,6 +1592,7 @@ Square Kilometre Array Observatory:
   Name_en: Square Kilometre Array Observatory
   Abbreviation_en: null
   Treaty_url: https://assets.publishing.service.gov.uk/media/5d3197f3ed915d2fe2d7e1bc/MS_27.2019_SKAO_Convention_Square_Kilometre_Array_Telescope.pdf
+  OpenSanctions_id: '[No code found.]'
 International Criminal Police Organization:
   Wikidata_code: Q8475
   Entity_type: International organisation
@@ -1590,6 +1603,7 @@ International Criminal Police Organization:
   Treaty_url: https://web.archive.org/web/20160222055903/https://www.interpol.int/content/download/9429/69209/version/9/file/Constitution.pdf
   Name_fr: Interpol
   Name_es: Interpol
+  OpenSanctions_id: '[No code found.]'
 European Committee for Prevention of Torture:
   Wikidata_code: Q1378135
   Entity_type: International organisation
@@ -1601,6 +1615,7 @@ European Committee for Prevention of Torture:
   Name_fr: comité européen pour la prévention de la torture et des peines ou traitements
     inhumains ou dégradants
   Name_es: Comité Europeo para la prevención de la tortura
+  OpenSanctions_id: '[No code found.]'
 Common Fund for Commodities:
   Wikidata_code: Q604488
   Entity_type: International organisation
@@ -1609,6 +1624,7 @@ Common Fund for Commodities:
   Name_en: Common Fund for Commodities
   Abbreviation_en: null
   Treaty_url: https://treaties.un.org/pages/ViewDetailsIII.aspx?src=TREATY&mtdsg_no=XIX-21&chapter=19&Temp=mtdsg3&clang=_en
+  OpenSanctions_id: '[No code found.]'
 African Development Bank:
   Wikidata_code: Q340195
   Entity_type: International organisation
@@ -1619,6 +1635,7 @@ African Development Bank:
   Treaty_url: https://www.afdb.org/fileadmin/uploads/afdb/Documents/Legal-Documents/Agreement_establishing_the_African_development_bank_-_2016_edition.pdf
   Name_fr: Banque africaine de développement
   Name_es: Banco Africano de Desarrollo
+  OpenSanctions_id: bic-AFDBKEN1
 African Development Fund:
   Wikidata_code: Q100411453
   Entity_type: International organisation
