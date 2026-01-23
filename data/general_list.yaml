@@ -2361,6 +2361,7 @@ Niger Basin Authority:
   Treaty_url: http://gis.nacse.org/tfdd/tfdddocs/418ENG.pdf
   Name_fr: Autorité du Bassin du Niger
   Name_es: Autoridad de la Cuenca del Río Níger
+  OpenSanctions_id: '[No code found.]'
 Organization of Turkic States:
   Wikidata_code: Q596850
   Entity_type: International organisation
@@ -2371,6 +2372,7 @@ Organization of Turkic States:
   Treaty_url: https://www.turkicstates.org/u/d/basic-documents/nakhchivan-agreement-on-the-establishment-of-the-copperation-council-of-turkic-speaking-states-1-en.pdf
   Name_fr: Organisation des États turciques
   Name_es: Organización de Estados Túrquicos
+  OpenSanctions_id: '[No code found.]'
 Common Market for Eastern and Southern Africa:
   Wikidata_code: Q1165797
   Entity_type: International organisation
@@ -2381,6 +2383,7 @@ Common Market for Eastern and Southern Africa:
   Treaty_url: https://www.comesa.int/wp-content/uploads/2019/02/comesa-treaty-revised-20092012_with-zaire_final.pdf
   Name_fr: marché commun de l'Afrique orientale et australe
   Name_es: Mercado Común de África Oriental y Austral
+  OpenSanctions_id: '[No code found.]'
 COMESA Court of Justice:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -2389,6 +2392,7 @@ COMESA Court of Justice:
   Name_en: COMESA Court of Justice
   Abbreviation_en: null
   Treaty_url: https://www.comesa.int/wp-content/uploads/2019/02/comesa-treaty-revised-20092012_with-zaire_final.pdf
+  OpenSanctions_id: '[No code found.]'
 Community of Portuguese Language Countries:
   Wikidata_code: Q182500
   Entity_type: International organisation
@@ -2401,6 +2405,7 @@ Community of Portuguese Language Countries:
   Treaty_url: http://www.worldlii.org/int/other/treaties/UNTSer/2003/692.pdf
   Name_fr: communauté des pays de langue portugaise
   Name_es: Comunidad de Países de Lengua Portuguesa
+  OpenSanctions_id: '[No code found.]'
 Collective Security Treaty Organization:
   Wikidata_code: Q318693
   Entity_type: International organisation
@@ -2409,7 +2414,7 @@ Collective Security Treaty Organization:
   Name_en: Collective Security Treaty Organization
   Abbreviation_en: CSTO
   Treaty_url: https://en.odkb-csto.org/documents/documents/ustav_organizatsii_dogovora_o_kollektivnoy_bezopasnosti_/#loaded
-  OpenSanctions_id: rupep-company-43588
+  OpenSanctions_id: '[No code found.]'
   Name_fr: Organisation du traité de sécurité collective
   Name_es: Organización del Tratado de la Seguridad Colectiva
 Agency for Aerial Navigation Safety in Africa and Madagascar:
@@ -2421,6 +2426,7 @@ Agency for Aerial Navigation Safety in Africa and Madagascar:
   Abbreviation_en: ASECNA
   Treaty_url: https://www.asecna.aero/images/Docs/Publications/Convention/Convention_ASECNA_Version_Anglaise.pdf
   Name_fr: Agence pour la sécurité de la navigation aérienne en Afrique et à Madagascar
+  OpenSanctions_id: '[No code found.]'
 Shanghai Cooperation Organisation:
   Wikidata_code: Q485207
   Entity_type: International organisation
@@ -2431,6 +2437,7 @@ Shanghai Cooperation Organisation:
   Treaty_url: https://www.mea.gov.in/Portal/LegalTreatiesDoc/000M3130.pdf
   Name_fr: Organisation de coopération de Shanghai
   Name_es: Organización de Cooperación de Shanghái
+  OpenSanctions_id: '[No code found.]'
 Northwest Atlantic Fisheries Organization:
   Wikidata_code: Q580933
   Entity_type: International organisation
@@ -2440,6 +2447,7 @@ Northwest Atlantic Fisheries Organization:
   Abbreviation_en: NAFO
   Treaty_url: https://www.nafo.int/Portals/0/PDFs/key-publications/NAFOConvention.pdf
   Name_fr: Organisation des pêches de l'Atlantique nord-ouest
+  OpenSanctions_id: '[No code found.]'
 Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organisation:
   Wikidata_code: Q1480793
   Entity_type: International organisation
