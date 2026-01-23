@@ -2161,6 +2161,7 @@ ANZUS:
   Treaty_url: https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Completed_Inquiries/jfadt/usrelations/appendixb
   Name_fr: ANZUS
   Name_es: ANZUS
+  OpenSanctions_id: '[No code found.]'
 Salzburg Forum:
   Wikidata_code: Q7406988
   Entity_type: International organisation
@@ -2169,6 +2170,7 @@ Salzburg Forum:
   Name_en: Salzburg Forum
   Abbreviation_en: null
   Treaty_url: https://www.salzburgforum.org/Treaties_and_Agreement/CBE_Agreement.html
+  OpenSanctions_id: '[No code found.]'
 Tuvalu Trust Fund:
   Wikidata_code: Q7857109
   Entity_type: International organisation
@@ -2177,6 +2179,7 @@ Tuvalu Trust Fund:
   Name_en: Tuvalu Trust Fund
   Abbreviation_en: null
   Treaty_url: https://tuvalu-legislation.tv/cms/images/LEGISLATION/SUBORDINATE/1987/1987-0001/1987-0001_1.pdf
+  OpenSanctions_id: '[No code found.]'
 Southern African Customs Union:
   Wikidata_code: Q1344350
   Entity_type: International organisation
@@ -2187,6 +2190,7 @@ Southern African Customs Union:
   Treaty_url: https://www.sacu.int/uploads/documents/6a7ae39b41cba945b083e93a2e1a103d7cee629c.pdf
   Name_fr: Union douanière d'Afrique australe
   Name_es: Unión Aduanera de África Austral
+  OpenSanctions_id: '[No code found.]'
 International Commission for the Protection of the Danube River:
   Wikidata_code: Q699466
   Entity_type: International organisation
@@ -2197,6 +2201,7 @@ International Commission for the Protection of the Danube River:
   Notes: Not to be confused with the Danube Commission.
   Treaty_url: https://www.icpdr.org/sites/default/files/DRPC%20English%20ver.pdf
   Name_es: Comisión Internacional para la Protección del Río Danubio
+  OpenSanctions_id: '[No code found.]'
 Danube Commission:
   Wikidata_code: Q911204
   Entity_type: International organisation
@@ -2208,6 +2213,7 @@ Danube Commission:
     the Danube River.
   Treaty_url: https://www.danubecommission.org/uploads/doc/convention-en.pdf
   Name_fr: Commission du Danube
+  OpenSanctions_id: '[No code found.]'
 International Boundary and Water Commission:
   Wikidata_code: Q8348493
   Entity_type: International organisation
@@ -2217,6 +2223,7 @@ International Boundary and Water Commission:
   Abbreviation_en: IBWC
   Treaty_url: https://www.ibwc.gov/wp-content/uploads/2022/11/TREATY_OF_1889.pdf
   Name_es: Comisión Internacional de Límites y Aguas
+  OpenSanctions_id: '[No code found.]'
 Great Lakes Fishery Commission:
   Wikidata_code: Q2986576
   Entity_type: International organisation
@@ -2226,6 +2233,7 @@ Great Lakes Fishery Commission:
   Abbreviation_en: null
   Treaty_url: https://laws-lois.justice.gc.ca/eng/acts/F-17/FullText.html
   Name_fr: Commission des pêcheries des Grands Lacs
+  OpenSanctions_id: '[No code found.]'
 European Patent Organisation:
   Wikidata_code: Q685547
   Entity_type: International organisation
@@ -2236,6 +2244,7 @@ European Patent Organisation:
   Treaty_url: https://link.epo.org/web/EPC_17th_edition_2020_en.pdf
   Name_fr: Organisation européenne des brevets
   Name_es: Organización Europea de Patentes
+  OpenSanctions_id: '[No code found.]'
 Inter-American Investment Corporation:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -2244,6 +2253,7 @@ Inter-American Investment Corporation:
   Name_en: Inter-American Investment Corporation
   Abbreviation_en: null
   Treaty_url: https://assets.publishing.service.gov.uk/media/640b3cdc8fa8f5560820da5b/TS_11.2023_Agreement_Establishing_InterAmerican_Investment_Corporation.pdf
+  OpenSanctions_id: InNK-ad2outEGmesjZo22gqUzci
 Organisation of Islamic Cooperation:
   Wikidata_code: Q47543
   Entity_type: International organisation
@@ -2255,6 +2265,7 @@ Organisation of Islamic Cooperation:
   Treaty_url: https://www.oic-oci.org/upload/documents/charter/en/oic_charter_2018_en.pdf
   Name_fr: Organisation de la Coopération Islamique
   Name_es: Organización para la Cooperación Islámica
+  OpenSanctions_id: '[No code found.]'
 International Investment Bank:
   Wikidata_code: Q1824234
   Entity_type: International organisation
@@ -2265,6 +2276,7 @@ International Investment Bank:
   Treaty_url: https://iib.int/files/agreement_establishing_iib_with_its_charter.pdf
   Name_fr: Banque internationale d'investissement
   Name_es: Banco Internacional de Inversiones
+  OpenSanctions_id: bic-IIBMRUMM
 Indian Ocean Commission:
   Wikidata_code: Q1115631
   Entity_type: International organisation
