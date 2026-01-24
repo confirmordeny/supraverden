@@ -60,7 +60,7 @@ There are currently 561 international organisations in the table.
 | Asian Clearing Union | [Q2150936](https://www.wikidata.org/wiki/Q2150936) | none | [Treaty](https://web.archive.org/web/20230605224051/https://www.asianclearingunion.org/Agreement/CHAPTERI.aspx) |
 | Asian Development Bank | [Q188822](https://www.wikidata.org/wiki/Q188822) | none | [Treaty](https://www.adb.org/sites/default/files/institutional-document/32120/charter.pdf) |
 | Asian Infrastructure Investment Bank | [Q18109843](https://www.wikidata.org/wiki/Q18109843) | none | [Treaty](https://www.aiib.org/en/about-aiib/basic-documents/_download/articles-of-agreement/basic_document_english-bank_articles_of_agreement.pdf) |
-| Asian Productivity organisation | [Q16166565](https://www.wikidata.org/wiki/Q16166565) | none | [Treaty](https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/35/11124) |
+| Asian Productivity Organisation | [Q16166565](https://www.wikidata.org/wiki/Q16166565) | none | [Treaty](https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/35/11124) |
 | Asian Reinsurance Corporation | N/A | none | [Treaty](http://lawinfochina.com/display.aspx?id=7447&lib=tax) |
 | Asian-African Legal Consultative Organisation | N/A | none | [Treaty](null) |
 | Association of Caribbean States | [Q1147937](https://www.wikidata.org/wiki/Q1147937) | none | [Treaty](https://www.acs-aec.org/sites/default/files/acs_convention_eng.doc) |
