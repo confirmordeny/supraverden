@@ -3046,15 +3046,17 @@ SAARC Development Fund:
   Name_en: SAARC Development Fund
   Abbreviation_en: SDF
   Treaty_url: https://www.saarc-sec.org/index.php/resources/agreements-conventions/38-charter-of-the-saarc-development-fund/file
-Asian Productivity organisation:
+  OpenSanctions_id: '[No code found.]'
+Asian Productivity Organisation:
   Wikidata_code: Q16166565
   Entity_type: International organisation
   Org_family: none
   Country: zz
-  Name_en: Asian Productivity organisation
+  Name_en: Asian Productivity Organisation
   Abbreviation_en: null
   Treaty_url: https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/35/11124
   Name_fr: Organisation asiatique de productivité
+  OpenSanctions_id: '[No code found.]'
 Caribbean Meteorological Organisation:
   Wikidata_code: Q5039400
   Entity_type: International organisation
@@ -3063,6 +3065,7 @@ Caribbean Meteorological Organisation:
   Name_en: Caribbean Meteorological Organisation
   Abbreviation_en: null
   Treaty_url: http://www.cmo.org.tt/docs/AGREEMENT.pdf
+  OpenSanctions_id: '[No code found.]'
 Financial Fund for the Development of the River Plate Basin:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -3071,6 +3074,7 @@ Financial Fund for the Development of the River Plate Basin:
   Name_en: Financial Fund for the Development of the River Plate Basin
   Abbreviation_en: null
   Treaty_url: https://www.fonplata.org/sites/default/files/paginas-fonplata/archivos/EN%20-%20Constitutive%20Agreement%20%28Update%202018%29.pdf
+  OpenSanctions_id: '[No code found.]'
 International Committee of Military Medicine:
   Wikidata_code: Q1257637
   Entity_type: International organisation
@@ -3080,6 +3084,7 @@ International Committee of Military Medicine:
   Abbreviation_en: ICMM
   Treaty_url: https://cimm-icmm.org/wp-content/uploads/2025/03/241008-ENG-Statutes-of-the-ICMM.pdf
   Name_fr: Comité international de médecine militaire
+  OpenSanctions_id: '[No code found.]'
 International Council for Exploration of the Sea:
   Wikidata_code: Q1613859
   Entity_type: International organisation
@@ -3090,6 +3095,7 @@ International Council for Exploration of the Sea:
   Treaty_url: https://www.ices.dk/about-ICES/who-we-are/Documents/ICES_Convention_1964.pdf
   Name_fr: Conseil international pour l'exploration de la mer
   Name_es: Consejo Internacional para la Exploración del Mar
+  OpenSanctions_id: '[No code found.]'
 International Development Law Organization:
   Wikidata_code: Q11977461
   Entity_type: International organisation
@@ -3100,6 +3106,7 @@ International Development Law Organization:
   Treaty_url: https://www.idlo.int/sites/default/files/documents/idlo_establishment_agreement_2019.pdf
   Name_fr: Organisation internationale de droit du développement
   Name_es: IDLO
+  OpenSanctions_id: '[No code found.]'
 International Commission on Missing Persons:
   Wikidata_code: Q676812
   Entity_type: International organisation
@@ -3109,6 +3116,7 @@ International Commission on Missing Persons:
   Abbreviation_en: ICMP
   Treaty_url: https://assets.publishing.service.gov.uk/media/5a80296de5274a2e87db836f/TS_9.2015_Cm_9063_WEB_ACC.pdf
   Name_fr: Commission internationale pour les personnes disparues
+  OpenSanctions_id: '[No code found.]'
 International Institute of Refrigeration:
   Wikidata_code: Q3152339
   Entity_type: International organisation
@@ -3118,6 +3126,7 @@ International Institute of Refrigeration:
   Abbreviation_en: IIR
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%20826/volume-826-I-11837-English.pdf
   Name_fr: Institut international du froid
+  OpenSanctions_id: '[No code found.]'
 Latin American Integration Association:
   Wikidata_code: Q607301
   Entity_type: International organisation
