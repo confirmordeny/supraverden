@@ -64,7 +64,7 @@
 - Asian Clearing Union
 - Asian Development Bank
 - Asian Infrastructure Investment Bank
-- Asian Productivity organisation
+- Asian Productivity Organisation
 - Asian Reinsurance Corporation
 - Asian-African Legal Consultative Organisation
 - Association of Caribbean States
