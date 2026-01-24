@@ -1643,6 +1643,7 @@ African Development Fund:
   Name_en: African Development Fund
   Abbreviation_en: null
   Treaty_url: https://www.afdb.org/en/documents/agreement-establishing-african-development-fund-2016-edition
+  OpenSanctions_id: '[No code found.]'
 Asian Development Bank:
   Wikidata_code: Q188822
   Entity_type: International organisation
@@ -1653,6 +1654,7 @@ Asian Development Bank:
   Treaty_url: https://www.adb.org/sites/default/files/institutional-document/32120/charter.pdf
   Name_fr: Banque asiatique de développement
   Name_es: Banco Asiático de Desarrollo
+  OpenSanctions_id: NK-hCyerPpXgxTfWxm5NETuAK
 Asian Infrastructure Investment Bank:
   Wikidata_code: Q18109843
   Entity_type: International organisation
@@ -1663,6 +1665,7 @@ Asian Infrastructure Investment Bank:
   Treaty_url: https://www.aiib.org/en/about-aiib/basic-documents/_download/articles-of-agreement/basic_document_english-bank_articles_of_agreement.pdf
   Name_fr: banque asiatique d'investissement pour les infrastructures
   Name_es: Banco Asiático de Inversión en Infraestructura
+  OpenSanctions_id: NK-eqFLKN9GAC977pmwXMRPWk
 Commonwealth Secretariat:
   Wikidata_code: Q3954348
   Entity_type: International organisation
@@ -1674,6 +1677,7 @@ Commonwealth Secretariat:
   Source: https://www.legislation.gov.uk/ukpga/1966/10
   Name_fr: Commonwealth Secretariat
   Name_es: Secretaría de la Mancomunidad de Naciones
+  OpenSanctions_id: '[No code found.]'
 Commonwealth Telecommunications Organisation:
   Wikidata_code: Q5153868
   Entity_type: International organisation
@@ -1684,6 +1688,7 @@ Commonwealth Telecommunications Organisation:
   Treaty_url: null
   Source: https://assets.publishing.service.gov.uk/media/5a82bacf40f0b62305b940a4/TS_20_2017_CM_9512_WEB.pdf
   Name_fr: Commonwealth Telecommunications Organisation
+  OpenSanctions_id: '[No code found.]'
 CAB International:
   Wikidata_code: Q5008528
   Entity_type: International organisation
@@ -1694,6 +1699,7 @@ CAB International:
   Treaty_url: https://www.cabi.org/wp-content/uploads/PDFs/AboutCABI/CABI-Agreement-2016.pdf
   Name_fr: CAB International
   Name_es: CAB International
+  OpenSanctions_id: '[No code found.]'
 European Organisation for the Safety of Air Navigation:
   Wikidata_code: Q663492
   Entity_type: International organisation
@@ -1704,6 +1710,7 @@ European Organisation for the Safety of Air Navigation:
   Treaty_url: https://www.interlex-portal.eu/FindLaw/Login/Index?returnUrl=%2FFindLaw%2FExport%2FExportMultiDocs%3Ftype%3Dpdf%26idsString%3D6742981
   Name_fr: Eurocontrol
   Name_es: Eurocontrol
+  OpenSanctions_id: '[No code found.]'
 European Bank for Reconstruction and Development:
   Wikidata_code: Q488981
   Entity_type: International organisation
@@ -1714,6 +1721,7 @@ European Bank for Reconstruction and Development:
   Treaty_url: https://www.ebrd.com/content/dam/ebrd_dxp/assets/pdfs/institutional-documents/basic-documents-of-the-ebrd-july-2025-english.pdf
   Name_fr: Banque européenne pour la reconstruction et le développement
   Name_es: Banco Europeo para la Reconstrucción y el Desarrollo
+  OpenSanctions_id: NK-Yf87d55xsW3Hm6BAZP6az7
 Caribbean Development Bank:
   Wikidata_code: Q3772571
   Entity_type: International organisation
@@ -1724,6 +1732,7 @@ Caribbean Development Bank:
   Treaty_url: https://treaties.un.org/doc/Treaties/1970/01/19700126%2006-49%20AM/Ch_X_06p.pdf
   Name_fr: Banque de développement des Caraïbes
   Name_es: Banco de Desarrollo del Caribe
+  OpenSanctions_id: NK-apUiKegLuDcYubFJQ3rjyg
 Cooperation Council for the Arab States of the Gulf:
   Wikidata_code: Q217172
   Entity_type: International organisation
@@ -1736,6 +1745,7 @@ Cooperation Council for the Arab States of the Gulf:
   Treaty_url: https://www.wipo.int/wipolex/en/text/590122
   Name_fr: Conseil de coopération du Golfe
   Name_es: Consejo de Cooperación para los Estados Árabes del Golfo
+  OpenSanctions_id: '[No code found.]'
 Economic Cooperation Organization:
   Wikidata_code: Q225950
   Entity_type: International organisation
@@ -1746,6 +1756,7 @@ Economic Cooperation Organization:
   Treaty_url: https://eco.int/wp-content/uploads/2017/05/Agreement-on-Legal-Status-of-the-ECO-National-Representatives-and-International-Staff.pdf
   Name_fr: Organisation de coopération économique
   Name_es: Organización de Cooperación Económica
+  OpenSanctions_id: '[No code found.]'
 Organization of Ibero-American States:
   Wikidata_code: Q421023
   Entity_type: International organisation
@@ -1757,6 +1768,7 @@ Organization of Ibero-American States:
   Name_fr: Organisation des États Ibéro-américains
   Name_es: Organización de Estados Iberoamericanos para la Educación, la Ciencia y
     la Cultura
+  OpenSanctions_id: '[No code found.]'
 Organization of the Black Sea Economic Cooperation:
   Wikidata_code: Q380340
   Entity_type: International organisation
