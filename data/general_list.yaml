@@ -3137,6 +3137,7 @@ Latin American Integration Association:
   Treaty_url: https://www2.aladi.org/biblioteca/Publicaciones/ALADI/Secretaria_General/Documentos_Sin_Codigos/Caja_062_001_en.pdf
   Name_fr: Association latino-américaine d’intégration
   Name_es: Asociación Latinoamericana de Integración
+  OpenSanctions_id: '[No code found.]'
 Hague Conference on Private International Law:
   Wikidata_code: Q4130823
   Entity_type: International organisation
@@ -3147,6 +3148,7 @@ Hague Conference on Private International Law:
   Treaty_url: https://assets.hcch.net/docs/d7d051ae-6dd1-4881-a3b5-f7dbcaad02ea.pdf
   Name_fr: Conférence de la Haye de droit international privé
   Name_es: Conferencia de La Haya de Derecho Internacional Privado
+  OpenSanctions_id: '[No code found.]'
 Group of Latin American and Caribbean Sugar Exporting Countries:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -3155,6 +3157,7 @@ Group of Latin American and Caribbean Sugar Exporting Countries:
   Name_en: Group of Latin American and Caribbean Sugar Exporting Countries
   Abbreviation_en: GEPLACEA
   Treaty_url: https://www.bacn.gov.py/leyes-paraguayas/907/ley-n-1321-aprueba-el-estatuto-del-grupo-de-paises-latinoamericanos-y-del-caribe-exportadores-de-azucar-geplacea
+  OpenSanctions_id: '[No code found.]'
 Inter-American Center for Tax Administrations:
   Wikidata_code: Q2585529
   Entity_type: International organisation
@@ -3165,6 +3168,7 @@ Inter-American Center for Tax Administrations:
   Treaty_url: https://ciatorg.sharepoint.com/sites/cds/Conocimientos/Gerencia_Ejecutiva_Operaciones/GestionInstitucional/LinieamientosEstrategicos/EstatutosyReglamentos/pdf/bylaws_regulatios_en.pdf?ga=1
   Name_fr: centre inter-américain des administrations fiscales
   Name_es: Centro Interamericano de Administraciones Tributarias
+  OpenSanctions_id: '[No code found.]'
 Global Crop Diversity Trust:
   Wikidata_code: Q2004478
   Entity_type: International organisation
@@ -3174,16 +3178,18 @@ Global Crop Diversity Trust:
   Abbreviation_en: null
   Treaty_url: https://www.croptrust.org/fileadmin/uploads/croptrust/Documents/Policy_Documents/Establish-Agreement-english.pdf
   Name_fr: Global Crop Diversity Trust
+  OpenSanctions_id: '[No code found.]'
 Joint Institute for Nuclear Research:
   Wikidata_code: Q259517
   Entity_type: International organisation
   Org_family: none
   Country: zz
   Name_en: Joint Institute for Nuclear Research
-  Abbreviation_en: null
+  Abbreviation_en: JINR
   Treaty_url: https://www.jinr.ru/wp-content/uploads/Advisory_Bodies/Agreement_JINR_English.pdf
   Name_fr: Institut unifié de recherches nucléaires
   Name_es: Instituto Central de Investigaciones Nucleares
+  OpenSanctions_id: NK-VzW4UF3eA7ydeHU3hgN3Cc
 Joint Vienna Institute:
   Wikidata_code: Q128996047
   Entity_type: International organisation
@@ -3192,6 +3198,7 @@ Joint Vienna Institute:
   Name_en: Joint Vienna Institute
   Abbreviation_en: null
   Treaty_url: https://www.elibrary.imf.org/display/book/9781451971125/ch062.xml
+  OpenSanctions_id: '[No code found.]'
 International Tropical Timber Organisation:
   Wikidata_code: Q869610
   Entity_type: International organisation
@@ -3202,6 +3209,7 @@ International Tropical Timber Organisation:
   Treaty_url: https://www.itto.int/direct/topics/topics_pdf_download/topics_id=3363&no=1&disp=inline
   Name_fr: Organisation Internationale pour les Bois Tropicaux
   Name_es: Organización Internacional de las Maderas Tropicales
+  OpenSanctions_id: '[No code found.]'
 Lake Chad Basin Commission:
   Wikidata_code: Q2986599
   Entity_type: International organisation
@@ -3211,6 +3219,7 @@ Lake Chad Basin Commission:
   Abbreviation_en: null
   Treaty_url: https://faolex.fao.org/docs/pdf/cmr1076.pdf
   Name_fr: Commission du bassin du lac Tchad
+  OpenSanctions_id: '[No code found.]'
 International Tea Promotion Association:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -3219,6 +3228,7 @@ International Tea Promotion Association:
   Name_en: International Tea Promotion Association
   Abbreviation_en: null
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201128/volume-1128-I-17582-English.pdf
+  OpenSanctions_id: '[No code found.]'
 World Organisation for Animal Health:
   Wikidata_code: Q1058594
   Entity_type: International organisation
@@ -3229,6 +3239,7 @@ World Organisation for Animal Health:
   Treaty_url: https://api.parliament.uk/uk-treaties/treaties/8880
   Name_fr: Organisation mondiale de la santé animale
   Name_es: Organización Mundial de Sanidad Animal
+  OpenSanctions_id: '[No code found.]'
 North Pacific Anadromous Fish Commission:
   Wikidata_code: Q12599115
   Entity_type: International organisation
@@ -3237,6 +3248,7 @@ North Pacific Anadromous Fish Commission:
   Name_en: North Pacific Anadromous Fish Commission
   Abbreviation_en: NPAFC
   Treaty_url: https://www.npafc.org/wp-content/uploads/Public-Documents/Handbook/Handbook-3rd-E-Convention-Only-English.pdf
+  OpenSanctions_id: '[No code found.]'
 Organisation for the Development of the Senegal River:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -3245,6 +3257,7 @@ Organisation for the Development of the Senegal River:
   Name_en: Organisation for the Development of the Senegal River
   Abbreviation_en: null
   Treaty_url: https://faolex.fao.org/docs/pdf/mul16004.pdf
+  OpenSanctions_id: '[No code found.]'
 Parliamentary Assembly of the Mediterranean:
   Wikidata_code: Q3369689
   Entity_type: International organisation
@@ -3255,6 +3268,7 @@ Parliamentary Assembly of the Mediterranean:
   Treaty_url: https://pam.int/wp-content/uploads/2021/12/PAM-Statutes-EN-FR-.pdf
   Name_fr: Assemblée parlementaire de la Méditerranée
   Name_es: Asamblea Parlamentaria del Mediterráneo
+  OpenSanctions_id: '[No code found.]'
 Secretariat of the Convention on Biological Diversity:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -3263,6 +3277,7 @@ Secretariat of the Convention on Biological Diversity:
   Name_en: Secretariat of the Convention on Biological Diversity
   Abbreviation_en: CBD Secretariat
   Treaty_url: https://www.cbd.int/doc/legal/cbd-en.pdf
+  OpenSanctions_id: '[No code found.]'
 European and Mediterranean Plant Protection Organization:
   Wikidata_code: Q1967903
   Entity_type: International organisation
