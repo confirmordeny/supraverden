@@ -3947,6 +3947,7 @@ Eurasian Development Bank:
   OpenSanctions_id: bic-EABRKZKA
   Name_fr: Banque eurasiatique de développement
   Name_es: Banco de Desarrollo Euroasiático
+  OpenSanctions_id: bic-EABRKZKA
 Central Bank of West African States:
   Wikidata_code: Q620942
   Entity_type: International organisation
@@ -3957,6 +3958,7 @@ Central Bank of West African States:
   Treaty_url: https://edit.wti.org/document/show/pdf/57ce5bd9-ef38-4a1d-abd5-ed07f1f155bf
   Name_fr: Banque centrale des États de l'Afrique de l'Ouest
   Name_es: Banco Central de los Estados de África Occidental
+  OpenSanctions_id: NK-mxyB8RdssqTPhWAWwS9dyb
 West African Development Bank:
   Wikidata_code: Q2883427
   Entity_type: International organisation
@@ -3967,6 +3969,7 @@ West African Development Bank:
   Treaty_url: https://edit.wti.org/document/show/pdf/57ce5bd9-ef38-4a1d-abd5-ed07f1f155bf
   Name_fr: Banque ouest-africaine de développement
   Name_es: Banco de Desarrollo del África Occidental
+  OpenSanctions_id: bic-BOADTGTG
 Liptako-Gourma Region Integrated Development Authority:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -3975,6 +3978,7 @@ Liptako-Gourma Region Integrated Development Authority:
   Name_en: Liptako-Gourma Region Integrated Development Authority
   Abbreviation_en: null
   Treaty_url: https://liptakogourma.org/wp-content/uploads/2020/09/Traite-revise_ALG.pdf
+  OpenSanctions_id: '[No code found.]'
 CAF - Development Bank of Latin America and the Caribbean:
   Wikidata_code: Q2614129
   Entity_type: International organisation
@@ -3985,6 +3989,7 @@ CAF - Development Bank of Latin America and the Caribbean:
   Treaty_url: http://www.commonlii.org/jm/legis/consol_act/adcaa1999386.pdf
   Name_fr: Corporación Andina de Fomento
   Name_es: CAF -banco de desarrollo de América Latina y el Caribe
+  OpenSanctions_id: NK-4YJeYJoEQM8HrqKFVrSDXj
 International Iberian Nanotechnology Laboratory:
   Wikidata_code: Q6051048
   Entity_type: International organisation
@@ -3994,6 +3999,7 @@ International Iberian Nanotechnology Laboratory:
   Abbreviation_en: INL
   Treaty_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/59-2007-628500
   Name_es: Laboratorio Ibérico Internacional de Nanotecnología
+  OpenSanctions_id: '[No code found.]'
 Latin American Faculty of Social Sciences:
   Wikidata_code: Q255898
   Entity_type: International organisation
@@ -4004,6 +4010,7 @@ Latin American Faculty of Social Sciences:
   Treaty_url: http://www.worldlii.org/int/other/treaties/UNTSer/1976/165.pdf
   Name_fr: Facultad Latinoamericana de Ciencias Sociales
   Name_es: Facultad Latinoamericana de Ciencias Sociales
+  OpenSanctions_id: '[No code found.]'
 Pacific Salmon Commission:
   Wikidata_code: Q7122672
   Entity_type: International organisation
@@ -4013,6 +4020,7 @@ Pacific Salmon Commission:
   Abbreviation_en: null
   Treaty_url: https://www.psc.org/download/45/miscellaneous/2337/pacific-salmon-treaty.pdf
   Name_fr: Pacific Salmon Commission
+  OpenSanctions_id: '[No code found.]'
 International Exhibition Bureau:
   Wikidata_code: Q1010514
   Entity_type: International organisation
@@ -4024,6 +4032,7 @@ International Exhibition Bureau:
   Treaty_url: https://www.state.gov/wp-content/uploads/2019/02/17-510-Multilateral-Cultural-Expositions.pdf
   Source: https://www.aph.gov.au/-/media/02_Parliamentary_Business/24_Committees/244_Joint_Committees/JSCT/2015/11August2015/ATS_39.pdf
   Name_es: Bureau international des expositions
+  OpenSanctions_id: kprusi-5e9fcef5e415897a5d9d1815b2fd7d6edf618dc8/
 International Centre for the Study of the Preservation and the Restoration of Cultural Property:
   Wikidata_code: Q590182
   Entity_type: International organisation
@@ -4037,6 +4046,7 @@ International Centre for the Study of the Preservation and the Restoration of Cu
     biens culturels
   Name_es: Centro Internacional de Estudios de Conservación y Restauración de los
     Bienes Culturales
+  OpenSanctions_id: '[No code found.]'
 CGIAR System Organization:
   Wikidata_code: Q1128401
   Entity_type: International organisation
@@ -4048,6 +4058,7 @@ CGIAR System Organization:
   Treaty_url: https://cgspace.cgiar.org/server/api/core/bitstreams/8aa699f3-1099-4d0d-af47-9892a0604f55/content?authentication-token=eyJhbGciOiJIUzI1NiJ9.eyJlaWQiOiI2NjVlOTAxZS00OGNiLTRlYmEtOGMzZi1kMGVjNDMxNzNkZDQiLCJzZyI6W10sImF1dGhlbnRpY2F0aW9uTWV0aG9kIjoicGFzc3dvcmQiLCJleHAiOjE3MzM1ODAzOTd9.kiKKOV7F05wemIxZhZobZxGuIxQ2BCVcoD9T8sCWg5A
   Name_fr: CGIAR
   Name_es: CGIAR
+  OpenSanctions_id: '[No code found.]'
 International Centre for Agriculture Research in the Dry Areas:
   Wikidata_code: Q601277
   Entity_type: International organisation
@@ -4057,6 +4068,7 @@ International Centre for Agriculture Research in the Dry Areas:
   Abbreviation_en: ICARDA
   Treaty_url: https://icarda.org/sites/default/files/2020-09/ICARDA%20Charter.pdf
   Name_fr: centre international de recherche agricole dans les zones arides
+  OpenSanctions_id: '[No code found.]'
 Secretariat of the BBNJ Agreement:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -4065,6 +4077,7 @@ Secretariat of the BBNJ Agreement:
   Name_en: Secretariat of the BBNJ Agreement
   Abbreviation_en: null
   Treaty_url: https://www.un.org/bbnjagreement/sites/default/files/2024-08/Text%20of%20the%20Agreement%20in%20English.pdf
+  OpenSanctions_id: '[No code found.]'
 Central African States Development Bank:
   Wikidata_code: Q16531299
   Entity_type: International organisation
@@ -4075,6 +4088,7 @@ Central African States Development Bank:
   Treaty_url: https://web.archive.org/web/20231004104704/https://www.bdeac.org/upload/docs/application/pdf/2015-04/accord_portant_creation_de_la_bdeac.pdf
   Name_fr: Banque de développement des États de l'Afrique centrale
   Name_es: Banco de Desarrollo de los Estados del África Central
+  OpenSanctions_id: bic-BDEACGCG
 Benelux Court of Justice:
   Wikidata_code: Q2613970
   Entity_type: International organisation
@@ -4085,6 +4099,7 @@ Benelux Court of Justice:
   Treaty_url: null
   Source: https://www.benelux.int/en/information-for-citizens/benelux-union/our-organisation/
   Name_fr: Cour de Justice Benelux
+  OpenSanctions_id: '[No code found.]'
 Eastern Caribbean Supreme Court:
   Wikidata_code: Q3001122
   Entity_type: International organisation
@@ -4098,6 +4113,7 @@ Eastern Caribbean Supreme Court:
   Notes: ''
   Name_fr: Cour suprême de la Caraïbe orientale
   Name_es: Suprema Corte del Caribe Oriental
+  OpenSanctions_id: '[No code found.]'
 Zambezi Watercourse Commission:
   Wikidata_code: Q8065663
   Entity_type: International organisation
@@ -4108,6 +4124,7 @@ Zambezi Watercourse Commission:
   Treaty_url: https://www.zambezicommission.org/sites/default/files/clusters_pdfs/ZAMCOM%20agreement.pdf
   Source: null
   Name_fr: Zambezi Watercourse Commission
+  OpenSanctions_id: '[No code found.]'
 East African Court of Justice:
   Wikidata_code: Q5327654
   Entity_type: International organisation
@@ -4117,6 +4134,7 @@ East African Court of Justice:
   Abbreviation_en: null
   Treaty_url: https://www.eacj.org//wp-content/uploads/2012/08/EACJ-Treaty.pdf
   Source: null
+  OpenSanctions_id: '[No code found.]'
 Global Green Growth Institute:
   Wikidata_code: Q12586353
   Entity_type: International organisation
@@ -4128,6 +4146,7 @@ Global Green Growth Institute:
   Source: null
   Name_fr: Institut sur la croissance verte globale
   Name_es: Instituto de Crecimiento Verde Mundial
+  OpenSanctions_id: '[No code found.]'
 International Bamboo and Rattan Organization:
   Wikidata_code: Q6052145
   Entity_type: International organisation
@@ -4138,6 +4157,7 @@ International Bamboo and Rattan Organization:
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%202132/v2132.pdf#page=215
   Source: null
   Name_fr: Réseau international de recherche sur le bambou et le rotin
+  OpenSanctions_id: '[No code found.]'
 Caribbean Agricultural Research and Development Institute:
   Wikidata_code: Q25339749
   Entity_type: International organisation
@@ -4147,6 +4167,7 @@ Caribbean Agricultural Research and Development Institute:
   Abbreviation_en: CARDI
   Treaty_url: https://faolex.fao.org/docs/pdf/jam70785.pdf
   Source: null
+  OpenSanctions_id: '[No code found.]'
 Visegrad Patent Institute:
   Wikidata_code: Q21187824
   Entity_type: International organisation
@@ -4156,6 +4177,7 @@ Visegrad Patent Institute:
   Abbreviation_en: VPI
   Treaty_url: https://vpi.int/en/wp-content/uploads/2022/08/Agreement-on-founding-the-VPI.pdf
   Source: null
+  OpenSanctions_id: '[No code found.]'
 Pan African Postal Union:
   Wikidata_code: '[No code found].'
   Entity_type: International organisation
@@ -4165,6 +4187,7 @@ Pan African Postal Union:
   Abbreviation_en: PAPU
   Treaty_url: https://www.jus.uio.no/english/services/library/treaties/07/7-05/oau_postal_union.html
   Source: null
+  OpenSanctions_id: '[No code found.]'
 African and Malagasy Council for Higher Education:
   Wikidata_code: Q2993667
   Entity_type: International organisation
@@ -4175,6 +4198,7 @@ African and Malagasy Council for Higher Education:
   Abbreviation_en: CAMES
   Treaty_url: https://scienceetbiencommun.pressbooks.pub/cames/back-matter/annexe-iv-actualisation-des-textes-juridiques-du-cames-en-2000/
   Source: null
+  OpenSanctions_id: '[No code found.]'
 International Commission for the Protection of the Elbe River:
   Wikidata_code: Q998153
   Entity_type: International organisation
@@ -4186,6 +4210,7 @@ International Commission for the Protection of the Elbe River:
   Source: null
   Name_fr: Internationale Kommission zum Schutz der Elbe
   Name_es: Internationale Kommission zum Schutz der Elbe
+  OpenSanctions_id: '[No code found.]'
 International Meuse Commission:
   Wikidata_code: Q124290267
   Entity_type: International organisation
@@ -4196,6 +4221,7 @@ International Meuse Commission:
   Treaty_url: https://web.archive.org/web/20220523160539/http://environnement.wallonie.be/legis/international/accord004.htm
   Source: null
   Name_fr: Commission Internationale de la Meuse
+  OpenSanctions_id: '[No code found.]'
 African Telecommunications Union:
   Wikidata_code: Q4689935
   Entity_type: International organisation
@@ -4205,6 +4231,7 @@ African Telecommunications Union:
   Abbreviation_en: ATU
   Treaty_url: https://atuuat.africa/wp-content/uploads/2019/11/ATU-Constitution-and-Convention-Cape-Town-1999-Rev.-Harare-2014.pdf
   Source: null
+  OpenSanctions_id: '[No code found.]'
 Permanent Joint Technical Commission for Nile Waters:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -4214,6 +4241,7 @@ Permanent Joint Technical Commission for Nile Waters:
   Abbreviation_en: PJTC
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%20453/volume-453-I-6519-English.pdf
   Source: null
+  OpenSanctions_id: '[No code found.]'
 International Sericultural Commission:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -4223,6 +4251,7 @@ International Sericultural Commission:
   Abbreviation_en: ISC
   Treaty_url: https://inserco.org/en/sites/default/files/01Convention%20Text.pdf
   Source: null
+  OpenSanctions_id: '[No code found.]'
 Arab Authority for Agricultural Investment and Development:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -4232,6 +4261,7 @@ Arab Authority for Agricultural Investment and Development:
   Abbreviation_en: AAAID
   Treaty_url: https://www.lloc.gov.bh/PDF/K1108.pdf
   Source: null
+  OpenSanctions_id: gem-own-e100002003564
 Council of the Baltic Sea States:
   Wikidata_code: Q789769
   Entity_type: International organisation
@@ -4243,6 +4273,7 @@ Council of the Baltic Sea States:
   Source: https://lagen.nu/prop/1998/99:24
   Name_fr: Conseil des États de la mer Baltique
   Name_es: Consejo de Estados del Mar Báltico
+  OpenSanctions_id: '[No code found.]'
 Secretariat of the Central European Free Trade Agreement:
   Wikidata_code: '[No code.]'
   Entity_type: International organisation
