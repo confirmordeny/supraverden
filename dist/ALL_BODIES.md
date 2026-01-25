@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 561 international organisations in the table.
+There are currently 560 international organisations in the table.
 
 | English Name | Wikidata Code | Family | Source |
 |---|---|---|---|
@@ -439,8 +439,7 @@ There are currently 561 international organisations in the table.
 | OPEC Fund for International Development | [Q392787](https://www.wikidata.org/wiki/Q392787) | Organization of the Petroleum Exporting Countries | [Treaty](https://publications.opecfund.org/view/586730821/6/) |
 | Orange-Senqu River Commission | N/A | none | [Treaty](https://orasecom.org/wp-content/uploads/2020/09/ORASECOM_Agreement_Reprint-August-2012.pdf) |
 | Organisation for Economic Co-operation and Development | [Q41550](https://www.wikidata.org/wiki/Q41550) | Organisation for Economic Co-operation and Development entities | [Treaty](https://www.oecd.org/en/about/legal/text-of-the-convention-on-the-organisation-for-economic-co-operation-and-development.html) |
-| Organisation for Joint Armament Co-operation | N/A | none | [Treaty](https://www.occar.int/systems/file_download.ashx?pg=139&ver=2) |
-| Organisation for Joint Armament Cooperation | [Q521227](https://www.wikidata.org/wiki/Q521227) | none | [Treaty](https://www.occar.int/systems/file_download.ashx?pg=139&ver=2) |
+| Organisation for Joint Armament Co-operation | [Q521227](https://www.wikidata.org/wiki/Q521227) | none | [Treaty](https://www.occar.int/systems/file_download.ashx?pg=139&ver=2) |
 | Organisation for the Development of the Senegal River | N/A | none | [Treaty](https://faolex.fao.org/docs/pdf/mul16004.pdf) |
 | Organisation for the Harmonization of Business Laws in Africa | N/A | none | [Treaty](https://www.ohada.org/en/treaty-amending-the-treaty-on-the-harmonization-of-business-law-in-africa/) |
 | Organisation for the Prohibition of Chemical Weapons | [Q842490](https://www.wikidata.org/wiki/Q842490) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
