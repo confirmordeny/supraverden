@@ -1,5 +1,5 @@
 # This workflow automates the process of generating a combined Markdown table
-# from all three data files. It runs on every push to the main branch.
+# from both data files. It runs on every push to the main branch.
 
 name: Generate combined bodies table
 
@@ -90,7 +90,7 @@ jobs:
 
           def generate_markdown_table(organizations):
               '''Generates a Markdown table from the parsed data.'''
-              header = '| English Name | Wikidata Code | Family | Source |\n|---|---|---|---|'
+              header = '| English Name | Wikidata Code | OpenSanctions | Family | Source |\n|---|---|---|---|---|'
               rows = [header]
               
               # Sort case-insensitively
@@ -110,6 +110,15 @@ jobs:
                   else:
                       wikidata_display = f'[{wikidata}](https://www.wikidata.org/wiki/{wikidata})'
                   
+                  # Logic for OpenSanctions ID
+                  os_id = org.get('OpenSanctions_id', 'N/A')
+                  if os_id == '[No code found.]':
+                      os_display = '[No code found]'
+                  elif os_id == 'N/A' or not os_id.strip():
+                      os_display = 'N/A'
+                  else:
+                      os_display = f'[{os_id}](https://www.opensanctions.org/entities/{os_id}/)'
+
                   family = org.get('Org_family', 'N/A')
                   
                   treaty_url = org.get('Treaty_url')
@@ -132,7 +141,7 @@ jobs:
                   else:
                       source_display = 'N/A'
                       
-                  rows.append(f'| {escape_cell(name)} | {wikidata_display} | {escape_cell(family)} | {source_display} |')
+                  rows.append(f'| {escape_cell(name)} | {wikidata_display} | {os_display} | {escape_cell(family)} | {source_display} |')
               return '\n'.join(rows)
 
           # --- Main execution block ---
