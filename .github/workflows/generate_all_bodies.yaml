@@ -111,13 +111,15 @@ jobs:
                       wikidata_display = f'[{wikidata}](https://www.wikidata.org/wiki/{wikidata})'
                   
                   # Logic for OpenSanctions ID
-                  os_id = org.get('OpenSanctions_id', 'N/A')
-                  if os_id == '[No code found.]':
+                  # We strip quotes if they exist in the raw data string
+                  raw_os_id = org.get('OpenSanctions_id', 'N/A').strip("'").strip('"')
+                  
+                  if raw_os_id == '[No code found.]':
                       os_display = '[No code found]'
-                  elif os_id == 'N/A' or not os_id.strip():
+                  elif raw_os_id == 'N/A' or not raw_os_id.strip():
                       os_display = 'N/A'
                   else:
-                      os_display = f'[{os_id}](https://www.opensanctions.org/entities/{os_id}/)'
+                      os_display = f'[{raw_os_id}](https://www.opensanctions.org/entities/{raw_os_id}/)'
 
                   family = org.get('Org_family', 'N/A')
                   
