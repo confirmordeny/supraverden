@@ -514,7 +514,6 @@
 - Orange-Senqu River Commission
 - Organisation for Economic Co-operation and Development
 - Organisation for Joint Armament Co-operation
-- Organisation for Joint Armament Cooperation
 - Organisation for the Development of the Senegal River
 - Organisation for the Harmonization of Business Laws in Africa
 - Organisation for the Prohibition of Chemical Weapons
