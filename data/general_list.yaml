@@ -952,6 +952,7 @@ Benelux:
   Treaty_url: https://www.benelux.int/wp-content/uploads/2023/02/BeneluxVerdrag_2008.pdf
   Name_fr: Benelux
   Name_es: Benelux
+  OpenSanctions_id: '[No code found.]'
 Andean Community:
   Wikidata_code: Q471690
   Entity_type: International organisation
@@ -962,6 +963,7 @@ Andean Community:
   Treaty_url: https://www.comunidadandina.org/StaticFiles/201338102616Acuerdo_Cartagena.pdf
   Name_fr: Communauté andine des Nations
   Name_es: Comunidad Andina
+  OpenSanctions_id: '[No code found.]'
 Court of Justice of the Andean Community:
   Wikidata_code: Q5789480
   Entity_type: International organisation
@@ -971,6 +973,7 @@ Court of Justice of the Andean Community:
   Abbreviation_en: null
   Treaty_url: https://www.comunidadandina.org/StaticFiles/201338102616Acuerdo_Cartagena.pdf
   Name_es: Tribunal de Justicia de la Comunidad Andina
+  OpenSanctions_id: '[No code found.]'
 Union State:
   Wikidata_code: Q166110
   Entity_type: International organisation
@@ -981,6 +984,7 @@ Union State:
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%202121/v2121.pdf
   Name_fr: Union de la Russie et de la Biélorussie
   Name_es: Unión de Rusia y Bielorrusia
+  OpenSanctions_id: '[No code found.]'
 Commonwealth of Independent States:
   Wikidata_code: Q7779
   Entity_type: International organisation
@@ -991,6 +995,7 @@ Commonwealth of Independent States:
   Treaty_url: https://www.coe.int/en/web/venice-commission/-/CDL(1994)054-e
   Name_fr: communauté des États indépendants
   Name_es: Comunidad de Estados Independientes
+  OpenSanctions_id: '[No code found.]'
 Organisation of Eastern Caribbean States:
   Wikidata_code: Q392770
   Entity_type: International organisation
@@ -1001,6 +1006,7 @@ Organisation of Eastern Caribbean States:
   Treaty_url: https://caricom.org/documents/legaldocuments/9240-treaty-oecs.htm
   Name_fr: Organisation des États de la Caraïbe orientale
   Name_es: Organización de Estados del Caribe Oriental
+  OpenSanctions_id: '[No code found.]'
 Eastern Caribbean Central Bank:
   Wikidata_code: Q1210260
   Entity_type: International organisation
@@ -1011,6 +1017,7 @@ Eastern Caribbean Central Bank:
   Treaty_url: https://www.eccb-centralbank.org/viewPDF/documents/2022-05-27-06-12-30-ECCB-Agreement.pdf
   Name_fr: Banque Centrale des Caraïbes Orientales
   Name_es: Banco Central del Caribe Oriental
+  OpenSanctions_id: NK-YDpCtketszPUchCK72QJ9B
 Organization of American States:
   Wikidata_code: Q123759
   Entity_type: International organisation
@@ -1177,6 +1184,7 @@ Organization for Security and Co-operation in Europe:
   Treaty_url: null
   Name_fr: Organisation pour la sécurité et la coopération en Europe
   Name_es: Organización para la Seguridad y la Cooperación en Europa
+  OpenSanctions_id: '[No code found.]'
 North Atlantic Treaty Organisation:
   Wikidata_code: Q7184
   Entity_type: International organisation
@@ -1189,6 +1197,7 @@ North Atlantic Treaty Organisation:
   Basis_for_assessment: B5
   Name_fr: Organisation du traité de l'Atlantique nord
   Name_es: OTAN
+  OpenSanctions_id: '[No code found.]'
 Caribbean Community:
   Wikidata_code: Q205995
   Entity_type: International organisation
@@ -1199,6 +1208,7 @@ Caribbean Community:
   Treaty_url: https://researchbriefings.files.parliament.uk/documents/CBP-7376/CBP-7376.pdf
   Name_fr: Communauté caribéenne
   Name_es: Comunidad del Caribe
+  OpenSanctions_id: '[No code found.]'
 Caribbean Examinations Council:
   Wikidata_code: Q5039378
   Entity_type: International organisation
@@ -1207,6 +1217,7 @@ Caribbean Examinations Council:
   Name_en: Caribbean Examinations Council
   Abbreviation_en: CXC
   Treaty_url: https://caricom.org/wp-content/uploads/Revised-Agreement-Establishing-the-Caribbean-Examinations-Council-CXC.pdf
+  OpenSanctions_id: '[No code found.]'
 Caribbean Community Implementation Agency for Crime and Security:
   Wikidata_code: Q117197891
   Entity_type: International organisation
@@ -1215,6 +1226,7 @@ Caribbean Community Implementation Agency for Crime and Security:
   Name_en: Caribbean Community Implementation Agency for Crime and Security
   Abbreviation_en: CARICOM IMPACS
   Treaty_url: http://www.commonlii.org/caribbean/other/treaties/CaricomTSer/2006/9.pdf
+  OpenSanctions_id: '[No code found.]'
 Association of Southeast Asian Nations:
   Wikidata_code: Q7768
   Entity_type: International organisation
@@ -1227,6 +1239,7 @@ Association of Southeast Asian Nations:
   Name_es: Asociación de las Naciones de Asia Sudoriental
   Assessment_against_FATFA_definition: Included
   Basis_for_assessment: B7
+  OpenSanctions_id: '[No code found.]'
 Mercosur:
   Wikidata_code: Q4264
   Entity_type: International organisation
@@ -1237,6 +1250,7 @@ Mercosur:
   Treaty_url: https://www.worldtradelaw.net/document.php?id=fta/agreements/mercosurfta.pdf
   Name_fr: Marché commun du Sud
   Name_es: Mercosur
+  OpenSanctions_id: '[No code found.]'
 Mercosur Parliament:
   Wikidata_code: Q2723083
   Entity_type: International organisation
@@ -1247,6 +1261,7 @@ Mercosur Parliament:
   Name_other_en: null
   Treaty_url: https://www.parlamentomercosur.org/innovaportal/file/7308/1/protocolo_es.pdf
   Name_fr: Parlement du Mercosur
+  OpenSanctions_id: '[No code found.]'
 Permanent Review Tribunal of Mercosur:
   Wikidata_code: Q2452542
   Entity_type: International organisation
@@ -1258,6 +1273,7 @@ Permanent Review Tribunal of Mercosur:
   Treaty_url: null
   Source: https://www.europarl.europa.eu/RegData/etudes/IDAN/2022/653652/EXPO_IDA(2022)653652_EN.pdf
   Name_fr: null
+  OpenSanctions_id: '[No code found.]'
 African Union:
   Wikidata_code: Q7159
   Entity_type: International organisation
@@ -1903,16 +1919,6 @@ World Customs Organisation:
   Name_fr: Organisation mondiale des douanes
   Name_es: Organización Mundial de Aduanas
   OpenSanctions_id: '[No code found.]'
-Organisation for Joint Armament Cooperation:
-  Wikidata_code: Q521227
-  Entity_type: International organisation
-  Org_family: none
-  Country: zz
-  Name_en: Organisation for Joint Armament Cooperation
-  Abbreviation_en: OCCAR
-  Treaty_url: https://www.occar.int/systems/file_download.ashx?pg=139&ver=2
-  Name_fr: Organisation conjointe de coopération en matière d'armement
-  Name_es: Organización para la Cooperación Conjunta en Materia de Armamento
 Organisation for Economic Co-operation and Development:
   Wikidata_code: Q41550
   Entity_type: International organisation
@@ -3485,14 +3491,17 @@ King Abdullah Bin Abdulaziz International Centre for Interreligious and Intercul
   Name_fr: KAICIID Dialogue Centre
   OpenSanctions_id: '[No code found.]'
 Organisation for Joint Armament Co-operation:
-  Wikidata_code: '[No code found.]'
-  Entity_type: International organisation
-  Org_family: none
-  Country: zz
   Name_en: Organisation for Joint Armament Co-operation
+  Name_other_en: Organisation for Joint Armament Cooperation
   Abbreviation_en: OCCAR
   Treaty_url: https://www.occar.int/systems/file_download.ashx?pg=139&ver=2
   OpenSanctions_id: '[No code found.]'
+  Wikidata_code: Q521227
+  Entity_type: International organisation
+  Org_family: none
+  Country: zz
+  Name_fr: Organisation conjointe de coopération en matière d'armement
+  Name_es: Organización para la Cooperación Conjunta en Materia de Armamento
 International Centre for Food Micro-Algae Against Malnutrition:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
