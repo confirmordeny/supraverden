@@ -10,24 +10,27 @@ B2:
 
 B3:
   Basis_text: "The Council of Europe is given as an example in the FATFA definition of International organisations."
-
+ 
 B4:
-  Basis_text: "The Organisation of American States is given as an example in the FATFA definition of International organisations."
+  Basis_text: "The Organisation for Security and Cooperation in Europe is given as an example in the FATFA definition of International organisations."
 
 B5:
-  Basis_text: "The North Atlantic Treaty Organisation is given as an example in the FATFA definition of International organisations."
+  Basis_text: "The Organisation of American States is given as an example in the FATFA definition of International organisations."
 
 B6:
-  Basis_text: "The World Trade Organisation is given as an example in the FATFA definition of International organisations."
+  Basis_text: "The North Atlantic Treaty Organisation is given as an example in the FATFA definition of International organisations."
 
 B7:
-  Basis_text: "The Association of Southeast Asian Nations is given as an example in the FATFA definition of International organisations."
+  Basis_text: "The World Trade Organisation is given as an example in the FATFA definition of International organisations."
 
 B8:
+  Basis_text: "The Association of Southeast Asian Nations is given as an example in the FATFA definition of International organisations."
+
+B9:
   Basis_text: "The FATFA definition of International organisations includes institutions of the European Union in the examples. 
   The European Union itself has therefore been assessed as meeting the definition."
 
-B9:
+B10:
   Basis_text: "The FATFA definition of International organisations includes institutions of the European Union in the examples. 
   The seven EU institutions listed in Articke 13 of the Treaty on European Union have therefore been assessed as meeting the definition."
 
