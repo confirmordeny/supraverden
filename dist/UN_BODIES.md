@@ -65,7 +65,6 @@
 | United Nations Commission on International Trade Law | [Q698232](https://www.wikidata.org/wiki/Q698232) | UN and affiliates | [legal.un.org](https://legal.un.org/ola/div_itld.aspx) |
 | United Nations Development Programme | [Q161718](https://www.wikidata.org/wiki/Q161718) | UN and affiliates | [UN Organisations](https://www.un.org/Depts/ptd/about-us/un-organisations) |
 | United Nations Disarmament Commission | [Q4229685](https://www.wikidata.org/wiki/Q4229685) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
-| United Nations Division for Sustainable Development | N/A | UN and affiliates | [Main Bodies](https://www.un.org/en/about-us/main-bodies) |
 | United Nations Economic and Social Council | [Q170075](https://www.wikidata.org/wiki/Q170075) | UN and affiliates | [Main Bodies](https://www.un.org/en/about-us/main-bodies) |
 | United Nations Educational, Scientific and Cultural Organization | [Q7809](https://www.wikidata.org/wiki/Q7809) | UN and affiliates | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
 | United Nations Environment Management Group | N/A | UN and affiliates | [UN Organisations](https://www.un.org/Depts/ptd/about-us/un-organisations) |
