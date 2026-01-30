@@ -186,6 +186,8 @@ United Nations Children’s Fund:
   Source: https://www.un.org/Depts/ptd/about-us/un-organisations
   OpenSanctions_id: NK-RwFaSVsHm7tyoSHDSdL47E/
   Name_es: Unicef
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 United Nations Development Programme:
   Wikidata_code: Q161718
   Org_family: UN and affiliates
@@ -198,17 +200,8 @@ United Nations Development Programme:
   Source: https://www.un.org/Depts/ptd/about-us/un-organisations
   OpenSanctions_id: '[No code found.]'
   Name_es: Programa de las Naciones Unidas para el Desarrollo
-United Nations Division for Sustainable Development:
-  Wikidata_code: '[No code found]'
-  Org_family: UN and affiliates
-  Country: zz
-  Name_en: United Nations Division for Sustainable Development
-  Name_fr: null
-  Abbreviation_en: null
-  Abbreviation_fr: null
-  Name_other_en: null
-  Source: https://www.un.org/en/about-us/main-bodies
-  OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 United Nations Environment Management Group:
   Wikidata_code: '[No code found.]'
   Org_family: UN and affiliates
