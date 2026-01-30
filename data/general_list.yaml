@@ -1305,6 +1305,16 @@ African Civil Aviation Commission:
   Treaty_url: https://web.archive.org/web/20250219222517/https://au.int/sites/default/files/treaties/37304-treaty-0040_-_constitution_for_the_african_civil_aviation_commission_-_afcac_revised_en.pdf
   Name_fr: Commission africaine de l'aviation civile
   OpenSanctions_id: '[No code found.]'
+African Medicines Agency:
+  Wikidata_code: Q97167520
+  Entity_type: International organisation
+  Org_family: African Union entities
+  Country: zz
+  Name_en: African Medicines Agency
+  Abbreviation_en: AMA
+  Treaty_url: https://web.archive.org/web/20260117194837/https://au.int/sites/default/files/treaties/36892-treaty-0069_-_ama_treaty_e.pdf
+  Source: https://www.ema.europa.eu/en/partners-networks/international-activities/multilateral-coalitions-initiatives/african-medicines-agency-african-union
+  OpenSanctions_id: '[No code found.]'
 Arctic Council:
   Wikidata_code: Q674182
   Entity_type: International organisation
