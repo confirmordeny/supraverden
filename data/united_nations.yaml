@@ -27,6 +27,8 @@ United Nations Security Council:
   Source: https://www.un.org/en/about-us/main-bodies
   OpenSanctions_id: '[No code found.]'
   Name_es: Consejo de Seguridad de las Naciones Unidas
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 United Nations Economic and Social Council:
   Wikidata_code: Q170075
   Org_family: UN and affiliates
@@ -39,6 +41,8 @@ United Nations Economic and Social Council:
   Source: https://www.un.org/en/about-us/main-bodies
   OpenSanctions_id: '[No code found.]'
   Name_es: Consejo Económico y Social de las Naciones Unidas
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 United Nations General Assembly:
   Wikidata_code: Q47423
   Org_family: UN and affiliates
@@ -51,6 +55,8 @@ United Nations General Assembly:
   Source: https://www.un.org/en/about-us/main-bodies
   OpenSanctions_id: '[No code found.]'
   Name_es: Asamblea General de las Naciones Unidas
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 United Nations Trusteeship Council:
   Wikidata_code: Q219693
   Org_family: UN and affiliates
@@ -63,6 +69,8 @@ United Nations Trusteeship Council:
   Source: https://www.un.org/en/about-us/main-bodies
   OpenSanctions_id: '[No code found.]'
   Name_es: Consejo de Administración Fiduciaria de las Naciones Unidas
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 United Nations Secretariat:
   Wikidata_code: Q220563
   Org_family: UN and affiliates
@@ -75,6 +83,8 @@ United Nations Secretariat:
   Source: https://www.un.org/en/about-us/main-bodies
   OpenSanctions_id: bic-UNATCHG1
   Name_es: Secretaría general de Naciones Unidas
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 International Court of Justice:
   Wikidata_code: Q7801
   Org_family: UN and affiliates
@@ -87,6 +97,8 @@ International Court of Justice:
   Source: https://www.un.org/en/about-us/main-bodies
   OpenSanctions_id: '[No code found.]'
   Name_es: Corte Internacional de Justicia
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 Food and Agriculture Organization:
   Wikidata_code: Q82151
   Org_family: UN and affiliates
@@ -100,6 +112,8 @@ Food and Agriculture Organization:
   Source: https://www.un.org/Depts/ptd/about-us/un-organisations
   OpenSanctions_id: NK-NuGLAXMYwi7QnLjQKKoByS
   Name_es: Organización de las Naciones Unidas para la Alimentación y la Agricultura
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 International Bank for Reconstruction and Development:
   Wikidata_code: Q191384
   Org_family: UN and affiliates
@@ -113,6 +127,8 @@ International Bank for Reconstruction and Development:
   Source: https://timeline.worldbank.org/content/dam/sites/timeline/docs/migrated/event12-UNagt-agreement-30151254.pdf
   OpenSanctions_id: NK-oH2ZzPZow6U9gumm83ujeQ
   Name_es: Banco Internacional de Reconstrucción y Fomento
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 International Civil Aviation Organization:
   Wikidata_code: Q125761
   Org_family: UN and affiliates
@@ -126,6 +142,8 @@ International Civil Aviation Organization:
   Source: https://www.un.org/Depts/ptd/about-us/un-organisations
   OpenSanctions_id: '[No code found.]'
   Name_es: Organización de Aviación Civil Internacional
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 International Fund for Agricultural Development:
   Wikidata_code: Q689859
   Org_family: UN and affiliates
@@ -139,6 +157,8 @@ International Fund for Agricultural Development:
   Source: https://www.un.org/Depts/ptd/about-us/un-organisations
   OpenSanctions_id: bic-IFADITRR
   Name_es: Fondo Internacional de Desarrollo Agrícola
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 International Telecommunication Union:
   Wikidata_code: Q376150
   Org_family: UN and affiliates
@@ -152,6 +172,8 @@ International Telecommunication Union:
   Source: https://www.un.org/Depts/ptd/about-us/un-organisations
   OpenSanctions_id: '[No code found.]'
   Name_es: Unión Internacional de Telecomunicaciones
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 United Nations Children’s Fund:
   Wikidata_code: Q740308
   Org_family: UN and affiliates
