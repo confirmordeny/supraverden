@@ -621,7 +621,6 @@
 - United Nations Commission on International Trade Law
 - United Nations Development Programme
 - United Nations Disarmament Commission
-- United Nations Division for Sustainable Development
 - United Nations Economic and Social Council
 - United Nations Educational, Scientific and Cultural Organization
 - United Nations Environment Management Group
