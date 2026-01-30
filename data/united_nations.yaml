@@ -238,6 +238,8 @@ Office of the United Nations High Commissioner for Refugees:
   Name_other_en: Office of the UN High Commissioner for Refugees
   Source: https://www.un.org/sites/un2.un.org/files/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 United Nations Office for Project Services:
   Wikidata_code: Q2531088
   Org_family: UN and affiliates
@@ -250,6 +252,8 @@ United Nations Office for Project Services:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: NK-ijZcLvfYrYTcHqGkftojPm
   Name_es: Oficina de las Naciones Unidas de Servicios para Proyectos
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 United Nations Population Fund:
   Wikidata_code: Q623036
   Org_family: UN and affiliates
@@ -262,6 +266,8 @@ United Nations Population Fund:
   Source: https://www.un.org/sites/un2.un.org/files/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
   Name_es: Fondo de Población de las Naciones Unidas
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 United Nations World Food Programme:
   Wikidata_code: Q204344
   Org_family: UN and affiliates
@@ -274,6 +280,8 @@ United Nations World Food Programme:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
   Name_es: Programa Mundial de Alimentos
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 World Bank:
   Wikidata_code: Q7164
   Org_family: UN and affiliates
@@ -300,6 +308,8 @@ World Health Organization:
   Source: https://www.un.org/en/about-us/specialized-agencies
   OpenSanctions_id: '[No code found.]'
   Name_es: Organización Mundial de la Salud
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 World Intellectual Property Organization:
   Wikidata_code: Q177773
   Org_family: UN and affiliates
@@ -313,6 +323,8 @@ World Intellectual Property Organization:
   Source: https://www.un.org/en/about-us/specialized-agencies
   OpenSanctions_id: kprusi-a4603b8123e3b32448ddc8c4da6d586b0aeebdb2
   Name_es: Organización Mundial de la Propiedad Intelectual
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 International Maritime Organization:
   Wikidata_code: Q201054
   Org_family: UN and affiliates
@@ -341,6 +353,8 @@ United Nations Educational, Scientific and Cultural Organization:
   Source: https://www.un.org/en/about-us/specialized-agencies
   OpenSanctions_id: '[No code found.]'
   Name_es: UNESCO
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 International Labour Organization:
   Wikidata_code: Q54129
   Org_family: UN and affiliates
