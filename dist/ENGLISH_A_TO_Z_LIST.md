@@ -23,6 +23,7 @@
 - African Export-Import Bank
 - African Groundnut Council
 - African Intellectual Property organisation
+- African Medicines Agency
 - African Regional Intellectual Property Organization
 - African Risk Capacity Agency
 - African Telecommunications Union
