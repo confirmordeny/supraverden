@@ -981,6 +981,8 @@ Commission on Science and Technology for Development:
   Name_other_en: United Nations Commission on Science and Technology for Development
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 United Nations Forum on Forests:
   Wikidata_code: Q1433762
   Org_family: UN and affiliates
@@ -993,6 +995,8 @@ United Nations Forum on Forests:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Foro de las Naciones Unidas sobre los bosques
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 High-Level Political Forum on Sustainable Development:
   Wikidata_code: Q17078095
   Org_family: UN and affiliates
@@ -1005,6 +1009,8 @@ High-Level Political Forum on Sustainable Development:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Foro Político de Alto Nivel sobre Desarrollo Sostenible
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 United Nations Peacebuilding Commission:
   Wikidata_code: Q1534084
   Org_family: UN and affiliates
@@ -1017,6 +1023,8 @@ United Nations Peacebuilding Commission:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Comisión de Consolidación de la Paz
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 International Narcotics Control Board:
   Wikidata_code: Q667217
   Org_family: UN and affiliates
@@ -1041,6 +1049,8 @@ UNAIDS Programme Coordinating Board:
   Source: https://ecosoc.un.org/en/about-us/ecosoc-subsidiary-bodies
   Name_es: Programa Conjunto de las Naciones Unidas sobre el VIH/sida
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 United Nations Joint Staff Pension Fund:
   Wikidata_code: Q28455859
   Org_family: UN and affiliates
