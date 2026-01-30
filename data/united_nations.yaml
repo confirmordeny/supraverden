@@ -225,6 +225,8 @@ United Nations Environment Programme:
   Source: https://www.un.org/Depts/ptd/about-us/un-organisations
   OpenSanctions_id: '[No code found.]'
   Name_es: Programa de las Naciones Unidas para el Medio Ambiente
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 Office of the United Nations High Commissioner for Refugees:
   Wikidata_code: Q28606331
   Org_family: UN and affiliates
