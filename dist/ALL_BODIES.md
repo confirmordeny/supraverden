@@ -19,6 +19,7 @@ There are currently 560 international organisations in the table.
 | African Export-Import Bank | [Q4689766](https://www.wikidata.org/wiki/Q4689766) | [bic-PASSNGLA](https://www.opensanctions.org/entities/bic-PASSNGLA/) | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201890/volume-1890-I-32192-English.pdf) |
 | African Groundnut Council | [Q4689777](https://www.wikidata.org/wiki/Q4689777) | [No code found] | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%20846/volume-846-I-12123-English.pdf) |
 | African Intellectual Property organisation | [Q1476775](https://www.wikidata.org/wiki/Q1476775) | [No code found] | none | [Treaty](https://www.wipo.int/wipolex/en/text/582620) |
+| African Medicines Agency | [Q97167520](https://www.wikidata.org/wiki/Q97167520) | [No code found] | African Union entities | [Treaty](https://web.archive.org/web/20260117194837/https://au.int/sites/default/files/treaties/36892-treaty-0069_-_ama_treaty_e.pdf) |
 | African Regional Intellectual Property Organization | [Q384434](https://www.wikidata.org/wiki/Q384434) | [No code found] | none | [Treaty](https://www.wipo.int/wipolex/en/text/588142) |
 | African Risk Capacity Agency | N/A | [No code found] | African Union entities | [Treaty](https://web.archive.org/web/20250220014432/https://au.int/sites/default/files/treaties/7800-treaty-0043_-_agreement_for_the_establishment_of_the_african_risk_capacity_arc_agency_e.pdf) |
 | African Telecommunications Union | [Q4689935](https://www.wikidata.org/wiki/Q4689935) | [No code found] | none | [Treaty](https://atuuat.africa/wp-content/uploads/2019/11/ATU-Constitution-and-Convention-Cape-Town-1999-Rev.-Harare-2014.pdf) |
@@ -521,7 +522,6 @@ There are currently 560 international organisations in the table.
 | United Nations Commission on International Trade Law | [Q698232](https://www.wikidata.org/wiki/Q698232) | [No code found] | UN and affiliates | [legal.un.org](https://legal.un.org/ola/div_itld.aspx) |
 | United Nations Development Programme | [Q161718](https://www.wikidata.org/wiki/Q161718) | [No code found] | UN and affiliates | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
 | United Nations Disarmament Commission | [Q4229685](https://www.wikidata.org/wiki/Q4229685) | [No code found] | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
-| United Nations Division for Sustainable Development | N/A | [No code found] | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/main-bodies) |
 | United Nations Economic and Social Council | [Q170075](https://www.wikidata.org/wiki/Q170075) | [No code found] | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/main-bodies) |
 | United Nations Educational, Scientific and Cultural Organization | [Q7809](https://www.wikidata.org/wiki/Q7809) | [No code found] | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
 | United Nations Environment Management Group | N/A | [No code found] | UN and affiliates | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
