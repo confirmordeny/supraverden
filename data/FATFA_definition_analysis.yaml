@@ -50,9 +50,11 @@ B13:
 
 B14:
   Basis_text: "The FATFA definition of International organisations includes the United Nations and affiliated international organisations. 
-  The International Narcotics Control Board is listed as a subsidiary of the United Nations Economic and Social Council 
+  The International Narcotics Control Board is listed as a subsidiary of the UN Economic and Social Council 
   (see https://ecosoc.un.org/en/about-us/ecosoc-subsidiary-bodies).
   For this reason, the International Narcotics Control Board has been assessed as meeting the definition."
   
-
-  
+B15:
+  Basis_text: "The FATFA definition of International organisations includes the United Nations and affiliated international organisations. 
+  The United Nations Joint Staff Pension Fund was established in 1949, by a resolution of the UN General Assembly.
+  For this reason, the United Nations Joint Staff Pension Fund has been assessed as meeting the definition."
