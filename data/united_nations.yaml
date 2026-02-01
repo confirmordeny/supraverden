@@ -488,6 +488,8 @@ International Tribunal for the Law of the Sea:
   Source: https://www.un.org/en/about-us/specialized-agencies
   OpenSanctions_id: '[No code found.]'
   Name_es: Tribunal Internacional del Derecho del Mar
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 United Nations Tourism:
   Wikidata_code: Q61923
   Org_family: UN and affiliates
@@ -502,6 +504,8 @@ United Nations Tourism:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
   Name_es: ONU Turismo
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 United Nations Industrial Development Organization:
   Wikidata_code: Q386120
   Org_family: UN and affiliates
@@ -515,6 +519,8 @@ United Nations Industrial Development Organization:
   Source: https://www.un.org/en/about-us/specialized-agencies
   OpenSanctions_id: '[No code found.]'
   Name_es: Organización de las Naciones Unidas para el Desarrollo Industrial
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 International Law Commission:
   Wikidata_code: Q684656
   Org_family: UN and affiliates
@@ -527,6 +533,8 @@ International Law Commission:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
   Name_es: Comisión de Derecho internacional
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 International Finance Corporation:
   Wikidata_code: Q656801
   Org_family: UN and affiliates
@@ -539,6 +547,8 @@ International Finance Corporation:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
   Name_es: Corporación Financiera Internacional
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 International Development Association:
   Wikidata_code: '[No code found.]'
   Org_family: UN and affiliates
@@ -550,6 +560,8 @@ International Development Association:
   Name_other_en: null
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 Fishery Committee for the Eastern Central Atlantic:
   Wikidata_code: Q12617572
   Org_family: UN and affiliates
@@ -644,6 +656,8 @@ International Trade Centre:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
   Name_es: Centro de Comercio Internacional
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 Organisation for the Prohibition of Chemical Weapons:
   Wikidata_code: Q842490
   Org_family: UN and affiliates
@@ -656,6 +670,8 @@ Organisation for the Prohibition of Chemical Weapons:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
   Name_es: Organización para la Prohibición de Armas Químicas
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 United Nations Interregional Crime and Justice Research Institute:
   Wikidata_code: Q1427752
   Org_family: UN and affiliates
@@ -670,6 +686,8 @@ United Nations Interregional Crime and Justice Research Institute:
   OpenSanctions_id: '[No code found.]'
   Name_es: Instituto Interregional de las Naciones Unidas para Investigaciones sobre
     el Crimen y la Justicia
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 United Nations Research Institute For Social Development:
   Wikidata_code: Q962612
   Org_family: UN and affiliates
@@ -682,6 +700,8 @@ United Nations Research Institute For Social Development:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
   Name_es: Instituto de Investigación de las Naciones Unidas para el Desarrollo Social
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 United Nations Institute for Disarmament Research:
   Wikidata_code: Q3152150
   Org_family: UN and affiliates
@@ -693,6 +713,8 @@ United Nations Institute for Disarmament Research:
   Name_other_en: UN Institute for Disarmament Research
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 United Nations Human Settlements Programme:
   Wikidata_code: Q487883
   Org_family: UN and affiliates
@@ -705,6 +727,8 @@ United Nations Human Settlements Programme:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Programa de Naciones Unidas para los Asentamientos Humanos
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 United Nations Human Rights Council:
   Wikidata_code: Q205650
   Org_family: UN and affiliates
@@ -717,6 +741,8 @@ United Nations Human Rights Council:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Consejo de Derechos Humanos de las Naciones Unidas
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 Joint Inspection Unit of the United Nations System:
   Wikidata_code: Q1500903
   Org_family: UN and affiliates
@@ -728,6 +754,8 @@ Joint Inspection Unit of the United Nations System:
   Name_other_en: Joint Inspection Unit
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 United Nations Volunteers:
   Wikidata_code: Q488065
   Org_family: UN and affiliates
@@ -740,6 +768,8 @@ United Nations Volunteers:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Voluntarios de las Naciones Unidas
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 United Nations Disarmament Commission:
   Wikidata_code: Q4229685
   Org_family: UN and affiliates
@@ -751,6 +781,8 @@ United Nations Disarmament Commission:
   Name_other_en: null
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 UN Women:
   Wikidata_code: Q641576
   Org_family: UN and affiliates
@@ -763,6 +795,8 @@ UN Women:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: ONU Mujeres
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 United Nations Commission on International Trade Law:
   Wikidata_code: Q698232
   Org_family: UN and affiliates
@@ -775,6 +809,8 @@ United Nations Commission on International Trade Law:
   Source: https://legal.un.org/ola/div_itld.aspx
   Name_es: Comisión de las Naciones Unidas para el Derecho Mercantil Internacional
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 United Nations Relief and Works Agency for Palestine Refugees in the Near East:
   Wikidata_code: Q846656
   Org_family: UN and affiliates
@@ -790,6 +826,8 @@ United Nations Relief and Works Agency for Palestine Refugees in the Near East:
   Name_es: Agencia de Naciones Unidas para los Refugiados de Palestina en Oriente
     Próximo
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 World Trade Organization:
   Wikidata_code: Q7825
   Org_family: UN and affiliates
@@ -804,6 +842,8 @@ World Trade Organization:
   Assessment_against_FATFA_definition: Included 
   Basis_for_assessment: B6
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 United Nations Institute for Training and Research:
   Wikidata_code: Q131878
   Org_family: UN and affiliates
@@ -816,6 +856,8 @@ United Nations Institute for Training and Research:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Instituto de las Naciones Unidas para la Formación y la Investigación
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 United Nations System Staff College:
   Wikidata_code: Q16959083
   Org_family: UN and affiliates
@@ -828,6 +870,8 @@ United Nations System Staff College:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Escuela Superior del Personal del Sistema de las Naciones Unidas
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 International Residual Mechanism for Criminal Tribunals:
   Wikidata_code: Q1667632
   Org_family: UN and affiliates
@@ -841,6 +885,8 @@ International Residual Mechanism for Criminal Tribunals:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Mecanismo Residual Internacional de los Tribunales Penales
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 United Nations Capital Development Fund:
   Wikidata_code: Q356037
   Org_family: UN and affiliates
@@ -853,6 +899,8 @@ United Nations Capital Development Fund:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Fondo de las Naciones Unidas para el Desarrollo del Capital
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 United Nations University:
   Wikidata_code: Q492442
   Org_family: UN and affiliates
@@ -865,6 +913,8 @@ United Nations University:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Universidad de Naciones Unidas
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 Economic and Social Commission for Western Asia:
   Wikidata_code: Q1355485
   Org_family: UN and affiliates
@@ -876,6 +926,8 @@ Economic and Social Commission for Western Asia:
   Name_other_en: United Nations Economic and Social Commission for Western Asia
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 Economic Commission for Africa:
   Wikidata_code: Q1144508
   Org_family: UN and affiliates
@@ -888,6 +940,8 @@ Economic Commission for Africa:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Comisión Económica para África
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 Economic Commission for Europe:
   Wikidata_code: Q659012
   Org_family: UN and affiliates
@@ -900,6 +954,8 @@ Economic Commission for Europe:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Comisión Económica de las Naciones Unidas para Europa
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 Economic Commission for Latin America and the Caribbean:
   Wikidata_code: Q32874
   Org_family: UN and affiliates
@@ -912,6 +968,8 @@ Economic Commission for Latin America and the Caribbean:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Comisión Económica para América Latina y el Caribe
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 Economic and Social Commission for Asia and the Pacific:
   Wikidata_code: Q1142901
   Org_family: UN and affiliates
@@ -923,6 +981,8 @@ Economic and Social Commission for Asia and the Pacific:
   Name_other_en: United Nations Economic and Social Commission for Asia and the Pacific
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 Statistical Commission:
   Wikidata_code: Q15042419
   Org_family: UN and affiliates
@@ -934,6 +994,8 @@ Statistical Commission:
   Name_other_en: United Nations Statistical Commission
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 Commission on Population and Development:
   Wikidata_code: Q5152731
   Org_family: UN and affiliates
@@ -945,6 +1007,8 @@ Commission on Population and Development:
   Name_other_en: United Nations Commission on Population and Development
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 Commission for Social Development:
   Wikidata_code: Q3684758
   Org_family: UN and affiliates
@@ -956,6 +1020,8 @@ Commission for Social Development:
   Name_other_en: United Nations Commission for Social Development
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 Commission on the Status of Women:
   Wikidata_code: Q2614097
   Org_family: UN and affiliates
@@ -968,6 +1034,8 @@ Commission on the Status of Women:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Comisión de la Condición Jurídica y Social de la Mujer
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 Commission on Narcotic Drugs:
   Wikidata_code: Q469618
   Org_family: UN and affiliates
@@ -980,6 +1048,8 @@ Commission on Narcotic Drugs:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Comisión de Estupefacientes de Naciones Unidas
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 Commission on Crime Prevention and Criminal Justice:
   Wikidata_code: Q104842946
   Org_family: UN and affiliates
@@ -991,6 +1061,8 @@ Commission on Crime Prevention and Criminal Justice:
   Name_other_en: United Nations Commission on Crime Prevention and Criminal Justice
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included 
+  Basis_for_assessment: B11
 Commission on Science and Technology for Development:
   Wikidata_code: Q5152737
   Org_family: UN and affiliates
