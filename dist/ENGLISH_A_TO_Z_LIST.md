@@ -623,7 +623,6 @@
 - United Nations Disarmament Commission
 - United Nations Economic and Social Council
 - United Nations Educational, Scientific and Cultural Organization
-- United Nations Environment Management Group
 - United Nations Environment Programme
 - United Nations Forum on Forests
 - United Nations General Assembly
