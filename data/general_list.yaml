@@ -2350,6 +2350,8 @@ Multilateral Investment Guarantee Agency:
   Name_fr: Agence multilatérale de garantie des investissements
   Name_es: Organismo Multilateral de Garantía de Inversiones
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included
+  Basis_for_assessment: B12
 Pacific Tourism Organisation:
   Wikidata_code: Q7568120
   Entity_type: International organisation
@@ -2970,6 +2972,8 @@ International Centre for Settlement of Investment Disputes:
   Name_fr: Centre international pour le règlement des différends relatifs aux investissements
   Name_es: Centro Internacional de Arreglo de Diferencias Relativas a Inversiones
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATFA_definition: Included
+  Basis_for_assessment: B13
 Center for International Forestry Research and World Agroforestry:
   Wikidata_code: Q121461382
   Entity_type: International organisation
