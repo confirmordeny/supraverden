@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 560 international organisations in the table.
+There are currently 559 international organisations in the table.
 
 | English Name | Wikidata Code | OpenSanctions | Family | Source |
 |---|---|---|---|---|
@@ -524,7 +524,6 @@ There are currently 560 international organisations in the table.
 | United Nations Disarmament Commission | [Q4229685](https://www.wikidata.org/wiki/Q4229685) | [No code found] | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations Economic and Social Council | [Q170075](https://www.wikidata.org/wiki/Q170075) | [No code found] | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/main-bodies) |
 | United Nations Educational, Scientific and Cultural Organization | [Q7809](https://www.wikidata.org/wiki/Q7809) | [No code found] | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
-| United Nations Environment Management Group | N/A | [No code found] | UN and affiliates | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
 | United Nations Environment Programme | [Q182016](https://www.wikidata.org/wiki/Q182016) | [No code found] | UN and affiliates | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
 | United Nations Forum on Forests | [Q1433762](https://www.wikidata.org/wiki/Q1433762) | [No code found] | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations General Assembly | [Q47423](https://www.wikidata.org/wiki/Q47423) | [No code found] | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/main-bodies) |
