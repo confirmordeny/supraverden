@@ -287,6 +287,15 @@ World Bank:
   Notes_en: > 
   The "World Bank" is an umbrella term for the International Bank for Reconstruction and Development
   and the International Development Association when considered collectively.
+World Bank Group:
+  Wikidata_code: Q320863
+  Org_family: UN and affiliates
+  Country: zz
+  Name_en: World Bank Group
+  Source: https://www.un.org/en/delegate/page/un-system-chart
+  OpenSanctions_id: '[No code found.]'
+  Notes_en: > 
+  The "World Bank Group" is an umbrella term for five international organisations.
 World Health Organization:
   Wikidata_code: Q7817
   Org_family: UN and affiliates
