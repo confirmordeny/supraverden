@@ -664,6 +664,7 @@
 - Western and Central Pacific Fisheries Commission
 - Western Central Atlantic Fishery Commission
 - World Bank
+- World Bank Group
 - World Customs Organisation
 - World Health Organization
 - World Intellectual Property Organization
