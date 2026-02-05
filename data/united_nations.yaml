@@ -13,7 +13,7 @@ United Nations:
   Source: https://www.un.org/en/about-us/main-bodies
   OpenSanctions_id: '[No code found.]'
   Name_es: Organización de las Naciones Unidas
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B1
 United Nations Security Council:
   Wikidata_code: Q37470
@@ -27,7 +27,7 @@ United Nations Security Council:
   Source: https://www.un.org/en/about-us/main-bodies
   OpenSanctions_id: '[No code found.]'
   Name_es: Consejo de Seguridad de las Naciones Unidas
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 United Nations Economic and Social Council:
   Wikidata_code: Q170075
@@ -41,7 +41,7 @@ United Nations Economic and Social Council:
   Source: https://www.un.org/en/about-us/main-bodies
   OpenSanctions_id: '[No code found.]'
   Name_es: Consejo Económico y Social de las Naciones Unidas
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 United Nations General Assembly:
   Wikidata_code: Q47423
@@ -55,7 +55,7 @@ United Nations General Assembly:
   Source: https://www.un.org/en/about-us/main-bodies
   OpenSanctions_id: '[No code found.]'
   Name_es: Asamblea General de las Naciones Unidas
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 United Nations Trusteeship Council:
   Wikidata_code: Q219693
@@ -69,7 +69,7 @@ United Nations Trusteeship Council:
   Source: https://www.un.org/en/about-us/main-bodies
   OpenSanctions_id: '[No code found.]'
   Name_es: Consejo de Administración Fiduciaria de las Naciones Unidas
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 United Nations Secretariat:
   Wikidata_code: Q220563
@@ -83,7 +83,7 @@ United Nations Secretariat:
   Source: https://www.un.org/en/about-us/main-bodies
   OpenSanctions_id: bic-UNATCHG1
   Name_es: Secretaría general de Naciones Unidas
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 International Court of Justice:
   Wikidata_code: Q7801
@@ -97,7 +97,7 @@ International Court of Justice:
   Source: https://www.un.org/en/about-us/main-bodies
   OpenSanctions_id: '[No code found.]'
   Name_es: Corte Internacional de Justicia
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 Food and Agriculture Organization:
   Wikidata_code: Q82151
@@ -112,7 +112,7 @@ Food and Agriculture Organization:
   Source: https://www.un.org/Depts/ptd/about-us/un-organisations
   OpenSanctions_id: NK-NuGLAXMYwi7QnLjQKKoByS
   Name_es: Organización de las Naciones Unidas para la Alimentación y la Agricultura
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 International Bank for Reconstruction and Development:
   Wikidata_code: Q191384
@@ -127,7 +127,7 @@ International Bank for Reconstruction and Development:
   Source: https://timeline.worldbank.org/content/dam/sites/timeline/docs/migrated/event12-UNagt-agreement-30151254.pdf
   OpenSanctions_id: NK-oH2ZzPZow6U9gumm83ujeQ
   Name_es: Banco Internacional de Reconstrucción y Fomento
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 International Civil Aviation Organization:
   Wikidata_code: Q125761
@@ -142,7 +142,7 @@ International Civil Aviation Organization:
   Source: https://www.un.org/Depts/ptd/about-us/un-organisations
   OpenSanctions_id: '[No code found.]'
   Name_es: Organización de Aviación Civil Internacional
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 International Fund for Agricultural Development:
   Wikidata_code: Q689859
@@ -157,7 +157,7 @@ International Fund for Agricultural Development:
   Source: https://www.un.org/Depts/ptd/about-us/un-organisations
   OpenSanctions_id: bic-IFADITRR
   Name_es: Fondo Internacional de Desarrollo Agrícola
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 International Telecommunication Union:
   Wikidata_code: Q376150
@@ -172,7 +172,7 @@ International Telecommunication Union:
   Source: https://www.un.org/Depts/ptd/about-us/un-organisations
   OpenSanctions_id: '[No code found.]'
   Name_es: Unión Internacional de Telecomunicaciones
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 United Nations Children’s Fund:
   Wikidata_code: Q740308
@@ -186,7 +186,7 @@ United Nations Children’s Fund:
   Source: https://www.un.org/Depts/ptd/about-us/un-organisations
   OpenSanctions_id: NK-RwFaSVsHm7tyoSHDSdL47E/
   Name_es: Unicef
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 United Nations Development Programme:
   Wikidata_code: Q161718
@@ -200,7 +200,7 @@ United Nations Development Programme:
   Source: https://www.un.org/Depts/ptd/about-us/un-organisations
   OpenSanctions_id: '[No code found.]'
   Name_es: Programa de las Naciones Unidas para el Desarrollo
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 United Nations Environment Programme:
   Wikidata_code: Q182016
@@ -214,7 +214,7 @@ United Nations Environment Programme:
   Source: https://www.un.org/Depts/ptd/about-us/un-organisations
   OpenSanctions_id: '[No code found.]'
   Name_es: Programa de las Naciones Unidas para el Medio Ambiente
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 Office of the United Nations High Commissioner for Refugees:
   Wikidata_code: Q28606331
@@ -227,7 +227,7 @@ Office of the United Nations High Commissioner for Refugees:
   Name_other_en: Office of the UN High Commissioner for Refugees
   Source: https://www.un.org/sites/un2.un.org/files/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 United Nations Office for Project Services:
   Wikidata_code: Q2531088
@@ -241,7 +241,7 @@ United Nations Office for Project Services:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: NK-ijZcLvfYrYTcHqGkftojPm
   Name_es: Oficina de las Naciones Unidas de Servicios para Proyectos
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 United Nations Population Fund:
   Wikidata_code: Q623036
@@ -255,7 +255,7 @@ United Nations Population Fund:
   Source: https://www.un.org/sites/un2.un.org/files/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
   Name_es: Fondo de Población de las Naciones Unidas
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 United Nations World Food Programme:
   Wikidata_code: Q204344
@@ -269,7 +269,7 @@ United Nations World Food Programme:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
   Name_es: Programa Mundial de Alimentos
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 World Bank:
   Wikidata_code: Q7164
@@ -297,7 +297,7 @@ World Health Organization:
   Source: https://www.un.org/en/about-us/specialized-agencies
   OpenSanctions_id: '[No code found.]'
   Name_es: Organización Mundial de la Salud
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 World Intellectual Property Organization:
   Wikidata_code: Q177773
@@ -312,7 +312,7 @@ World Intellectual Property Organization:
   Source: https://www.un.org/en/about-us/specialized-agencies
   OpenSanctions_id: kprusi-a4603b8123e3b32448ddc8c4da6d586b0aeebdb2
   Name_es: Organización Mundial de la Propiedad Intelectual
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 International Maritime Organization:
   Wikidata_code: Q201054
@@ -327,7 +327,7 @@ International Maritime Organization:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
   Name_es: Organización Marítima Internacional
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B2
 United Nations Educational, Scientific and Cultural Organization:
   Wikidata_code: Q7809
@@ -342,7 +342,7 @@ United Nations Educational, Scientific and Cultural Organization:
   Source: https://www.un.org/en/about-us/specialized-agencies
   OpenSanctions_id: '[No code found.]'
   Name_es: UNESCO
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 International Labour Organization:
   Wikidata_code: Q54129
@@ -357,7 +357,7 @@ International Labour Organization:
   Source: https://www.un.org/en/about-us/specialized-agencies
   OpenSanctions_id: '[No code found.]'
   Name_es: Organización Internacional del Trabajo
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 Universal Postal Union:
   Wikidata_code: Q17495
@@ -372,7 +372,7 @@ Universal Postal Union:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
   Name_es: Unión Postal Universal
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 International Monetary Fund:
   Wikidata_code: Q7804
@@ -387,7 +387,7 @@ International Monetary Fund:
   Source: https://www.un.org/en/about-us/specialized-agencies
   OpenSanctions_id: NK-fpJvxsfBQQdc49ArT2txiQ
   Name_es: Fondo Monetario Internacional
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 International Atomic Energy Agency:
   Wikidata_code: Q41984
@@ -401,7 +401,7 @@ International Atomic Energy Agency:
   Source: https://www.un.org/en/about-us/specialized-agencies
   OpenSanctions_id: kprusi-7c1673a72776402e41981875790d4939498ad14a
   Name_es: Organismo Internacional de Energía Atómica
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 World Meteorological Organization:
   Wikidata_code: Q170424
@@ -416,7 +416,7 @@ World Meteorological Organization:
   Source: https://www.un.org/en/about-us/specialized-agencies
   OpenSanctions_id: '[No code found.]'
   Name_es: Organización Meteorológica Mundial
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 International Organization for Migration:
   Wikidata_code: Q472311
@@ -430,7 +430,7 @@ International Organization for Migration:
   Source: https://www.un.org/en/about-us/specialized-agencies
   OpenSanctions_id: NK-behW9iF6wk8trvEFcHVZYe
   Name_es: Organización Internacional para las Migraciones
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 International Criminal Court:
   Wikidata_code: Q47488
@@ -444,7 +444,7 @@ International Criminal Court:
   Source: https://www.un.org/en/about-us/specialized-agencies
   OpenSanctions_id: '[No code found.]'
   Name_es: Corte Penal Internacional
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organization:
   Wikidata_code: Q15211422
@@ -460,7 +460,7 @@ Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organizatio
   OpenSanctions_id: '[No code found.]'
   Name_es: Comisión Preparatoria del Tratado de Prohibición Completa de los Ensayos
     Nucleares
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 International Seabed Authority:
   Wikidata_code: Q333727
@@ -474,7 +474,7 @@ International Seabed Authority:
   Source: https://www.un.org/en/about-us/specialized-agencies
   OpenSanctions_id: '[No code found.]'
   Name_es: Autoridad Internacional de los Fondos Marinos
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 International Tribunal for the Law of the Sea:
   Wikidata_code: Q639118
@@ -488,7 +488,7 @@ International Tribunal for the Law of the Sea:
   Source: https://www.un.org/en/about-us/specialized-agencies
   OpenSanctions_id: '[No code found.]'
   Name_es: Tribunal Internacional del Derecho del Mar
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 United Nations Tourism:
   Wikidata_code: Q61923
@@ -504,7 +504,7 @@ United Nations Tourism:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
   Name_es: ONU Turismo
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 United Nations Industrial Development Organization:
   Wikidata_code: Q386120
@@ -519,7 +519,7 @@ United Nations Industrial Development Organization:
   Source: https://www.un.org/en/about-us/specialized-agencies
   OpenSanctions_id: '[No code found.]'
   Name_es: Organización de las Naciones Unidas para el Desarrollo Industrial
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 International Law Commission:
   Wikidata_code: Q684656
@@ -533,7 +533,7 @@ International Law Commission:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
   Name_es: Comisión de Derecho internacional
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 International Finance Corporation:
   Wikidata_code: Q656801
@@ -547,7 +547,7 @@ International Finance Corporation:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
   Name_es: Corporación Financiera Internacional
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 International Development Association:
   Wikidata_code: '[No code found.]'
@@ -560,7 +560,7 @@ International Development Association:
   Name_other_en: null
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 Fishery Committee for the Eastern Central Atlantic:
   Wikidata_code: Q12617572
@@ -656,7 +656,7 @@ International Trade Centre:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
   Name_es: Centro de Comercio Internacional
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 Organisation for the Prohibition of Chemical Weapons:
   Wikidata_code: Q842490
@@ -670,7 +670,7 @@ Organisation for the Prohibition of Chemical Weapons:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
   Name_es: Organización para la Prohibición de Armas Químicas
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 United Nations Interregional Crime and Justice Research Institute:
   Wikidata_code: Q1427752
@@ -686,7 +686,7 @@ United Nations Interregional Crime and Justice Research Institute:
   OpenSanctions_id: '[No code found.]'
   Name_es: Instituto Interregional de las Naciones Unidas para Investigaciones sobre
     el Crimen y la Justicia
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 United Nations Research Institute For Social Development:
   Wikidata_code: Q962612
@@ -700,7 +700,7 @@ United Nations Research Institute For Social Development:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
   Name_es: Instituto de Investigación de las Naciones Unidas para el Desarrollo Social
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 United Nations Institute for Disarmament Research:
   Wikidata_code: Q3152150
@@ -713,7 +713,7 @@ United Nations Institute for Disarmament Research:
   Name_other_en: UN Institute for Disarmament Research
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 United Nations Human Settlements Programme:
   Wikidata_code: Q487883
@@ -727,7 +727,7 @@ United Nations Human Settlements Programme:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Programa de Naciones Unidas para los Asentamientos Humanos
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 United Nations Human Rights Council:
   Wikidata_code: Q205650
@@ -741,7 +741,7 @@ United Nations Human Rights Council:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Consejo de Derechos Humanos de las Naciones Unidas
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 Joint Inspection Unit of the United Nations System:
   Wikidata_code: Q1500903
@@ -754,7 +754,7 @@ Joint Inspection Unit of the United Nations System:
   Name_other_en: Joint Inspection Unit
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 United Nations Volunteers:
   Wikidata_code: Q488065
@@ -768,7 +768,7 @@ United Nations Volunteers:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Voluntarios de las Naciones Unidas
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 United Nations Disarmament Commission:
   Wikidata_code: Q4229685
@@ -781,7 +781,7 @@ United Nations Disarmament Commission:
   Name_other_en: null
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 UN Women:
   Wikidata_code: Q641576
@@ -795,7 +795,7 @@ UN Women:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: ONU Mujeres
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 United Nations Commission on International Trade Law:
   Wikidata_code: Q698232
@@ -809,7 +809,7 @@ United Nations Commission on International Trade Law:
   Source: https://legal.un.org/ola/div_itld.aspx
   Name_es: Comisión de las Naciones Unidas para el Derecho Mercantil Internacional
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 United Nations Relief and Works Agency for Palestine Refugees in the Near East:
   Wikidata_code: Q846656
@@ -826,7 +826,7 @@ United Nations Relief and Works Agency for Palestine Refugees in the Near East:
   Name_es: Agencia de Naciones Unidas para los Refugiados de Palestina en Oriente
     Próximo
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 World Trade Organization:
   Wikidata_code: Q7825
@@ -839,10 +839,10 @@ World Trade Organization:
   Name_other_en: null
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Organización Mundial del Comercio
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B6
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 United Nations Institute for Training and Research:
   Wikidata_code: Q131878
@@ -856,7 +856,7 @@ United Nations Institute for Training and Research:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Instituto de las Naciones Unidas para la Formación y la Investigación
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 United Nations System Staff College:
   Wikidata_code: Q16959083
@@ -870,7 +870,7 @@ United Nations System Staff College:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Escuela Superior del Personal del Sistema de las Naciones Unidas
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 International Residual Mechanism for Criminal Tribunals:
   Wikidata_code: Q1667632
@@ -885,7 +885,7 @@ International Residual Mechanism for Criminal Tribunals:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Mecanismo Residual Internacional de los Tribunales Penales
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 United Nations Capital Development Fund:
   Wikidata_code: Q356037
@@ -899,7 +899,7 @@ United Nations Capital Development Fund:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Fondo de las Naciones Unidas para el Desarrollo del Capital
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 United Nations University:
   Wikidata_code: Q492442
@@ -913,7 +913,7 @@ United Nations University:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Universidad de Naciones Unidas
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 Economic and Social Commission for Western Asia:
   Wikidata_code: Q1355485
@@ -926,7 +926,7 @@ Economic and Social Commission for Western Asia:
   Name_other_en: United Nations Economic and Social Commission for Western Asia
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 Economic Commission for Africa:
   Wikidata_code: Q1144508
@@ -940,7 +940,7 @@ Economic Commission for Africa:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Comisión Económica para África
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 Economic Commission for Europe:
   Wikidata_code: Q659012
@@ -954,7 +954,7 @@ Economic Commission for Europe:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Comisión Económica de las Naciones Unidas para Europa
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 Economic Commission for Latin America and the Caribbean:
   Wikidata_code: Q32874
@@ -968,7 +968,7 @@ Economic Commission for Latin America and the Caribbean:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Comisión Económica para América Latina y el Caribe
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 Economic and Social Commission for Asia and the Pacific:
   Wikidata_code: Q1142901
@@ -981,7 +981,7 @@ Economic and Social Commission for Asia and the Pacific:
   Name_other_en: United Nations Economic and Social Commission for Asia and the Pacific
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 Statistical Commission:
   Wikidata_code: Q15042419
@@ -994,7 +994,7 @@ Statistical Commission:
   Name_other_en: United Nations Statistical Commission
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 Commission on Population and Development:
   Wikidata_code: Q5152731
@@ -1007,7 +1007,7 @@ Commission on Population and Development:
   Name_other_en: United Nations Commission on Population and Development
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 Commission for Social Development:
   Wikidata_code: Q3684758
@@ -1020,7 +1020,7 @@ Commission for Social Development:
   Name_other_en: United Nations Commission for Social Development
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 Commission on the Status of Women:
   Wikidata_code: Q2614097
@@ -1034,7 +1034,7 @@ Commission on the Status of Women:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Comisión de la Condición Jurídica y Social de la Mujer
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 Commission on Narcotic Drugs:
   Wikidata_code: Q469618
@@ -1048,7 +1048,7 @@ Commission on Narcotic Drugs:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Comisión de Estupefacientes de Naciones Unidas
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 Commission on Crime Prevention and Criminal Justice:
   Wikidata_code: Q104842946
@@ -1061,7 +1061,7 @@ Commission on Crime Prevention and Criminal Justice:
   Name_other_en: United Nations Commission on Crime Prevention and Criminal Justice
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 Commission on Science and Technology for Development:
   Wikidata_code: Q5152737
@@ -1074,7 +1074,7 @@ Commission on Science and Technology for Development:
   Name_other_en: United Nations Commission on Science and Technology for Development
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 United Nations Forum on Forests:
   Wikidata_code: Q1433762
@@ -1088,7 +1088,7 @@ United Nations Forum on Forests:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Foro de las Naciones Unidas sobre los bosques
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 High-Level Political Forum on Sustainable Development:
   Wikidata_code: Q17078095
@@ -1102,7 +1102,7 @@ High-Level Political Forum on Sustainable Development:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Foro Político de Alto Nivel sobre Desarrollo Sostenible
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 United Nations Peacebuilding Commission:
   Wikidata_code: Q1534084
@@ -1116,7 +1116,7 @@ United Nations Peacebuilding Commission:
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Comisión de Consolidación de la Paz
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 International Narcotics Control Board:
   Wikidata_code: Q667217
@@ -1130,7 +1130,7 @@ International Narcotics Control Board:
   Source: https://ecosoc.un.org/en/about-us/ecosoc-subsidiary-bodies
   Name_es: Junta Internacional de Fiscalización de Estupefacientes
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B14
 UNAIDS Programme Coordinating Board:
   Wikidata_code: Q588982
@@ -1144,7 +1144,7 @@ UNAIDS Programme Coordinating Board:
   Source: https://ecosoc.un.org/en/about-us/ecosoc-subsidiary-bodies
   Name_es: Programa Conjunto de las Naciones Unidas sobre el VIH/sida
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 United Nations Joint Staff Pension Fund:
   Wikidata_code: Q28455859
@@ -1158,7 +1158,7 @@ United Nations Joint Staff Pension Fund:
   Source: https://www.un.org/internaljustice/oaj/en/united-nations-joint-staff-pension-fund-unjspf
   Name_es: Caja Común de Pensiones del Personal de las Naciones Unidas
   OpenSanctions_id: NK-43DMmwFqwbXZHDFcovCyWF
-  Assessment_against_FATFA_definition: Included 
+  Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B15
 Indian Ocean Tuna Commission:
   Wikidata_code: Q12613354
