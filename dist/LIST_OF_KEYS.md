@@ -8,6 +8,8 @@
     * en
 * Assessment
   * against
+    * FATF
+      * definition
     * FATFA
       * definition
 * Basis
