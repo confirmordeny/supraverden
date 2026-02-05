@@ -23,7 +23,7 @@ Council of the European Union:
   OpenSanctions_id: '[No code found.]'
   Name_fr: Conseil de l'Union européenne
   Name_es: Consejo de la Unión Europea
-  Assessment_against_FATFA_definition: Included
+  Assessment_against_FATF_definition: Included
   Basis_for_assessment: B8
 Court of Justice of the European Union:
   Wikidata_code: Q4951
@@ -38,7 +38,7 @@ Court of Justice of the European Union:
   OpenSanctions_id: '[No code found.]'
   Name_fr: Cour de justice de l'Union européenne
   Name_es: Tribunal de Justicia de la Unión Europea
-  Assessment_against_FATFA_definition: Included
+  Assessment_against_FATF_definition: Included
   Basis_for_assessment: B8
 European Central Bank:
   Wikidata_code: Q8901
@@ -52,7 +52,7 @@ European Central Bank:
   OpenSanctions_id: NK-Ubo23KznV2pvcXMiQkTmvd
   Name_fr: Banque centrale européenne
   Name_es: Banco Central Europeo
-  Assessment_against_FATFA_definition: Included
+  Assessment_against_FATF_definition: Included
   Basis_for_assessment: B8
 European Commission:
   Wikidata_code: Q8880
@@ -65,7 +65,7 @@ European Commission:
   OpenSanctions_id: NK-KSpcRjPdvBkwrdiTx3VxGT
   Name_fr: Commission européenne
   Name_es: Comisión Europea
-  Assessment_against_FATFA_definition: Included
+  Assessment_against_FATF_definition: Included
   Basis_for_assessment: B8
 European Council:
   Wikidata_code: Q8886
@@ -79,7 +79,7 @@ European Council:
   OpenSanctions_id: '[No code found.]'
   Name_fr: Conseil européen
   Name_es: Consejo Europeo
-  Assessment_against_FATFA_definition: Included
+  Assessment_against_FATF_definition: Included
   Basis_for_assessment: B8
 European Court of Auditors:
   Wikidata_code: Q8900
@@ -93,7 +93,7 @@ European Court of Auditors:
   OpenSanctions_id: '[No code found.]'
   Name_fr: Cour des comptes européenne
   Name_es: Tribunal de Cuentas de la Unión Europea
-  Assessment_against_FATFA_definition: Included
+  Assessment_against_FATF_definition: Included
   Basis_for_assessment: B8
 European Parliament:
   Wikidata_code: Q8889
@@ -108,7 +108,7 @@ European Parliament:
   Source: https://web.archive.org/web/20250827094704/https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/types-institutions-and-bodies_en
   OpenSanctions_id: '[No code found.]'
   Name_es: Parlamento Europeo
-  Assessment_against_FATFA_definition: Included
+  Assessment_against_FATF_definition: Included
   Basis_for_assessment: B8
 European Investment Bank:
   Wikidata_code: Q192247
@@ -938,7 +938,7 @@ Council of Europe:
   Abbreviation_en: null
   Treaty_url: https://rm.coe.int/1680a1c6b3
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included
+  Assessment_against_FATF_definition: Included
   Basis_for_assessment: B3
   Name_es: Consejo de Europa
   Name_fr: Conseil de l'Europe
@@ -1033,7 +1033,7 @@ Organization of American States:
   Type: OAS itself
   Source: https://www.oas.org/en/sla/dil/docs/inter_american_treaties_A-41_charter_OAS.pdf
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included
+  Assessment_against_FATF_definition: Included
   Basis_for_assessment: B4
 Pan‐American Institute of Geography and History:
   Wikidata_code: Q7129603
@@ -1193,7 +1193,7 @@ North Atlantic Treaty Organisation:
   Name_en: North Atlantic Treaty Organisation
   Abbreviation_en: NATO
   Treaty_url: https://www.nato.int/cps/en/natohq/official_texts_17120.htm
-  Assessment_against_FATFA_definition: Included
+  Assessment_against_FATF_definition: Included
   Basis_for_assessment: B5
   Name_fr: Organisation du traité de l'Atlantique nord
   Name_es: OTAN
@@ -1237,7 +1237,7 @@ Association of Southeast Asian Nations:
   Treaty_url: https://assets.publishing.service.gov.uk/media/5a7c072ee5274a7318b9097a/8472.pdf
   Name_fr: Association des nations de l'Asie du Sud-Est
   Name_es: Asociación de las Naciones de Asia Sudoriental
-  Assessment_against_FATFA_definition: Included
+  Assessment_against_FATF_definition: Included
   Basis_for_assessment: B7
   OpenSanctions_id: '[No code found.]'
 Mercosur:
@@ -2350,7 +2350,7 @@ Multilateral Investment Guarantee Agency:
   Name_fr: Agence multilatérale de garantie des investissements
   Name_es: Organismo Multilateral de Garantía de Inversiones
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included
+  Assessment_against_FATF_definition: Included
   Basis_for_assessment: B12
 Pacific Tourism Organisation:
   Wikidata_code: Q7568120
@@ -2972,7 +2972,7 @@ International Centre for Settlement of Investment Disputes:
   Name_fr: Centre international pour le règlement des différends relatifs aux investissements
   Name_es: Centro Internacional de Arreglo de Diferencias Relativas a Inversiones
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATFA_definition: Included
+  Assessment_against_FATF_definition: Included
   Basis_for_assessment: B13
 Center for International Forestry Research and World Agroforestry:
   Wikidata_code: Q121461382
