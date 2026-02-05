@@ -845,11 +845,9 @@ World Trade Organization:
   Name_other_en: null
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Organización Mundial del Comercio
-  Assessment_against_FATF_definition: Included 
-  Basis_for_assessment: B6
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included 
-  Basis_for_assessment: B11
+  Basis_for_assessment: B6
 United Nations Institute for Training and Research:
   Wikidata_code: Q131878
   Org_family: UN and affiliates
