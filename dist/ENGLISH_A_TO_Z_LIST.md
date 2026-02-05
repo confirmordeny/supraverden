@@ -316,7 +316,6 @@
 ## I
 
 - Indian Ocean Commission
-- Indian Ocean Fishery Commission
 - Indian Ocean Rim Association
 - Indian Ocean Tuna Commission
 - Innovative Health Initiative Joint Undertaking
