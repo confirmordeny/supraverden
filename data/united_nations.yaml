@@ -284,6 +284,9 @@ World Bank:
   Source: https://www.un.org/en/about-us/specialized-agencies
   OpenSanctions_id: '[No code found.]'
   Name_es: Banco Mundial
+  Notes_en: > 
+  The "World Bank" is an umbrella term for the International Bank for Reconstruction and Development
+  and the International Development Association when considered collectively.
 World Health Organization:
   Wikidata_code: Q7817
   Org_family: UN and affiliates
