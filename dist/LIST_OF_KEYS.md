@@ -29,6 +29,7 @@
       * 2
   * pt
 * Notes
+  * en
 * OpenSanctions_id
 * Org_family
 * Source
