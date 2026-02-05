@@ -607,6 +607,7 @@ Committee for Inland Fisheries and Aquaculture of Africa:
 Commission for Inland Fisheries and Aquaculture of Latin America and the Caribbean:
   Wikidata_code: '[No code found.]'
   Org_family: UN and affiliates
+  Legal_type: FAO statutory body
   Country: zz
   Name_en: Commission for Inland Fisheries and Aquaculture of Latin America and the
     Caribbean
@@ -616,6 +617,8 @@ Commission for Inland Fisheries and Aquaculture of Latin America and the Caribbe
   Name_other_en: null
   Source: https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included 
+  Basis_for_assessment: B16
 European Inland Fisheries and Aquaculture Advisory Commission:
   Wikidata_code: Q114965341
   Org_family: UN and affiliates
@@ -628,6 +631,8 @@ European Inland Fisheries and Aquaculture Advisory Commission:
   Name_other_en: null
   Source: https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included 
+  Basis_for_assessment: B16
 Indian Ocean Fishery Commission:
   Wikidata_code: Q96186510
   Org_family: UN and affiliates
@@ -651,6 +656,8 @@ Western Central Atlantic Fishery Commission:
   Name_other_en: null
   Source: https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included 
+  Basis_for_assessment: B16
 International Trade Centre:
   Wikidata_code: Q1184878
   Org_family: UN and affiliates
@@ -1179,6 +1186,8 @@ Indian Ocean Tuna Commission:
   Name_other_en: null
   Source: https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included 
+  Basis_for_assessment: B16
 Asia-Pacific Fishery Commission:
   Wikidata_code: Q4806252
   Org_family: UN and affiliates
@@ -1191,6 +1200,8 @@ Asia-Pacific Fishery Commission:
   Name_other_en: null
   Source: https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included 
+  Basis_for_assessment: B16
 Western and Central Pacific Fisheries Commission:
   Wikidata_code: Q2565027
   Org_family: UN and affiliates
@@ -1204,6 +1215,8 @@ Western and Central Pacific Fisheries Commission:
   Source: https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/
   Name_es: Comisión de Pesca del Pacífico Occidental y Central
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included 
+  Basis_for_assessment: B16
 General Fisheries Commission for the Mediterranean:
   Wikidata_code: Q134724326
   Org_family: UN and affiliates
@@ -1216,6 +1229,8 @@ General Fisheries Commission for the Mediterranean:
   Name_other_en: null
   Source: https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included 
+  Basis_for_assessment: B16
 Central Asian and Caucasus Regional Fisheries and Aquaculture Commission:
   Wikidata_code: Q134723600
   Org_family: UN and affiliates
@@ -1228,6 +1243,8 @@ Central Asian and Caucasus Regional Fisheries and Aquaculture Commission:
   Name_other_en: null
   Source: https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included 
+  Basis_for_assessment: B16
 Coordinating Working Party on Fishery Statistics:
   Wikidata_code: Q5168022
   Org_family: UN and affiliates
@@ -1240,6 +1257,8 @@ Coordinating Working Party on Fishery Statistics:
   Name_other_en: null
   Source: https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included 
+  Basis_for_assessment: B16
 Regional Commission for Fisheries:
   Wikidata_code: Q134724812
   Org_family: UN and affiliates
@@ -1252,3 +1271,5 @@ Regional Commission for Fisheries:
   Name_other_en: null
   Source: https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included 
+  Basis_for_assessment: B16
