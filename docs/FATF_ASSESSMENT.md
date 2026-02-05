@@ -1,7 +1,7 @@
-This repo is not endorsed by or affiliated with FATFA.
+This repo is not endorsed by or affiliated with FATF.
 This file is a work in progress.
 
-The FATFA definition of international organisation is as follows:
+The FATF definition of international organisation is as follows:
 > "International organisations are entities established by formal political agreements
 between their member States that have the status of international treaties; their existence 
 is recognised by law in their member countries; and they are not treated as
