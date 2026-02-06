@@ -42,8 +42,8 @@ Article II of the [Convention on the Privileges and Immunities of the Specialize
 ## UN statutory bodies
 I have included some statutory bodies of the Food and Agriculture Organization of the United Nations including regional fisheryb bodies. I understand that these are not legal persons in their own right but they each have their own rules of procedure and vave nation states as members.
 
-## World Bank
-The World Bank is a collective term for International Bank for Reconstruction and Development and the International Development Association. It has been included in the list for now because it is a widely used term.
+## World Bank Group
+The World Bank is a collective term for International Bank for Reconstruction and Development and the International Development Association. It has been included in the list for now because it is a widely used term. Similarly, the World Bank Group is a collective term for five international organisations and has also been included in the list for the time being.
 
 # Excluded
 
