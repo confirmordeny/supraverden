@@ -33,7 +33,7 @@
 * Pacific Alliance (1 entity)
 * Pacific Islands Forum (4 entities)
 * Southern African Development Community (1 entity)
-* UN and affiliates (89 entities)
+* UN and affiliates (90 entities)
 * UN Environment Programme entities (2 entities)
 * Union of South American Nations entities (1 entity)
 * Unspecified (1 entity)
