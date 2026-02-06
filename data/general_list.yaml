@@ -10,6 +10,8 @@ European Union:
   OpenSanctions_id: '[No code found.]'
   Name_fr: Union européenne
   Name_es: Unión Europea
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B9
 Council of the European Union:
   Wikidata_code: Q8896
   Entity_type: International organisation
