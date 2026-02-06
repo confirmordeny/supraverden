@@ -24,7 +24,7 @@ Council of the European Union:
   Name_fr: Conseil de l'Union européenne
   Name_es: Consejo de la Unión Europea
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B8
+  Basis_for_assessment: B10
 Court of Justice of the European Union:
   Wikidata_code: Q4951
   Entity_type: International organisation
@@ -39,7 +39,7 @@ Court of Justice of the European Union:
   Name_fr: Cour de justice de l'Union européenne
   Name_es: Tribunal de Justicia de la Unión Europea
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B8
+  Basis_for_assessment: B10
 European Central Bank:
   Wikidata_code: Q8901
   Entity_type: International organisation
@@ -53,7 +53,7 @@ European Central Bank:
   Name_fr: Banque centrale européenne
   Name_es: Banco Central Europeo
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B8
+  Basis_for_assessment: B10
 European Commission:
   Wikidata_code: Q8880
   Entity_type: International organisation
@@ -66,7 +66,7 @@ European Commission:
   Name_fr: Commission européenne
   Name_es: Comisión Europea
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B8
+  Basis_for_assessment: B10
 European Council:
   Wikidata_code: Q8886
   Entity_type: International organisation
@@ -80,7 +80,7 @@ European Council:
   Name_fr: Conseil européen
   Name_es: Consejo Europeo
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B8
+  Basis_for_assessment: B10
 European Court of Auditors:
   Wikidata_code: Q8900
   Entity_type: International organisation
@@ -94,7 +94,7 @@ European Court of Auditors:
   Name_fr: Cour des comptes européenne
   Name_es: Tribunal de Cuentas de la Unión Europea
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B8
+  Basis_for_assessment: B10
 European Parliament:
   Wikidata_code: Q8889
   Entity_type: International organisation
@@ -109,7 +109,7 @@ European Parliament:
   OpenSanctions_id: '[No code found.]'
   Name_es: Parlamento Europeo
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B8
+  Basis_for_assessment: B10
 European Investment Bank:
   Wikidata_code: Q192247
   Entity_type: International organisation
