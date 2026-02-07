@@ -7,6 +7,7 @@ European Union:
   Abbreviation_en: EU
   Type: EU itself
   Source: https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT
+  Treaty_url: https://eur-lex.europa.eu/resource.html?uri=cellar:2bf140bf-a3f8-4ab2-b506-fd71826e6da6.0023.02/DOC_1&format=PDF
   OpenSanctions_id: '[No code found.]'
   Name_fr: Union européenne
   Name_es: Unión Europea
@@ -778,6 +779,7 @@ European Economic and Social Committee:
   OpenSanctions_id: '[No code found.]'
   Name_fr: Comité économique et social européen
   Name_es: Comité Económico y Social Europeo
+  Treaty_url: https://eur-lex.europa.eu/resource.html?uri=cellar:2bf140bf-a3f8-4ab2-b506-fd71826e6da6.0023.02/DOC_1&format=PDF
 European External Action Service:
   Wikidata_code: Q672941
   Entity_type: International organisation
