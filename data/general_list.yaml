@@ -740,13 +740,13 @@ European Committee of the Regions:
   Country: eu
   Name_en: European Committee of the Regions
   Abbreviation_en: CoR
-  Type: EU body
+  Type: EU advisory body
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY
   OpenSanctions_id: '[No code found.]'
   Name_fr: Comité des régions
   Name_es: Comité de las Regiones
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B17
+  Basis_for_assessment: B19
 European Cybersecurity Competence Centre:
   Wikidata_code: Q107658626
   Entity_type: International organisation
@@ -776,7 +776,7 @@ European Economic and Social Committee:
   Country: eu
   Name_en: European Economic and Social Committee
   Abbreviation_en: EESC
-  Type: EU body
+  Type: EU advisory body
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY
   OpenSanctions_id: '[No code found.]'
   Name_fr: Comité économique et social européen
