@@ -571,6 +571,8 @@ European Union Agency for Law Enforcement Training:
   OpenSanctions_id: '[No code found.]'
   Name_fr: Agence de l'Union européenne pour la formation des services répressifs
   Name_es: Escuela Europea de Policía
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B17
 European Union Agency for Railways:
   Wikidata_code: Q369273
   Entity_type: International organisation
@@ -584,6 +586,8 @@ European Union Agency for Railways:
   OpenSanctions_id: '[No code found.]'
   Name_fr: Agence de l’Union européenne pour les chemins de fer
   Name_es: Agencia Ferroviaria Europea
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B17
 European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice: 
   Wikidata_code: Q4440501
   Entity_type: International organisation
@@ -598,6 +602,8 @@ European Union Agency for the Operational Management of Large-Scale IT Systems i
   OpenSanctions_id: '[No code found.]'
   Name_fr: Agence européenne pour la gestion opérationnelle des systèmes d'information
     à grande échelle au sein de l'espace de liberté, de sécurité et de justice
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B17
 European Union Agency for the Space Programme:
   Wikidata_code: Q55610347
   Entity_type: International organisation
@@ -611,6 +617,8 @@ European Union Agency for the Space Programme:
   OpenSanctions_id: '[No code found.]'
   Name_fr: Agence de l'Union Européenne pour le programme spatial
   Name_es: Agencia de la Unión Europea para el Programa Espacial
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B17
 European Union Aviation Safety Agency:
   Wikidata_code: Q276255
   Entity_type: International organisation
@@ -624,6 +632,8 @@ European Union Aviation Safety Agency:
   OpenSanctions_id: '[No code found.]'
   Name_fr: Agence européenne de la sécurité aérienne
   Name_es: Agencia Europea de Seguridad Aérea
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B17
 European Union Drugs Agency:
   Wikidata_code: Q1377256
   Entity_type: International organisation
@@ -636,6 +646,8 @@ European Union Drugs Agency:
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
   OpenSanctions_id: '[No code found.]'
   Name_fr: agence de l’Union européenne sur les drogues
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B17
 European Union Intellectual Property Office:
   Wikidata_code: Q792534
   Entity_type: International organisation
@@ -649,6 +661,8 @@ European Union Intellectual Property Office:
   OpenSanctions_id: '[No code found.]'
   Name_fr: Office de l'Union européenne de la propriété intellectuelle
   Name_es: Oficina de Propiedad Intelectual de la Unión Europea
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B17
 Europol:
   Wikidata_code: Q207203
   Entity_type: International organisation
@@ -662,6 +676,8 @@ Europol:
   OpenSanctions_id: '[No code found.]'
   Name_fr: Europol
   Name_es: Europol
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B17
 European Border and Coast Guard Agency:
   Wikidata_code: Q21786841
   Entity_type: International organisation
@@ -674,6 +690,8 @@ European Border and Coast Guard Agency:
   OpenSanctions_id: '[No code found.]'
   Name_fr: Agence européenne de garde-frontières et de garde-côtes
   Name_es: Guardia Europea de Fronteras y Costas
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B17
 Single Resolution Board:
   Wikidata_code: Q19516507
   Entity_type: International organisation
@@ -685,6 +703,8 @@ Single Resolution Board:
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
   OpenSanctions_id: '[No code found.]'
   Name_fr: Conseil de résolution unique
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B17
 European Securities and Markets Authority:
   Wikidata_code: Q769112
   Entity_type: International organisation
@@ -697,6 +717,8 @@ European Securities and Markets Authority:
   OpenSanctions_id: bic-ESMAFRP2
   Name_fr: Autorité européenne des marchés financiers
   Name_es: Autoridad Europea de Valores y Mercados
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B17
 Translation Centre for the Bodies of the European Union:
   Wikidata_code: Q333743
   Entity_type: International organisation
@@ -708,6 +730,8 @@ Translation Centre for the Bodies of the European Union:
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
   OpenSanctions_id: '[No code found.]'
   Name_fr: Centre de traduction des organes de l'Union européenne
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B17
 European Committee of the Regions:
   Wikidata_code: Q205203
   Entity_type: International organisation
