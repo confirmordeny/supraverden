@@ -1,3 +1,5 @@
+[![Generate combined bodies table](https://github.com/confirmordeny/supraverden/actions/workflows/generate_all_bodies.yaml/badge.svg)](https://github.com/confirmordeny/supraverden/actions/workflows/generate_all_bodies.yaml)
+
 # SupraVerden
 Curated lists of international organisations with privileges and immunities.
 
