@@ -745,6 +745,8 @@ European Committee of the Regions:
   OpenSanctions_id: '[No code found.]'
   Name_fr: Comité des régions
   Name_es: Comité de las Regiones
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B17
 European Cybersecurity Competence Centre:
   Wikidata_code: Q107658626
   Entity_type: International organisation
@@ -780,6 +782,8 @@ European Economic and Social Committee:
   Name_fr: Comité économique et social européen
   Name_es: Comité Económico y Social Europeo
   Treaty_url: https://eur-lex.europa.eu/resource.html?uri=cellar:2bf140bf-a3f8-4ab2-b506-fd71826e6da6.0023.02/DOC_1&format=PDF
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B19
 European External Action Service:
   Wikidata_code: Q672941
   Entity_type: International organisation
