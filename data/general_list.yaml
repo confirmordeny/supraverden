@@ -758,6 +758,8 @@ European Cybersecurity Competence Centre:
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY
   Source_2: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0887
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B20
 European Data Protection Supervisor:
   Wikidata_code: Q1377705
   Entity_type: International organisation
