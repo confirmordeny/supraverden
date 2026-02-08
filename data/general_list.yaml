@@ -2477,8 +2477,6 @@ ANZUS:
   Name_fr: ANZUS
   Name_es: ANZUS
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B22
 Salzburg Forum:
   Wikidata_code: Q7406988
   Entity_type: International organisation
@@ -2488,8 +2486,6 @@ Salzburg Forum:
   Abbreviation_en: null
   Treaty_url: https://www.salzburgforum.org/Treaties_and_Agreement/CBE_Agreement.html
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B22
 Tuvalu Trust Fund:
   Wikidata_code: Q7857109
   Entity_type: International organisation
@@ -2499,8 +2495,6 @@ Tuvalu Trust Fund:
   Abbreviation_en: null
   Treaty_url: https://tuvalu-legislation.tv/cms/images/LEGISLATION/SUBORDINATE/1987/1987-0001/1987-0001_1.pdf
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B22
 Southern African Customs Union:
   Wikidata_code: Q1344350
   Entity_type: International organisation
@@ -5854,5 +5848,3 @@ Board of Peace:
   Treaty_url: https://www.middleeasteye.net/news/trump-board-of-peace-charter-full-text
   Source:
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B22
