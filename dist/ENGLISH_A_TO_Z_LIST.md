@@ -337,7 +337,6 @@
 - International Bamboo and Rattan Organization
 - International Bank for Economic Co-operation
 - International Bank for Reconstruction and Development
-- International Bauxite Association
 - International Boundary and Water Commission
 - International Boundary Commission
 - International Bureau of Weights and Measures
@@ -383,7 +382,6 @@
 - International Institute of Refrigeration
 - International Investment Bank
 - International Joint Commission
-- International Jute Study Group
 - International Labour Organization
 - International Law Commission
 - International Lead and Zinc Study Group
