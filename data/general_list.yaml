@@ -53,6 +53,7 @@ European Central Bank:
   Abbreviation_en: ECB
   Type: EU institution
   Source: https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT
+  Immunity_url: https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:12012E/TXT:en:PDF
   OpenSanctions_id: NK-Ubo23KznV2pvcXMiQkTmvd
   Name_fr: Banque centrale européenne
   Name_es: Banco Central Europeo
@@ -122,6 +123,7 @@ European Investment Bank:
   Name_en: European Investment Bank
   Type: EU body formed by treaty
   Source: https://web.archive.org/web/20250828040215/https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:11957E/TXT
+  Immunity_url: https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:12012E/TXT:en:PDF
   OpenSanctions_id: NK-7nAZcmSJNBZMqsstpfrtJB/
   Name_fr: Banque européenne d'investissement
   Name_es: Banco Europeo de Inversiones
