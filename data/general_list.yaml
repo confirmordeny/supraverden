@@ -2230,18 +2230,7 @@ International Organisation of Vine and Wine:
   Name_es: Organización Internacional de la Viña y el Vino
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B22
-International Jute Study Group:
-  Wikidata_code: Q16849197
-  Entity_type: International organisation
-  Org_family: none
-  Country: zz
-  Name_en: International Jute Study Group
-  Abbreviation_en: null
-  Treaty_url: https://treaties.un.org/Pages/showDetails.aspx?objid=0800000280054348&clang=_en
-  OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B22
+  Basis_for_assessment: B22  
 International Olive Council:
   Wikidata_code: Q13516775
   Entity_type: International organisation
