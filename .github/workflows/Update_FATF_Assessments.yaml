@@ -1,29 +1,33 @@
 name: Update FATF Assessments
 on:
-  workflow_dispatch: # Allows you to run this manually from the "Actions" tab
+  workflow_dispatch:
 
 jobs:
   update-data:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # CRITICAL: Actions need explicit permission to write back to the repo
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
 
       - name: Run FATF Update Logic
         run: |
-          # Use yq to update entries where Treaty_url exists and Assessment is missing
-          # This targets the specific 'B99' logic you requested
-          yq -i 'map_values(
-            select(.Treaty_url != null and .Treaty_url != "" and .Assessment_against_FATF_definition == null) |= (
-              .Assessment_against_FATF_definition = "Included" |
-              .Basis_for_assessment = "B22"
-            )
-          )' data/general_list.yaml
+          # Use 'with' logic to ensure the selection is precise
+          # We check if Treaty_url is not null and not empty, 
+          # AND that the assessment field does not exist or is null.
+          yq -i 'with(.[]; select(.Treaty_url != null and .Treaty_url != "" and (.Assessment_against_FATF_definition == null or .Assessment_against_FATF_definition == "" )) | .Assessment_against_FATF_definition = "Included" | .Basis_for_assessment = "B22")' data/general_list.yaml
 
       - name: Commit and Push changes
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
-          git add data/general_list.yaml
-          git commit -m "Automated update: Added FATF assessment to entries with Treaty URLs"
-          git push
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Check if there are actually changes to avoid "nothing to commit" errors
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git add data/general_list.yaml
+            git commit -m "Automated update: Added FATF assessment (B22) for entries with Treaty URLs"
+            git push
+          else
+            echo "No changes to commit"
+          fi
