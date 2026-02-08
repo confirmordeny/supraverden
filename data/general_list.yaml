@@ -24,6 +24,7 @@ Council of the European Union:
   Name_other_2_en: Council of ministers
   Type: EU institution
   Source: https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT
+  Immunity_url: https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:12012E/TXT:en:PDF
   OpenSanctions_id: '[No code found.]'
   Name_fr: Conseil de l'Union européenne
   Name_es: Consejo de la Unión Europea
@@ -39,6 +40,7 @@ Court of Justice of the European Union:
   Name_other_en: European Court of Justice
   Type: EU institution
   Source: https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT
+  Immunity_url: https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:12012E/TXT:en:PDF
   OpenSanctions_id: '[No code found.]'
   Name_fr: Cour de justice de l'Union européenne
   Name_es: Tribunal de Justicia de la Unión Europea
@@ -67,6 +69,7 @@ European Commission:
   Name_en: European Commission
   Type: EU institution
   Source: https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT
+  Immunity_url: https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:12012E/TXT:en:PDF
   OpenSanctions_id: NK-KSpcRjPdvBkwrdiTx3VxGT
   Name_fr: Commission européenne
   Name_es: Comisión Europea
@@ -81,6 +84,7 @@ European Council:
   Abbreviation_en: EUCO
   Type: EU institution
   Source: https://web.archive.org/web/20250823025229/https://publications.europa.eu/resource/cellar/688a7a98-3110-4ffe-a6b3-8972d8445325.0007.01/DOC_19
+  Immunity_url: https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:12012E/TXT:en:PDF
   OpenSanctions_id: '[No code found.]'
   Name_fr: Conseil européen
   Name_es: Consejo Europeo
@@ -95,6 +99,7 @@ European Court of Auditors:
   Abbreviation_en: ECA
   Type: EU institution
   Source: https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT
+  Immunity_url: https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:12012E/TXT:en:PDF
   OpenSanctions_id: '[No code found.]'
   Name_fr: Cour des comptes européenne
   Name_es: Tribunal de Cuentas de la Unión Europea
@@ -111,6 +116,7 @@ European Parliament:
   Name_other_en: null
   Type: EU institution
   Source: https://web.archive.org/web/20250827094704/https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/types-institutions-and-bodies_en
+  Immunity_url: https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:12012E/TXT:en:PDF
   OpenSanctions_id: '[No code found.]'
   Name_es: Parlamento Europeo
   Assessment_against_FATF_definition: Included
@@ -135,6 +141,7 @@ European University Institute:
   Name_en: European University Institute
   Type: EU body formed by treaty
   Source: https://web.archive.org/web/20250527174136/https://www.eui.eu/Documents/AboutEUI/Convention/English.pdf
+  Immunity_url: https://web.archive.org/web/20250527174136/https://www.eui.eu/Documents/AboutEUI/Convention/English.pdf
   OpenSanctions_id: '[No code found.]'
   Name_fr: Institut universitaire européen
   Name_es: Instituto Universitario Europeo
@@ -148,6 +155,7 @@ European Atomic Energy Community:
   Name_other_en: Euratom
   Type: EU body formed by treaty
   Source: https://web.archive.org/web/20240828070935/https://eur-lex.europa.eu/EN/legal-content/summary/treaty-on-the-european-atomic-energy-community-euratom.html
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:12016A/TXT
   OpenSanctions_id: '[No code found.]'
   Name_fr: Communauté européenne de l'énergie atomique
   Name_es: Comunidad Europea de la Energía Atómica
@@ -160,6 +168,7 @@ Unified Patent Court:
   Abbreviation_en: UPC
   Type: EU body formed by treaty
   Source: https://web.archive.org/web/20230515032632/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:42013A0620(01)
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:42013A0620(01)
   OpenSanctions_id: '[No code found.]'
   Name_fr: Juridiction unique des brevets
 European Stability Mechanism:
@@ -171,6 +180,7 @@ European Stability Mechanism:
   Abbreviation_en: ESM
   Type: EU body formed by treaty
   Source: https://web.archive.org/web/20250615150335/https://www.esm.europa.eu/system/files/document/2023-10/05-TESM2-HR1.en12.pdf
+  Immunity_url: https://web.archive.org/web/20250615150335/https://www.esm.europa.eu/system/files/document/2023-10/05-TESM2-HR1.en12.pdf
   OpenSanctions_id: NK-nw2rgJpD8uoci2TT5t7yvK
   Name_fr: Mécanisme européen de stabilité
   Name_es: Mecanismo Europeo de Estabilidad
