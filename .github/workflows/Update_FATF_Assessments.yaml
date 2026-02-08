@@ -18,12 +18,12 @@ jobs:
               .Assessment_against_FATF_definition = "Included" |
               .Basis_for_assessment = "B22"
             )
-          )' general_list.yaml
+          )' data/general_list.yaml
 
       - name: Commit and Push changes
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add general_list.yaml
+          git add data/general_list.yaml
           git commit -m "Automated update: Added FATF assessment to entries with Treaty URLs"
           git push
