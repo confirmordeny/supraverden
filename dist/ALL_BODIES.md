@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 559 international organisations in the table.
+There are currently 558 international organisations in the table.
 
 | English Name | Wikidata Code | OpenSanctions | Family | Source |
 |---|---|---|---|---|
@@ -293,7 +293,6 @@ There are currently 559 international organisations in the table.
 | International Bamboo and Rattan Organization | [Q6052145](https://www.wikidata.org/wiki/Q6052145) | [No code found] | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%202132/v2132.pdf#page=215) |
 | International Bank for Economic Co-operation | [Q1520558](https://www.wikidata.org/wiki/Q1520558) | [isin-BG2100005219](https://www.opensanctions.org/entities/isin-BG2100005219/) | none | [Treaty](https://ibec.int/upload/iblock/584/EN_Agreement%20and%20Statutes%202014%20A4.pdf) |
 | International Bank for Reconstruction and Development | [Q191384](https://www.wikidata.org/wiki/Q191384) | [NK-oH2ZzPZow6U9gumm83ujeQ](https://www.opensanctions.org/entities/NK-oH2ZzPZow6U9gumm83ujeQ/) | UN and affiliates | [timeline.worldbank.org](https://timeline.worldbank.org/content/dam/sites/timeline/docs/migrated/event12-UNagt-agreement-30151254.pdf) |
-| International Bauxite Association | [Q111593546](https://www.wikidata.org/wiki/Q111593546) | [No code found] | none | [Treaty](https://treaties.un.org/Pages/showDetails.aspx?objid=0800000280100e36&clang=_en) |
 | International Boundary and Water Commission | [Q8348493](https://www.wikidata.org/wiki/Q8348493) | [No code found] | none | [Treaty](https://www.ibwc.gov/wp-content/uploads/2022/11/TREATY_OF_1889.pdf) |
 | International Boundary Commission | [Q29467091](https://www.wikidata.org/wiki/Q29467091) | [No code found] | none | [Treaty](https://www.internationalboundarycommission.org/uploads/treaties/treaty%20of%201908%20(english).pdf) |
 | International Bureau of Weights and Measures | [Q229478](https://www.wikidata.org/wiki/Q229478) | [No code found] | none | [Treaty](https://www.bipm.org/documents/20126/44107685/metre-convention.pdf/cd9c9e57-0cc6-4cda-2930-ec1d7c853743?version=1.9&t=1686910612244&download=true) |
