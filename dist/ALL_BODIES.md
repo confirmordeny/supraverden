@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 558 international organisations in the table.
+There are currently 557 international organisations in the table.
 
 | English Name | Wikidata Code | OpenSanctions | Family | Source |
 |---|---|---|---|---|
@@ -338,7 +338,6 @@ There are currently 558 international organisations in the table.
 | International Institute of Refrigeration | [Q3152339](https://www.wikidata.org/wiki/Q3152339) | [No code found] | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%20826/volume-826-I-11837-English.pdf) |
 | International Investment Bank | [Q1824234](https://www.wikidata.org/wiki/Q1824234) | [bic-IIBMRUMM](https://www.opensanctions.org/entities/bic-IIBMRUMM/) | none | [Treaty](https://iib.int/files/agreement_establishing_iib_with_its_charter.pdf) |
 | International Joint Commission | [Q6051258](https://www.wikidata.org/wiki/Q6051258) | [No code found] | none | [Treaty](https://www.ijc.org/sites/default/files/2018-07/Boundary%20Waters%20Treaty%20of%201909.pdf) |
-| International Jute Study Group | [Q16849197](https://www.wikidata.org/wiki/Q16849197) | [No code found] | none | [Treaty](https://treaties.un.org/Pages/showDetails.aspx?objid=0800000280054348&clang=_en) |
 | International Labour Organization | [Q54129](https://www.wikidata.org/wiki/Q54129) | [No code found] | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
 | International Law Commission | [Q684656](https://www.wikidata.org/wiki/Q684656) | [No code found] | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | International Lead and Zinc Study Group | [Q12131043](https://www.wikidata.org/wiki/Q12131043) | [No code found] | none | [Treaty](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A32001D0221) |
