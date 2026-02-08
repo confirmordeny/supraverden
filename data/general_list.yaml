@@ -3315,18 +3315,6 @@ Economic Community of the Great Lakes Countries:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
-International Bauxite Association:
-  Wikidata_code: Q111593546
-  Entity_type: International organisation
-  Org_family: none
-  Country: zz
-  Name_en: International Bauxite Association
-  Abbreviation_en: null
-  Treaty_url: https://treaties.un.org/Pages/showDetails.aspx?objid=0800000280100e36&clang=_en
-  Name_fr: Association internationale de la bauxite
-  OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B22
 International Boundary Commission:
   Wikidata_code: Q29467091
   Entity_type: International organisation
