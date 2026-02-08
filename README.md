@@ -1,10 +1,8 @@
 
 [![Create A to Z of English names](https://github.com/confirmordeny/supraverden/actions/workflows/create_a_to_z_of_en_names.yaml/badge.svg)](https://github.com/confirmordeny/supraverden/actions/workflows/create_a_to_z_of_en_names.yaml) [![Generate combined bodies table](https://github.com/confirmordeny/supraverden/actions/workflows/generate_all_bodies.yaml/badge.svg)](https://github.com/confirmordeny/supraverden/actions/workflows/generate_all_bodies.yaml)
 
-# SupraVerden
-Curated lists of international organisations with privileges and immunities.
-
-This repo is in the very early stages.
+# What is it?
+SupraVerden is a curated lists of international organisations with privileges and immunities. This repo is in the very early stages. Its aims to create a robust data set that can be used for practical purposes.
 
 ## Main outputs
 * [All bodies](dist/ALL_BODIES.md)
@@ -15,6 +13,9 @@ This repo is in the very early stages.
 
 * [Criteria for inclusion](docs/CRITERIA_FOR_INCLUSION.md)
 * [Research](docs/RESEARCH.md)
+
+## Where to get it
+The source code is currently hosted on GitHub at: https://github.com/confirmordeny/supraverden
 
 ## Contributing
 
