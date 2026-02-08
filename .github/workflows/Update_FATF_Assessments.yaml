@@ -16,14 +16,14 @@ jobs:
           yq -i 'map_values(
             select(.Treaty_url != null and .Treaty_url != "" and .Assessment_against_FATF_definition == null) |= (
               .Assessment_against_FATF_definition = "Included" |
-              .Basis_for_assessment = "B99"
+              .Basis_for_assessment = "B22"
             )
-          )' your_data_file.yaml
+          )' general_list.yaml
 
       - name: Commit and Push changes
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add your_data_file.yaml
+          git add general_list.yaml
           git commit -m "Automated update: Added FATF assessment to entries with Treaty URLs"
           git push
