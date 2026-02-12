@@ -19,6 +19,7 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
+          # We need pyyaml and requests for the script to function
         run: pip install pyyaml requests
 
       - name: Run Enrichment Script
@@ -134,4 +135,12 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --global user.name "github-actions[bot
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/*.yaml
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Enrich: Fixed syntax and ensured full name preservation"
+            git push
+          fi
