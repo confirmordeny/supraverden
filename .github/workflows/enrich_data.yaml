@@ -31,11 +31,9 @@ jobs:
           import os
           import time
 
-          # ================= CONFIGURATION =================
           TARGET_FILES = ['data/general_list.yaml', 'data/united_nations.yaml']
           WIKIDATA_ENDPOINT = "https://query.wikidata.org/sparql"
           USER_AGENT = "SupraverdenBot/1.0 (github.com/confirmordeny/supraverden)"
-          # =================================================
 
           def get_wikidata_data(q_code):
               time.sleep(1.0)
@@ -55,44 +53,42 @@ jobs:
                       headers={'User-Agent': USER_AGENT},
                       timeout=30
                   )
-                  if response.status_code == 429:
-                      time.sleep(10)
-                      return None
-                  if response.status_code != 200:
-                      return None
-                  data = response.json()
-                  bindings = data.get('results', {}).get('bindings', [])
-                  if not bindings:
-                      return {}
-                  result_row = bindings[0]
-                  return {
-                      'os_id': result_row.get('id', {}).get('value'),
-                      'name_fr': result_row.get('name_fr', {}).get('value'),
-                      'name_es': result_row.get('name_es', {}).get('value')
-                  }
-              except Exception:
-                  return None
+                  if response.status_code == 200:
+                      data = response.json()
+                      bindings = data.get('results', {}).get('bindings', [])
+                      if bindings:
+                          result_row = bindings[0]
+                          return {
+                              'os_id': result_row.get('id', {}).get('value'),
+                              'name_fr': result_row.get('name_fr', {}).get('value'),
+                              'name_es': result_row.get('name_es', {}).get('value')
+                          }
+                  return {}
+              except:
+                  return {}
 
           def process_single_file(file_path):
-              print(f"Processing {file_path}...")
+              print(f"Checking {file_path}...")
               if not os.path.exists(file_path):
                   return False
               with open(file_path, 'r', encoding='utf-8') as f:
                   original_content = f.read()
+              
               header_match = re.match(r'^(\s*#.*|\s*\n)*', original_content)
               header_block = header_match.group(0) if header_match else ""
+              
               try:
                   data = yaml.safe_load(original_content)
-              except Exception as e:
-                  print(f"YAML Error: {e}")
+              except:
                   return False
               if not data:
                   return False
 
               updates_count = 0
-              for name, info in data.items():
+              for org_name, info in data.items():
                   if not isinstance(info, dict) or 'Wikidata_code' not in info:
                       continue
+                  
                   w_code = str(info['Wikidata_code']).replace('[', '').replace(']', '').strip()
                   if not w_code.startswith('Q'):
                       continue
@@ -100,18 +96,42 @@ jobs:
                   needs_os = 'OpenSanctions_id' not in info
                   needs_fr = 'Name_fr' not in info
                   needs_es = 'Name_es' not in info
-                  if not (needs_os or needs_fr or needs_es):
-                      continue
+                  
+                  if needs_os or needs_fr or needs_es:
+                      remote = get_wikidata_data(w_code)
+                      if not remote:
+                          continue
+                      
+                      changed = False
+                      if needs_os and remote.get('os_id'):
+                          info['OpenSanctions_id'] = remote['os_id']
+                          changed = True
+                      if needs_fr and remote.get('name_fr'):
+                          info['Name_fr'] = remote['name_fr']
+                          changed = True
+                      if needs_es and remote.get('name_es'):
+                          info['Name_es'] = remote['name_es']
+                          changed = True
+                      
+                      if changed:
+                          updates_count += 1
 
-                  remote = get_wikidata_data(w_code)
-                  if not remote:
-                      continue
+              if updates_count > 0:
+                  print(f"Saving {updates_count} updates...")
+                  with open(file_path, 'w', encoding='utf-8') as f:
+                      f.write(header_block)
+                      yaml.dump(data, f, default_flow_style=False, sort_keys=False, allow_unicode=True, width=1000)
+                  return True
+              return False
 
-                  changed = False
-                  if needs_os and remote.get('os_id'):
-                      info['OpenSanctions_id'] = remote['os_id']
-                      changed = True
-                  if needs_fr and remote.get('name_fr'):
-                      info['Name_fr'] = remote['name_fr']
-                      changed = True
-                  if needs_es and remote.get('name_es'):
+          any_updated = False
+          for path in TARGET_FILES:
+              if process_single_file(path):
+                  any_updated = True
+          
+          if not any_updated:
+              print("No changes found.")
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot
