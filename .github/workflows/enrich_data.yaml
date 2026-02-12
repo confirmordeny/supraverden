@@ -1,133 +1,110 @@
-name: Combined bodies table
+name: Enrich data with data from Wikidata
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - 'data/general_list.yaml'
-      - 'data/united_nations.yaml'
-  workflow_dispatch:
+  workflow_dispatch: 
+
+permissions:
+  contents: write 
 
 jobs:
-  build:
+  enrich-data:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: '3.10'
 
-      # We must install pyyaml so Python can read the wrapped lines correctly
       - name: Install dependencies
-        run: pip install pyyaml
+        run: pip install pyyaml requests
 
-      - name: Generate Combined Markdown Table
+      - name: Run Enrichment Script
+        shell: python
         run: |
-          python3 - <<'EOF'
-          import os
           import yaml
+          import requests
+          import sys
+          import re
+          import os
+          import time
 
-          input_files = ['data/general_list.yaml', 'data/united_nations.yaml']
-          output_file = 'dist/ALL_BODIES.md'
-
-          def escape_cell(text):
-              if not text or not isinstance(text, str):
-                  return str(text) if text else "N/A"
-              return text.replace('|', '\|').replace('\n', ' ')
-
-          def parse_file(filepath):
-              if not os.path.exists(filepath):
-                  print(f'Error: {filepath} not found')
-                  return []
-              
-              with open(filepath, 'r', encoding='utf-8') as f:
-                  try:
-                      # Using safe_load handles multi-line strings and wrapping automatically
-                      data = yaml.safe_load(f)
-                      if not data:
-                          return []
-                      
-                      organizations = []
-                      for org_key, details in data.items():
-                          if isinstance(details, dict):
-                              # Store the key as the fallback name
-                              details['_main_name'] = org_key
-                              organizations.append(details)
-                      return organizations
-                  except Exception as e:
-                      print(f"Error parsing {filepath}: {e}")
-                      return []
-
-          def generate_markdown_table(organizations):
-              header = '| English Name | Wikidata Code | OpenSanctions | Family | Source |\n|---|---|---|---|---|'
-              rows = [header]
-              
-              sorted_orgs = sorted(
-                  organizations, 
-                  key=lambda x: str(x.get('Name_en') or x.get('_main_name') or '').lower()
-              )
-              
-              for org in sorted_orgs:
-                  name = org.get('Name_en') or org.get('_main_name', 'N/A')
-                  wikidata = str(org.get('Wikidata_code', 'N/A')).strip('[] ')
-                  
-                  # Wikidata Display
-                  if not wikidata.startswith('Q'):
-                      wikidata_display = 'N/A'
-                  else:
-                      wikidata_display = f'[{wikidata}](https://www.wikidata.org/wiki/{wikidata})'
-                  
-                  # OpenSanctions Display
-                  raw_os_id = str(org.get('OpenSanctions_id', 'N/A')).strip("'\" ")
-                  if raw_os_id in ['[No code found.]', 'N/A', '']:
-                      os_display = 'N/A'
-                  else:
-                      os_display = f'[{raw_os_id}](https://www.opensanctions.org/entities/{raw_os_id}/)'
-
-                  family = org.get('Org_family', 'N/A')
-                  source = org.get('Source', 'N/A')
-                  treaty_url = org.get('Treaty_url')
-
-                  # Source Display Logic
-                  if treaty_url and str(treaty_url).strip():
-                      source_display = f'[Treaty]({str(treaty_url).strip()})'
-                  elif 'un_system_chart' in str(source):
-                      source_display = '[UN system chart](https://www.un.org/en/delegate/page/un-system-chart)'
-                  elif 'fao.org' in str(source):
-                      source_display = '[FAO Bodies](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/)'
-                  elif str(source).startswith('http'):
-                      domain = source.split('//')[1].split('/')[0] if '//' in source else 'Link'
-                      source_display = f'[{domain}]({source})'
-                  else:
-                      source_display = 'N/A'
-                      
-                  rows.append(f'| {escape_cell(name)} | {wikidata_display} | {os_display} | {escape_cell(family)} | {source_display} |')
-              
-              return '\n'.join(rows)
-
-          # Execution
-          all_orgs = []
-          for f_path in input_files:
-              all_orgs.extend(parse_file(f_path))
+          # ================= CONFIGURATION =================
+          TARGET_FILES = [
+              'data/general_list.yaml',
+              'data/united_nations.yaml'
+          ]
           
-          total = len(all_orgs)
-          markdown_table = generate_markdown_table(all_orgs)
-          
-          os.makedirs(os.path.dirname(output_file), exist_ok=True)
-          with open(output_file, 'w', encoding='utf-8') as f:
-              f.write(f'# All Supranational Bodies\n\nThere are currently {total} international organisations in the table.\n\n')
-              f.write(markdown_table)
-          EOF
+          WIKIDATA_ENDPOINT = "https://query.wikidata.org/sparql"
+          USER_AGENT = "SupraverdenBot/1.0 (github.com/confirmordeny/supraverden)"
+          # =================================================
 
-      - name: Commit and push if changed
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "docs: Auto-update combined bodies table (Fix truncation)"
-          file_pattern: "dist/ALL_BODIES.md"
+          def get_wikidata_data(q_code):
+              time.sleep(1.0)
+              query = f"""
+              SELECT ?id ?name_fr ?name_es WHERE {{
+                BIND(wd:{q_code} AS ?item)
+                OPTIONAL {{ ?item wdt:P10632 ?id . }}
+                OPTIONAL {{ ?item rdfs:label ?name_fr . FILTER(LANG(?name_fr) = "fr") }}
+                OPTIONAL {{ ?item rdfs:label ?name_es . FILTER(LANG(?name_es) = "es") }}
+              }}
+              LIMIT 1
+              """
+              try:
+                  response = requests.get(
+                      WIKIDATA_ENDPOINT, 
+                      params={'format': 'json', 'query': query}, 
+                      headers={'User-Agent': USER_AGENT},
+                      timeout=30
+                  )
+                  if response.status_code == 429:
+                      time.sleep(10)
+                      return None
+                  if response.status_code != 200:
+                      return None
+
+                  data = response.json()
+                  bindings = data.get('results', {}).get('bindings', [])
+                  if not bindings:
+                      return {}
+
+                  result_row = bindings[0]
+                  return {
+                      'os_id': result_row.get('id', {}).get('value'),
+                      'name_fr': result_row.get('name_fr', {}).get('value'),
+                      'name_es': result_row.get('name_es', {}).get('value')
+                  }
+              except Exception as e:
+                  print(f"    [!] Connection Exception: {e}")
+                  return None
+
+          def process_single_file(file_path):
+              print(f"\n--- Processing {file_path} ---")
+              if not os.path.exists(file_path):
+                  return False
+
+              with open(file_path, 'r', encoding='utf-8') as f:
+                  original_content = f.read()
+
+              # Preserve header comments
+              header_match = re.match(r'^(\s*#.*|\s*\n)*', original_content)
+              header_block = header_match.group(0) if header_match else ""
+
+              try:
+                  data = yaml.safe_load(original_content)
+              except yaml.YAMLError as exc:
+                  print(f"  [!] YAML Parsing Error: {exc}")
+                  return False
+
+              if not data:
+                  return False
+
+              updates_count = 0
+              for name, info in data.items():
+                  if not isinstance(info, dict) or 'Wikidata_code' not in info:
+                      continue
+
+                  w_code = str(info['Wikidata_code']).replace('[', '').replace(']', '').strip()
+                  if
