@@ -15,8 +15,7 @@
     * assessment
 * Country
 * Entity_type
-* Immunity
-  * url
+* Immunity_url
 * Legal_type
 * Name
   * en
