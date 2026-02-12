@@ -6,10 +6,7 @@
   * fr
   * other
     * en
-* Assessment
-  * against
-    * FATF
-      * definition
+* Assessment_against_FATF_definition
 * Basis
   * for
     * assessment
