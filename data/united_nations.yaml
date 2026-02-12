@@ -284,9 +284,9 @@ World Bank:
   Source: https://www.un.org/en/about-us/specialized-agencies
   OpenSanctions_id: '[No code found.]'
   Name_es: Banco Mundial
-  Notes_en: > 
-  The "World Bank" is an umbrella term for the International Bank for Reconstruction and Development
-  and the International Development Association when considered collectively.
+  Notes_en: >
+    The "World Bank" is an umbrella term for the International Bank for Reconstruction and Development
+    and the International Development Association when considered collectively.
 World Bank Group:
   Wikidata_code: Q320863
   Org_family: UN and affiliates
@@ -294,8 +294,8 @@ World Bank Group:
   Name_en: World Bank Group
   Source: https://www.un.org/en/delegate/page/un-system-chart
   OpenSanctions_id: '[No code found.]'
-  Notes_en: > 
-  The "World Bank Group" is an umbrella term for five international organisations.
+  Notes_en: >
+    The "World Bank Group" is an umbrella term for five international organisations.
 World Health Organization:
   Wikidata_code: Q7817
   Org_family: UN and affiliates
@@ -463,15 +463,13 @@ Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organizatio
   Org_family: UN and affiliates
   Country: zz
   Name_en: Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organization
-  Name_fr: Commission préparatoire de l’Organisation du traité d’interdiction complète
-    des essais nucléaires
+  Name_fr: Commission préparatoire de l’Organisation du traité d’interdiction complète des essais nucléaires
   Abbreviation_en: CTBTO
   Abbreviation_fr: null
   Name_other_en: Comprehensive Nuclear-Test-Ban Treaty Organization Preparatory Commission
   Source: https://www.un.org/en/about-us/specialized-agencies
   OpenSanctions_id: '[No code found.]'
-  Name_es: Comisión Preparatoria del Tratado de Prohibición Completa de los Ensayos
-    Nucleares
+  Name_es: Comisión Preparatoria del Tratado de Prohibición Completa de los Ensayos Nucleares
   Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 International Seabed Authority:
@@ -621,8 +619,7 @@ Commission for Inland Fisheries and Aquaculture of Latin America and the Caribbe
   Org_family: UN and affiliates
   Legal_type: FAO statutory body
   Country: zz
-  Name_en: Commission for Inland Fisheries and Aquaculture of Latin America and the
-    Caribbean
+  Name_en: Commission for Inland Fisheries and Aquaculture of Latin America and the Caribbean
   Name_fr: null
   Abbreviation_en: COPESCAALC
   Abbreviation_fr: null
@@ -692,15 +689,13 @@ United Nations Interregional Crime and Justice Research Institute:
   Org_family: UN and affiliates
   Country: zz
   Name_en: United Nations Interregional Crime and Justice Research Institute
-  Name_fr: Institut interrégional de recherche des Nations unies sur la criminalité
-    et la justice
+  Name_fr: Institut interrégional de recherche des Nations unies sur la criminalité et la justice
   Abbreviation_en: UNICRI
   Abbreviation_fr: null
   Name_other_en: UN Interregional Crime and Justice Research Institute
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
-  Name_es: Instituto Interregional de las Naciones Unidas para Investigaciones sobre
-    el Crimen y la Justicia
+  Name_es: Instituto Interregional de las Naciones Unidas para Investigaciones sobre el Crimen y la Justicia
   Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
 United Nations Research Institute For Social Development:
@@ -830,16 +825,13 @@ United Nations Relief and Works Agency for Palestine Refugees in the Near East:
   Wikidata_code: Q846656
   Org_family: UN and affiliates
   Country: zz
-  Name_en: United Nations Relief and Works Agency for Palestine Refugees in the Near
-    East
-  Name_fr: Office de secours et de travaux des Nations unies pour les réfugiés de
-    Palestine dans le Proche-Orient
+  Name_en: United Nations Relief and Works Agency for Palestine Refugees in the Near East
+  Name_fr: Office de secours et de travaux des Nations unies pour les réfugiés de Palestine dans le Proche-Orient
   Abbreviation_en: UNRWA
   Abbreviation_fr: null
   Name_other_en: null
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
-  Name_es: Agencia de Naciones Unidas para los Refugiados de Palestina en Oriente
-    Próximo
+  Name_es: Agencia de Naciones Unidas para los Refugiados de Palestina en Oriente Próximo
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
@@ -890,8 +882,7 @@ International Residual Mechanism for Criminal Tribunals:
   Org_family: UN and affiliates
   Country: zz
   Name_en: International Residual Mechanism for Criminal Tribunals
-  Name_fr: Mécanisme international appelé à exercer les fonctions résiduelles des
-    Tribunaux pénaux
+  Name_fr: Mécanisme international appelé à exercer les fonctions résiduelles des Tribunaux pénaux
   Abbreviation_en: IRMCT
   Abbreviation_fr: null
   Name_other_en: null
