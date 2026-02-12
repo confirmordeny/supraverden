@@ -602,21 +602,18 @@ European Union Agency for Railways:
   Name_es: Agencia Ferroviaria Europea
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
-? European Union Agency for the Operational Management of Large-Scale IT Systems in
-  the Area of Freedom, Security and Justice
-: Wikidata_code: Q4440501
+European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice:
+  Wikidata_code: Q4440501
   Entity_type: International organisation
   Org_family: EU institutions and bodies
   Country: eu
-  Name_en: European Union Agency for the Operational Management of Large-Scale IT
-    Systems in the Area of Freedom, Security and Justice
+  Name_en: European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice
   Abbreviation_en: eu-LISA
   Name_other_en: EU Agency for the Operational Management of Large-Scale IT Systems
   Type: EU decentralised agency
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
   OpenSanctions_id: '[No code found.]'
-  Name_fr: Agence européenne pour la gestion opérationnelle des systèmes d'information
-    à grande échelle au sein de l'espace de liberté, de sécurité et de justice
+  Name_fr: Agence européenne pour la gestion opérationnelle des systèmes d'information à grande échelle au sein de l'espace de liberté, de sécurité et de justice
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
 European Union Agency for the Space Programme:
