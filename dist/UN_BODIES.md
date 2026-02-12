@@ -29,7 +29,6 @@
 | Food and Agriculture Organization | [Q82151](https://www.wikidata.org/wiki/Q82151) | UN and affiliates | [UN Organisations](https://www.un.org/Depts/ptd/about-us/un-organisations) |
 | General Fisheries Commission for the Mediterranean | [Q134724326](https://www.wikidata.org/wiki/Q134724326) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | High-Level Political Forum on Sustainable Development | [Q17078095](https://www.wikidata.org/wiki/Q17078095) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
-| Indian Ocean Fishery Commission | [Q96186510](https://www.wikidata.org/wiki/Q96186510) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Indian Ocean Tuna Commission | [Q12613354](https://www.wikidata.org/wiki/Q12613354) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | International Atomic Energy Agency | [Q41984](https://www.wikidata.org/wiki/Q41984) | UN and affiliates | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
 | International Bank for Reconstruction and Development | [Q191384](https://www.wikidata.org/wiki/Q191384) | UN and affiliates | [timeline.worldbank.org](https://timeline.worldbank.org/content/dam/sites/timeline/docs/migrated/event12-UNagt-agreement-30151254.pdf) |
@@ -94,6 +93,7 @@
 | Western Central Atlantic Fishery Commission | [Q134724817](https://www.wikidata.org/wiki/Q134724817) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Western and Central Pacific Fisheries Commission | [Q2565027](https://www.wikidata.org/wiki/Q2565027) | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | World Bank | [Q7164](https://www.wikidata.org/wiki/Q7164) | UN and affiliates | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
+| World Bank Group | [Q320863](https://www.wikidata.org/wiki/Q320863) | UN and affiliates | [www.un.org](https://www.un.org/en/delegate/page/un-system-chart) |
 | World Health Organization | [Q7817](https://www.wikidata.org/wiki/Q7817) | UN and affiliates | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
 | World Intellectual Property Organization | [Q177773](https://www.wikidata.org/wiki/Q177773) | UN and affiliates | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
 | World Meteorological Organization | [Q170424](https://www.wikidata.org/wiki/Q170424) | UN and affiliates | [Specialized Agencies](https://www.un.org/en/about-us/specialized-agencies) |
