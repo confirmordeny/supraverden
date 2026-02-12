@@ -1,4 +1,4 @@
-name: Generate org families list
+name: Org families list
 
 on:
   push:
