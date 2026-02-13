@@ -114,6 +114,7 @@ Food and Agriculture Organization:
   Name_es: Organización de las Naciones Unidas para la Alimentación y la Agricultura
   Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
+  Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
 International Bank for Reconstruction and Development:
   Wikidata_code: Q191384
   Org_family: UN and affiliates
@@ -129,6 +130,7 @@ International Bank for Reconstruction and Development:
   Name_es: Banco Internacional de Reconstrucción y Fomento
   Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
+  Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
 International Civil Aviation Organization:
   Wikidata_code: Q125761
   Org_family: UN and affiliates
@@ -144,6 +146,7 @@ International Civil Aviation Organization:
   Name_es: Organización de Aviación Civil Internacional
   Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
+  Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
 International Fund for Agricultural Development:
   Wikidata_code: Q689859
   Org_family: UN and affiliates
@@ -159,6 +162,7 @@ International Fund for Agricultural Development:
   Name_es: Fondo Internacional de Desarrollo Agrícola
   Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
+  Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
 International Telecommunication Union:
   Wikidata_code: Q376150
   Org_family: UN and affiliates
@@ -174,6 +178,7 @@ International Telecommunication Union:
   Name_es: Unión Internacional de Telecomunicaciones
   Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
+  Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
 United Nations Children’s Fund:
   Wikidata_code: Q740308
   Org_family: UN and affiliates
@@ -287,6 +292,7 @@ World Bank:
   Notes_en: >
     The "World Bank" is an umbrella term for the International Bank for Reconstruction and Development
     and the International Development Association when considered collectively.
+    Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
 World Bank Group:
   Wikidata_code: Q320863
   Org_family: UN and affiliates
@@ -296,6 +302,7 @@ World Bank Group:
   OpenSanctions_id: '[No code found.]'
   Notes_en: >
     The "World Bank Group" is an umbrella term for five international organisations.
+  Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
 World Health Organization:
   Wikidata_code: Q7817
   Org_family: UN and affiliates
@@ -311,6 +318,7 @@ World Health Organization:
   Name_es: Organización Mundial de la Salud
   Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
+  Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
 World Intellectual Property Organization:
   Wikidata_code: Q177773
   Org_family: UN and affiliates
@@ -326,6 +334,7 @@ World Intellectual Property Organization:
   Name_es: Organización Mundial de la Propiedad Intelectual
   Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
+  Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
 International Maritime Organization:
   Wikidata_code: Q201054
   Org_family: UN and affiliates
@@ -341,6 +350,7 @@ International Maritime Organization:
   Name_es: Organización Marítima Internacional
   Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B2
+  Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
 United Nations Educational, Scientific and Cultural Organization:
   Wikidata_code: Q7809
   Org_family: UN and affiliates
@@ -356,6 +366,7 @@ United Nations Educational, Scientific and Cultural Organization:
   Name_es: UNESCO
   Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
+  Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
 International Labour Organization:
   Wikidata_code: Q54129
   Org_family: UN and affiliates
@@ -371,6 +382,7 @@ International Labour Organization:
   Name_es: Organización Internacional del Trabajo
   Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
+  Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
 Universal Postal Union:
   Wikidata_code: Q17495
   Org_family: UN and affiliates
@@ -386,6 +398,7 @@ Universal Postal Union:
   Name_es: Unión Postal Universal
   Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
+  Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
 International Monetary Fund:
   Wikidata_code: Q7804
   Org_family: UN and affiliates
@@ -401,6 +414,7 @@ International Monetary Fund:
   Name_es: Fondo Monetario Internacional
   Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
+  Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
 International Atomic Energy Agency:
   Wikidata_code: Q41984
   Org_family: UN and affiliates
@@ -430,6 +444,7 @@ World Meteorological Organization:
   Name_es: Organización Meteorológica Mundial
   Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
+  Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
 International Organization for Migration:
   Wikidata_code: Q472311
   Org_family: UN and affiliates
@@ -516,6 +531,7 @@ United Nations Tourism:
   Name_es: ONU Turismo
   Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
+  Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
 United Nations Industrial Development Organization:
   Wikidata_code: Q386120
   Org_family: UN and affiliates
@@ -531,6 +547,7 @@ United Nations Industrial Development Organization:
   Name_es: Organización de las Naciones Unidas para el Desarrollo Industrial
   Assessment_against_FATF_definition: Included 
   Basis_for_assessment: B11
+  Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
 International Law Commission:
   Wikidata_code: Q684656
   Org_family: UN and affiliates
