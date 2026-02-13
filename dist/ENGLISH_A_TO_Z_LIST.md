@@ -112,6 +112,7 @@
 - Central African Economic and Monetary Community
 - Central African States Development Bank
 - Central American Bank for Economic Integration
+- Central American Court of Justice
 - Central American Educational and Cultural Coordination
 - Central American Integration System
 - Central American Maritime Transport Commission
@@ -128,7 +129,7 @@
 - Collective Security Treaty Organization
 - COMESA Court of Justice
 - Commission for Environmental Cooperation
-- Commission for Inland Fisheries and Aquaculture of Latin America and the
+- Commission for Inland Fisheries and Aquaculture of Latin America and the Caribbean
 - Commission for Social Development
 - Commission for the Conservation of Southern Bluefin Tuna
 - Commission on Crime Prevention and Criminal Justice
@@ -194,7 +195,7 @@
 - EFTA Court
 - Energy Charter Conference
 - Energy Community
-- EU Authority for Anti-Money Laundering and Countering the Financing of
+- EU Authority for Anti-Money Laundering and Countering the Financing of Terrorism
 - EU-LAC International Foundation
 - EUCLID University
 - Eurasian Development Bank
@@ -501,7 +502,6 @@
 - North/South Language Body
 - North/South Ministerial Council
 - Northwest Atlantic Fisheries Organization
-- null
 
 [↑ Back to Top](#top)
 
@@ -633,7 +633,7 @@
 - United Nations Office for Project Services
 - United Nations Peacebuilding Commission
 - United Nations Population Fund
-- United Nations Relief and Works Agency for Palestine Refugees in the Near
+- United Nations Relief and Works Agency for Palestine Refugees in the Near East
 - United Nations Research Institute For Social Development
 - United Nations Secretariat
 - United Nations Security Council
