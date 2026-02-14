@@ -6,80 +6,94 @@ on:
       - 'data/**'
   workflow_dispatch:
 
-# FIX 1: Explicitly grant write permissions to the GITHUB_TOKEN
 permissions:
   contents: write
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          # Fetches all history so git push works smoothly
+          fetch-depth: 0 
 
       - name: Set up Python
-        uses: actions/setup-python@v5 # Updated to v5
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: '3.10'
 
       - name: Install PyYAML
         run: pip install pyyaml
 
-      - name: Run Embedded Python Script
+      - name: Run Markdown Generator
         shell: python
         run: |
           import yaml
           import os
           import sys
 
+          # File path configuration
           file_1_basis = 'data/FATF_definition_analysis.yaml'
           file_2_entities = 'data/general_list.yaml'
           output_file = 'FATF_ASSESSMENTS.md'
 
-          # FIX 2: Check if files exist before opening
-          for f_path in [file_1_basis, file_2_entities]:
-              if not os.path.exists(f_path):
-                  print(f"Error: Required file {f_path} not found.")
+          # Verify files exist before proceeding
+          for path in [file_1_basis, file_2_entities]:
+              if not os.path.exists(path):
+                  print(f"Error: {path} not found. Please ensure it exists in the repo.")
                   sys.exit(1)
 
           try:
+              # Load YAML data
               with open(file_1_basis, 'r', encoding='utf-8') as f:
-                  basis_lookup = yaml.safe_load(f) or {} # FIX 3: Handle empty files
+                  basis_lookup = yaml.safe_load(f) or {}
               with open(file_2_entities, 'r', encoding='utf-8') as f:
                   entities_data = yaml.safe_load(f) or {}
 
+              if not isinstance(entities_data, dict):
+                  print("Error: general_list.yaml must be a dictionary (key-value pairs).")
+                  sys.exit(1)
+
+              # Initialize Markdown Table
               markdown_lines = [
+                  "# FATF Assessment Table",
+                  "> This file is auto-generated. Do not edit manually.",
+                  "",
                   "| Organisation | Assessment | Basis for Assessment |",
                   "| :--- | :--- | :--- |"
               ]
 
-              # FIX 4: Ensure entities_data is a dictionary
-              if not isinstance(entities_data, dict):
-                  print("Error: general_list.yaml must be a dictionary.")
-                  sys.exit(1)
-
+              # Build the rows
               for entity_name, fields in entities_data.items():
-                  # Ensure fields is a dict before calling .get()
-                  if not isinstance(fields, dict): continue
+                  if not isinstance(fields, dict):
+                      continue
                   
                   assessment = fields.get('Assessment_against_FATF_definition', 'N/A')
                   basis_id = fields.get('Basis_for_assessment')
                   
                   basis_text = "No basis text found."
-                  # FIX 5: Safer lookup for basis_id
                   if basis_id and isinstance(basis_lookup, dict) and basis_id in basis_lookup:
-                      basis_text = basis_lookup[basis_id].get('Basis_text', '')
+                      data_entry = basis_lookup[basis_id]
+                      # Handle if basis_lookup[basis_id] is a dict or a string
+                      if isinstance(data_entry, dict):
+                          basis_text = data_entry.get('Basis_text', 'No basis text found.')
+                      else:
+                          basis_text = str(data_entry)
                   
-                  clean_basis_text = str(basis_text).replace('\n', ' ').replace('\r', '').strip()
-                  markdown_lines.append(f"| {entity_name} | {assessment} | {clean_basis_text} |")
+                  # Clean for Markdown table compatibility
+                  clean_basis = str(basis_text).replace('\n', ' ').replace('\r', '').strip()
+                  markdown_lines.append(f"| {entity_name} | {assessment} | {clean_basis} |")
 
+              # Output the file
               with open(output_file, 'w', encoding='utf-8') as f:
                   f.write("\n".join(markdown_lines))
               
-              print("Markdown generated successfully.")
+              print(f"Successfully generated {output_file}")
 
           except Exception as e:
-              print(f"Error: {e}")
+              print(f"Workflow failed with error: {e}")
               sys.exit(1)
 
       - name: Commit and push changes
@@ -87,10 +101,9 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add FATF_ASSESSMENTS.md
-          # Only commit and push if there are actual changes
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update FATF Assessments Markdown"
-            git push
+            git commit -m "docs: update FATF assessments [skip ci]"
+            git push origin HEAD:${{ github.ref_name }}
           fi
