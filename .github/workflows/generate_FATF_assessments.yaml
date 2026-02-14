@@ -6,11 +6,14 @@ on:
       - 'data/**'
   workflow_dispatch:
 
-# ADD THIS SECTION:
 permissions:
   contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    # ... rest of your code ...
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      # Add your build/script steps here
