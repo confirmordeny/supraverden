@@ -6,7 +6,6 @@ on:
       - 'data/**'
   workflow_dispatch:
 
-# Required for the bot to push changes back to the repository
 permissions:
   contents: write
 
@@ -18,26 +17,27 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          # Fetches full history so git can push successfully
           fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-          cache: 'pip' # Speeds up subsequent runs
+          # REMOVED: cache: 'pip' (This was causing the error)
 
       - name: Install Dependencies
         run: |
+          # If you don't have a requirements.txt, you can manually install libs here:
+          # Example: pip install pandas requests
           if [ -f requirements.txt ]; then
             pip install -r requirements.txt
           else
-            echo "No requirements.txt found, skipping installation."
+            echo "No requirements.txt found. If your script needs libraries, install them manually in this step."
           fi
 
       - name: Run FATF Table Generator
         run: |
-          # Replace 'main.py' with your actual script name if different
+          # Ensure this matches your actual filename (e.g., main.py or generate.py)
           python main.py
 
       - name: Commit and Push Changes
@@ -45,10 +45,9 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Add only the files that were generated/updated
-          git add dist/*
+          # This adds all changes. If you only want the 'dist' folder, use: git add dist/*
+          git add .
           
-          # Only commit if there are actual changes to prevent workflow errors
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
