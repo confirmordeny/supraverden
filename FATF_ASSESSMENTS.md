@@ -1,3 +1,6 @@
+# FATF Assessment Table
+> This file is auto-generated. Do not edit manually.
+
 | Organisation | Assessment | Basis for Assessment |
 | :--- | :--- | :--- |
 | European Union | Included | The FATF definition of International organisations includes institutions of the European Union in the examples. The European Union itself has therefore been assessed as meeting the definition. |
