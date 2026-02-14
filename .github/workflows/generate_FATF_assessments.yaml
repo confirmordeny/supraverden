@@ -1,0 +1,33 @@
+name: Generate FATF Assessment Table
+
+on:
+  push:
+    paths:
+      - 'data/**' # Runs automatically when data files change
+  workflow_dispatch: # <--- This adds the manual "Run" button in GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Run script
+        run: python generate_table.py # Ensure this matches your script's filename
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add FATF_ASSESSMENTS.md
+          git commit -m "Update FATF Assessments Markdown [manual run]" || echo "No changes to commit"
+          git push
