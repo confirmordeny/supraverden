@@ -11,7 +11,6 @@ on:
     paths:
       # Run when any of the data files change
       - 'data/general_list.yaml'
-      - 'data/united_nations.yaml'
       
   # Allows this workflow to run manually from the Actions tab
   workflow_dispatch:
@@ -43,8 +42,7 @@ jobs:
 
           # Define input and output file paths
           input_files = [
-              'data/general_list.yaml',
-              'data/united_nations.yaml'
+              'data/general_list.yaml'
           ]
           output_file = 'dist/ALL_BODIES.md'
 
