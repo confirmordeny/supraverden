@@ -4,73 +4,13 @@ on:
   push:
     paths:
       - 'data/**'
-  workflow_dispatch: # Manual trigger button
+  workflow_dispatch:
+
+# ADD THIS SECTION:
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
-
-      - name: Install PyYAML
-        run: pip install pyyaml
-
-      - name: Run Embedded Python Script
-        shell: python
-        run: |
-          import yaml
-          import os
-
-          # File paths
-          file_1_basis = 'data/FATF_definition_analysis.yaml'
-          file_2_entities = 'data/general_list.yaml'
-          output_file = 'FATF_ASSESSMENTS.md'
-
-          try:
-              # Load Data
-              with open(file_1_basis, 'r', encoding='utf-8') as f:
-                  basis_lookup = yaml.safe_load(f)
-              with open(file_2_entities, 'r', encoding='utf-8') as f:
-                  entities_data = yaml.safe_load(f)
-
-              # Build Markdown
-              markdown_lines = [
-                  "| Organisation | Assessment | Basis for Assessment |",
-                  "| :--- | :--- | :--- |"
-              ]
-
-              for entity_name, fields in entities_data.items():
-                  assessment = fields.get('Assessment_against_FATF_definition', 'N/A')
-                  basis_id = fields.get('Basis_for_assessment')
-                  
-                  basis_text = "No basis text found."
-                  if basis_id in basis_lookup:
-                      basis_text = basis_lookup[basis_id].get('Basis_text', '')
-                  
-                  # Remove newlines for table compatibility
-                  clean_basis_text = basis_text.replace('\n', ' ').replace('\r', '').strip()
-                  markdown_lines.append(f"| {entity_name} | {assessment} | {clean_basis_text} |")
-
-              # Write output
-              with open(output_file, 'w', encoding='utf-8') as f:
-                  f.write("\n".join(markdown_lines))
-              
-              print("Markdown generated successfully.")
-
-          except Exception as e:
-              print(f"Error: {e}")
-              exit(1)
-
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add FATF_ASSESSMENTS.md
-          git commit -m "Update FATF Assessments Markdown" || echo "No changes to commit"
-          git push
+    # ... rest of your code ...
