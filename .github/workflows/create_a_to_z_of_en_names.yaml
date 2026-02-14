@@ -6,7 +6,6 @@ on:
       - main
     paths:
       - 'data/general_list.yaml'
-      - 'data/united_nations.yaml'
   workflow_dispatch:
 
 jobs:
@@ -32,8 +31,7 @@ jobs:
 
           # --- CONFIGURATION ---
           input_files = [
-              'data/general_list.yaml',
-              'data/united_nations.yaml'
+              'data/general_list.yaml'
           ]
           output_file = 'dist/ENGLISH_A_TO_Z_LIST.md'
 
