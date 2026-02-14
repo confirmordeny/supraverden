@@ -16,7 +16,6 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          # Fetches all history so git push works smoothly
           fetch-depth: 0 
 
       - name: Set up Python
@@ -34,29 +33,28 @@ jobs:
           import os
           import sys
 
-          # File path configuration
+          # Configuration
           file_1_basis = 'data/FATF_definition_analysis.yaml'
           file_2_entities = 'data/general_list.yaml'
-          output_file = 'FATF_ASSESSMENTS.md'
+          dist_folder = 'dist'
+          output_file = os.path.join(dist_folder, 'FATF_ASSESSMENTS.md')
 
-          # Verify files exist before proceeding
+          # Ensure the dist directory exists
+          if not os.path.exists(dist_folder):
+              os.makedirs(dist_folder)
+
+          # Verify input files exist
           for path in [file_1_basis, file_2_entities]:
               if not os.path.exists(path):
-                  print(f"Error: {path} not found. Please ensure it exists in the repo.")
+                  print(f"Error: {path} not found.")
                   sys.exit(1)
 
           try:
-              # Load YAML data
               with open(file_1_basis, 'r', encoding='utf-8') as f:
                   basis_lookup = yaml.safe_load(f) or {}
               with open(file_2_entities, 'r', encoding='utf-8') as f:
                   entities_data = yaml.safe_load(f) or {}
 
-              if not isinstance(entities_data, dict):
-                  print("Error: general_list.yaml must be a dictionary (key-value pairs).")
-                  sys.exit(1)
-
-              # Initialize Markdown Table
               markdown_lines = [
                   "# FATF Assessment Table",
                   "> This file is auto-generated. Do not edit manually.",
@@ -65,10 +63,8 @@ jobs:
                   "| :--- | :--- | :--- |"
               ]
 
-              # Build the rows
               for entity_name, fields in entities_data.items():
-                  if not isinstance(fields, dict):
-                      continue
+                  if not isinstance(fields, dict): continue
                   
                   assessment = fields.get('Assessment_against_FATF_definition', 'N/A')
                   basis_id = fields.get('Basis_for_assessment')
@@ -76,34 +72,31 @@ jobs:
                   basis_text = "No basis text found."
                   if basis_id and isinstance(basis_lookup, dict) and basis_id in basis_lookup:
                       data_entry = basis_lookup[basis_id]
-                      # Handle if basis_lookup[basis_id] is a dict or a string
-                      if isinstance(data_entry, dict):
-                          basis_text = data_entry.get('Basis_text', 'No basis text found.')
-                      else:
-                          basis_text = str(data_entry)
+                      basis_text = data_entry.get('Basis_text', str(data_entry)) if isinstance(data_entry, dict) else str(data_entry)
                   
-                  # Clean for Markdown table compatibility
                   clean_basis = str(basis_text).replace('\n', ' ').replace('\r', '').strip()
                   markdown_lines.append(f"| {entity_name} | {assessment} | {clean_basis} |")
 
-              # Output the file
               with open(output_file, 'w', encoding='utf-8') as f:
                   f.write("\n".join(markdown_lines))
               
               print(f"Successfully generated {output_file}")
 
           except Exception as e:
-              print(f"Workflow failed with error: {e}")
+              print(f"Workflow failed: {e}")
               sys.exit(1)
 
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add FATF_ASSESSMENTS.md
+          
+          # Add the entire dist folder
+          git add dist/
+          
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "docs: update FATF assessments [skip ci]"
+            git commit -m "docs: update FATF assessments in /dist [skip ci]"
             git push origin HEAD:${{ github.ref_name }}
           fi
