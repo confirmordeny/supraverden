@@ -6,14 +6,52 @@ on:
       - 'data/**'
   workflow_dispatch:
 
+# Required for the bot to push changes back to the repository
 permissions:
   contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout code
+      - name: Checkout Repository
         uses: actions/checkout@v4
-      
-      # Add your build/script steps here
+        with:
+          # Fetches full history so git can push successfully
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip' # Speeds up subsequent runs
+
+      - name: Install Dependencies
+        run: |
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            echo "No requirements.txt found, skipping installation."
+          fi
+
+      - name: Run FATF Table Generator
+        run: |
+          # Replace 'main.py' with your actual script name if different
+          python main.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Add only the files that were generated/updated
+          git add dist/*
+          
+          # Only commit if there are actual changes to prevent workflow errors
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: auto-generate FATF assessment table [skip ci]"
+            git push
+          fi
