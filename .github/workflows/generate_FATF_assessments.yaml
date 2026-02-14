@@ -6,51 +6,91 @@ on:
       - 'data/**'
   workflow_dispatch:
 
+# FIX 1: Explicitly grant write permissions to the GITHUB_TOKEN
 permissions:
   contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout Repository
+      - name: Checkout code
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v5 # Updated to v5
         with:
-          python-version: '3.10'
-          # REMOVED: cache: 'pip' (This was causing the error)
+          python-version: '3.x'
 
-      - name: Install Dependencies
+      - name: Install PyYAML
+        run: pip install pyyaml
+
+      - name: Run Embedded Python Script
+        shell: python
         run: |
-          # If you don't have a requirements.txt, you can manually install libs here:
-          # Example: pip install pandas requests
-          if [ -f requirements.txt ]; then
-            pip install -r requirements.txt
-          else
-            echo "No requirements.txt found. If your script needs libraries, install them manually in this step."
-          fi
+          import yaml
+          import os
+          import sys
 
-      - name: Run FATF Table Generator
-        run: |
-          # Ensure this matches your actual filename (e.g., main.py or generate.py)
-          python main.py
+          file_1_basis = 'data/FATF_definition_analysis.yaml'
+          file_2_entities = 'data/general_list.yaml'
+          output_file = 'FATF_ASSESSMENTS.md'
 
-      - name: Commit and Push Changes
+          # FIX 2: Check if files exist before opening
+          for f_path in [file_1_basis, file_2_entities]:
+              if not os.path.exists(f_path):
+                  print(f"Error: Required file {f_path} not found.")
+                  sys.exit(1)
+
+          try:
+              with open(file_1_basis, 'r', encoding='utf-8') as f:
+                  basis_lookup = yaml.safe_load(f) or {} # FIX 3: Handle empty files
+              with open(file_2_entities, 'r', encoding='utf-8') as f:
+                  entities_data = yaml.safe_load(f) or {}
+
+              markdown_lines = [
+                  "| Organisation | Assessment | Basis for Assessment |",
+                  "| :--- | :--- | :--- |"
+              ]
+
+              # FIX 4: Ensure entities_data is a dictionary
+              if not isinstance(entities_data, dict):
+                  print("Error: general_list.yaml must be a dictionary.")
+                  sys.exit(1)
+
+              for entity_name, fields in entities_data.items():
+                  # Ensure fields is a dict before calling .get()
+                  if not isinstance(fields, dict): continue
+                  
+                  assessment = fields.get('Assessment_against_FATF_definition', 'N/A')
+                  basis_id = fields.get('Basis_for_assessment')
+                  
+                  basis_text = "No basis text found."
+                  # FIX 5: Safer lookup for basis_id
+                  if basis_id and isinstance(basis_lookup, dict) and basis_id in basis_lookup:
+                      basis_text = basis_lookup[basis_id].get('Basis_text', '')
+                  
+                  clean_basis_text = str(basis_text).replace('\n', ' ').replace('\r', '').strip()
+                  markdown_lines.append(f"| {entity_name} | {assessment} | {clean_basis_text} |")
+
+              with open(output_file, 'w', encoding='utf-8') as f:
+                  f.write("\n".join(markdown_lines))
+              
+              print("Markdown generated successfully.")
+
+          except Exception as e:
+              print(f"Error: {e}")
+              sys.exit(1)
+
+      - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # This adds all changes. If you only want the 'dist' folder, use: git add dist/*
-          git add .
-          
+          git add FATF_ASSESSMENTS.md
+          # Only commit and push if there are actual changes
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: auto-generate FATF assessment table [skip ci]"
+            git commit -m "Update FATF Assessments Markdown"
             git push
           fi
