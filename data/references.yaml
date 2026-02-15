@@ -7,7 +7,7 @@ R1:
   Reference_text_en: FATF Glossary
   Reference_url: https://www.fatf-gafi.org/en/pages/fatf-glossary.html
   Reference_url_archive: https://web.archive.org/web/20251230040522/https://www.fatf-gafi.org/en/pages/fatf-glossary.html
-  Reference_title:
+  Reference_title: FATF Glossary
   Reference_author: Financial Action Task Force
   Reference_publisher: null
   Reference_type: Webpage
@@ -15,20 +15,18 @@ R1:
   Reference_access_date: 2026-02-15
   Reference_archive_date: 2025-12-30
   Reference_publication_date:  null
-  Reference_page_numbers: null
 R2:
   Reference_code: R2
   Reference_text_en:
-  Reference_url:
-  Reference_url_archive:
-  Reference_title:
-  Reference_author:
-  Reference_publisher:
-  Reference_type:
-  Reference_doi:
-  Reference_access_date:
-  Reference_archive_date:
-  Reference_publication_date:
-  Reference_page_numbers:
+  Reference_url: https://www.fatf-gafi.org/content/dam/fatf-gafi/recommendations/FATF%20Recommendations%202012.pdf.coredownload.inline.pdf
+  Reference_url_archive: https://web.archive.org/web/20251213022614/https://www.fatf-gafi.org/content/dam/fatf-gafi/recommendations/FATF%20Recommendations%202012.pdf.coredownload.inline.pdf
+  Reference_title: FATF Recommendations, the
+  Reference_author: Financial Action Task Force
+  Reference_publisher: null
+  Reference_type: International standard
+  Reference_doi: null
+  Reference_access_date: 2026-02-15
+  Reference_archive_date: 2025-12-13
+  Reference_publication_date: October 2025
  
 
