@@ -9,11 +9,31 @@
 # Validation rules
 # Example (one or two examples of valid inputs)
 
+# Template
+# Property:
+# Title:
+# Data type:
+# Length:
+# Requirement: 
+# Description:
+
+Org_family:
+ Property: Org_family
+ Title: Organisation family
+ Data type: text
+ Length: 100
+ Requirement: mandatory (can be "none")
+ Description: The family of organisations to which the organisation belongs.
+ Example: African Union entities
+
 Treaty_url:
- Property: Treaty url
+ Property: Treaty_url
  Title: Treaty url
  Data type: URL
  Length: 2048
  Requirement: optional
  Description: The URL of the treaty that created or reconstituted the organisation.
  Example: https://iho.int/uploads/user/pubs/misc/M1_Separatedocs/Convention_new_EN.pdf
+
+ 
+# Example:
