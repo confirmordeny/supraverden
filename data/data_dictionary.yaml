@@ -1,0 +1,19 @@
+# WORK IN PROGRESS
+# Property (machine readable form)
+# Title (human readable form)
+# Data type	(country, date, integer, text, url)
+# Length (maximum characters allowed)
+# Requirement	(e.g. primary key, mandatory, recommended)
+# Description (what goes in this field, any policies)
+# Permissible values (dropdown)
+# Validation rules
+# Example (one or two examples of valid inputs)
+
+Treaty_url:
+ Property: Treaty url
+ Title: Treaty url
+ Data type: URL
+ Length: 2048
+ Requirement: optional
+ Description: The URL of the treaty that created or reconstituted the organisation.
+ Example: https://iho.int/uploads/user/pubs/misc/M1_Separatedocs/Convention_new_EN.pdf
