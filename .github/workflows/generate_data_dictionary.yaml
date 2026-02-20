@@ -1,0 +1,63 @@
+name: Generate Data Dictionary
+
+on:
+  push:
+    paths:
+      - 'data/**' # Runs only when files in the data folder change
+  workflow_dispatch: # Can be runned manually from the "Actions" tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install PyYAML
+        run: pip install pyyaml
+
+      - name: Generate Markdown
+        shell: python
+        run: |
+          import yaml
+          import os
+
+          # Config
+          src = 'data/data_dictionary.yaml'  
+          out_dir = 'dist'
+          out_file = f'{out_dir}/data_dictionary.md'
+          
+          if not os.path.exists(src):
+              print(f"File {src} not found.")
+              exit(0)
+
+          with open(src, 'r') as f:
+              data = yaml.safe_load(f)
+
+          headers = ["Property", "Title", "Data type", "Length", "Requirement", "Description", "Example"]
+          
+          md = ["# Data Dictionary", ""]
+          md.append("| " + " | ".join(headers) + " |")
+          md.append("| " + " | ".join(["---"] * len(headers)) + " |")
+
+          for key, fields in data.items():
+              if not isinstance(fields, dict): continue
+              row = [str(fields.get(h, "")).replace("\n", " ").strip() for h in headers]
+              md.append("| " + " | ".join(row) + " |")
+
+          os.makedirs(out_dir, exist_ok=True)
+          with open(out_file, 'w') as f:
+              f.write("\n".join(md))
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add dist/data_dictionary.md
+          git diff-index --quiet HEAD || git commit -m "docs: update data dictionary"
+          git push
