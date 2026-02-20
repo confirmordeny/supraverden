@@ -31,7 +31,7 @@ jobs:
           import os
 
           # Configuration
-          src_file = 'data/schema.yaml' 
+          src_file = 'data/data_dictionary.yaml' 
           output_dir = 'dist'
           output_file = os.path.join(output_dir, 'data_dictionary.md')
 
