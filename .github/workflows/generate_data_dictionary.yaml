@@ -1,4 +1,4 @@
-name: Generate Data Dictionary
+name: Generate data dictionary
 
 on:
   push:
