@@ -3,8 +3,11 @@ name: Generate data dictionary
 on:
   push:
     paths:
-      - 'data/**' # Runs only when files in the data folder change
-  workflow_dispatch: # Can be runned manually from the "Actions" tab
+      - 'data/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -21,43 +24,65 @@ jobs:
       - name: Install PyYAML
         run: pip install pyyaml
 
-      - name: Generate Markdown
+      - name: Generate Markdown from YAML
         shell: python
         run: |
           import yaml
           import os
 
-          # Config
-          src = 'data/data_dictionary.yaml'  
-          out_dir = 'dist'
-          out_file = f'{out_dir}/data_dictionary.md'
-          
-          if not os.path.exists(src):
-              print(f"File {src} not found.")
+          # Configuration
+          src_file = 'data/schema.yaml' 
+          output_dir = 'dist'
+          output_file = os.path.join(output_dir, 'data_dictionary.md')
+
+          # Check if source exists
+          if not os.path.exists(src_file):
+              print(f"Skipping: {src_file} not found.")
               exit(0)
 
-          with open(src, 'r') as f:
-              data = yaml.safe_load(f)
+          # Load YAML data
+          with open(src_file, 'r', encoding='utf-8') as f:
+              try:
+                  data = yaml.safe_load(f)
+              except yaml.YAMLError as e:
+                  print(f"Error parsing YAML: {e}")
+                  exit(1)
 
-          headers = ["Property", "Title", "Data type", "Length", "Requirement", "Description", "Example"]
-          
-          md = ["# Data Dictionary", ""]
-          md.append("| " + " | ".join(headers) + " |")
-          md.append("| " + " | ".join(["---"] * len(headers)) + " |")
+          # Define the columns for the Markdown table
+          headers = [
+              "Property", "Title", "Data type", "Length", 
+              "Requirement", "Description", "Permissible values", 
+              "Validation rules", "Example"
+          ]
+
+          # Build the Markdown content
+          md_content = ["# Data Dictionary", ""]
+          md_content.append("| " + " | ".join(headers) + " |")
+          md_content.append("| " + " | ".join(["---"] * len(headers)) + " |")
 
           for key, fields in data.items():
-              if not isinstance(fields, dict): continue
-              row = [str(fields.get(h, "")).replace("\n", " ").strip() for h in headers]
-              md.append("| " + " | ".join(row) + " |")
+              if not isinstance(fields, dict):
+                  continue
+              
+              row = []
+              for h in headers:
+                  # Get value, clean up newlines for table safety
+                  val = str(fields.get(h, "")).replace("\n", " ").strip()
+                  row.append(val)
+              
+              md_content.append("| " + " | ".join(row) + " |")
 
-          os.makedirs(out_dir, exist_ok=True)
-          with open(out_file, 'w') as f:
-              f.write("\n".join(md))
+          # Create dist folder and save file
+          os.makedirs(output_dir, exist_ok=True)
+          with open(output_file, 'w', encoding='utf-8') as f:
+              f.write("\n".join(md_content))
 
-      - name: Commit and Push
+          print(f"Successfully generated {output_file}")
+
+      - name: Commit and Push changes
         run: |
           git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.name "github-actions[bot]"
           git add dist/data_dictionary.md
-          git diff-index --quiet HEAD || git commit -m "docs: update data dictionary"
-          git push
+          # Only commit if there are actual changes to avoid empty commit errors
+          git diff-index --quiet HEAD || (git commit -m "docs: auto-generate data dictionary" && git push)
