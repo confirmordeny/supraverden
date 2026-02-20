@@ -33,7 +33,7 @@ jobs:
           # Configuration
           src_file = 'data/data_dictionary.yaml' 
           output_dir = 'dist'
-          output_file = os.path.join(output_dir, 'data_dictionary.md')
+          output_file = os.path.join(output_dir, 'DATA_DICTIONARY.md')
 
           # Check if source exists
           if not os.path.exists(src_file):
