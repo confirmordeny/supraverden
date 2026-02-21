@@ -2,6 +2,7 @@
 
 | Property | Title | Data type | Length | Requirement | Description | Permissible values | Validation rules | Example |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Name_en | Name_en | text | 200 | mandatory | The full formal name of the organisation in English. Typically, "the" is omitted from the start. |  |  | European Union, United Nations |
 | Abbreviation | Abbreviation | text | 10 | optional | Abbreviation used by the organisation itself or in common use |  |  | NATO, UN |
 | Country | Country | text | 2 | mandatory | Country code for the organisation. EU is used for European Union entities and ZZ is used for all other international organisations. | EU, ZZ |  | EU, ZZ |
 | Org_family | Organisation family | text | 100 | mandatory (can be "none") | The family of organisations to which the organisation belongs. |  |  | African Union entities |
