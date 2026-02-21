@@ -18,6 +18,14 @@
 # Description:
 # Example:
 
+Name_en:
+  Title: Name_en
+  Data type: text
+  Length: 200
+  Requirement: mandatory 
+  Description: The full formal name of the organisation. Typically, "the" is omitted from the start.
+  Example: European Union, United Nations
+
 Abbreviation:
   Title: Abbreviation
   Data type: text
