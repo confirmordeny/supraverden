@@ -18,6 +18,14 @@
 # Description:
 # Example:
 
+Country:
+  Title: Country
+  Data type: text
+  Length: 2
+  Requirement: mandatory
+  Description: Country code for the organisation. EU is used for European Union entities and ZZ is used for all other international organisations.
+  Example: EU, ZZ
+
 Org_family:
  Property: Org_family
  Title: Organisation family
