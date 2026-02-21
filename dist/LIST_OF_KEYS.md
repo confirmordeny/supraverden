@@ -11,7 +11,6 @@
 * Country
 * Entity_type
 * Immunity_url
-* Legal_type
 * Name
   * en
   * es
