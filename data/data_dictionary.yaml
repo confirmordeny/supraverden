@@ -18,12 +18,21 @@
 # Description:
 # Example:
 
+Abbreviation:
+  Title: Abbreviation
+  Data type: text
+  Length: 10
+  Requirement: optional
+  Description: Abbreviation used by the organisation itself or in common use
+  Example: NATO, UN
+
 Country:
   Title: Country
   Data type: text
   Length: 2
   Requirement: mandatory
   Description: Country code for the organisation. EU is used for European Union entities and ZZ is used for all other international organisations.
+  Permissible values: EU, ZZ
   Example: EU, ZZ
 
 Org_family:
