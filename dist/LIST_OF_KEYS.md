@@ -7,9 +7,7 @@
   * other
     * en
 * Assessment_against_FATF_definition
-* Basis
-  * for
-    * assessment
+* Basis_for_assessment
 * Country
 * Entity_type
 * Immunity_url
