@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v5 # Updated to v5
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
@@ -39,11 +39,7 @@ jobs:
               exit(0)
 
           with open(src_file, 'r', encoding='utf-8') as f:
-              try:
-                  data = yaml.safe_load(f)
-              except yaml.YAMLError as e:
-                  print(f"Error parsing YAML: {e}")
-                  exit(1)
+              data = yaml.safe_load(f)
 
           headers = [
               "Property", "Title", "Data type", "Length", 
@@ -55,18 +51,21 @@ jobs:
           md_content.append("| " + " | ".join(headers) + " |")
           md_content.append("| " + " | ".join(["---"] * len(headers)) + " |")
 
-          # Handle list or dict structure
-          items = data.items() if isinstance(data, dict) else enumerate(data)
-
-          for _, fields in items:
+          # Handle data as a dict (keyed by Property)
+          for key, fields in data.items():
               if not isinstance(fields, dict):
                   continue
               
               row = []
               for h in headers:
-                  # .replace("|", "\\|") prevents broken tables if data contains pipes
-                  val = str(fields.get(h, "")).replace("\n", " ").replace("|", "\\|").strip()
-                  row.append(val)
+                  # Robust matching: Exact, Lowercase, or Key-fallback for 'Property'
+                  val = fields.get(h) or fields.get(h.lower()) or ""
+                  
+                  if h == "Property" and not val:
+                      val = key
+
+                  clean_val = str(val).replace("\n", " ").replace("|", "\\|").strip()
+                  row.append(clean_val)
               
               md_content.append("| " + " | ".join(row) + " |")
 
@@ -74,9 +73,18 @@ jobs:
           with open(output_file, 'w', encoding='utf-8') as f:
               f.write("\n".join(md_content))
 
+      - name: Install Pandoc and TeX Live
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-latex-extra
+
+      - name: Convert Markdown to PDF
+        run: |
+          pandoc dist/data_dictionary.md -o dist/data_dictionary.pdf --variable geometry:margin=1in
+
       - name: Commit and Push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "github-actions[bot]"
-          git add dist/data_dictionary.md
-          git diff-index --quiet HEAD || (git commit -m "docs: auto-generate data dictionary" && git push)
+          git add dist/data_dictionary.md dist/data_dictionary.pdf
+          git diff-index --quiet HEAD || (git commit -m "docs: auto-generate data dictionary (md & pdf)" && git push)
