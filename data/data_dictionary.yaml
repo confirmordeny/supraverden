@@ -52,6 +52,14 @@ Org_family:
  Description: The family of organisations to which the organisation belongs.
  Example: African Union entities
 
+ Type:
+  Title: Type
+  Data type: text
+  Length: 50
+  Requirement: optional
+  Description: The type of the international organisation from a legal perspective.
+  Example:  EU decentralised agency, EU executive agency
+
 Treaty_url:
  Property: Treaty_url
  Title: Treaty url
