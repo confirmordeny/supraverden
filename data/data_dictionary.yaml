@@ -9,13 +9,14 @@
 # Validation rules
 # Example (one or two examples of valid inputs)
 
-# Template
+# *** Template ***
 # Property:
 # Title:
 # Data type:
 # Length:
 # Requirement: 
 # Description:
+# Example:
 
 Org_family:
  Property: Org_family
@@ -35,5 +36,12 @@ Treaty_url:
  Description: The URL of the treaty that created or reconstituted the organisation.
  Example: https://iho.int/uploads/user/pubs/misc/M1_Separatedocs/Convention_new_EN.pdf
 
- 
-# Example:
+Wikidata_code:
+  Property: Wikidata_code
+  Title: Wikidata code
+  Data type: text
+  Length: 15
+  Requirement: optional
+  Description: Wikidata property code for the organisation
+  Example: Q674182
+  Validation rules: starts with "Q" remaining characters are digits 0-9.
