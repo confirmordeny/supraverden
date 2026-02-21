@@ -80,7 +80,7 @@ jobs:
 
       - name: Convert Markdown to PDF
         run: |
-          pandoc dist/data_dictionary.md -o dist/DATA_DICTIONATY.pdf --variable geometry:margin=1in
+          pandoc dist/DATA_DICTIONARY.md -o dist/DATA_DICTIONARY.pdf --variable geometry:margin=1in
 
       - name: Commit and Push changes
         run: |
