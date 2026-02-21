@@ -6110,9 +6110,8 @@ World Bank:
   Source: https://www.un.org/en/about-us/specialized-agencies
   OpenSanctions_id: '[No code found.]'
   Name_es: Banco Mundial
-  Notes_en: 'The "World Bank" is an umbrella term for the International Bank for Reconstruction and Development and the International Development Association when considered collectively. Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
-
-    '
+  Notes_en: 'The "World Bank" is an umbrella term for the International Bank for Reconstruction and Development and the International Development Association when considered collectively.' 
+  Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
 World Bank Group:
   Wikidata_code: Q320863
   Org_family: UN and affiliates
