@@ -32,7 +32,7 @@ jobs:
 
           src_file = 'data/data_dictionary.yaml' 
           output_dir = 'dist'
-          output_file = os.path.join(output_dir, 'data_dictionary.md')
+          output_file = os.path.join(output_dir, 'DATA_DICTIONARY.md')
 
           if not os.path.exists(src_file):
               print(f"Skipping: {src_file} not found.")
@@ -80,11 +80,11 @@ jobs:
 
       - name: Convert Markdown to PDF
         run: |
-          pandoc dist/data_dictionary.md -o dist/data_dictionary.pdf --variable geometry:margin=1in
+          pandoc dist/data_dictionary.md -o dist/DATA_DICTIONATY.pdf --variable geometry:margin=1in
 
       - name: Commit and Push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "github-actions[bot]"
-          git add dist/data_dictionary.md dist/data_dictionary.pdf
+          git add dist/DATA_DICTIONARY.md dist/DATA_DICTIONARY.pdf
           git diff-index --quiet HEAD || (git commit -m "docs: auto-generate data dictionary (md & pdf)" && git push)
