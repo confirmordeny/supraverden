@@ -65,8 +65,8 @@
 | European Ombudsman | N/A | No basis text found. |
 | European Public Prosecutor’s Office | N/A | No basis text found. |
 | European Data Protection Board | N/A | No basis text found. |
-| European Defence Agency | N/A | No basis text found. |
-| European Union Satellite Centre | N/A | No basis text found. |
+| European Defence Agency | Included | The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1] EU common foreign and security policy agencies have therefore been assessed as meeting the definition. |
+| European Union Satellite Centre | Included | The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1] EU common foreign and security policy agencies have therefore been assessed as meeting the definition. |
 | Supply Agency of the European Atomic Energy Community | N/A | No basis text found. |
 | Fusion for Energy Joint Undertaking | Included | The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1] The Joint Undertakings of the EU have therefore been assessed as meeting the definition. |
 | Chips Joint Undertaking | Included | The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1] The Joint Undertakings of the EU have therefore been assessed as meeting the definition. |
