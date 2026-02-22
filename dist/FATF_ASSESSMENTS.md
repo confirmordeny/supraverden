@@ -11,7 +11,7 @@
 | European Council | Included | The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1] The seven EU institutions listed in Article 13 of the Treaty on European Union have therefore been assessed as meeting the definition. |
 | European Court of Auditors | Included | The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1] The seven EU institutions listed in Article 13 of the Treaty on European Union have therefore been assessed as meeting the definition. |
 | European Parliament | Included | The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1] The seven EU institutions listed in Article 13 of the Treaty on European Union have therefore been assessed as meeting the definition. |
-| European Investment Bank | N/A | No basis text found. |
+| European Investment Bank | Included | The FATF definition of International organisations refers to entities established by international treaties that are not treated as resident institutional units of the countries in which they are located. [R1.1][R2.1] For this reason, organisations formed by treaty have been assessed as meeting the definition in almost all cases. This is an area where the database is still being refined and some entities may need to be reclassified |
 | European University Institute | N/A | No basis text found. |
 | European Atomic Energy Community | N/A | No basis text found. |
 | Unified Patent Court | N/A | No basis text found. |
@@ -64,7 +64,7 @@
 | European External Action Service | N/A | No basis text found. |
 | European Ombudsman | N/A | No basis text found. |
 | European Public Prosecutor’s Office | N/A | No basis text found. |
-| European Data Protection Board | N/A | No basis text found. |
+| European Data Protection Board | Included | The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1] EU bodies have therefore been assessed as meeting the definition. |
 | European Defence Agency | Included | The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1] EU common foreign and security policy agencies have therefore been assessed as meeting the definition. |
 | European Union Satellite Centre | Included | The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1] EU common foreign and security policy agencies have therefore been assessed as meeting the definition. |
 | Supply Agency of the European Atomic Energy Community | N/A | No basis text found. |
