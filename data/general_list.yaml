@@ -207,6 +207,8 @@ European Education and Culture Executive Agency:
   OpenSanctions_id: '[No code found.]'
   Name_fr: Agence exécutive européenne pour l’éducation et la culture
   Name_es: Agencia Ejecutiva en el Ámbito Educativo, Audiovisual y Cultural (EACEA)
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
 European Health and Digital Executive Agency:
   Wikidata_code: Q107636399
   Entity_type: International organisation
@@ -218,6 +220,8 @@ European Health and Digital Executive Agency:
   Source: https://web.archive.org/web/20221222153402/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=LEGISSUM:l10120
   OpenSanctions_id: '[No code found.]'
   Name_fr: Agence exécutive européenne pour la santé et le numérique
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
 European Innovation Council and Small and Medium-sized Executive Agency:
   Wikidata_code: Q734374
   Entity_type: International organisation
@@ -230,6 +234,8 @@ European Innovation Council and Small and Medium-sized Executive Agency:
   Source: https://web.archive.org/web/20221222153402/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=LEGISSUM:l10120
   OpenSanctions_id: '[No code found.]'
   Name_fr: Agence exécutive pour le Conseil européen de l’innovation et les PME
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
 European Research Council Executive Agency:
   Wikidata_code: Q107641323
   Entity_type: International organisation
@@ -240,6 +246,8 @@ European Research Council Executive Agency:
   Type: EU executive agency
   Source: https://web.archive.org/web/20221222153402/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=LEGISSUM:l10120
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
 European Research Executive Agency:
   Wikidata_code: Q3606472
   Entity_type: International organisation
@@ -251,6 +259,8 @@ European Research Executive Agency:
   Source: https://web.archive.org/web/20221222153402/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=LEGISSUM:l10120
   OpenSanctions_id: '[No code found.]'
   Name_fr: Agence exécutive européenne pour la recherche
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
 Agency for Support for BEREC:
   Wikidata_code: Q107658738
   Entity_type: International organisation
