@@ -5797,10 +5797,13 @@ Board of Peace:
   Name_en: Board of Peace
   Abbreviation_en: null
   Treaty_url: https://www.middleeasteye.net/news/trump-board-of-peace-charter-full-text
+  Immunity_url: https://www.middleeasteye.net/news/trump-board-of-peace-charter-full-text
   Source: null
   OpenSanctions_id: '[No code found.]'
   Name_fr: Conseil de la paix
   Name_es: Junta de Paz
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
 North Pacific Fisheries Commission:
   Wikidata_code: Q24834021
   Entity_type: International organisation
