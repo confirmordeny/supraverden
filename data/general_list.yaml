@@ -2536,7 +2536,10 @@ Tuvalu Trust Fund:
   Name_en: Tuvalu Trust Fund
   Abbreviation_en: null
   Treaty_url: https://tuvalu-legislation.tv/cms/images/LEGISLATION/SUBORDINATE/1987/1987-0001/1987-0001_1.pdf
+  Immunity_url: https://tuvalu-legislation.tv/cms/images/LEGISLATION/SUBORDINATE/1987/1987-0001/1987-0001_1.pdf
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
 Southern African Customs Union:
   Wikidata_code: Q1344350
   Entity_type: International organisation
