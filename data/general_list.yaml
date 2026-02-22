@@ -869,6 +869,8 @@ European Defence Agency:
   OpenSanctions_id: '[No code found.]'
   Name_fr: Agence européenne de défense
   Name_es: Agencia Europea de Defensa
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B25
 European Union Satellite Centre:
   Wikidata_code: Q1388519
   Entity_type: International organisation
@@ -883,6 +885,8 @@ European Union Satellite Centre:
   OpenSanctions_id: bic-EUSNES21
   Name_fr: centre satellitaire de l'Union européenne
   Name_es: Centro de Satélites de la Unión Europea
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B25
 Supply Agency of the European Atomic Energy Community:
   Wikidata_code: Q1374308
   Entity_type: International organisation
