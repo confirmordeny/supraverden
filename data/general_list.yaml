@@ -5543,6 +5543,9 @@ British-Irish Council:
   OpenSanctions_id: '[No code found.]'
   Name_fr: Conseil britannico-irlandais
   Name_es: Consejo Británico-Irlandés
+  Treaty_url: https://assets.publishing.service.gov.uk/media/619500728fa8f5037d67b678/The_Belfast_Agreement_An_Agreement_Reached_at_the_Multi-Party_Talks_on_Northern_Ireland.pdf
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B26
 Foyle, Carlingford and Irish Lights Commission:
   Wikidata_code: Q98139786
   Org_family: North South bodies
@@ -5551,6 +5554,8 @@ Foyle, Carlingford and Irish Lights Commission:
   Name_en: Foyle, Carlingford and Irish Lights Commission
   Source: https://www.northsouthministerialcouncil.org/north-south-implementation-bodies
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B26
 InterTradeIreland:
   Wikidata_code: Q13157417
   Org_family: North South bodies
@@ -5559,6 +5564,8 @@ InterTradeIreland:
   Name_en: InterTradeIreland
   Source: https://www.northsouthministerialcouncil.org/north-south-implementation-bodies
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B26
 North/South Language Body:
   Wikidata_code: Q7754333
   Org_family: North South bodies
@@ -5567,6 +5574,8 @@ North/South Language Body:
   Name_en: North/South Language Body
   Source: https://www.northsouthministerialcouncil.org/north-south-implementation-bodies
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B26
 Safefood:
   Wikidata_code: Q7398561
   Org_family: North South bodies
@@ -5576,6 +5585,8 @@ Safefood:
   Name_other_en: Food Safety Promotion Board
   Source: https://www.northsouthministerialcouncil.org/north-south-implementation-bodies
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B26
 Special EU Programmes Body:
   Wikidata_code: Q7574528
   Org_family: North South bodies
@@ -5584,6 +5595,8 @@ Special EU Programmes Body:
   Name_en: Special EU Programmes Body
   Source: https://www.northsouthministerialcouncil.org/north-south-implementation-bodies
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B26
 Tourism Ireland:
   Wikidata_code: Q7829093
   Org_family: North South bodies
@@ -5592,6 +5605,8 @@ Tourism Ireland:
   Source: https://www.northsouthministerialcouncil.org/north-south-implementation-bodies
   OpenSanctions_id: '[No code found.]'
   Name_fr: Tourism Ireland
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B26
 Waterways Ireland:
   Wikidata_code: Q1734583
   Org_family: North South bodies
@@ -5601,6 +5616,8 @@ Waterways Ireland:
   Source: https://www.northsouthministerialcouncil.org/north-south-implementation-bodies
   OpenSanctions_id: '[No code found.]'
   Name_fr: Waterways Ireland
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B26
 North/South Ministerial Council:
   Wikidata_code: Q1800594
   Org_family: North South bodies
@@ -5609,6 +5626,8 @@ North/South Ministerial Council:
   Source: https://www.northsouthministerialcouncil.org/north-south-implementation-bodies
   OpenSanctions_id: '[No code found.]'
   Name_fr: Ministerrådet Nord–Syd
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B26
 Coalition for Disaster Resilient Infrastructure:
   Wikidata_code: Q85753142
   Org_family: none
