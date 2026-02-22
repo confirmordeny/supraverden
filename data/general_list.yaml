@@ -149,6 +149,8 @@ European University Institute:
   OpenSanctions_id: '[No code found.]'
   Name_fr: Institut universitaire européen
   Name_es: Instituto Universitario Europeo
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
 European Atomic Energy Community:
   Wikidata_code: Q8919
   Entity_type: International organisation
