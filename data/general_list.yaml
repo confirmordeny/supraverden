@@ -5335,9 +5335,12 @@ Central American Maritime Transport Commission:
   Name_en: Central American Maritime Transport Commission
   Name_other_en: null
   Abbreviation_en: COCATRAM
-  Treaty_url: null
+  Treaty_url: https://drive.google.com/file/d/1i-BFO17qOcxZYT0mH5qrGFMmIsaFtuHJ/view?usp=share_link
+  Immunity_url: http://legislacion.asamblea.gob.ni/Instrumentos.nsf/550cbe82091cc613062578b80075d823/1dac0b4d5d103f5806257377007b78b3/$FILE/Acuerdo%20de%20Sede%20entre%20el%20Gobienro%20de%20la%20Rep%C3%BAblica%20de%20Nicaragua%20y%20la%20Comision%20Centroamericana%20de%20Transporte%20Maritimo.pdf
   Source: http://legislacion.asamblea.gob.ni/Instrumentos.nsf/550cbe82091cc613062578b80075d823/1dac0b4d5d103f5806257377007b78b3/$FILE/Acuerdo%20de%20Sede%20entre%20el%20Gobienro%20de%20la%20Rep%C3%BAblica%20de%20Nicaragua%20y%20la%20Comision%20Centroamericana%20de%20Transporte%20Maritimo.pdf
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
 Central American Educational and Cultural Coordination:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
