@@ -440,15 +440,15 @@
 | Caribbean Centre for Development Administration | Included | The FATF definition of International organisations refers to entities established by international treaties that are not treated as resident institutional units of the countries in which they are located. [R1.1][R2.1] For this reason, organisations formed by treaty have been assessed as meeting the definition in almost all cases. This is an area where the database is still being refined and some entities may need to be reclassified |
 | Caribbean Community Climate Change Centre | Included | The FATF definition of International organisations refers to entities established by international treaties that are not treated as resident institutional units of the countries in which they are located. [R1.1][R2.1] For this reason, organisations formed by treaty have been assessed as meeting the definition in almost all cases. This is an area where the database is still being refined and some entities may need to be reclassified |
 | African Risk Capacity Agency | Included | The FATF definition of International organisations refers to entities established by international treaties that are not treated as resident institutional units of the countries in which they are located. [R1.1][R2.1] For this reason, organisations formed by treaty have been assessed as meeting the definition in almost all cases. This is an area where the database is still being refined and some entities may need to be reclassified |
-| British-Irish Council | N/A | No basis text found. |
-| Foyle, Carlingford and Irish Lights Commission | N/A | No basis text found. |
-| InterTradeIreland | N/A | No basis text found. |
-| North/South Language Body | N/A | No basis text found. |
-| Safefood | N/A | No basis text found. |
-| Special EU Programmes Body | N/A | No basis text found. |
-| Tourism Ireland | N/A | No basis text found. |
-| Waterways Ireland | N/A | No basis text found. |
-| North/South Ministerial Council | N/A | No basis text found. |
+| British-Irish Council | Included | North South Bodies established under the Good Friday agreement have been assessed as meeting the FATF definition. |
+| Foyle, Carlingford and Irish Lights Commission | Included | North South Bodies established under the Good Friday agreement have been assessed as meeting the FATF definition. |
+| InterTradeIreland | Included | North South Bodies established under the Good Friday agreement have been assessed as meeting the FATF definition. |
+| North/South Language Body | Included | North South Bodies established under the Good Friday agreement have been assessed as meeting the FATF definition. |
+| Safefood | Included | North South Bodies established under the Good Friday agreement have been assessed as meeting the FATF definition. |
+| Special EU Programmes Body | Included | North South Bodies established under the Good Friday agreement have been assessed as meeting the FATF definition. |
+| Tourism Ireland | Included | North South Bodies established under the Good Friday agreement have been assessed as meeting the FATF definition. |
+| Waterways Ireland | Included | North South Bodies established under the Good Friday agreement have been assessed as meeting the FATF definition. |
+| North/South Ministerial Council | Included | North South Bodies established under the Good Friday agreement have been assessed as meeting the FATF definition. |
 | Coalition for Disaster Resilient Infrastructure | Included | The FATF definition of International organisations refers to entities established by international treaties that are not treated as resident institutional units of the countries in which they are located. [R1.1][R2.1] For this reason, organisations formed by treaty have been assessed as meeting the definition in almost all cases. This is an area where the database is still being refined and some entities may need to be reclassified |
 | Arab League | Included | The FATF definition of International organisations refers to entities established by international treaties that are not treated as resident institutional units of the countries in which they are located. [R1.1][R2.1] For this reason, organisations formed by treaty have been assessed as meeting the definition in almost all cases. This is an area where the database is still being refined and some entities may need to be reclassified |
 | Arab Industrial Development Standardization and Mining Organization | Included | The FATF definition of International organisations refers to entities established by international treaties that are not treated as resident institutional units of the countries in which they are located. [R1.1][R2.1] For this reason, organisations formed by treaty have been assessed as meeting the definition in almost all cases. This is an area where the database is still being refined and some entities may need to be reclassified |
