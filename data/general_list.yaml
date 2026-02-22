@@ -183,10 +183,13 @@ European Stability Mechanism:
   Abbreviation_en: ESM
   Type: EU body formed by treaty
   Source: https://web.archive.org/web/20250615150335/https://www.esm.europa.eu/system/files/document/2023-10/05-TESM2-HR1.en12.pdf
+  Treaty_url: https://www.esm.europa.eu/system/files/document/2021-09/05-TESM-CONS.en21.pdf
   Immunity_url: https://web.archive.org/web/20250615150335/https://www.esm.europa.eu/system/files/document/2023-10/05-TESM2-HR1.en12.pdf
   OpenSanctions_id: NK-nw2rgJpD8uoci2TT5t7yvK
   Name_fr: Mécanisme européen de stabilité
   Name_es: Mecanismo Europeo de Estabilidad
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
 European Climate, Infrastructure and Environment Executive Agency:
   Wikidata_code: Q106818821
   Entity_type: International organisation
