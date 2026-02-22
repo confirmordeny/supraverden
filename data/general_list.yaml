@@ -850,6 +850,8 @@ European Public Prosecutor’s Office:
   OpenSanctions_id: '[No code found.]'
   Name_fr: Parquet européen
   Name_es: Fiscalía Europea
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B27
 European Data Protection Board:
   Wikidata_code: Q26877724
   Entity_type: International organisation
