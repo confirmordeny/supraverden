@@ -57,5 +57,16 @@ R4:
   Reference_access_date: 2026-02-15
   Reference_archive_date: null
   Reference_publication_date: null
-
-
+R5:
+ Reference_code: R5
+  Reference_text_en: British-Irish Agreement Act, 1999
+  Reference_url: https://www.irishstatutebook.ie/eli/1999/act/1/enacted/en/html
+  Reference_url_archive:
+  Reference_title: British-Irish Agreement Act, 1999
+  Reference_author: Houses of the Oireachtas
+  Reference_publisher: null
+  Reference_type: Legislation
+  Reference_doi: null
+  Reference_access_date: 2026-02-22
+  Reference_archive_date: null
+  Reference_publication_date: null
