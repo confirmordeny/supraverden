@@ -860,6 +860,8 @@ European Data Protection Board:
   OpenSanctions_id: '[No code found.]'
   Name_fr: Comité européen de la protection des données
   Name_es: Comité Europeo de Protección de Datos
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B27
 European Defence Agency:
   Wikidata_code: Q1134173
   Entity_type: International organisation
