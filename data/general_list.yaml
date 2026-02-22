@@ -864,7 +864,7 @@ European Defence Agency:
   Country: eu
   Name_en: European Defence Agency
   Abbreviation_en: EDA
-  Type: EU common foreign and security policy agency or body
+  Type: EU common foreign and security policy agency
   Source: https://web.archive.org/web/20230503174334/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32015D1835
   OpenSanctions_id: '[No code found.]'
   Name_fr: Agence européenne de défense
@@ -878,7 +878,7 @@ European Union Satellite Centre:
   Abbreviation_en: EUSC
   Name_other_en: SATCEN
   Name_other_2_en: EU Satellite Centre
-  Type: EU common foreign and security policy agency or body
+  Type: EU common foreign and security policy agency
   Source: https://web.archive.org/web/20230514042152/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014D0401
   OpenSanctions_id: bic-EUSNES21
   Name_fr: centre satellitaire de l'Union européenne
