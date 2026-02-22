@@ -68,17 +68,17 @@
 | European Defence Agency | N/A | No basis text found. |
 | European Union Satellite Centre | N/A | No basis text found. |
 | Supply Agency of the European Atomic Energy Community | N/A | No basis text found. |
-| Fusion for Energy Joint Undertaking | N/A | No basis text found. |
-| Chips Joint Undertaking | N/A | No basis text found. |
-| Circular Bio-based Europe Joint Undertaking | N/A | No basis text found. |
-| Clean Aviation Joint Undertaking | N/A | No basis text found. |
-| Clean Hydrogen Joint Undertaking | N/A | No basis text found. |
-| Europe’s Rail Joint Undertaking | N/A | No basis text found. |
-| Global Health EDCTP3 Joint Undertaking | N/A | No basis text found. |
-| Innovative Health Initiative Joint Undertaking | N/A | No basis text found. |
-| European High Performance Computing Joint Undertaking | N/A | No basis text found. |
-| SESAR 3 Joint Undertaking | N/A | No basis text found. |
-| Smart Networks and Services Joint Undertaking | N/A | No basis text found. |
+| Fusion for Energy Joint Undertaking | Included | The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1] The Joint Undertakings of the EU have therefore been assessed as meeting the definition. |
+| Chips Joint Undertaking | Included | The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1] The Joint Undertakings of the EU have therefore been assessed as meeting the definition. |
+| Circular Bio-based Europe Joint Undertaking | Included | The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1] The Joint Undertakings of the EU have therefore been assessed as meeting the definition. |
+| Clean Aviation Joint Undertaking | Included | The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1] The Joint Undertakings of the EU have therefore been assessed as meeting the definition. |
+| Clean Hydrogen Joint Undertaking | Included | The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1] The Joint Undertakings of the EU have therefore been assessed as meeting the definition. |
+| Europe’s Rail Joint Undertaking | Included | The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1] The Joint Undertakings of the EU have therefore been assessed as meeting the definition. |
+| Global Health EDCTP3 Joint Undertaking | Included | The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1] The Joint Undertakings of the EU have therefore been assessed as meeting the definition. |
+| Innovative Health Initiative Joint Undertaking | Included | The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1] The Joint Undertakings of the EU have therefore been assessed as meeting the definition. |
+| European High Performance Computing Joint Undertaking | Included | The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1] The Joint Undertakings of the EU have therefore been assessed as meeting the definition. |
+| SESAR 3 Joint Undertaking | Included | The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1] The Joint Undertakings of the EU have therefore been assessed as meeting the definition. |
+| Smart Networks and Services Joint Undertaking | Included | The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1] The Joint Undertakings of the EU have therefore been assessed as meeting the definition. |
 | European Schools | Included | The FATF definition of International organisations refers to entities established by international treaties that are not treated as resident institutional units of the countries in which they are located. [R1.1][R2.1] For this reason, organisations formed by treaty have been assessed as meeting the definition in almost all cases. This is an area where the database is still being refined and some entities may need to be reclassified |
 | Council of Europe | Included | The Council of Europe is given as an example in the FATF definition of International organisations.[R1.1][R2.1] |
 | Benelux | Included | The FATF definition of International organisations refers to entities established by international treaties that are not treated as resident institutional units of the countries in which they are located. [R1.1][R2.1] For this reason, organisations formed by treaty have been assessed as meeting the definition in almost all cases. This is an area where the database is still being refined and some entities may need to be reclassified |
