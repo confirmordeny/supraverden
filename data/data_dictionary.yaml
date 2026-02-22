@@ -35,13 +35,23 @@ Abbreviation:
   Example: NATO, UN
 
 Country:
-  Title: Country
+  Property: Country
+  Title: Country code
   Data type: text
   Length: 2
   Requirement: mandatory
   Description: Country code for the organisation. EU is used for European Union entities and ZZ is used for all other international organisations.
   Permissible values: EU, ZZ
   Example: EU, ZZ
+
+OpenSanctions_id:
+  Title: OpenSanctions_id
+  Data type: OpenSanctions ID
+  Length: 50
+  Requirement: mandatory
+  Description: OpenSanctions ID code from opensanctions.org
+  Example: bic-ESMAFRP2, NK-Ubo23KznV2pvcXMiQkTmvd
+  Validation rules: no spaces
 
 Org_family:
  Property: Org_family
@@ -53,6 +63,7 @@ Org_family:
  Example: African Union entities
 
  Type:
+  Property: Type
   Title: Type
   Data type: text
   Length: 50
