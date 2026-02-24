@@ -4785,6 +4785,8 @@ Benelux Court of Justice:
   Source: https://www.benelux.int/en/information-for-citizens/benelux-union/our-organisation/
   Name_fr: Cour de Justice Benelux
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
 Eastern Caribbean Supreme Court:
   Wikidata_code: Q3001122
   Entity_type: International organisation
