@@ -806,6 +806,8 @@ European Data Protection Supervisor:
   OpenSanctions_id: '[No code found.]'
   Name_fr: Contrôleur européen de la protection des données
   Name_es: Supervisor Europeo de Protección de Datos
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B27
 European Economic and Social Committee:
   Wikidata_code: Q331024
   Entity_type: International organisation
