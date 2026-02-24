@@ -803,6 +803,7 @@ European Data Protection Supervisor:
   Abbreviation_en: EDPS
   Type: EU body
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY
+  Source_2: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1725
   OpenSanctions_id: '[No code found.]'
   Name_fr: Contrôleur européen de la protection des données
   Name_es: Supervisor Europeo de Protección de Datos
