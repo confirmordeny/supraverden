@@ -5090,6 +5090,8 @@ EFTA Court:
   Name_fr: Cour de justice de l'Association européenne de libre-échange
   Name_es: Tribunal de la Asociación Europea de Libre Comercio
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
 Economic Court of the Commonwealth of Independent States:
   Wikidata_code: Q4306397
   Entity_type: International organisation
