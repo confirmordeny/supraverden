@@ -59,7 +59,7 @@
 | Translation Centre for the Bodies of the European Union | Included | The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1] The decentralised agencies of the EU have therefore been assessed as meeting the definition. |
 | European Committee of the Regions | Included | The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1] EU advisory bodies established under Article 13(4) of the Treaty on European Union have therefore been assessed as meeting the definition. |
 | European Cybersecurity Competence Centre | Included | The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1] The European Cybersecurity Competence Centre was established under European Union law to support the EU has therefore been assessed as meeting the definition. |
-| European Data Protection Supervisor | N/A | No basis text found. |
+| European Data Protection Supervisor | Included | The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1] EU bodies have therefore been assessed as meeting the definition. |
 | European Economic and Social Committee | Included | The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1] EU advisory bodies established under Article 13(4) of the Treaty on European Union have therefore been assessed as meeting the definition. |
 | European External Action Service | N/A | No basis text found. |
 | European Ombudsman | N/A | No basis text found. |
