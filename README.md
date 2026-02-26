@@ -4,7 +4,7 @@
 [![Org families list](https://github.com/confirmordeny/supraverden/actions/workflows/generate_list_of_org_families.yaml/badge.svg)](https://github.com/confirmordeny/supraverden/actions/workflows/generate_list_of_org_families.yaml)
 
 # What is it?
-**SupraVerden** is a curated lists of international organisations with privileges and immunities. This repo is in the very early stages. Its aims to create a robust data set that can be used for practical purposes.
+**SupraVerden** is a curated lists of international organisations with privileges and immunities. This repo is in the early stages of development. Its aims to create a robust data set that can be used for practical purposes.
 
 The data can be viewed on a website here: [supraverden.pages.dev](https://supraverden.pages.dev/)
 

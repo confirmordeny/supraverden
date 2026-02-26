@@ -166,6 +166,8 @@ European Atomic Energy Community:
   OpenSanctions_id: '[No code found.]'
   Name_fr: Communauté européenne de l'énergie atomique
   Name_es: Comunidad Europea de la Energía Atómica
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
 Unified Patent Court:
   Wikidata_code: Q7884942
   Entity_type: International organisation
@@ -917,8 +919,11 @@ Supply Agency of the European Atomic Energy Community:
   Name_other_en: Euratom Supply Agency
   Type: Euratom agencies and bodies
   Source: https://www.legislation.gov.uk/eut/euratom/title/II/chapter/6
+  Treaty_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:12016A/TXT
   OpenSanctions_id: '[No code found.]'
   Name_fr: Agence d'approvisionnement d'EURATOM
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
 Fusion for Energy Joint Undertaking:
   Wikidata_code: Q5510278
   Entity_type: International organisation
@@ -1453,10 +1458,12 @@ Permanent Review Tribunal of Mercosur:
   Name_en: Permanent Review Tribunal of Mercosur
   Name_es: null
   Name_other_en: null
-  Treaty_url: null
+  Treaty_url: https://opil.ouplaw.com/view/10.1093/law-oxio/e148.013.1/law-oxio-e148-regGroup-1-law-oxio-e148-source.pdf
   Source: https://www.europarl.europa.eu/RegData/etudes/IDAN/2022/653652/EXPO_IDA(2022)653652_EN.pdf
   Name_fr: null
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
 African Union:
   Wikidata_code: Q7159
   Entity_type: International organisation
@@ -4761,6 +4768,8 @@ Secretariat of the BBNJ Agreement:
   Abbreviation_en: null
   Treaty_url: https://www.un.org/bbnjagreement/sites/default/files/2024-08/Text%20of%20the%20Agreement%20in%20English.pdf
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
 Central African States Development Bank:
   Wikidata_code: Q16531299
   Entity_type: International organisation
