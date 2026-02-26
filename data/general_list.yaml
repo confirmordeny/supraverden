@@ -166,6 +166,8 @@ European Atomic Energy Community:
   OpenSanctions_id: '[No code found.]'
   Name_fr: Communauté européenne de l'énergie atomique
   Name_es: Comunidad Europea de la Energía Atómica
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
 Unified Patent Court:
   Wikidata_code: Q7884942
   Entity_type: International organisation
