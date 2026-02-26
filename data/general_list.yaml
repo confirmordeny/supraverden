@@ -1456,10 +1456,12 @@ Permanent Review Tribunal of Mercosur:
   Name_en: Permanent Review Tribunal of Mercosur
   Name_es: null
   Name_other_en: null
-  Treaty_url: null
+  Treaty_url: https://opil.ouplaw.com/view/10.1093/law-oxio/e148.013.1/law-oxio-e148-regGroup-1-law-oxio-e148-source.pdf
   Source: https://www.europarl.europa.eu/RegData/etudes/IDAN/2022/653652/EXPO_IDA(2022)653652_EN.pdf
   Name_fr: null
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
 African Union:
   Wikidata_code: Q7159
   Entity_type: International organisation
