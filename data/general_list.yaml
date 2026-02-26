@@ -917,8 +917,11 @@ Supply Agency of the European Atomic Energy Community:
   Name_other_en: Euratom Supply Agency
   Type: Euratom agencies and bodies
   Source: https://www.legislation.gov.uk/eut/euratom/title/II/chapter/6
+  Treaty_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:12016A/TXT
   OpenSanctions_id: '[No code found.]'
   Name_fr: Agence d'approvisionnement d'EURATOM
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
 Fusion for Energy Joint Undertaking:
   Wikidata_code: Q5510278
   Entity_type: International organisation
