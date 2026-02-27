@@ -5051,9 +5051,11 @@ ECOWAS Court of Justice:
   Name_en: ECOWAS Court of Justice
   Name_other_en: Economic Community of West African States Court of Justice
   Abbreviation_en: null
-  Treaty_url: null
+  Treaty_url: https://africanlii.org/en/akn/aa-ecowas/act/treaty/1993/revised-treaty/eng%401993-07-24/source.pdf
   Source: https://www.ecowas.int/institutions/community-court-of-justice/
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
 ECOWAS Parliament:
   Wikidata_code: Q97374162
   Entity_type: International organisation
