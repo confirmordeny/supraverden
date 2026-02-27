@@ -179,8 +179,11 @@ Unified Patent Court:
   Treaty: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:42013A0620(01)
   Source: https://web.archive.org/web/20230515032632/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:42013A0620(01)
   Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:42013A0620(01)
+  Treaty_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:42013A0620(01)
   OpenSanctions_id: '[No code found.]'
   Name_fr: Juridiction unique des brevets
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
 European Stability Mechanism:
   Wikidata_code: Q1130098
   Entity_type: International organisation
@@ -838,6 +841,8 @@ European External Action Service:
   OpenSanctions_id: '[No code found.]'
   Name_fr: Service européen pour l'action extérieure
   Name_es: Servicio Europeo de Acción Exterior
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B27
 European Ombudsman:
   Wikidata_code: Q220893
   Entity_type: International organisation
@@ -850,6 +855,8 @@ European Ombudsman:
   OpenSanctions_id: '[No code found.]'
   Name_fr: médiateur européen
   Name_es: Defensor del Pueblo Europeo
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B27
 European Public Prosecutor’s Office:
   Wikidata_code: Q5413070
   Entity_type: International organisation
@@ -1218,6 +1225,7 @@ Pan‐American Institute of Geography and History:
   Abbreviation_fr: null
   Type: OAS specialised organisations
   Source: https://www.govinfo.gov/content/pkg/SERIALSET-09927_00_00-037-0107-0000/pdf/SERIALSET-09927_00_00-037-0107-0000.pdf
+  Source_2: https://www.ipgh.org/mx/wp-content/uploads/2022/10/PAIGH-ORGANIC_ESTATUTE-FINAL_-PROPOSAL-06_24_2021.pdf
   OpenSanctions_id: '[No code found.]'
 Inter‐American Institute for Cooperation on Agriculture:
   Wikidata_code: Q3152323
@@ -2097,9 +2105,12 @@ Pacific Alliance:
   Name_en: Pacific Alliance
   Abbreviation_en: null
   Treaty_url: https://www.mfat.govt.nz/assets/Trade-agreements/Pacific-Alliance-NZ-FTA/Consolidated-Pacific-Alliance-Additional-Protocol.pdf
+  Source: https://alianzapacifico.net/en/download/acuerdo-marco-de-la-alianza-del-pacifico/
   Name_fr: Alliance du Pacifique
   Name_es: Alianza del Pacífico
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
 South Asian Association for Regional Cooperation:
   Wikidata_code: Q145700
   Entity_type: International organisation
@@ -2529,18 +2540,6 @@ International Pacific Halibut Commission:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
-ANZUS:
-  Wikidata_code: Q295875
-  Entity_type: International organisation
-  Org_family: none
-  Country: zz
-  Name_en: ANZUS
-  Abbreviation_en: null
-  Source: https://history.state.gov/milestones/1945-1952/anzus
-  Treaty_url: https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Completed_Inquiries/jfadt/usrelations/appendixb
-  Name_fr: ANZUS
-  Name_es: ANZUS
-  OpenSanctions_id: '[No code found.]'
 Salzburg Forum:
   Wikidata_code: Q7406988
   Entity_type: International organisation
@@ -3245,7 +3244,10 @@ Collaborative Inter-Governmental Scientific Research Institute:
   Name_en: Collaborative Inter-Governmental Scientific Research Institute
   Abbreviation_en: null
   Treaty_url: https://www.cisri.org/docs/Treaty_Establishing_CISRI_11.pdf
+  Source: https://treaties.un.org/doc/Publication/UNTS/Volume%202151/v2151.pdf
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
 International Cospas-Sarsat Programme:
   Wikidata_code: Q605177
   Entity_type: International organisation
@@ -5110,9 +5112,11 @@ Economic Court of the Commonwealth of Independent States:
   Country: zz
   Name_en: Economic Court of the Commonwealth of Independent States
   Abbreviation_en: null
-  Treaty_url: null
+  Treaty_url: https://cis.minsk.by/reestrv2/doc/187#text
   Source: https://cis-legislation.com/document.fwx?rgn=4124
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
 European Nuclear Energy Tribunal:
   Wikidata_code: Q5412873
   Entity_type: International organisation
