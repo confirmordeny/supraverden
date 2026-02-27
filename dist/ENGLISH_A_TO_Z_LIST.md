@@ -44,7 +44,6 @@
 - Andean Community
 - Andean Parliament
 - Andrés Bello convention for the educational, scientific and cultural integration of Latin America and Spain
-- ANZUS
 - Arab Atomic Energy Agency
 - Arab Authority for Agricultural Investment and Development
 - Arab Bank for Economic Development in Africa
