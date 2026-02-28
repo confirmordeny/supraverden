@@ -1227,6 +1227,8 @@ Pan‐American Institute of Geography and History:
   Source: https://www.govinfo.gov/content/pkg/SERIALSET-09927_00_00-037-0107-0000/pdf/SERIALSET-09927_00_00-037-0107-0000.pdf
   Source_2: https://www.ipgh.org/mx/wp-content/uploads/2022/10/PAIGH-ORGANIC_ESTATUTE-FINAL_-PROPOSAL-06_24_2021.pdf
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B30
 Inter‐American Institute for Cooperation on Agriculture:
   Wikidata_code: Q3152323
   Entity_type: International organisation
@@ -1241,6 +1243,8 @@ Inter‐American Institute for Cooperation on Agriculture:
   Type: OAS specialised organisations
   Source: https://www.oas.org/en/sla/dil/inter_american_treaties_C-17_Convention_Inter-American_Institute_Cooperation_Agriculture.asp
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B30
 Pan American Health Organization:
   Wikidata_code: Q1856835
   Entity_type: International organisation
@@ -1256,6 +1260,8 @@ Pan American Health Organization:
   Type: OAS specialised organisations
   Source: https://www.jstor.org/stable/4548819
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B30
 Inter‐American Children’s Institute:
   Wikidata_code: '[No code found]'
   Entity_type: International organisation
@@ -1270,6 +1276,8 @@ Inter‐American Children’s Institute:
   Type: OAS specialised organisations
   Source: https://iin.oea.org/pdf-iin/Acta-fundacional-del-IIN.pdf
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B30
 Inter‐American Commission of Women:
   Wikidata_code: Q5779117
   Entity_type: International organisation
@@ -1284,6 +1292,8 @@ Inter‐American Commission of Women:
   Type: OAS specialised organisations
   Source: https://www.oas.org/xxxivga/english/reference_docs/Estatuto_CIM.pdf
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B30
 Justice Studies Center for the Americas:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -1298,6 +1308,8 @@ Justice Studies Center for the Americas:
   Type: OAS entity
   Source: https://web.archive.org/web/20050418013202/https://www.oas.org/juridico/english/ga-res99/agres1.htm
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B30
 Administrative Tribunal of the Organization of American States:
   Wikidata_code: '[No code found.]'
   Org_family: OAS institutions and bodies
@@ -1305,6 +1317,8 @@ Administrative Tribunal of the Organization of American States:
   Name_en: Administrative Tribunal of the Organization of American States
   Source: https://www.oas.org/ext/Portals/31/documents/Statute%20of%20the%20Administrative%20Tribunal%20I.pdf
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B30
 Inter-American Development Bank:
   Wikidata_code: Q1153087
   Entity_type: International organisation
@@ -1358,6 +1372,8 @@ Inter-American Defense Board:
   OpenSanctions_id: '[No code found.]'
   Name_fr: Organisation interaméricaine de défense
   Name_es: Junta Interamericana de Defensa
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B30
 Organization for Security and Co-operation in Europe:
   Wikidata_code: Q81299
   Entity_type: International organisation
@@ -1987,10 +2003,12 @@ Commonwealth Telecommunications Organisation:
   Country: zz
   Name_en: Commonwealth Telecommunications Organisation
   Abbreviation_en: null
-  Treaty_url: null
+  Treaty_url: https://www.austlii.edu.au/cgi-bin/viewdoc/au/other/dfat/treaties/1957/21.html
   Source: https://assets.publishing.service.gov.uk/media/5a82bacf40f0b62305b940a4/TS_20_2017_CM_9512_WEB.pdf
   Name_fr: Commonwealth Telecommunications Organisation
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
 CAB International:
   Wikidata_code: Q5008528
   Entity_type: International organisation
@@ -2549,6 +2567,8 @@ Salzburg Forum:
   Abbreviation_en: null
   Treaty_url: https://www.salzburgforum.org/Treaties_and_Agreement/CBE_Agreement.html
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Excluded
+  Basis_for_assessment: B29
 Tuvalu Trust Fund:
   Wikidata_code: Q7857109
   Entity_type: International organisation
@@ -3613,6 +3633,8 @@ International Committee of Military Medicine:
   Treaty_url: https://cimm-icmm.org/wp-content/uploads/2025/03/241008-ENG-Statutes-of-the-ICMM.pdf
   Name_fr: Comité international de médecine militaire
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
 International Council for Exploration of the Sea:
   Wikidata_code: Q1613859
   Entity_type: International organisation
@@ -4798,6 +4820,7 @@ Eastern Caribbean Supreme Court:
   Treaty_url: null
   Source: https://www.legislation.gov.uk/uksi/1967/223/pdfs/uksi_19670223_en.pdf
   Source_2: https://www.constituteproject.org/constitution/Grenada_1992
+  Source_3: https://oecs.int/en/our-work/knowledge/library/legal/revised-treaty-of-basseterre
   Notes: ''
   Name_fr: Cour suprême de la Caraïbe orientale
   Name_es: Suprema Corte del Caribe Oriental
@@ -5384,10 +5407,12 @@ Court of Conciliation and Arbitration:
   Name_en: Court of Conciliation and Arbitration
   Name_other_en: OSCE Court of Conciliation and Arbitration
   Abbreviation_en: CCA
-  Treaty_url: null
+  Treaty_url: https://cdn.osce.org/sites/default/files/f/documents/a/0/111409_2.pdf
   Source: https://www.osce.org/sites/default/files/f/documents/a/0/111409_2.pdf
   Name_fr: Cour européenne de conciliation et d'arbitrage
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
 Asia-Pacific Telecommunity:
   Wikidata_code: Q4806261
   Entity_type: International organisation
@@ -5866,10 +5891,12 @@ Asian-African Legal Consultative Organisation:
   Country: zz
   Name_en: Asian-African Legal Consultative Organisation
   Abbreviation_en: AALCO
-  Treaty_url: null
+  Treaty_url: https://www.aalco.int/STATUTES.pdf
   Immunity_url: https://www.aalco.int/Basicdocuments/HEADQUARTERS%20AGREEMENT%20BETWEEN%20THE%20GOVERNMENT%20OF%20THE%20REPUBLIC%20OF%20INDIA%20AND%20THE%20ASIAN%20AFRICAN%20LEGAL%20CONSULTATIVE%20COMMITTEE.pdf
   Source: https://www.aalco.int/Basicdocuments/HEADQUARTERS%20AGREEMENT%20BETWEEN%20THE%20GOVERNMENT%20OF%20THE%20REPUBLIC%20OF%20INDIA%20AND%20THE%20ASIAN%20AFRICAN%20LEGAL%20CONSULTATIVE%20COMMITTEE.pdf
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
 East African Legislative Assembly:
   Wikidata_code: Q5327657
   Entity_type: International organisation
