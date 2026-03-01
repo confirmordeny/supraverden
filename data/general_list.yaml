@@ -1601,6 +1601,8 @@ Financial Action Task Force:
   Name_fr: Groupe d'action financière
   Name_es: Grupo de Acción Financiera Internacional
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Excluded
+  Basis_for_assessment: B34
 European Court of Human Rights:
   Wikidata_code: Q122880
   Entity_type: International organisation
@@ -4269,10 +4271,13 @@ International Road Transport Union:
   Country: zz
   Name_en: International Road Transport Union
   Abbreviation_en: IRU
-  Treaty_url: https://treaties.un.org/doc/Treaties/1952/03/19520326%2003-36%20PM/Ch_XI_B_1_2_3.pdf
+  Source_1: https://treaties.un.org/doc/Treaties/1952/03/19520326%2003-36%20PM/Ch_XI_B_1_2_3.pdf
+  Source_2: https://www.iru.org/system/files/IRU%20Constitution.pdf
   Name_fr: Union internationale des transports routiers
   Name_es: Organización internacional del transporte por carretera
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Excluded
+  Basis_for_assessment: B28
 Iran-United States Claims Tribunal:
   Wikidata_code: Q501576
   Entity_type: International organisation
@@ -4810,7 +4815,7 @@ Eastern Caribbean Supreme Court:
   Country: zz
   Name_en: Eastern Caribbean Supreme Court
   Abbreviation_en: null
-  Treaty_url: null
+  Treaty_url: https://www.govt.lc/media.govt.lc/www/resources/legislation/revisedtreatyofbasseterre.pdf
   Source: https://www.legislation.gov.uk/uksi/1967/223/pdfs/uksi_19670223_en.pdf
   Source_2: https://www.constituteproject.org/constitution/Grenada_1992
   Source_3: https://oecs.int/en/our-work/knowledge/library/legal/revised-treaty-of-basseterre
@@ -4818,6 +4823,8 @@ Eastern Caribbean Supreme Court:
   Name_fr: Cour suprême de la Caraïbe orientale
   Name_es: Suprema Corte del Caribe Oriental
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
 Zambezi Watercourse Commission:
   Wikidata_code: Q8065663
   Entity_type: International organisation
@@ -5001,12 +5008,14 @@ Council of the Baltic Sea States:
   Country: zz
   Name_en: Council of the Baltic Sea States
   Abbreviation_en: CBSS
-  Treaty_url: null
+  Treaty_url: https://cbss.org/wp-content/uploads/2020/05/Host_country_Agreement_on_the_Privileges__Immunities_of_the_Secretariat_Oct_981-2.pdf
   Immunity_url: https://www.regeringen.se/contentassets/ff75e9254d0c4ea48fba1871e1814453/avtal-med-ostersjostaternas-rads-sekretariat-om-immunitet-och-privilegier-for-sekretariatet/
   Source: https://lagen.nu/prop/1998/99:24
   Name_fr: Conseil des États de la mer Baltique
   Name_es: Consejo de Estados del Mar Báltico
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
 Secretariat of the Central European Free Trade Agreement:
   Wikidata_code: '[No code.]'
   Entity_type: International organisation
@@ -5163,6 +5172,8 @@ Judicial Committee of the Privy Council:
   Name_fr: Comité judiciaire du Conseil privé
   Name_es: Comité Judicial del Consejo Privado
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Excluded
+  Basis_for_assessment: B35
 Inter-American Statistical Institute:
   Wikidata_code: Q55725862
   Entity_type: International organisation
@@ -6235,6 +6246,8 @@ World Bank:
   Name_es: Banco Mundial
   Notes_en: 'The "World Bank" is an umbrella term for the International Bank for Reconstruction and Development and the International Development Association when considered collectively.' 
   Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B32
 World Bank Group:
   Wikidata_code: Q320863
   Org_family: UN and affiliates
@@ -6246,6 +6259,8 @@ World Bank Group:
   Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
   Name_fr: Groupe de la Banque mondiale
   Name_es: Grupo del Banco Mundial
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B33
 World Health Organization:
   Wikidata_code: Q7817
   Org_family: UN and affiliates
