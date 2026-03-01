@@ -1,5 +1,4 @@
 # This site is not affiliated with nor endorsed by FATF.
-# This file is a work in progress.
 # This is a list of basis for assessment decisions made by SupraVerden.
 
 B1:
@@ -64,73 +63,105 @@ B16:
 
 B17:
   Basis_text: "The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1]
-  The decentralised agencies of the EU have therefore been assessed as meeting the definition."
+   The decentralised agencies of the EU have therefore been assessed as meeting the definition."
 
 B18:
   Basis_text: "The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1]
-  The decentralised agencies of the EU have therefore been assessed as meeting the definition."
+   The decentralised agencies of the EU have therefore been assessed as meeting the definition."
 
 B19:
   Basis_text: "The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1]
-  EU advisory bodies established under Article 13(4) of the Treaty on European Union have therefore been assessed as meeting the definition."
+   EU advisory bodies established under Article 13(4) of the Treaty on European Union have therefore been assessed as meeting the definition."
 
 B20:
   Basis_text: "The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1]
-  The European Cybersecurity Competence Centre was established under European Union law to support the EU has therefore been assessed
-  as meeting the definition."
+   The European Cybersecurity Competence Centre was established under European Union law to support the EU has therefore been assessed
+   as meeting the definition."
 
 B21:
   Basis_text: "The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1]
-  The European Data Protection Board is a body of the European Union has therefore been assessed as meeting the definition."
+   The European Data Protection Board is a body of the European Union has therefore been assessed as meeting the definition."
 
 B22:
   Basis_text: "The FATF definition of International organisations refers to entities established by international treaties 
-  that are not treated as resident institutional units of the countries in which they are located. [R1.1][R2.1] For this reason, organisations
-  formed by treaty have been assessed as meeting the definition in almost all cases. This is an area where the database is still being refined and some entities may need to be reclassified"
+   that are not treated as resident institutional units of the countries in which they are located. [R1.1][R2.1] For this reason, organisations
+   formed by treaty have been assessed as meeting the definition in almost all cases. This is an area where the database is still being refined and some entities may need to be reclassified"
 
 B23:
   Basis_text: "The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1]
-  The executive agencies of the EU have therefore been assessed as meeting the definition."
+   The executive agencies of the EU have therefore been assessed as meeting the definition."
 
 B24:
   Basis_text: "The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1]
-  The Joint Undertakings of the EU have therefore been assessed as meeting the definition."
+   The Joint Undertakings of the EU have therefore been assessed as meeting the definition."
 
 B25:
  Basis_text: "The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1]
- EU common foreign and security policy agencies have therefore been assessed as meeting the definition."
+  EU common foreign and security policy agencies have therefore been assessed as meeting the definition."
 
 B26:
  Basis_text: "The FATF definition of International organisations refers to entities established by international treaties that are not
- treated as resident institutional units of the countries in which they are located. [R1.1][R2.1] The North/South Implementation Bodies 
- were established by an international agreement between the Government of the UK and the Government of Ireland (the British-Irish Agreement)
- following the 1998 Good Friday Agreement. The North/South Implementation Bodies are exempt from certain taxes and duties
- that would normally be payable by resident institutional units.[R5.1] For this reason, these bodies have been assessed as meeting the definition."
+  treated as resident institutional units of the countries in which they are located. [R1.1][R2.1] The North/South Implementation Bodies 
+  were established by an international agreement between the Government of the UK and the Government of Ireland (the British-Irish Agreement)
+  following the 1998 Good Friday Agreement. The North/South Implementation Bodies are exempt from certain taxes and duties
+  that would normally be payable by resident institutional units.[R5.1] For this reason, these bodies have been assessed as meeting the definition."
 
 B27:
  Basis_text: "The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1]
- EU bodies have therefore been assessed as meeting the definition."
+  EU bodies have therefore been assessed as meeting the definition."
 
 B28:
  Basis_text: "The FATF definition of International organisations is limited to entities established by formal political
- agreements between their member States that have the status of international treaties. [R1.1][R2.1] 
- Organisations formed by Swiss civil law are therefore assessed as not meeting the FATF definition."
+  agreements between their member States that have the status of international treaties. [R1.1][R2.1] 
+  Organisations formed by Swiss civil law are therefore assessed as not meeting the FATF definition."
 
  B29:
   Basis_text: "The FATF definition of International organisations is limited to entities established by formal political
-  agreements between their member States that have the status of international treaties. [R1.1][R2.1] 
-  The Salzburg Forum is structured in an informal way and therefore assessed as not meeting the FATF definition. [R6.1]"
+   agreements between their member States that have the status of international treaties. [R1.1][R2.1] 
+   The Salzburg Forum is structured in an informal way and therefore assessed as not meeting the FATF definition. [R6.1]"
 
 B30:
   Basis_text: "The Organisation of American States (OAS) is given as an example in the FATF definition 
-  of International organisations.[R1.1][R2.1] The intention of the FATF definition appears to be to capture institutions 
-  and agencies of larger international organisation as institutions of the European Union are given as an example. 
-  For this reason, organs of the OAS have been assessed as meeting the FATF definition."
+   of International organisations.[R1.1][R2.1] The intention of the FATF definition appears to be to capture institutions 
+   and agencies of larger international organisation as institutions of the European Union are given as an example. 
+   For this reason, organs of the OAS have been assessed as meeting the FATF definition."
 
 B31:
- Basis_text: "The FATF definition of International organisations excludes entities 
- that are treated as resident institutional units of the countries in which they are located. [R1.1][R2.1]
- The International Boundary Commission is structured as two separate national sections: 
- the United States section which is managed as part of the US Federal Government 
- and the Canadian section managed as a part of the Government of Canada.[R7.1]
- Accordingly, the IBC has been assessed as not meeting the definition."
+  Basis_text: "The FATF definition of International organisations excludes entities 
+   that are treated as resident institutional units of the countries in which they are located. [R1.1][R2.1]
+   The International Boundary Commission is structured as two separate national sections: 
+   the United States section which is managed as part of the US Federal Government 
+   and the Canadian section managed as a part of the Government of Canada.[R7.1]
+   Accordingly, the IBC has been assessed as not meeting the definition."
+
+B32:
+  Basis_text: "The World Bank is a collective term for the International Bank for Reconstruction 
+   and Development and the International Development Association and has been included in this
+   repo for practical reasons. The IBRD and IDA have each been assessed individually
+   as meeting the FATF definition of International organisation. For this reason, 
+   the World Bank has also been assessed as meeting the definition."
+
+B33:
+ Basis_text: "The World Bank Group is a collective term for five organisations and has been
+ included in this repo for practical reasons. The five organisations are:
+ - International Bank for Reconstruction and Development.
+ - International Finance Corporation.
+ - International Development Association.
+ - International Centre for Settlement of Investment Disputes.
+ - Multilateral Investment Guarantee Agency
+Each of the five have been individally assessed as meeting the FATF definition of international
+organisation. For this reason, the World Bank Group has also been assessed as meeting 
+the definition."
+
+B34:
+ Basis_text: "The FATF definition of International organisations is limited to entities established by formal political
+  agreements between their member States that have the status of international treaties. [R1.1][R2.1] 
+  FATF was not formed as a formal international organisation.[R8] FATF was created by a 
+  ministerial declaration at the G7 rather than a treaty.[R9.1]"
+
+B35:
+ Basis_text: "The FATF definition of International organisations refers to entities established by international treaties that are not
+  treated as resident institutional units of the countries in which they are located. [R1.1][R2.1] 
+  Although the Judicial Committee of the Privy Council hears appeals from multiple countries
+  it is an instution established under UK domestic law. Accordingly, it has been asssessed as
+  not meeting the FATF definition of International organisation.
