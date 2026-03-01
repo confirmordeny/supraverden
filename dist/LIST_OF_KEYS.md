@@ -31,7 +31,6 @@
   * 1
   * 2
   * 3
-* Treaty
 * Treaty_url
 * Type
 * Wikidata_code
