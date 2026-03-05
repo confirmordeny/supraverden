@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 558 international organisations in the table.
+There are currently 555 international organisations in the table.
 
 | English Name | Wikidata Code | OpenSanctions | Family | Source |
 |---|---|---|---|---|
@@ -35,7 +35,6 @@ There are currently 558 international organisations in the table.
 | Andean Community | [Q471690](https://www.wikidata.org/wiki/Q471690) | [No code found] | Andean Community entities | [Treaty](https://www.comunidadandina.org/StaticFiles/201338102616Acuerdo_Cartagena.pdf) |
 | Andean Parliament | [Q490447](https://www.wikidata.org/wiki/Q490447) | [No code found] | Andean Community entities | [Treaty](https://www.wipo.int/wipolex/en/text/593530) |
 | Andrés Bello convention for the educational, scientific and cultural integration of Latin America and Spain | N/A | [No code found] | none | [Treaty](https://convenioandresbello.org/wp-content/uploads/2021/08/tratado_constitutivo_cab_firmado.pdf) |
-| ANZUS | [Q295875](https://www.wikidata.org/wiki/Q295875) | [No code found] | none | [Treaty](https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Completed_Inquiries/jfadt/usrelations/appendixb) |
 | Arab Atomic Energy Agency | [Q56376750](https://www.wikidata.org/wiki/Q56376750) | [No code found] | Arab League entities | [Treaty](https://www.legalaffairs.gov.bh/Legislation/HTM/K1708) |
 | Arab Authority for Agricultural Investment and Development | N/A | [gem-own-e100002003564](https://www.opensanctions.org/entities/gem-own-e100002003564/) | none | [Treaty](https://www.lloc.gov.bh/PDF/K1108.pdf) |
 | Arab Bank for Economic Development in Africa | [Q4783148](https://www.wikidata.org/wiki/Q4783148) | [bic-AEDAEGCA](https://www.opensanctions.org/entities/bic-AEDAEGCA/) | Arab League entities | [Treaty](https://data.qanoon.om/treaties/1974-0017AEN.pdf) |
@@ -54,7 +53,6 @@ There are currently 558 international organisations in the table.
 | Arab Women Organization | [Q12245743](https://www.wikidata.org/wiki/Q12245743) | [No code found] | Arab League entities | [Treaty](https://www.lloc.gov.bh/FullEn/L2402.docx) |
 | Arctic Council | [Q674182](https://www.wikidata.org/wiki/Q674182) | [No code found] | none | [Treaty](https://oaarchive.arctic-council.org/server/api/core/bitstreams/bdc15f51-fb91-4e0d-9037-3e8618e7b98f/content) |
 | Arms Trade Treaty Secretariat | N/A | [No code found] | none | [Treaty](https://www.fedlex.admin.ch/eli/cc/2016/477/fr) |
-| ASEAN Free Trade Area | [Q297472](https://www.wikidata.org/wiki/Q297472) | [No code found] | Association of Southeast Asian Nations entities | [Treaty](https://web.archive.org/web/20070614155734/http://www.worldtradelaw.net/fta/agreements/afta.pdf) |
 | Asia-Pacific Economic Cooperation Secretariat | N/A | [No code found] | none | [Treaty](https://www.apec.org/meeting-papers/annual-ministerial-meetings/1992/1992_amm/annex3) |
 | Asia-Pacific Fishery Commission | [Q4806252](https://www.wikidata.org/wiki/Q4806252) | [No code found] | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Asia-Pacific Telecommunity | [Q4806261](https://www.wikidata.org/wiki/Q4806261) | [No code found] | none | [Treaty](https://apt.int/pdfs/Constitution.pdf) |
@@ -64,7 +62,7 @@ There are currently 558 international organisations in the table.
 | Asian Infrastructure Investment Bank | [Q18109843](https://www.wikidata.org/wiki/Q18109843) | [NK-eqFLKN9GAC977pmwXMRPWk](https://www.opensanctions.org/entities/NK-eqFLKN9GAC977pmwXMRPWk/) | none | [Treaty](https://www.aiib.org/en/about-aiib/basic-documents/_download/articles-of-agreement/basic_document_english-bank_articles_of_agreement.pdf) |
 | Asian Productivity Organisation | [Q16166565](https://www.wikidata.org/wiki/Q16166565) | [No code found] | none | [Treaty](https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/35/11124) |
 | Asian Reinsurance Corporation | N/A | [No code found] | none | [Treaty](http://lawinfochina.com/display.aspx?id=7447&lib=tax) |
-| Asian-African Legal Consultative Organisation | N/A | [No code found] | none | [Treaty](null) |
+| Asian-African Legal Consultative Organisation | N/A | [No code found] | none | [Treaty](https://www.aalco.int/STATUTES.pdf) |
 | Association of Caribbean States | [Q1147937](https://www.wikidata.org/wiki/Q1147937) | [No code found] | none | [Treaty](https://www.acs-aec.org/sites/default/files/acs_convention_eng.doc) |
 | Association of Iron Ore Exporting Countries | N/A | [No code found] | none | [Treaty](https://international.vlex.com/vid/accord-portant-creation-l-851216190) |
 | Association of Natural Rubber Producing Countries | N/A | [No code found] | none | [Treaty](https://treaties.fcdo.gov.uk/data/Library2/pdf/1993-TS0036.pdf) |
@@ -129,7 +127,7 @@ There are currently 558 international organisations in the table.
 | Common Market for Eastern and Southern Africa | [Q1165797](https://www.wikidata.org/wiki/Q1165797) | [No code found] | Common Market for Eastern and Southern Africa entities | [Treaty](https://www.comesa.int/wp-content/uploads/2019/02/comesa-treaty-revised-20092012_with-zaire_final.pdf) |
 | Commonwealth of Independent States | [Q7779](https://www.wikidata.org/wiki/Q7779) | [No code found] | none | [Treaty](https://www.coe.int/en/web/venice-commission/-/CDL(1994)054-e) |
 | Commonwealth Secretariat | [Q3954348](https://www.wikidata.org/wiki/Q3954348) | [No code found] | Commonwealth of Nations entities | [Treaty](null) |
-| Commonwealth Telecommunications Organisation | [Q5153868](https://www.wikidata.org/wiki/Q5153868) | [No code found] | Commonwealth of Nations entities | [Treaty](null) |
+| Commonwealth Telecommunications Organisation | [Q5153868](https://www.wikidata.org/wiki/Q5153868) | [No code found] | Commonwealth of Nations entities | [Treaty](https://www.austlii.edu.au/cgi-bin/viewdoc/au/other/dfat/treaties/1957/21.html) |
 | Community of Portuguese Language Countries | [Q182500](https://www.wikidata.org/wiki/Q182500) | [No code found] | none | [Treaty](http://www.worldlii.org/int/other/treaties/UNTSer/2003/692.pdf) |
 | Community Plant Variety Office | [Q1501010](https://www.wikidata.org/wiki/Q1501010) | [No code found] | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | Comprehensive Nuclear-Test-Ban Treaty Organisation | [Q356694](https://www.wikidata.org/wiki/Q356694) | [No code found] | none | [Treaty](https://www.ctbto.org/sites/default/files/2023-10/2022_treaty_booklet_E.pdf) |
@@ -140,9 +138,9 @@ There are currently 558 international organisations in the table.
 | Coordinating Working Party on Fishery Statistics | [Q5168022](https://www.wikidata.org/wiki/Q5168022) | [No code found] | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Council of Europe | [Q8908](https://www.wikidata.org/wiki/Q8908) | [No code found] | Council of Europe entities | [Treaty](https://rm.coe.int/1680a1c6b3) |
 | Council of Europe Development Bank | [Q611107](https://www.wikidata.org/wiki/Q611107) | [NK-A2BqKxWN4imUKSzjyjjqWv](https://www.opensanctions.org/entities/NK-A2BqKxWN4imUKSzjyjjqWv/) | Council of Europe entities | [Treaty](https://coebank.org/documents/51/CEB_Articles_of_Agreement_August_2023.pdf) |
-| Council of the Baltic Sea States | [Q789769](https://www.wikidata.org/wiki/Q789769) | [No code found] | none | [Treaty](null) |
+| Council of the Baltic Sea States | [Q789769](https://www.wikidata.org/wiki/Q789769) | [No code found] | none | [Treaty](https://cbss.org/wp-content/uploads/2020/05/Host_country_Agreement_on_the_Privileges__Immunities_of_the_Secretariat_Oct_981-2.pdf) |
 | Council of the European Union | [Q8896](https://www.wikidata.org/wiki/Q8896) | [No code found] | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT) |
-| Court of Conciliation and Arbitration | [Q3001076](https://www.wikidata.org/wiki/Q3001076) | [No code found] | OSCE entities | [Treaty](null) |
+| Court of Conciliation and Arbitration | [Q3001076](https://www.wikidata.org/wiki/Q3001076) | [No code found] | OSCE entities | [Treaty](https://cdn.osce.org/sites/default/files/f/documents/a/0/111409_2.pdf) |
 | Court of Justice of the Andean Community | [Q5789480](https://www.wikidata.org/wiki/Q5789480) | [No code found] | Andean Community entities | [Treaty](https://www.comunidadandina.org/StaticFiles/201338102616Acuerdo_Cartagena.pdf) |
 | Court of Justice of the European Union | [Q4951](https://www.wikidata.org/wiki/Q4951) | [No code found] | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20250903163936/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:11992M/TXT) |
 | Court of the Eurasian Economic Union | N/A | [No code found] | Eurasian Economic Union entities | [Treaty](https://www.un.org/en/ga/sixth/70/docs/treaty_on_eeu.pdf) |
@@ -156,7 +154,7 @@ There are currently 558 international organisations in the table.
 | East Mediterranean Gas Forum | [Q97163711](https://www.wikidata.org/wiki/Q97163711) | [No code found] | none | [Treaty](https://www.parliament.cy/images/media/redirectfile/EMGF%20signed%20Statute_%CE%9C%CE%AD%CF%81%CE%BF%CF%82%20%CE%99%20%CE%9D%CE%BF%CE%BC%CE%BF%CF%83%CF%87%CE%B5%CE%B4%CE%AF%CE%BF%CF%85.pdf) |
 | Eastern and Southern African Trade and Development Bank | [Q13657031](https://www.wikidata.org/wiki/Q13657031) | [bic-ESATKENA](https://www.opensanctions.org/entities/bic-ESATKENA/) | Common Market for Eastern and Southern Africa entities | [Treaty](https://www.tdbgroup.org/wp-content/uploads/2024/01/TDB-Charter-English-01.01.2024.pdf) |
 | Eastern Caribbean Central Bank | [Q1210260](https://www.wikidata.org/wiki/Q1210260) | [NK-YDpCtketszPUchCK72QJ9B](https://www.opensanctions.org/entities/NK-YDpCtketszPUchCK72QJ9B/) | Caribbean Community entities | [Treaty](https://www.eccb-centralbank.org/viewPDF/documents/2022-05-27-06-12-30-ECCB-Agreement.pdf) |
-| Eastern Caribbean Supreme Court | [Q3001122](https://www.wikidata.org/wiki/Q3001122) | [No code found] | none | [Treaty](null) |
+| Eastern Caribbean Supreme Court | [Q3001122](https://www.wikidata.org/wiki/Q3001122) | [No code found] | none | [Treaty](https://www.govt.lc/media.govt.lc/www/resources/legislation/revisedtreatyofbasseterre.pdf) |
 | Economic and Social Commission for Asia and the Pacific | [Q1142901](https://www.wikidata.org/wiki/Q1142901) | [No code found] | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Economic and Social Commission for Western Asia | [Q1355485](https://www.wikidata.org/wiki/Q1355485) | [No code found] | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Economic Commission for Africa | [Q1144508](https://www.wikidata.org/wiki/Q1144508) | [No code found] | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
@@ -166,9 +164,9 @@ There are currently 558 international organisations in the table.
 | Economic Community of the Great Lakes Countries | [Q1331783](https://www.wikidata.org/wiki/Q1331783) | [No code found] | none | [Treaty](https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800f81f4&clang=_en) |
 | Economic Community of West African States | [Q193272](https://www.wikidata.org/wiki/Q193272) | [No code found] | ECOWAS entities | [Treaty](https://www.ecowas.int/wp-content/uploads/2022/06/THE-1975-TREATY-OF-ECOWAS.pdf) |
 | Economic Cooperation Organization | [Q225950](https://www.wikidata.org/wiki/Q225950) | [No code found] | none | [Treaty](https://eco.int/wp-content/uploads/2017/05/Agreement-on-Legal-Status-of-the-ECO-National-Representatives-and-International-Staff.pdf) |
-| Economic Court of the Commonwealth of Independent States | [Q4306397](https://www.wikidata.org/wiki/Q4306397) | [No code found] | none | [Treaty](null) |
-| ECOWAS Court of Justice | [Q30324003](https://www.wikidata.org/wiki/Q30324003) | [No code found] | ECOWAS entities | [Treaty](null) |
-| ECOWAS Parliament | [Q97374162](https://www.wikidata.org/wiki/Q97374162) | [No code found] | ECOWAS entities | [Treaty](null) |
+| Economic Court of the Commonwealth of Independent States | [Q4306397](https://www.wikidata.org/wiki/Q4306397) | [No code found] | none | [Treaty](https://cis.minsk.by/reestrv2/doc/187#text) |
+| ECOWAS Court of Justice | [Q30324003](https://www.wikidata.org/wiki/Q30324003) | [No code found] | ECOWAS entities | [Treaty](https://africanlii.org/en/akn/aa-ecowas/act/treaty/1993/revised-treaty/eng%401993-07-24/source.pdf) |
+| ECOWAS Parliament | [Q97374162](https://www.wikidata.org/wiki/Q97374162) | [No code found] | ECOWAS entities | [Treaty](https://edit.wti.org/document/show/c3b73b1c-4f51-423a-be13-f57244f4b058) |
 | EFTA Court | [Q610886](https://www.wikidata.org/wiki/Q610886) | [No code found] | EFTA entities | [Treaty](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:E1994A1231(01)) |
 | Energy Charter Conference | [Q121286812](https://www.wikidata.org/wiki/Q121286812) | [No code found] | none | [Treaty](https://www.energycharter.org/fileadmin/DocumentsMedia/Legal/ECTC-en.pdf) |
 | Energy Community | [Q2989312](https://www.wikidata.org/wiki/Q2989312) | [No code found] | none | [Treaty](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=legissum:l27074) |
@@ -284,12 +282,11 @@ There are currently 558 international organisations in the table.
 | Inter-American Development Bank | [Q1153087](https://www.wikidata.org/wiki/Q1153087) | [NK-9VyvKXyemqBPyAVRHKVBmq](https://www.opensanctions.org/entities/NK-9VyvKXyemqBPyAVRHKVBmq/) | OAS institutions and bodies | [Treaty](https://www.oas.org/dil/treaties_C-15_Agreement_Establishing_the_Inter-American_Development_Bank.htm) |
 | Inter-American Institute for Global Change Research | [Q6044567](https://www.wikidata.org/wiki/Q6044567) | [No code found] | none | [Treaty](https://www.iai.int/pdf/en/agreement_establishing_the_IAI_en.pdf) |
 | Inter-American Investment Corporation | N/A | [InNK-ad2outEGmesjZo22gqUzci](https://www.opensanctions.org/entities/InNK-ad2outEGmesjZo22gqUzci/) | none | [Treaty](https://assets.publishing.service.gov.uk/media/640b3cdc8fa8f5560820da5b/TS_11.2023_Agreement_Establishing_InterAmerican_Investment_Corporation.pdf) |
-| Inter-American Statistical Institute | [Q55725862](https://www.wikidata.org/wiki/Q55725862) | [No code found] | none | [Treaty](null) |
+| Inter-American Statistical Institute | [Q55725862](https://www.wikidata.org/wiki/Q55725862) | [No code found] | none | [Treaty](https://www.inec.gob.pa/iasi/docs/ingles/CONSTITUTION.doc) |
 | Inter-American Tropical Tuna Commission | [Q3153044](https://www.wikidata.org/wiki/Q3153044) | [No code found] | none | [Treaty](https://web.archive.org/web/20160513131225/http://www.iattc.org/PDFFiles/IATTC_convention_1949.pdf) |
 | Intergovernmental Authority on Development | [Q499039](https://www.wikidata.org/wiki/Q499039) | [No code found] | none | [Treaty](https://igad.int/download/agreement-establishing-the-intergovernmental-authority-on-development-igad/#) |
 | Intergovernmental Council of Copper Exporting Countries | [Q1023742](https://www.wikidata.org/wiki/Q1023742) | [No code found] | none | [Treaty](https://www.austlii.edu.au/au/other/dfat/treaties/ATS/1975/43.html) |
 | Intergovernmental Organisation for International Carriage by Rail | [Q2333216](https://www.wikidata.org/wiki/Q2333216) | [No code found] | none | [Treaty](https://otif.org/fileadmin/user_upload/otif_verlinkte_files/07_veroeff/01_COTIF_80/cotif-1980-e.pdf) |
-| Intergovernmental University Institute of Cooperation | N/A | [No code found] | none | [Treaty](https://www.icfam.net/wp-content/uploads/2024/07/ONU-ICFAM-Convention.pdf) |
 | International Anti-Corruption Academy | [Q876957](https://www.wikidata.org/wiki/Q876957) | [No code found] | none | [Treaty](https://www.iaca.int/images/PDF/IACA_Agreement_ENGLISH.pdf) |
 | International Atomic Energy Agency | [Q41984](https://www.wikidata.org/wiki/Q41984) | [kprusi-7c1673a72776402e41981875790d4939498ad14a](https://www.opensanctions.org/entities/kprusi-7c1673a72776402e41981875790d4939498ad14a/) | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
 | International Bamboo and Rattan Organization | [Q6052145](https://www.wikidata.org/wiki/Q6052145) | [No code found] | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%202132/v2132.pdf#page=215) |
@@ -365,7 +362,7 @@ There are currently 558 international organisations in the table.
 | International Renewable Energy Agency | [Q392739](https://www.wikidata.org/wiki/Q392739) | [No code found] | none | [Treaty](https://assets.publishing.service.gov.uk/media/5a807aa540f0b62302693c04/TS_8.2015_Cm_9062_WEB_ACC.pdf) |
 | International Residual Mechanism for Criminal Tribunals | [Q1667632](https://www.wikidata.org/wiki/Q1667632) | [No code found] | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | International Rice Research Institute | [Q1204921](https://www.wikidata.org/wiki/Q1204921) | [No code found] | CGIAR entities | [Treaty](https://www.austlii.edu.au/cgi-bin/viewdoc/au/other/dfat/treaties/2001/6.html) |
-| International Road Transport Union | [Q2662574](https://www.wikidata.org/wiki/Q2662574) | [No code found] | none | [Treaty](https://treaties.un.org/doc/Treaties/1952/03/19520326%2003-36%20PM/Ch_XI_B_1_2_3.pdf) |
+| International Road Transport Union | [Q2662574](https://www.wikidata.org/wiki/Q2662574) | [No code found] | none | N/A |
 | International Rubber Study Group | [Q131542072](https://www.wikidata.org/wiki/Q131542072) | [No code found] | none | [Treaty](https://www.rubberstudy.org/storage/uploads/contentfile/18902/yVf21ESEis.pdf) |
 | International Sava River Basin Commission | [Q3297537](https://www.wikidata.org/wiki/Q3297537) | [No code found] | none | [Treaty](https://www.savacommission.org/UserDocsImages/05_documents_publications/basic_documents/fasrb.pdf) |
 | International Science and Technology Center | [Q13415305](https://www.wikidata.org/wiki/Q13415305) | [No code found] | none | [Treaty](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:22017A0214(01)) |
@@ -510,7 +507,7 @@ There are currently 558 international organisations in the table.
 | Tuvalu Trust Fund | [Q7857109](https://www.wikidata.org/wiki/Q7857109) | [No code found] | none | [Treaty](https://tuvalu-legislation.tv/cms/images/LEGISLATION/SUBORDINATE/1987/1987-0001/1987-0001_1.pdf) |
 | UN Women | [Q641576](https://www.wikidata.org/wiki/Q641576) | [No code found] | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | UNAIDS Programme Coordinating Board | [Q588982](https://www.wikidata.org/wiki/Q588982) | [No code found] | UN and affiliates | [ecosoc.un.org](https://ecosoc.un.org/en/about-us/ecosoc-subsidiary-bodies) |
-| Unified Patent Court | [Q7884942](https://www.wikidata.org/wiki/Q7884942) | [No code found] | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20230515032632/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:42013A0620(01)) |
+| Unified Patent Court | [Q7884942](https://www.wikidata.org/wiki/Q7884942) | [No code found] | EU institutions and bodies | [Treaty](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:42013A0620(01)) |
 | Union for the Mediterranean | [Q192177](https://www.wikidata.org/wiki/Q192177) | [No code found] | none | [Treaty](https://ufmsecretariat.org/wp-content/uploads/2012/09/Statutes-UfMS.pdf) |
 | Union of South American Nations | [Q4230](https://www.wikidata.org/wiki/Q4230) | [No code found] | Union of South American Nations entities | [Treaty](https://www.icwa.in/WriteReadData/L45218/1496229018.pdf) |
 | Union State | [Q166110](https://www.wikidata.org/wiki/Q166110) | [No code found] | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%202121/v2121.pdf) |
