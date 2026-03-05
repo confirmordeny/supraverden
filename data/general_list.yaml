@@ -5089,10 +5089,12 @@ ECOWAS Parliament:
   Name_en: ECOWAS Parliament
   Name_other_en: null
   Abbreviation_en: null
-  Treaty_url: null
+  Treaty_url: https://edit.wti.org/document/show/c3b73b1c-4f51-423a-be13-f57244f4b058
   Source: https://investmentpolicy.unctad.org/international-investment-agreements/treaty-files/5476/download
   Name_fr: Parlement de la CEDEAO
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
 Caribbean Disaster Emergency Management Agency:
   Wikidata_code: Q5039374
   Entity_type: International organisation
