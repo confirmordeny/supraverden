@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 555 international organisations in the table.
+There are currently 556 international organisations in the table.
 
 | English Name | Wikidata Code | OpenSanctions | Family | Source |
 |---|---|---|---|---|
@@ -127,6 +127,7 @@ There are currently 555 international organisations in the table.
 | Common Market for Eastern and Southern Africa | [Q1165797](https://www.wikidata.org/wiki/Q1165797) | [No code found] | Common Market for Eastern and Southern Africa entities | [Treaty](https://www.comesa.int/wp-content/uploads/2019/02/comesa-treaty-revised-20092012_with-zaire_final.pdf) |
 | Commonwealth of Independent States | [Q7779](https://www.wikidata.org/wiki/Q7779) | [No code found] | none | [Treaty](https://www.coe.int/en/web/venice-commission/-/CDL(1994)054-e) |
 | Commonwealth Secretariat | [Q3954348](https://www.wikidata.org/wiki/Q3954348) | [No code found] | Commonwealth of Nations entities | [Treaty](null) |
+| Commonwealth Secretariat Aribtral Tribunal | N/A | [No code found] | Commonwealth of Nations entities | [Treaty](https://production-new-commonwealth-files.s3.eu-west-2.amazonaws.com/s3fs-public/2022-02/Tribunal%20(amended)%20Statute%20adopted%2028%20May%202015.pdf?VersionId=HtqpX3_CbRLaeLjziV6JrsAQv71Z1eba) |
 | Commonwealth Telecommunications Organisation | [Q5153868](https://www.wikidata.org/wiki/Q5153868) | [No code found] | Commonwealth of Nations entities | [Treaty](https://www.austlii.edu.au/cgi-bin/viewdoc/au/other/dfat/treaties/1957/21.html) |
 | Community of Portuguese Language Countries | [Q182500](https://www.wikidata.org/wiki/Q182500) | [No code found] | none | [Treaty](http://www.worldlii.org/int/other/treaties/UNTSer/2003/692.pdf) |
 | Community Plant Variety Office | [Q1501010](https://www.wikidata.org/wiki/Q1501010) | [No code found] | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
