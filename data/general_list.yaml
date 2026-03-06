@@ -209,6 +209,7 @@ European Climate, Infrastructure and Environment Executive Agency:
   Abbreviation_en: CINEA
   Type: EU executive agency
   Source: https://web.archive.org/web/20221222153402/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=LEGISSUM:l10120
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32003R0058
   OpenSanctions_id: '[No code found.]'
   Name_fr: Agence exécutive européenne pour le climat, les infrastructures et l’environnement
   Assessment_against_FATF_definition: Included
@@ -221,6 +222,7 @@ European Education and Culture Executive Agency:
   Name_en: European Education and Culture Executive Agency
   Abbreviation_en: EACEA
   Type: EU executive agency
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32003R0058
   Source: https://web.archive.org/web/20221222153402/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=LEGISSUM:l10120
   OpenSanctions_id: '[No code found.]'
   Name_fr: Agence exécutive européenne pour l’éducation et la culture
@@ -235,6 +237,7 @@ European Health and Digital Executive Agency:
   Name_en: European Health and Digital Executive Agency
   Abbreviation_en: HaDEA
   Type: EU executive agency
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32003R0058
   Source: https://web.archive.org/web/20221222153402/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=LEGISSUM:l10120
   OpenSanctions_id: '[No code found.]'
   Name_fr: Agence exécutive européenne pour la santé et le numérique
@@ -249,6 +252,7 @@ European Innovation Council and Small and Medium-sized Executive Agency:
   Abbreviation_en: EISMEA
   Name_other_en: European Innovation Council and SMEs Executive Agency
   Type: EU executive agency
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32003R0058
   Source: https://web.archive.org/web/20221222153402/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=LEGISSUM:l10120
   OpenSanctions_id: '[No code found.]'
   Name_fr: Agence exécutive pour le Conseil européen de l’innovation et les PME
@@ -262,6 +266,7 @@ European Research Council Executive Agency:
   Name_en: European Research Council Executive Agency
   Abbreviation_en: ERCEA
   Type: EU executive agency
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32003R0058
   Source: https://web.archive.org/web/20221222153402/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=LEGISSUM:l10120
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
@@ -274,6 +279,7 @@ European Research Executive Agency:
   Name_en: European Research Executive Agency
   Abbreviation_en: EREA
   Type: EU executive agency
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32003R0058
   Source: https://web.archive.org/web/20221222153402/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=LEGISSUM:l10120
   OpenSanctions_id: '[No code found.]'
   Name_fr: Agence exécutive européenne pour la recherche
@@ -288,6 +294,7 @@ Agency for Support for BEREC:
   Abbreviation_en: BEREC Office
   Name_other_en: BEREC Office
   Type: EU decentralised agency
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1971
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
@@ -302,6 +309,7 @@ Agency for the Cooperation of Energy Regulators:
   Name_other_en: European Union Agency for the Cooperation of Energy Regulators
   Type: EU decentralised agency
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0942
   OpenSanctions_id: '[No code found.]'
   Name_fr: Agence de l'Union européenne pour la coopération des régulateurs de l’énergie
   Name_es: Agencia de Cooperación de los Reguladores de la Energía
@@ -315,6 +323,7 @@ Community Plant Variety Office:
   Name_en: Community Plant Variety Office
   Abbreviation_en: CPVO
   Type: EU decentralised agency
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:31994R2100
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
   OpenSanctions_id: '[No code found.]'
   Name_fr: Office communautaire des variétés végétales
@@ -329,6 +338,7 @@ EU Authority for Anti-Money Laundering and Countering the Financing of Terrorism
   Abbreviation_en: AMLA
   Name_other_en: Anti-Money Laundering Authority
   Type: EU decentralised agency
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021PC0421
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
   OpenSanctions_id: '[No code found.]'
   Name_fr: Autorité de lutte contre le blanchiment de capitaux
@@ -630,8 +640,8 @@ European Union Agency for Railways:
   Name_es: Agencia Ferroviaria Europea
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
-? European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice
-: Wikidata_code: Q4440501
+European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice:
+  Wikidata_code: Q4440501
   Entity_type: International organisation
   Org_family: EU institutions and bodies
   Country: eu
