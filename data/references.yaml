@@ -112,19 +112,31 @@ R6:
   Reference_publication_date: null
   Reference_element_1:
 Reference_code: R9
-  Reference_text_en:
+  Reference_text_en: Financial Action Task Force Mandate
   Reference_url: https://www.fatf-gafi.org/content/dam/fatf-gafi/images/brochures-other/FATF-Ministerial-Declaration-Mandate.pdf
   Reference_url_archive:
   Reference_title: Financial Action Task Force Mandate
   Reference_author: the Ministers and Representatives of the Financial Action Task Force
   Reference_publisher: FATF
   Reference_type: Paper
-  Reference_doi:
+  Reference_doi: null
   Reference_access_date: 2026-03-01
   Reference_archive_date: null
-  Reference_publication_date: 2019-04-112
+  Reference_publication_date: 2019-04-12
   Reference_element_1: pages 1-4
-
+Reference_code: R10
+  Reference_text_en: Commonwealth Secretariat Act 1966
+  Reference_url: https://www.legislation.gov.uk/ukpga/1966/10
+  Reference_url_archive: null
+  Reference_title: Commonwealth Secretariat Act 1966
+  Reference_author: Parliament of the United Kingdom
+  Reference_publisher: null
+  Reference_type: Legislation
+  Reference_doi: null
+  Reference_access_date: 2026-03-06
+  Reference_archive_date: null
+  Reference_publication_date: 1966-03-10
+  Reference_element_1: section 1
 
 
 
