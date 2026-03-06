@@ -28,8 +28,9 @@
 * OpenSanctions_id
 * Org_family
 * Source
+  * 1
   * 2
-* Treaty
+  * 3
 * Treaty_url
 * Type
 * Wikidata_code
