@@ -11,7 +11,7 @@
 * Central American Integration System entities (2 entities)
 * CGIAR entities (8 entities)
 * Common Market for Eastern and Southern Africa entities (4 entities)
-* Commonwealth of Nations entities (3 entities)
+* Commonwealth of Nations entities (4 entities)
 * Council of Europe entities (4 entities)
 * East African Community (3 entities)
 * Economic and Monetary Community of Central Africa (3 entities)
