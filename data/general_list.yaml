@@ -1994,10 +1994,27 @@ Commonwealth Secretariat:
   Name_en: Commonwealth Secretariat
   Abbreviation_en: null
   Treaty_url: null
+  Immunities_url: https://www.legislation.gov.uk/ukpga/1966/10
   Source: https://www.legislation.gov.uk/ukpga/1966/10
+  Source_2: https://comsec-web-static.s3.eu-west-1.amazonaws.com/s3fs-public/2023-10/2022%20Further%20Revised%20Agreed%20Memorandum%20of%20Governance%20Arrangements%20and%20Annexes.pdf?VersionId=I5lXK5y.q4lMIqaVu144z_Ane.729DJn
   Name_fr: Commonwealth Secretariat
   Name_es: Secretaría de la Mancomunidad de Naciones
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B36
+Commonwealth Secretariat Aribtral Tribunal:
+  Wikidata_code: '[No code found.]'
+  Entity_type: International organisation
+  Org_family: Commonwealth of Nations entities
+  Country: zz
+  Name_en: Commonwealth Secretariat Aribtral Tribunal
+  Abbreviation_en: CSAT
+  Treaty_url: https://production-new-commonwealth-files.s3.eu-west-2.amazonaws.com/s3fs-public/2022-02/Tribunal%20(amended)%20Statute%20adopted%2028%20May%202015.pdf?VersionId=HtqpX3_CbRLaeLjziV6JrsAQv71Z1eba
+  Immunities_url: https://www.legislation.gov.uk/ukpga/2005/20/section/2
+  Source: https://thecommonwealth.org/tribunal
+  OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
 Commonwealth Telecommunications Organisation:
   Wikidata_code: Q5153868
   Entity_type: International organisation
