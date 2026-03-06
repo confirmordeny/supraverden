@@ -62,7 +62,6 @@
 - Arab Women Organization
 - Arctic Council
 - Arms Trade Treaty Secretariat
-- ASEAN Free Trade Area
 - Asia-Pacific Economic Cooperation Secretariat
 - Asia-Pacific Fishery Commission
 - Asia-Pacific Telecommunity
@@ -147,6 +146,7 @@
 - Common Market for Eastern and Southern Africa
 - Commonwealth of Independent States
 - Commonwealth Secretariat
+- Commonwealth Secretariat Aribtral Tribunal
 - Commonwealth Telecommunications Organisation
 - Community of Portuguese Language Countries
 - Community Plant Variety Office
@@ -337,7 +337,6 @@
 - Intergovernmental Authority on Development
 - Intergovernmental Council of Copper Exporting Countries
 - Intergovernmental Organisation for International Carriage by Rail
-- Intergovernmental University Institute of Cooperation
 - International Anti-Corruption Academy
 - International Atomic Energy Agency
 - International Bamboo and Rattan Organization
