@@ -12,6 +12,15 @@
 * Entity_type
 * Headquarters
 * Immunity_url
+* LEI
+  * bic
+  * category
+  * hq
+    * address
+  * jurisdiction
+  * legal
+    * form
+  * status
 * Name
   * en
   * es
@@ -37,4 +46,3 @@
 * Wikidata_code
 * Year
   * established
-* the Area of Freedom, Security and Justice
