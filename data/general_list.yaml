@@ -179,7 +179,6 @@ Unified Patent Court:
   Treaty_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:42013A0620(01)
   Source: https://web.archive.org/web/20230515032632/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:42013A0620(01)
   Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:42013A0620(01)
-  Treaty_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:42013A0620(01)
   OpenSanctions_id: '[No code found.]'
   Name_fr: Juridiction unique des brevets
   Assessment_against_FATF_definition: Included
@@ -334,7 +333,8 @@ EU Authority for Anti-Money Laundering and Countering the Financing of Terrorism
   Entity_type: International organisation
   Org_family: EU institutions and bodies
   Country: eu
-  Name_en: EU Authority for Anti-Money Laundering and Countering the Financing of Terrorism
+  Name_en: EU Authority for Anti-Money Laundering and Countering the Financing of
+    Terrorism
   Abbreviation_en: AMLA
   Name_other_en: Anti-Money Laundering Authority
   Type: EU decentralised agency
@@ -352,7 +352,9 @@ European Foundation for the Improvement of Living and Working Conditions:
   Name_en: European Foundation for the Improvement of Living and Working Conditions
   Name_other_en: Eurofound
   Type: EU decentralised agency
+  Immmunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:01975R1365-20050804
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  Source_2: https://www.irishstatutebook.ie/eli/2016/si/428/made/en/print
   OpenSanctions_id: '[No code found.]'
   Name_fr: Fondation européenne pour l'amélioration des conditions de vie et de travail
   Assessment_against_FATF_definition: Included
@@ -365,12 +367,14 @@ European Union Agency for Criminal Justice Cooperation:
   Name_en: European Union Agency for Criminal Justice Cooperation
   Name_other_en: Eurojust
   Type: EU decentralised agency
+  Treaty_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1727
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
   OpenSanctions_id: '[No code found.]'
   Name_fr: Eurojust
   Name_es: Eurojust
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1727
 European Agency for Safety and Health at Work:
   Wikidata_code: Q571118
   Entity_type: International organisation
@@ -379,12 +383,14 @@ European Agency for Safety and Health at Work:
   Name_en: European Agency for Safety and Health at Work
   Abbreviation_en: EU-OSHA
   Type: EU decentralised agency
+  Treaty_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0126
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
   OpenSanctions_id: '[No code found.]'
   Name_fr: Agence européenne pour la sécurité et la santé au travail
   Name_es: Agencia Europea para la Seguridad y la Salud en el Trabajo
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0126
 European Banking Authority:
   Wikidata_code: Q769548
   Entity_type: International organisation
@@ -640,18 +646,21 @@ European Union Agency for Railways:
   Name_es: Agencia Ferroviaria Europea
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
-European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice:
-  Wikidata_code: Q4440501
+? European Union Agency for the Operational Management of Large-Scale IT Systems in
+  the Area of Freedom, Security and Justice
+: Wikidata_code: Q4440501
   Entity_type: International organisation
   Org_family: EU institutions and bodies
   Country: eu
-  Name_en: European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice
+  Name_en: European Union Agency for the Operational Management of Large-Scale IT
+    Systems in the Area of Freedom, Security and Justice
   Abbreviation_en: eu-LISA
   Name_other_en: EU Agency for the Operational Management of Large-Scale IT Systems
   Type: EU decentralised agency
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
   OpenSanctions_id: '[No code found.]'
-  Name_fr: Agence européenne pour la gestion opérationnelle des systèmes d'information à grande échelle au sein de l'espace de liberté, de sécurité et de justice
+  Name_fr: Agence européenne pour la gestion opérationnelle des systèmes d'information
+    à grande échelle au sein de l'espace de liberté, de sécurité et de justice
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
 European Union Agency for the Space Programme:
@@ -941,6 +950,7 @@ Supply Agency of the European Atomic Energy Community:
   Name_fr: Agence d'approvisionnement d'EURATOM
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:12016A/TXT
 Fusion for Energy Joint Undertaking:
   Wikidata_code: Q5510278
   Entity_type: International organisation
@@ -1115,6 +1125,7 @@ Council of Europe:
   Basis_for_assessment: B3
   Name_es: Consejo de Europa
   Name_fr: Conseil de l'Europe
+  Immunity_url: https://rm.coe.int/1680a1c6b3
 Benelux:
   Wikidata_code: Q13116
   Entity_type: International organisation
@@ -1128,6 +1139,7 @@ Benelux:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.benelux.int/wp-content/uploads/2023/02/BeneluxVerdrag_2008.pdf
 Andean Community:
   Wikidata_code: Q471690
   Entity_type: International organisation
@@ -1141,6 +1153,7 @@ Andean Community:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.comunidadandina.org/StaticFiles/201338102616Acuerdo_Cartagena.pdf
 Court of Justice of the Andean Community:
   Wikidata_code: Q5789480
   Entity_type: International organisation
@@ -1153,6 +1166,7 @@ Court of Justice of the Andean Community:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.comunidadandina.org/StaticFiles/201338102616Acuerdo_Cartagena.pdf
 Union State:
   Wikidata_code: Q166110
   Entity_type: International organisation
@@ -1166,6 +1180,7 @@ Union State:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%202121/v2121.pdf
 Commonwealth of Independent States:
   Wikidata_code: Q7779
   Entity_type: International organisation
@@ -1192,6 +1207,7 @@ Organisation of Eastern Caribbean States:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://caricom.org/documents/legaldocuments/9240-treaty-oecs.htm
 Eastern Caribbean Central Bank:
   Wikidata_code: Q1210260
   Entity_type: International organisation
@@ -1205,6 +1221,7 @@ Eastern Caribbean Central Bank:
   OpenSanctions_id: NK-YDpCtketszPUchCK72QJ9B
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.eccb-centralbank.org/viewPDF/documents/2022-05-27-06-12-30-ECCB-Agreement.pdf
 Organization of American States:
   Wikidata_code: Q123759
   Entity_type: International organisation
@@ -1342,6 +1359,7 @@ Inter-American Development Bank:
   Name_es: Banco Interamericano de Desarrollo
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.oas.org/dil/treaties_C-15_Agreement_Establishing_the_Inter-American_Development_Bank.htm
 Inter-American Court of Human Rights:
   Wikidata_code: Q1547804
   Entity_type: International organisation
@@ -1357,6 +1375,7 @@ Inter-American Court of Human Rights:
   Type: OAS court
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.oas.org/dil/treaties_b-32_american_convention_on_human_rights.pdf
 Inter-American Commission on Human Rights:
   Wikidata_code: Q1589444
   Entity_type: International organisation
@@ -1370,6 +1389,7 @@ Inter-American Commission on Human Rights:
   Name_es: Comisión Interamericana de Derechos Humanos
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.oas.org/dil/treaties_b-32_american_convention_on_human_rights.pdf
 Inter-American Defense Board:
   Wikidata_code: Q1665759
   Entity_type: International organisation
@@ -1484,6 +1504,7 @@ Mercosur Parliament:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.parlamentomercosur.org/innovaportal/file/7308/1/protocolo_es.pdf
 Permanent Review Tribunal of Mercosur:
   Wikidata_code: Q2452542
   Entity_type: International organisation
@@ -1492,6 +1513,7 @@ Permanent Review Tribunal of Mercosur:
   Name_en: Permanent Review Tribunal of Mercosur
   Name_es: null
   Name_other_en: null
+  Immunities_url: https://www.tprmercosur.org/es/docum/adm/DEC_01_05_es_Acuerdo_Sede_TPR.pdf
   Treaty_url: https://opil.ouplaw.com/view/10.1093/law-oxio/e148.013.1/law-oxio-e148-regGroup-1-law-oxio-e148-source.pdf
   Source: https://www.europarl.europa.eu/RegData/etudes/IDAN/2022/653652/EXPO_IDA(2022)653652_EN.pdf
   Name_fr: null
@@ -1523,6 +1545,7 @@ Africa Centres for Disease Control and Prevention:
   Name_fr: Centre africain pour la surveillance et la prévention des maladies
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://web.archive.org/web/20250220005838/https://au.int/sites/default/files/treaties/42517-treaty-EN_Revised_Statute_Africa_CDC.pdf
 African Civil Aviation Commission:
   Wikidata_code: Q88402135
   Entity_type: International organisation
@@ -1555,6 +1578,7 @@ Arctic Council:
   Country: zz
   Name_en: Arctic Council
   Abbreviation_en: null
+  Immunity_url: https://oaarchive.arctic-council.org/server/api/core/bitstreams/946cbad7-8968-4d72-b55b-0544267106f8/content
   Treaty_url: https://oaarchive.arctic-council.org/server/api/core/bitstreams/bdc15f51-fb91-4e0d-9037-3e8618e7b98f/content
   Name_fr: Conseil de l'Arctique
   Name_es: Consejo Ártico
@@ -1574,6 +1598,7 @@ Eurasian Economic Union:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.wto.org/english/thewto_e/acc_e/kaz_e/wtacckaz85_leg_1.pdf
 Organization of Arab Petroleum Exporting Countries:
   Wikidata_code: Q1052077
   Entity_type: International organisation
@@ -1587,6 +1612,7 @@ Organization of Arab Petroleum Exporting Countries:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%20681/volume-681-I-9707-English.pdf
 Organization of the Petroleum Exporting Countries:
   Wikidata_code: Q7795
   Entity_type: International organisation
@@ -1639,6 +1665,7 @@ International Hydrographic Organisation:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://iho.int/uploads/user/pubs/misc/M1_Separatedocs/Convention_new_EN.pdf
 European Free Trade Association:
   Wikidata_code: Q166546
   Entity_type: International organisation
@@ -1665,6 +1692,7 @@ European Centre for Medium-Range Weather Forecasts:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.ecmwf.int/sites/default/files/amended_convention_protocol_privileges_en.pdf
 International Grains Council:
   Wikidata_code: Q6050768
   Entity_type: International organisation
@@ -1678,6 +1706,7 @@ International Grains Council:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://treaties.un.org/doc/Treaties/1995/07/19950701%2008-42%20PM/Ch_XIX_41_a_bp.pdf
 International Coffee Organisation:
   Wikidata_code: Q48192
   Entity_type: International organisation
@@ -1704,6 +1733,7 @@ International Sugar Organisation:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://treaties.un.org/doc/Treaties/1993/01/19930120%2004-38%20AM/Ch_XIX_37p.pdf
 International Cocoa Organization:
   Wikidata_code: Q1667326
   Entity_type: International organisation
@@ -1717,6 +1747,7 @@ International Cocoa Organization:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.icco.org/wp-content/uploads/2019/06/ICA-1986-English.pdf
 International Whaling Commission:
   Wikidata_code: Q1053889
   Entity_type: International organisation
@@ -1743,6 +1774,7 @@ International Rubber Study Group:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.rubberstudy.org/storage/uploads/contentfile/18902/yVf21ESEis.pdf
 International Lead and Zinc Study Group:
   Wikidata_code: Q12131043
   Entity_type: International organisation
@@ -1766,6 +1798,7 @@ International Telecommunications Satellite Organisation:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://itso.int/wp-content/uploads/2018/01/ITSO-Agreement-Booklet-new-version-FINAL-EnFrEs.pdf
 Oslo and Paris Commissions:
   Wikidata_code: Q125870138
   Entity_type: International organisation
@@ -1799,6 +1832,7 @@ International Oil Pollution Compensation Fund 1992:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201956/v1956.pdf
 European Telecommunications Satellite Organization:
   Wikidata_code: Q47537350
   Entity_type: International organisation
@@ -1811,6 +1845,7 @@ European Telecommunications Satellite Organization:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201519/volume-1519-I-26342-English.pdf
 North-East Atlantic Fisheries Commission:
   Wikidata_code: Q15106130
   Entity_type: International organisation
@@ -1835,6 +1870,7 @@ International Mobile Satellite Organization:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://imso.org/wp-content/uploads/2025/03/IMSO-C-1976-A-5-Resolution-A.529-E-F-S-R-1.pdf
 North Atlantic Salmon Conservation Organization:
   Wikidata_code: Q7053997
   Entity_type: International organisation
@@ -1847,6 +1883,7 @@ North Atlantic Salmon Conservation Organization:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://nasco.int/wp-content/uploads/2020/05/NASCO_Handbook.pdf
 European Organization for Astronomical Research in the Southern Hemisphere:
   Wikidata_code: Q151991
   Entity_type: International organisation
@@ -1874,6 +1911,7 @@ European Space Agency:
   OpenSanctions_id: bic-ESAZFRPP
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://download.esa.int/docs/LEX-L/ESA-Ratification-acts/United_Kingdom_(28_Mar_1978).pdf
 European Forest Institute:
   Wikidata_code: Q580400
   Entity_type: International organisation
@@ -1887,6 +1925,7 @@ European Forest Institute:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://efi.int/sites/default/files/files/members/EFI_convention_final_SIW.pdf
 Global Combat Air Programme International Government Organisation:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -1898,6 +1937,7 @@ Global Combat Air Programme International Government Organisation:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://assets.publishing.service.gov.uk/media/6762c109e6ff7c8a1fde9ab4/TS_98.2024_Convention_Establishment_GCAP_International_Government_Organisation.pdf
 Square Kilometre Array Observatory:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -1909,6 +1949,7 @@ Square Kilometre Array Observatory:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://assets.publishing.service.gov.uk/media/5d3197f3ed915d2fe2d7e1bc/MS_27.2019_SKAO_Convention_Square_Kilometre_Array_Telescope.pdf
 International Criminal Police Organization:
   Wikidata_code: Q8475
   Entity_type: International organisation
@@ -1930,11 +1971,13 @@ European Committee for Prevention of Torture:
   Name_en: European Committee for Prevention of Torture
   Abbreviation_en: null
   Treaty_url: https://rm.coe.int/16806dbaa3
-  Name_fr: comité européen pour la prévention de la torture et des peines ou traitements inhumains ou dégradants
+  Name_fr: comité européen pour la prévention de la torture et des peines ou traitements
+    inhumains ou dégradants
   Name_es: Comité Europeo para la prevención de la tortura
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://rm.coe.int/16806dbaa3
 Common Fund for Commodities:
   Wikidata_code: Q604488
   Entity_type: International organisation
@@ -1946,6 +1989,7 @@ Common Fund for Commodities:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://treaties.un.org/pages/ViewDetailsIII.aspx?src=TREATY&mtdsg_no=XIX-21&chapter=19&Temp=mtdsg3&clang=_en
 African Development Bank:
   Wikidata_code: Q340195
   Entity_type: International organisation
@@ -1959,6 +2003,7 @@ African Development Bank:
   OpenSanctions_id: bic-AFDBKEN1
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.afdb.org/fileadmin/uploads/afdb/Documents/Legal-Documents/Agreement_establishing_the_African_development_bank_-_2016_edition.pdf
 African Development Fund:
   Wikidata_code: Q100411453
   Entity_type: International organisation
@@ -1970,6 +2015,7 @@ African Development Fund:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.afdb.org/en/documents/agreement-establishing-african-development-fund-2016-edition
 Asian Development Bank:
   Wikidata_code: Q188822
   Entity_type: International organisation
@@ -1996,6 +2042,7 @@ Asian Infrastructure Investment Bank:
   OpenSanctions_id: NK-eqFLKN9GAC977pmwXMRPWk
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.aiib.org/en/about-aiib/basic-documents/_download/articles-of-agreement/basic_document_english-bank_articles_of_agreement.pdf
 Commonwealth Secretariat:
   Wikidata_code: Q3954348
   Entity_type: International organisation
@@ -2025,6 +2072,7 @@ Commonwealth Secretariat Aribtral Tribunal:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://production-new-commonwealth-files.s3.eu-west-2.amazonaws.com/s3fs-public/2022-02/Tribunal%20(amended)%20Statute%20adopted%2028%20May%202015.pdf?VersionId=HtqpX3_CbRLaeLjziV6JrsAQv71Z1eba
 Commonwealth Telecommunications Organisation:
   Wikidata_code: Q5153868
   Entity_type: International organisation
@@ -2051,6 +2099,7 @@ CAB International:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.cabi.org/wp-content/uploads/PDFs/AboutCABI/CABI-Agreement-2016.pdf
 European Organisation for the Safety of Air Navigation:
   Wikidata_code: Q663492
   Entity_type: International organisation
@@ -2077,6 +2126,7 @@ European Bank for Reconstruction and Development:
   OpenSanctions_id: NK-Yf87d55xsW3Hm6BAZP6az7
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.ebrd.com/content/dam/ebrd_dxp/assets/pdfs/institutional-documents/basic-documents-of-the-ebrd-july-2025-english.pdf
 Caribbean Development Bank:
   Wikidata_code: Q3772571
   Entity_type: International organisation
@@ -2090,6 +2140,7 @@ Caribbean Development Bank:
   OpenSanctions_id: NK-apUiKegLuDcYubFJQ3rjyg
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://treaties.un.org/doc/Treaties/1970/01/19700126%2006-49%20AM/Ch_X_06p.pdf
 Cooperation Council for the Arab States of the Gulf:
   Wikidata_code: Q217172
   Entity_type: International organisation
@@ -2127,10 +2178,12 @@ Organization of Ibero-American States:
   Abbreviation_en: null
   Treaty_url: https://oei.int/wp-content/uploads/1985/12/reglamento-de-la-oei.pdf
   Name_fr: Organisation des États Ibéro-américains
-  Name_es: Organización de Estados Iberoamericanos para la Educación, la Ciencia y la Cultura
+  Name_es: Organización de Estados Iberoamericanos para la Educación, la Ciencia y
+    la Cultura
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://oei.int/wp-content/uploads/1985/12/reglamento-de-la-oei.pdf
 Organization of the Black Sea Economic Cooperation:
   Wikidata_code: Q380340
   Entity_type: International organisation
@@ -2144,6 +2197,7 @@ Organization of the Black Sea Economic Cooperation:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.bsec-organization.org/UploadedDocuments/StatutoryDocumentsAgreements/CHARTERFourthEdition7July.pdf
 Pacific Alliance:
   Wikidata_code: Q7122288
   Entity_type: International organisation
@@ -2184,6 +2238,7 @@ Union of South American Nations:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.icwa.in/WriteReadData/L45218/1496229018.pdf
 Pacific Islands Forum:
   Wikidata_code: Q757276
   Entity_type: International organisation
@@ -2211,6 +2266,7 @@ East African Community:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://investmentpolicy.unctad.org/international-investment-agreements/treaty-files/2487/download
 Economic Community of Central African States:
   Wikidata_code: Q189966
   Entity_type: International organisation
@@ -2224,6 +2280,7 @@ Economic Community of Central African States:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://investmentpolicy.unctad.org/international-investment-agreements/treaty-files/2401/download
 Economic Community of West African States:
   Wikidata_code: Q193272
   Entity_type: International organisation
@@ -2237,6 +2294,7 @@ Economic Community of West African States:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.ecowas.int/wp-content/uploads/2022/06/THE-1975-TREATY-OF-ECOWAS.pdf
 Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation:
   Wikidata_code: Q795985
   Entity_type: International organisation
@@ -2246,7 +2304,8 @@ Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation:
   Abbreviation_en: BIMSTEC
   Treaty_url: https://bimstec.org/images/content_page_pdf/1696679710_BIMSTEC%20Charter.pdf
   Name_fr: Bay of Bengal Initiative for MultiSectoral Technical and Economic Cooperation
-  Name_es: Iniciativa de la Bahía de Bengala para la Cooperación Técnica y Económica Multisectorial
+  Name_es: Iniciativa de la Bahía de Bengala para la Cooperación Técnica y Económica
+    Multisectorial
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
@@ -2276,6 +2335,7 @@ Council of Europe Development Bank:
   OpenSanctions_id: NK-A2BqKxWN4imUKSzjyjjqWv
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://coebank.org/documents/51/CEB_Articles_of_Agreement_August_2023.pdf
 World Customs Organisation:
   Wikidata_code: Q605326
   Entity_type: International organisation
@@ -2289,6 +2349,7 @@ World Customs Organisation:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.wcoomd.org/-/media/wco/public/global/pdf/about-us/legal-instruments/conventions-and-agreements/ccc/convccc.pdf?la=en
 Organisation for Economic Co-operation and Development:
   Wikidata_code: Q41550
   Entity_type: International organisation
@@ -2328,6 +2389,7 @@ European Organisation for the Exploitation of Meteorological Satellites:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://docs.pca-cpa.org/2016/01/Convention-for-the-Establishment-of-a-European-Organization-for-the-Exploitation-of-Meteorological-Satellites-EUMETSAT.pdf
 International Copper Study Group:
   Wikidata_code: Q17084551
   Entity_type: International organisation
@@ -2378,6 +2440,7 @@ International Olive Council:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A22016A1028%2801%29
 Asian and Pacific Coconut Community:
   Wikidata_code: Q16962216
   Entity_type: International organisation
@@ -2413,6 +2476,7 @@ Permanent Court of Arbitration:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://docs.pca-cpa.org/2016/01/1899-Convention-for-the-Pacific-Settlement-of-International-Disputes.pdf
 Nordic Council:
   Wikidata_code: Q146165
   Entity_type: International organisation
@@ -2464,6 +2528,7 @@ African Court of Justice and Human Rights:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.peaceau.org/uploads/protocol-statute-african-court-justice-and-human-rights-en.pdf
 International Bureau of Weights and Measures:
   Wikidata_code: Q229478
   Entity_type: International organisation
@@ -2477,6 +2542,7 @@ International Bureau of Weights and Measures:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.bipm.org/documents/20126/44107685/metre-convention.pdf/cd9c9e57-0cc6-4cda-2930-ec1d7c853743?version=1.9&t=1686910612244&download=true
 International Commission on Civil Status:
   Wikidata_code: Q677893
   Entity_type: International organisation
@@ -2503,6 +2569,7 @@ International Vaccine Institute:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.ivi.int/wp-content/uploads/2022/03/IVI_Est_Agreement__Constitution_amended-_English.pdf
 Pacific Aviation Safety Office:
   Wikidata_code: Q16962397
   Entity_type: International organisation
@@ -2514,6 +2581,7 @@ Pacific Aviation Safety Office:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://forumsec.org/sites/default/files/2024-03/Pacific-Islands-Civil-Aviation-Safety-and-Security-Treaty-PICASST-1.pdf
 International Institute for the Unification of Private Law:
   Wikidata_code: Q1192641
   Entity_type: International organisation
@@ -2527,18 +2595,22 @@ International Institute for the Unification of Private Law:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.unidroit.org/wp-content/uploads/2021/05/statute.pdf
 Regional Cooperation Agreement on Combating Piracy and Armed Robbery against Ships in Asia:
   Wikidata_code: Q7309031
   Entity_type: International organisation
   Org_family: none
   Country: zz
-  Name_en: Regional Cooperation Agreement on Combating Piracy and Armed Robbery against Ships in Asia
+  Name_en: Regional Cooperation Agreement on Combating Piracy and Armed Robbery against
+    Ships in Asia
   Abbreviation_en: null
   Treaty_url: https://www.mofa.go.jp/mofaj/gaiko/kaiyo/pdfs/kyotei_s.pdf
-  Name_fr: Accord de coopération régionale sur la lutte contre la piraterie et les vols à main armée contre les navires en Asie
+  Name_fr: Accord de coopération régionale sur la lutte contre la piraterie et les
+    vols à main armée contre les navires en Asie
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.mofa.go.jp/mofaj/gaiko/kaiyo/pdfs/kyotei_s.pdf
 Intergovernmental Council of Copper Exporting Countries:
   Wikidata_code: Q1023742
   Entity_type: International organisation
@@ -2583,6 +2655,7 @@ International Pacific Halibut Commission:
   Country: zz
   Name_en: International Pacific Halibut Commission
   Abbreviation_en: null
+  Immunity_url: https://www.presidency.ucsb.edu/documents/executive-order-11059-designating-public-international-organizations-entitled-enjoy
   Treaty_url: https://www.iphc.int/uploads/pdf/basic-texts/iphc-1979-pacific-halibut-convention.pdf
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
@@ -2617,6 +2690,7 @@ Southern African Customs Union:
   Country: zz
   Name_en: Southern African Customs Union
   Abbreviation_en: SACU
+  Immunity_url: https://www.sacu.int/uploads/documents/6a7ae39b41cba945b083e93a2e1a103d7cee629c.pdf
   Treaty_url: https://www.sacu.int/uploads/documents/6a7ae39b41cba945b083e93a2e1a103d7cee629c.pdf
   Name_fr: Union douanière d'Afrique australe
   Name_es: Unión Aduanera de África Austral
@@ -2629,8 +2703,9 @@ International Commission for the Protection of the Danube River:
   Org_family: none
   Country: zz
   Name_en: International Commission for the Protection of the Danube River
-  Abbreviation_en: null
+  Abbreviation_en: ICPDR
   Notes: Not to be confused with the Danube Commission.
+  Immunity_url: https://www.icpdr.org/sites/default/files/FINAL%20-%20Seat%20Agreement%20-%20English%20-%20ICPDR%20vs%20AT.pdf
   Treaty_url: https://www.icpdr.org/sites/default/files/DRPC%20English%20ver.pdf
   Name_es: Comisión Internacional para la Protección del Río Danubio
   OpenSanctions_id: '[No code found.]'
@@ -2643,7 +2718,9 @@ Danube Commission:
   Country: zz
   Name_en: Danube Commission
   Abbreviation_en: null
-  Notes: Not to be confused with the International Commission for the Protection of the Danube River.
+  Notes: Not to be confused with the International Commission for the Protection of
+    the Danube River.
+  Immunity_url: https://www.danubecommission.org/uploads/doc/convention-en.pdf
   Treaty_url: https://www.danubecommission.org/uploads/doc/convention-en.pdf
   Name_fr: Commission du Danube
   OpenSanctions_id: '[No code found.]'
@@ -2656,6 +2733,7 @@ International Boundary and Water Commission:
   Country: zz
   Name_en: International Boundary and Water Commission
   Abbreviation_en: IBWC
+  Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%203/v3.pdf
   Treaty_url: https://www.ibwc.gov/wp-content/uploads/2022/11/TREATY_OF_1889.pdf
   Name_es: Comisión Internacional de Límites y Aguas
   OpenSanctions_id: '[No code found.]'
@@ -2668,6 +2746,7 @@ Great Lakes Fishery Commission:
   Country: zz
   Name_en: Great Lakes Fishery Commission
   Abbreviation_en: null
+  Immunity_url: https://www.presidency.ucsb.edu/documents/executive-order-11059-designating-public-international-organizations-entitled-enjoy
   Treaty_url: https://laws-lois.justice.gc.ca/eng/acts/F-17/FullText.html
   Name_fr: Commission des pêcheries des Grands Lacs
   OpenSanctions_id: '[No code found.]'
@@ -2686,6 +2765,7 @@ European Patent Organisation:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://link.epo.org/web/EPC_17th_edition_2020_en.pdf
 Inter-American Investment Corporation:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -2697,6 +2777,7 @@ Inter-American Investment Corporation:
   OpenSanctions_id: InNK-ad2outEGmesjZo22gqUzci
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://assets.publishing.service.gov.uk/media/640b3cdc8fa8f5560820da5b/TS_11.2023_Agreement_Establishing_InterAmerican_Investment_Corporation.pdf
 Organisation of Islamic Cooperation:
   Wikidata_code: Q47543
   Entity_type: International organisation
@@ -2711,6 +2792,7 @@ Organisation of Islamic Cooperation:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.oic-oci.org/upload/documents/charter/en/oic_charter_2018_en.pdf
 International Investment Bank:
   Wikidata_code: Q1824234
   Entity_type: International organisation
@@ -2737,6 +2819,7 @@ Indian Ocean Commission:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.assemblee-nationale.fr/dyn/16/textes/l16b0150_accord-international.pdf
 Central American Integration System:
   Wikidata_code: Q190028
   Entity_type: International organisation
@@ -2763,6 +2846,7 @@ Multilateral Investment Guarantee Agency:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B12
+  Immunity_url: https://www.miga.org/sites/default/files/archive/Documents/MIGA%20Convention%20(April%202018).pdf
 Pacific Tourism Organisation:
   Wikidata_code: Q7568120
   Entity_type: International organisation
@@ -2774,6 +2858,7 @@ Pacific Tourism Organisation:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: http://www.paclii.org/pits/en/treaty_database/1999/1.html
 Amazon Cooperation Treaty Organization:
   Wikidata_code: Q602399
   Entity_type: International organisation
@@ -2787,6 +2872,7 @@ Amazon Cooperation Treaty Organization:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: http://www.paclii.org/pits/en/treaty_database/1999/1.html
 Nordic Investment Bank:
   Wikidata_code: Q2020649
   Entity_type: International organisation
@@ -2800,6 +2886,7 @@ Nordic Investment Bank:
   OpenSanctions_id: NK-4cYrxXVbBphW2KPazgEuLt
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://web.archive.org/web/20240613035236/https://www.jus.uio.no/english/services/library/treaties/09/9-02/nordic-investment-bank.html
 Niger Basin Authority:
   Wikidata_code: Q1162546
   Entity_type: International organisation
@@ -2813,6 +2900,7 @@ Niger Basin Authority:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: http://gis.nacse.org/tfdd/tfdddocs/418ENG.pdf
 Organization of Turkic States:
   Wikidata_code: Q596850
   Entity_type: International organisation
@@ -2839,6 +2927,7 @@ Common Market for Eastern and Southern Africa:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.comesa.int/wp-content/uploads/2019/02/comesa-treaty-revised-20092012_with-zaire_final.pdf
 COMESA Court of Justice:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -2850,6 +2939,7 @@ COMESA Court of Justice:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.comesa.int/wp-content/uploads/2019/02/comesa-treaty-revised-20092012_with-zaire_final.pdf
 Community of Portuguese Language Countries:
   Wikidata_code: Q182500
   Entity_type: International organisation
@@ -2890,6 +2980,7 @@ Agency for Aerial Navigation Safety in Africa and Madagascar:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.asecna.aero/images/Docs/Publications/Convention/Convention_ASECNA_Version_Anglaise.pdf
 Shanghai Cooperation Organisation:
   Wikidata_code: Q485207
   Entity_type: International organisation
@@ -2903,6 +2994,7 @@ Shanghai Cooperation Organisation:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.mea.gov.in/Portal/LegalTreatiesDoc/000M3130.pdf
 Northwest Atlantic Fisheries Organization:
   Wikidata_code: Q580933
   Entity_type: International organisation
@@ -2915,6 +3007,7 @@ Northwest Atlantic Fisheries Organization:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.nafo.int/Portals/0/PDFs/key-publications/NAFOConvention.pdf
 Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organisation:
   Wikidata_code: Q15211422
   Entity_type: International organisation
@@ -2941,6 +3034,7 @@ Association of Caribbean States:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.acs-aec.org/sites/default/files/acs_convention_eng.doc
 Dutch Language Union:
   Wikidata_code: Q152299
   Entity_type: International organisation
@@ -2954,6 +3048,7 @@ Dutch Language Union:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://taalunie.org/feeds/download/taalunieverdrag-1980-en-616e8.pdf/Taalunieverdrag%20(1980,%20Engels)/original
 Science and Technology Center in Ukraine:
   Wikidata_code: Q7433636
   Entity_type: International organisation
@@ -2965,6 +3060,7 @@ Science and Technology Center in Ukraine:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.evropskyvyzkum.cz/cs/storage/ddd411519c219953947dede0914eee69f0c355c6?uid=ddd411519c219953947dede0914eee69f0c355c6
 Arab Maghreb Union:
   Wikidata_code: Q370862
   Entity_type: International organisation
@@ -3001,6 +3097,7 @@ Commission for the Conservation of Southern Bluefin Tuna:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201819/volume-1819-I-31155-English.pdf
 North East Atlantic Fisheries Commission:
   Wikidata_code: Q15106130
   Entity_type: International organisation
@@ -3038,6 +3135,7 @@ South East Atlantic Fisheries Organisation:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: http://www.seafo.org/About/Convention-Text
 Baltic Marine Environment Protection Commission:
   Wikidata_code: Q1563503
   Entity_type: International organisation
@@ -3077,6 +3175,7 @@ New Development Bank:
   OpenSanctions_id: NK-j8pXXsvjU3keXt5gUVVxE
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.ndb.int/wp-content/uploads/2022/11/Agreement-on-the-New-Development-Bank.pdf
 North Pacific Marine Science Organization:
   Wikidata_code: Q21015877
   Entity_type: International organisation
@@ -3088,6 +3187,7 @@ North Pacific Marine Science Organization:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://meetings.pices.int/about/convention
 Pacific Community:
   Wikidata_code: Q871511
   Entity_type: International organisation
@@ -3101,6 +3201,7 @@ Pacific Community:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.austlii.edu.au/au/other/dfat/treaties/1948/15.html
 Nigeria–São Tomé and Príncipe Joint Development Authority:
   Wikidata_code: Q7033072
   Entity_type: International organisation
@@ -3112,6 +3213,7 @@ Nigeria–São Tomé and Príncipe Joint Development Authority:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://web.archive.org/web/20100202064636/http://www.nigeriasaotomejda.com/PDFs/treaty.pdf
 South Pacific Regional Fisheries Management Organisation:
   Wikidata_code: Q21663305
   Entity_type: International organisation
@@ -3123,6 +3225,7 @@ South Pacific Regional Fisheries Management Organisation:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.austlii.edu.au/au/other/dfat/treaties/ATS/2012/28.html
 Commission for Environmental Cooperation:
   Wikidata_code: Q2986468
   Entity_type: International organisation
@@ -3136,6 +3239,7 @@ Commission for Environmental Cooperation:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://ustr.gov/sites/default/files/naaec.pdf
 Inter-American Tropical Tuna Commission:
   Wikidata_code: Q3153044
   Entity_type: International organisation
@@ -3143,6 +3247,7 @@ Inter-American Tropical Tuna Commission:
   Country: zz
   Name_en: Inter-American Tropical Tuna Commission
   Abbreviation_en: null
+  Immunity_url: https://www.presidency.ucsb.edu/documents/executive-order-11059-designating-public-international-organizations-entitled-enjoy
   Treaty_url: https://web.archive.org/web/20160513131225/http://www.iattc.org/PDFFiles/IATTC_convention_1949.pdf
   Name_fr: Inter-American Tropical Tuna Commission
   Name_es: Comisión Interamericana del Atún Tropical
@@ -3158,7 +3263,8 @@ Intergovernmental Organisation for International Carriage by Rail:
   Abbreviation_en: null
   Treaty_url: https://otif.org/fileadmin/user_upload/otif_verlinkte_files/07_veroeff/01_COTIF_80/cotif-1980-e.pdf
   Name_fr: Organisation intergouvernementale pour les transports internationaux ferroviaires
-  Name_es: Organización Intergubernamental para los Transportes Internacionales por Ferrocarril
+  Name_es: Organización Intergubernamental para los Transportes Internacionales por
+    Ferrocarril
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
@@ -3238,6 +3344,7 @@ International Renewable Energy Agency:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://assets.publishing.service.gov.uk/media/5a807aa540f0b62302693c04/TS_8.2015_Cm_9062_WEB_ACC.pdf
 Agreement on the Conservation of Albatrosses and Petrels:
   Wikidata_code: Q331541
   Entity_type: International organisation
@@ -3263,6 +3370,7 @@ Comprehensive Nuclear-Test-Ban Treaty Organisation:
   Basis_for_assessment: B22
   Name_fr: Organisation du traité d'interdiction complète des essais nucléaires
   Name_es: Organización del Tratado de Prohibición Completa de los Ensayos Nucleares
+  Immunity_url: https://www.ctbto.org/sites/default/files/2023-10/2022_treaty_booklet_E.pdf
 Energy Community:
   Wikidata_code: Q2989312
   Entity_type: International organisation
@@ -3300,6 +3408,7 @@ International Cospas-Sarsat Programme:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201518/v1518.pdf
 International Centre for Genetic Engineering and Biotechnology:
   Wikidata_code: Q6049095
   Entity_type: International organisation
@@ -3311,6 +3420,7 @@ International Centre for Genetic Engineering and Biotechnology:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://treaties.un.org/doc/source/docs/ICGEB_BG.3_21-E.pdf
 Mano River Union:
   Wikidata_code: Q1505172
   Entity_type: International organisation
@@ -3324,6 +3434,7 @@ Mano River Union:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://wits.worldbank.org/GPTAD/PDF/archive/MRU.pdf
 Association of Iron Ore Exporting Countries:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -3360,6 +3471,7 @@ International Anti-Corruption Academy:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.iaca.int/images/PDF/IACA_Agreement_ENGLISH.pdf
 Conseil de l'Entente:
   Wikidata_code: Q945574
   Entity_type: International organisation
@@ -3373,6 +3485,7 @@ Conseil de l'Entente:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: http://www.conseildelentente.org/images/pdf/charte/charte_du_conseil_de_lentente.pdf
 Desert Locust Control Organisation for Eastern Africa:
   Wikidata_code: Q30596094
   Entity_type: International organisation
@@ -3384,6 +3497,7 @@ Desert Locust Control Organisation for Eastern Africa:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.fao.org/4/50641E/50641E05.htm
 International Science and Technology Center:
   Wikidata_code: Q13415305
   Entity_type: International organisation
@@ -3396,6 +3510,7 @@ International Science and Technology Center:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:22017A0214(01)
 International Commission for the Conservation of Atlantic Tunas:
   Wikidata_code: Q840267
   Entity_type: International organisation
@@ -3421,6 +3536,7 @@ Economic Community of the Great Lakes Countries:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800f81f4&clang=_en
 International Boundary Commission:
   Wikidata_code: Q29467091
   Entity_type: International organisation
@@ -3444,6 +3560,7 @@ African Trade and Investment Development Insurance:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.atidi.africa/wp-content/uploads/2023/10/ATI-Treaty-2022-001-Certified-091023-Stamped.pdf
 Inter-American Institute for Global Change Research:
   Wikidata_code: Q6044567
   Entity_type: International organisation
@@ -3455,6 +3572,7 @@ Inter-American Institute for Global Change Research:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.iai.int/pdf/en/agreement_establishing_the_IAI_en.pdf
 European Molecular Biology Laboratory:
   Wikidata_code: Q695267
   Entity_type: International organisation
@@ -3468,6 +3586,7 @@ European Molecular Biology Laboratory:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.embl.org/documents/wp-content/uploads/2020/05/establishingEMBL.pdf
 International Centre for Settlement of Investment Disputes:
   Wikidata_code: Q899770
   Entity_type: International organisation
@@ -3481,6 +3600,7 @@ International Centre for Settlement of Investment Disputes:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B13
+  Immunity_url: https://icsid.worldbank.org/sites/default/files/documents/ICSID_Convention.pdf
 Center for International Forestry Research and World Agroforestry:
   Wikidata_code: Q121461382
   Entity_type: International organisation
@@ -3492,6 +3612,7 @@ Center for International Forestry Research and World Agroforestry:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.austlii.edu.au/cgi-bin/sinodisp/au/other/dfat/treaties/ATS/1993/13.html?stem=0&synonyms=0&query=CIFOR%20Agreement
 Africa Rice Center:
   Wikidata_code: Q383924
   Entity_type: International organisation
@@ -3508,6 +3629,7 @@ Africa Rice Center:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://faolex.fao.org/docs/pdf/mul215505.pdf
 International Livestock Research Institute:
   Wikidata_code: Q1666743
   Entity_type: International organisation
@@ -3534,6 +3656,7 @@ Association of Natural Rubber Producing Countries:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://treaties.fcdo.gov.uk/data/Library2/pdf/1993-TS0036.pdf
 West African Economic and Monetary Union:
   Wikidata_code: Q1929699
   Entity_type: International organisation
@@ -3547,6 +3670,7 @@ West African Economic and Monetary Union:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.bceao.int/sites/default/files/inline-files/TraiteUMOA2010_tr_Eng.pdf
 African Regional Intellectual Property Organization:
   Wikidata_code: Q384434
   Entity_type: International organisation
@@ -3574,6 +3698,7 @@ African Intellectual Property organisation:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.wipo.int/wipolex/en/text/582620
 Convention for the Conservation of Antarctic Marine Living Resources:
   Wikidata_code: Q97382426
   Entity_type: International organisation
@@ -3585,6 +3710,7 @@ Convention for the Conservation of Antarctic Marine Living Resources:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.ccamlr.org/en/organisation/camlr-convention-text
 Residual Special Court for Sierra Leone:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -3596,6 +3722,7 @@ Residual Special Court for Sierra Leone:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://rscsl.org/the-rscsl/
 GUAM Organization for Democracy and Economic Development:
   Wikidata_code: Q326816
   Entity_type: International organisation
@@ -3609,6 +3736,7 @@ GUAM Organization for Democracy and Economic Development:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://guam-organization.org/en/charter-of-organization-for-democracy-and-economic-development-guam/
 SAARC Development Fund:
   Wikidata_code: Q120512563
   Entity_type: International organisation
@@ -3632,6 +3760,7 @@ Asian Productivity Organisation:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/35/11124
 Caribbean Meteorological Organisation:
   Wikidata_code: Q5039400
   Entity_type: International organisation
@@ -3643,6 +3772,7 @@ Caribbean Meteorological Organisation:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: http://www.cmo.org.tt/docs/AGREEMENT.pdf
 Financial Fund for the Development of the River Plate Basin:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -3654,6 +3784,7 @@ Financial Fund for the Development of the River Plate Basin:
   OpenSanctions_id: bic-FOPLPYPA
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.fonplata.org/sites/default/files/paginas-fonplata/archivos/EN%20-%20Constitutive%20Agreement%20%28Update%202018%29.pdf
 International Committee of Military Medicine:
   Wikidata_code: Q1257637
   Entity_type: International organisation
@@ -3679,6 +3810,7 @@ International Council for Exploration of the Sea:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.ices.dk/about-ICES/who-we-are/Documents/ICES_Convention_1964.pdf
 International Development Law Organization:
   Wikidata_code: Q11977461
   Entity_type: International organisation
@@ -3692,6 +3824,7 @@ International Development Law Organization:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.idlo.int/sites/default/files/documents/idlo_establishment_agreement_2019.pdf
 International Commission on Missing Persons:
   Wikidata_code: Q676812
   Entity_type: International organisation
@@ -3704,6 +3837,7 @@ International Commission on Missing Persons:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://assets.publishing.service.gov.uk/media/5a80296de5274a2e87db836f/TS_9.2015_Cm_9063_WEB_ACC.pdf
 International Institute of Refrigeration:
   Wikidata_code: Q3152339
   Entity_type: International organisation
@@ -3753,6 +3887,7 @@ Group of Latin American and Caribbean Sugar Exporting Countries:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.bacn.gov.py/leyes-paraguayas/907/ley-n-1321-aprueba-el-estatuto-del-grupo-de-paises-latinoamericanos-y-del-caribe-exportadores-de-azucar-geplacea
 Inter-American Center for Tax Administrations:
   Wikidata_code: Q2585529
   Entity_type: International organisation
@@ -3815,6 +3950,7 @@ International Tropical Timber Organisation:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.itto.int/direct/topics/topics_pdf_download/topics_id=3363&no=1&disp=inline
 Lake Chad Basin Commission:
   Wikidata_code: Q2986599
   Entity_type: International organisation
@@ -3827,6 +3963,7 @@ Lake Chad Basin Commission:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://faolex.fao.org/docs/pdf/cmr1076.pdf
 International Tea Promotion Association:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -3838,6 +3975,7 @@ International Tea Promotion Association:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201128/volume-1128-I-17582-English.pdf
 World Organisation for Animal Health:
   Wikidata_code: Q1058594
   Entity_type: International organisation
@@ -3862,6 +4000,7 @@ North Pacific Anadromous Fish Commission:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.npafc.org/wp-content/uploads/Public-Documents/Handbook/Handbook-3rd-E-Convention-Only-English.pdf
 Organisation for the Development of the Senegal River:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -3934,6 +4073,7 @@ EU-LAC International Foundation:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:22019A0412(01)&rid=1
 Secreriat of the Antarctic Treaty:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -3945,6 +4085,7 @@ Secreriat of the Antarctic Treaty:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://documents.ats.aq/atcm40/ww/ATCM40_ww014_e.pdf
 Central African Economic and Monetary Community:
   Wikidata_code: Q1940250
   Entity_type: International organisation
@@ -3983,6 +4124,7 @@ Caribbean Court of Justice:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://ccj.org/wp-content/uploads/2021/02/ccj_agreement.pdf
 Brazilian-Argentine Agency for Accounting and Control of Nuclear Materials:
   Wikidata_code: Q290585
   Entity_type: International organisation
@@ -3995,6 +4137,7 @@ Brazilian-Argentine Agency for Accounting and Control of Nuclear Materials:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.iaea.org/sites/default/files/infcirc435.pdf
 Central Commission for the Navigation of the Rhine:
   Wikidata_code: Q190650
   Entity_type: International organisation
@@ -4032,6 +4175,7 @@ West African Monetary Union:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.bceao.int/sites/default/files/inline-files/TraiteUMOA2010_tr_Eng.pdf
 Secretariat of the Basel Convention:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -4067,6 +4211,7 @@ Southeast Asian Ministers of Education Organisation:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.seameo.org/img/SEAMEO_General/About_SEAMEO/SEAMEO_Charter/charter2013.pdf
 Nordic Development Fund:
   Wikidata_code: Q7050687
   Entity_type: International organisation
@@ -4078,6 +4223,7 @@ Nordic Development Fund:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.ndf.int/media/files/constituent-documents/ndf-agreement-and-statutes-october-2020.pdf
 Organisation for the Harmonization of Business Laws in Africa:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -4089,6 +4235,7 @@ Organisation for the Harmonization of Business Laws in Africa:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.ohada.org/en/treaty-amending-the-treaty-on-the-harmonization-of-business-law-in-africa/
 International Organisation of Legal Metrology:
   Wikidata_code: Q1667416
   Entity_type: International organisation
@@ -4102,18 +4249,21 @@ International Organisation of Legal Metrology:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.oiml.org/en/files/pdf_b/b001-e68.pdf
 King Abdullah Bin Abdulaziz International Centre for Interreligious and Intercultural Dialogue:
   Wikidata_code: Q6324948
   Entity_type: International organisation
   Org_family: none
   Country: zz
-  Name_en: King Abdullah Bin Abdulaziz International Centre for Interreligious and Intercultural Dialogue
+  Name_en: King Abdullah Bin Abdulaziz International Centre for Interreligious and
+    Intercultural Dialogue
   Abbreviation_en: KAICIID
   Treaty_url: https://www.kaiciid.org/node/2641
   Name_fr: KAICIID Dialogue Centre
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.kaiciid.org/node/2641
 Organisation for Joint Armament Co-operation:
   Name_en: Organisation for Joint Armament Co-operation
   Name_other_en: Organisation for Joint Armament Cooperation
@@ -4128,6 +4278,7 @@ Organisation for Joint Armament Co-operation:
   Name_es: Organización para la Cooperación Conjunta en Materia de Armamento
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.occar.int/systems/file_download.ashx?pg=139&ver=2
 International Centre for Food Micro-Algae Against Malnutrition:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -4139,6 +4290,7 @@ International Centre for Food Micro-Algae Against Malnutrition:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://treaties.un.org/doc/publication/unts/volume%202151/v2151.pdf
 Robusta Coffee Agency of Africa and Madagascar:
   Wikidata_code: '[No specific code.]'
   Entity_type: International organisation
@@ -4220,6 +4372,7 @@ European Organization for Nuclear Research:
   OpenSanctions_id: bic-CEGNCHGG
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://council.web.cern.ch/en/content/convention-establishment-european-organization-nuclear-research
 Intergovernmental Authority on Development:
   Wikidata_code: Q499039
   Entity_type: International organisation
@@ -4246,13 +4399,16 @@ International Centre for Migration Policy Development:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%203132/v3132.pdf
 Organisation for the Prohibition of Nuclear Weapons in Latin America and the Caribbean:
   Wikidata_code: Q3369762
   Entity_type: International organisation
   Org_family: none
   Country: zz
-  Name_en: Organisation for the Prohibition of Nuclear Weapons in Latin America and the Caribbean
-  Name_es: Organismo para la Proscripción de las Armas Nucleares en la América Latina y el Caribe
+  Name_en: Organisation for the Prohibition of Nuclear Weapons in Latin America and
+    the Caribbean
+  Name_es: Organismo para la Proscripción de las Armas Nucleares en la América Latina
+    y el Caribe
   Abbreviation_en: OPANAL
   Treaty_url: https://www.opanal.org/en/texto-del-tratado-de-tlatelolco/
   OpenSanctions_id: '[No code found.]'
@@ -4263,7 +4419,8 @@ Andrés Bello convention for the educational, scientific and cultural integratio
   Entity_type: International organisation
   Org_family: none
   Country: zz
-  Name_en: Andrés Bello convention for the educational, scientific and cultural integration of Latin America and Spain
+  Name_en: Andrés Bello convention for the educational, scientific and cultural integration
+    of Latin America and Spain
   Abbreviation_en: null
   Treaty_url: https://convenioandresbello.org/wp-content/uploads/2021/08/tratado_constitutivo_cab_firmado.pdf
   OpenSanctions_id: '[No code found.]'
@@ -4274,12 +4431,14 @@ International Organisation for the Development of Fisheries in Eastern and Centr
   Entity_type: International organisation
   Org_family: none
   Country: zz
-  Name_en: International Organisation for the Development of Fisheries in Eastern and Central Europe
+  Name_en: International Organisation for the Development of Fisheries in Eastern
+    and Central Europe
   Abbreviation_en: EUROFISH
   Treaty_url: https://faolex.fao.org/treaty/docs/tre000049E.pdf
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://faolex.fao.org/treaty/docs/tre000049E.pdf
 International Visegrad Fund:
   Wikidata_code: Q11783874
   Entity_type: International organisation
@@ -4330,6 +4489,7 @@ Intersputnik International Organization of Space Communications:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%20862/volume-862-I-12343-English.pdf
 International Organisation of La Francophonie:
   Wikidata_code: Q134102
   Entity_type: International organisation
@@ -4354,6 +4514,7 @@ International Centre for Advanced Mediterranean Agronomic Studies:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.ciheam.org/wp-content/uploads/2021/12/CIHEAM_-_Textes_constitutifs__1_-1.pdf
 International Institute of Administrative Sciences:
   Wikidata_code: Q2373849
   Entity_type: International organisation
@@ -4379,6 +4540,7 @@ International Civil Defence Organization:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://icdo.org/files/documents/constitution/icdo_constitution_en.pdf
 International Bank for Economic Co-operation:
   Wikidata_code: Q1520558
   Entity_type: International organisation
@@ -4390,6 +4552,7 @@ International Bank for Economic Co-operation:
   OpenSanctions_id: isin-BG2100005219
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://ibec.int/upload/iblock/584/EN_Agreement%20and%20Statutes%202014%20A4.pdf
 Islamic Development Bank:
   Wikidata_code: Q41230
   Entity_type: International organisation
@@ -4416,6 +4579,7 @@ International Institute for Democracy and Electoral Assistance:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.idea.int/sites/default/files/media_resources/International-IDEA-statutes-EN-2023.pdf
 Latin American Civil Aviation Commission:
   Wikidata_code: Q131103399
   Entity_type: International organisation
@@ -4438,6 +4602,7 @@ Permanent Inter-State Committee for Drought Control in the Sahel:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201985/v1985.pdf
 Mekong River Commission:
   Wikidata_code: Q935878
   Entity_type: International organisation
@@ -4473,6 +4638,7 @@ Eastern and Southern African Trade and Development Bank:
   OpenSanctions_id: bic-ESATKENA
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.tdbgroup.org/wp-content/uploads/2024/01/TDB-Charter-English-01.01.2024.pdf
 East African Development Bank:
   Wikidata_code: Q5327655
   Entity_type: International organisation
@@ -4497,6 +4663,7 @@ Latin-American Centre for Physics:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: http://legislacion.asamblea.gob.ni/Instrumentos.nsf/d9e9b7b996023769062578b80075d821/57af7b6e3cde7228062575430061e0ed?OpenDocument&ExpandSection=1#_Section1
 Nordic Environment Finance Corporation:
   Wikidata_code: Q3736769
   Entity_type: International organisation
@@ -4509,18 +4676,21 @@ Nordic Environment Finance Corporation:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.nefco.int/wp-content/uploads/2019/04/NEFCO_Constituent-Documents_2017.pdf
 Fund for the Development of the Indigenous Peoples of Latin America and the Caribbean:
   Wikidata_code: Q125689468
   Entity_type: International organisation
   Org_family: none
   Country: zz
-  Name_en: Fund for the Development of the Indigenous Peoples of Latin America and the Caribbean
+  Name_en: Fund for the Development of the Indigenous Peoples of Latin America and
+    the Caribbean
   Abbreviation_en: FILAC
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201728/volume-1728-I-30177-English.pdf
   Name_es: Fondo para el desarrollo de pueblos indígenas de América Latina y el Caribee
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201728/volume-1728-I-30177-English.pdf
 Black Sea Trade and Development Bank:
   Wikidata_code: Q2061083
   Entity_type: International organisation
@@ -4534,6 +4704,7 @@ Black Sea Trade and Development Bank:
   OpenSanctions_id: NK-7UWYphV9X8m3jcrKwqtwH2
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.bstdb.org/Establishing_Agreement_BSTDB.pdf
 European Company for the Financing of Railroad Rolling Stock:
   Wikidata_code: Q1374986
   Entity_type: International organisation
@@ -4547,6 +4718,7 @@ European Company for the Financing of Railroad Rolling Stock:
   OpenSanctions_id: NK-KJsQHHygpda9etP67xuvsa
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.eurofima.org/sites/default/assets/Image/investor-relations/constitutive-documents/convention_e.pdf
 Asian Clearing Union:
   Wikidata_code: Q2150936
   Entity_type: International organisation
@@ -4571,6 +4743,7 @@ Latin American Energy Organization:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://biblioteca.olade.org/opac-tmpl/Documentos/old0058.pdf
 Africa Finance Corporation:
   Wikidata_code: Q23578910
   Entity_type: International organisation
@@ -4596,6 +4769,7 @@ African Export-Import Bank:
   OpenSanctions_id: bic-PASSNGLA
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201890/volume-1890-I-32192-English.pdf
 Latin American Reserve Fund:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -4608,6 +4782,7 @@ Latin American Reserve Fund:
   Name_es: Fondo Latinamerican de Reservas
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://flar.com/wp-content/uploads/2023/10/FLAR-ESP-ConvenioConstitutivo2023-V03.pdf
 Latin American and the Caribbean Economic System:
   Wikidata_code: Q605595
   Entity_type: International organisation
@@ -4621,6 +4796,7 @@ Latin American and the Caribbean Economic System:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://sela.org/wp-content/uploads/2023/07/t023600000397-0-convenio_de_panama_-enero_2006.pdf
 International Center for Promotion of Enterprises:
   Wikidata_code: Q6049045
   Entity_type: International organisation
@@ -4658,6 +4834,7 @@ Eurasian Development Bank:
   Name_es: Banco de Desarrollo Euroasiático
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://eabr.org/upload/iblock/c91/foundation-documents.pdf
 Central Bank of West African States:
   Wikidata_code: Q620942
   Entity_type: International organisation
@@ -4708,6 +4885,7 @@ CAF - Development Bank of Latin America and the Caribbean:
   OpenSanctions_id: NK-4YJeYJoEQM8HrqKFVrSDXj
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: http://www.commonlii.org/jm/legis/consol_act/adcaa1999386.pdf
 International Iberian Nanotechnology Laboratory:
   Wikidata_code: Q6051048
   Entity_type: International organisation
@@ -4733,6 +4911,7 @@ Latin American Faculty of Social Sciences:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: http://www.worldlii.org/int/other/treaties/UNTSer/1976/165.pdf
 Pacific Salmon Commission:
   Wikidata_code: Q7122672
   Entity_type: International organisation
@@ -4745,6 +4924,7 @@ Pacific Salmon Commission:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.psc.org/download/45/miscellaneous/2337/pacific-salmon-treaty.pdf
 International Exhibition Bureau:
   Wikidata_code: Q1010514
   Entity_type: International organisation
@@ -4759,16 +4939,20 @@ International Exhibition Bureau:
   OpenSanctions_id: kprusi-5e9fcef5e415897a5d9d1815b2fd7d6edf618dc8/
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.state.gov/wp-content/uploads/2019/02/17-510-Multilateral-Cultural-Expositions.pdf
 International Centre for the Study of the Preservation and the Restoration of Cultural Property:
   Wikidata_code: Q590182
   Entity_type: International organisation
   Org_family: none
   Country: zz
-  Name_en: International Centre for the Study of the Preservation and the Restoration of Cultural Property
+  Name_en: International Centre for the Study of the Preservation and the Restoration
+    of Cultural Property
   Abbreviation_en: ICCROM
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201321/volume-1321-I-22032-English.pdf
-  Name_fr: centre international d'études pour la conservation et la restauration des biens culturels
-  Name_es: Centro Internacional de Estudios de Conservación y Restauración de los Bienes Culturales
+  Name_fr: centre international d'études pour la conservation et la restauration des
+    biens culturels
+  Name_es: Centro Internacional de Estudios de Conservación y Restauración de los
+    Bienes Culturales
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
@@ -4780,7 +4964,7 @@ CGIAR System Organization:
   Name_en: Consultative Group on International Agricultural Research
   Name_former_en: CGIAR
   Abbreviation_en: CGIAR
-  Treaty_url: https://cgspace.cgiar.org/server/api/core/bitstreams/8aa699f3-1099-4d0d-af47-9892a0604f55/content    
+  Treaty_url: https://cgspace.cgiar.org/server/api/core/bitstreams/8aa699f3-1099-4d0d-af47-9892a0604f55/content
   Name_fr: CGIAR
   Name_es: CGIAR
   OpenSanctions_id: '[No code found.]'
@@ -4798,6 +4982,7 @@ International Centre for Agriculture Research in the Dry Areas:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://icarda.org/sites/default/files/2020-09/ICARDA%20Charter.pdf
 Secretariat of the BBNJ Agreement:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -4809,6 +4994,7 @@ Secretariat of the BBNJ Agreement:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.un.org/bbnjagreement/sites/default/files/2024-08/Text%20of%20the%20Agreement%20in%20English.pdf
 Central African States Development Bank:
   Wikidata_code: Q16531299
   Entity_type: International organisation
@@ -4835,6 +5021,7 @@ Benelux Court of Justice:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://wetten.overheid.nl/BWBV0004117/2016-12-01
 Eastern Caribbean Supreme Court:
   Wikidata_code: Q3001122
   Entity_type: International organisation
@@ -4852,6 +5039,7 @@ Eastern Caribbean Supreme Court:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.govt.lc/media.govt.lc/www/resources/legislation/revisedtreatyofbasseterre.pdf
 Zambezi Watercourse Commission:
   Wikidata_code: Q8065663
   Entity_type: International organisation
@@ -4877,6 +5065,7 @@ East African Court of Justice:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.eacj.org//wp-content/uploads/2012/08/EACJ-Treaty.pdf
 Global Green Growth Institute:
   Wikidata_code: Q12586353
   Entity_type: International organisation
@@ -4891,6 +5080,7 @@ Global Green Growth Institute:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://gggi.org/wp-content/uploads/2017/10/Agreement-on-the-Establishment-of-the-GGGI.pdf
 International Bamboo and Rattan Organization:
   Wikidata_code: Q6052145
   Entity_type: International organisation
@@ -4904,6 +5094,7 @@ International Bamboo and Rattan Organization:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%202132/v2132.pdf#page=215
 Caribbean Agricultural Research and Development Institute:
   Wikidata_code: Q25339749
   Entity_type: International organisation
@@ -4916,6 +5107,7 @@ Caribbean Agricultural Research and Development Institute:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://faolex.fao.org/docs/pdf/jam70785.pdf
 Visegrad Patent Institute:
   Wikidata_code: Q21187824
   Entity_type: International organisation
@@ -4940,6 +5132,7 @@ Pan African Postal Union:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.jus.uio.no/english/services/library/treaties/07/7-05/oau_postal_union.html
 African and Malagasy Council for Higher Education:
   Wikidata_code: Q2993667
   Entity_type: International organisation
@@ -4992,6 +5185,7 @@ African Telecommunications Union:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://atuuat.africa/wp-content/uploads/2019/11/ATU-Constitution-and-Convention-Cape-Town-1999-Rev.-Harare-2014.pdf
 Permanent Joint Technical Commission for Nile Waters:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -5082,6 +5276,7 @@ Eurasian Patent Organization:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.eapo.org/en/documents-2/legal-protection-of-inventions/eurasian-patent-convention/
 African Civil Service Observatory:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -5095,6 +5290,7 @@ African Civil Service Observatory:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.ofpa.net/wp-content/uploads/2017/10/nvostatuts.pdf
 ECOWAS Court of Justice:
   Wikidata_code: Q30324003
   Entity_type: International organisation
@@ -5108,6 +5304,7 @@ ECOWAS Court of Justice:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://africanlii.org/en/akn/aa-ecowas/act/treaty/1993/revised-treaty/eng%401993-07-24/source.pdf
 ECOWAS Parliament:
   Wikidata_code: Q97374162
   Entity_type: International organisation
@@ -5122,6 +5319,7 @@ ECOWAS Parliament:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://edit.wti.org/document/show/c3b73b1c-4f51-423a-be13-f57244f4b058
 Caribbean Disaster Emergency Management Agency:
   Wikidata_code: Q5039374
   Entity_type: International organisation
@@ -5151,6 +5349,7 @@ EFTA Court:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:E1994A1231(01)
 Economic Court of the Commonwealth of Independent States:
   Wikidata_code: Q4306397
   Entity_type: International organisation
@@ -5188,6 +5387,7 @@ Central American Court of Justice:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201821/volume-1821-I-31191-English.pdf
 Judicial Committee of the Privy Council:
   Wikidata_code: Q1710982
   Entity_type: International organisation
@@ -5255,6 +5455,7 @@ International Sava River Basin Commission:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.savacommission.org/UserDocsImages/05_documents_publications/basic_documents/fasrb.pdf
 International Plant Genetic Resources Institute:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -5348,6 +5549,7 @@ Caribbean Council of Legal Education:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://drupal.caricom.org/sites/default/files/2021-06/Agreement-Establishing-The-Council-of-Legal-Education.pdf
 Melanesian Spearhead Group:
   Wikidata_code: Q1918937
   Entity_type: International organisation
@@ -5375,6 +5577,7 @@ Arms Trade Treaty Secretariat:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.fedlex.admin.ch/eli/cc/2016/477/fr
 International Rice Research Institute:
   Wikidata_code: Q1204921
   Entity_type: International organisation
@@ -5390,6 +5593,7 @@ International Rice Research Institute:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.austlii.edu.au/cgi-bin/viewdoc/au/other/dfat/treaties/2001/6.html
 International Union for Conservation of Nature and Natural Resources:
   Wikidata_code: Q48268
   Entity_type: International organisation
@@ -5449,6 +5653,7 @@ Court of Conciliation and Arbitration:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://cdn.osce.org/sites/default/files/f/documents/a/0/111409_2.pdf
 Asia-Pacific Telecommunity:
   Wikidata_code: Q4806261
   Entity_type: International organisation
@@ -5462,6 +5667,7 @@ Asia-Pacific Telecommunity:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://apt.int/pdfs/Constitution.pdf
 Central American Maritime Transport Commission:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -5503,6 +5709,7 @@ Moselle Commission:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%202375/v2375.pdf
 Parliamentary Assembly of Turkic States:
   Wikidata_code: Q4345435
   Entity_type: International organisation
@@ -5543,6 +5750,7 @@ Court of the Eurasian Economic Union:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.un.org/en/ga/sixth/70/docs/treaty_on_eeu.pdf
 African Energy Commission:
   Wikidata_code: Q4689761
   Entity_type: International organisation
@@ -5567,6 +5775,7 @@ Caribbean Regional Fisheries Mechanism:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.crfm.int/index.php?option=com_k2&view=item&layout=item&id=2&Itemid=116
 International Commission for the Protection of the Scheldt:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -5579,6 +5788,7 @@ International Commission for the Protection of the Scheldt:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.isc-cie.org/wp-content/uploads/ACC-GENT_Accord-Escaut.pdf
 Lake Tanganyika Authority:
   Wikidata_code: Q30261886
   Entity_type: International organisation
@@ -5592,6 +5802,7 @@ Lake Tanganyika Authority:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: http://lta.iwlearn.org/documents/the-convention-on-the-sustainable-management-of-lake-tanganyika-eng.pdf
 Caribbean Centre for Development Administration:
   Wikidata_code: Q117193380
   Entity_type: International organisation
@@ -5619,6 +5830,7 @@ Caribbean Community Climate Change Centre:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://caricom.org/wp-content/uploads/Agreement-Establishing-The-Caribbean-Community-Climate-Change-Centre-CCCCC.pdf
 African Risk Capacity Agency:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -5762,6 +5974,7 @@ Arab Industrial Development Standardization and Mining Organization:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.lloc.gov.bh/FullEn/L2479.docx
 Arab States Broadcasting Union:
   Wikidata_code: Q4783249
   Entity_type: International organisation
@@ -5812,6 +6025,7 @@ Arab Bank for Economic Development in Africa:
   Name_es: Banco Árabe para el Desarrollo Económico en África
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://data.qanoon.om/treaties/1974-0017AEN.pdf
 Arab Civil Aviation Organization:
   Wikidata_code: Q22686285
   Entity_type: International organisation
@@ -5834,6 +6048,7 @@ Arab Women Organization:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.lloc.gov.bh/FullEn/L2402.docx
 Arab Atomic Energy Agency:
   Wikidata_code: Q56376750
   Entity_type: International organisation
@@ -5846,6 +6061,7 @@ Arab Atomic Energy Agency:
   Name_fr: Agence arabe de l'énergie atomique
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.legalaffairs.gov.bh/Legislation/HTM/K1708
 Arab Labor Organization:
   Wikidata_code: Q35586998
   Entity_type: International organisation
@@ -5896,6 +6112,7 @@ Arab Organization for Agricultural Development:
   Name_es: null
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.lloc.gov.bh/Legislation/HTM/D0475
 Arab Organization for Communication and Information Technologies:
   Wikidata_code: Q4783192
   Entity_type: International organisation
@@ -5920,6 +6137,7 @@ Simón Bolívar Andean University:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.uasb.edu.ec/wp-content/uploads/2021/03/ESTATUTO.pdf
 Asian-African Legal Consultative Organisation:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -5973,6 +6191,7 @@ North Pacific Fisheries Commission:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.npfc.int/system/files/2017-01/Convention%20Text.pdf
 Centre on Integrated Rural Development for Asia and the Pacific:
   Wikidata_code: Q5011840
   Entity_type: International organisation
@@ -5985,6 +6204,7 @@ Centre on Integrated Rural Development for Asia and the Pacific:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://faolex.fao.org/docs/pdf/mal33937.pdf
 United Nations:
   Wikidata_code: Q1065
   Org_family: UN and affiliates
@@ -6273,7 +6493,9 @@ World Bank:
   Source: https://www.un.org/en/about-us/specialized-agencies
   OpenSanctions_id: '[No code found.]'
   Name_es: Banco Mundial
-  Notes_en: 'The "World Bank" is an umbrella term for the International Bank for Reconstruction and Development and the International Development Association when considered collectively.' 
+  Notes_en: The "World Bank" is an umbrella term for the International Bank for Reconstruction
+    and Development and the International Development Association when considered
+    collectively.
   Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B32
@@ -6284,7 +6506,7 @@ World Bank Group:
   Name_en: World Bank Group
   Source: https://www.un.org/en/delegate/page/un-system-chart
   OpenSanctions_id: '[No code found.]'
-  Notes_en: 'The "World Bank Group" is an umbrella term for five international organisations.'
+  Notes_en: The "World Bank Group" is an umbrella term for five international organisations.
   Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
   Name_fr: Groupe de la Banque mondiale
   Name_es: Grupo del Banco Mundial
@@ -6465,13 +6687,15 @@ Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organizatio
   Org_family: UN and affiliates
   Country: zz
   Name_en: Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organization
-  Name_fr: Commission préparatoire de l’Organisation du traité d’interdiction complète des essais nucléaires
+  Name_fr: Commission préparatoire de l’Organisation du traité d’interdiction complète
+    des essais nucléaires
   Abbreviation_en: CTBTO
   Abbreviation_fr: null
   Name_other_en: Comprehensive Nuclear-Test-Ban Treaty Organization Preparatory Commission
   Source: https://www.un.org/en/about-us/specialized-agencies
   OpenSanctions_id: '[No code found.]'
-  Name_es: Comisión Preparatoria del Tratado de Prohibición Completa de los Ensayos Nucleares
+  Name_es: Comisión Preparatoria del Tratado de Prohibición Completa de los Ensayos
+    Nucleares
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
 International Seabed Authority:
@@ -6623,7 +6847,8 @@ Commission for Inland Fisheries and Aquaculture of Latin America and the Caribbe
   Org_family: UN and affiliates
   Type: FAO statutory body
   Country: zz
-  Name_en: Commission for Inland Fisheries and Aquaculture of Latin America and the Caribbean
+  Name_en: Commission for Inland Fisheries and Aquaculture of Latin America and the
+    Caribbean
   Name_fr: null
   Abbreviation_en: COPESCAALC
   Abbreviation_fr: null
@@ -6693,13 +6918,15 @@ United Nations Interregional Crime and Justice Research Institute:
   Org_family: UN and affiliates
   Country: zz
   Name_en: United Nations Interregional Crime and Justice Research Institute
-  Name_fr: Institut interrégional de recherche des Nations unies sur la criminalité et la justice
+  Name_fr: Institut interrégional de recherche des Nations unies sur la criminalité
+    et la justice
   Abbreviation_en: UNICRI
   Abbreviation_fr: null
   Name_other_en: UN Interregional Crime and Justice Research Institute
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
-  Name_es: Instituto Interregional de las Naciones Unidas para Investigaciones sobre el Crimen y la Justicia
+  Name_es: Instituto Interregional de las Naciones Unidas para Investigaciones sobre
+    el Crimen y la Justicia
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
 United Nations Research Institute For Social Development:
@@ -6829,13 +7056,16 @@ United Nations Relief and Works Agency for Palestine Refugees in the Near East:
   Wikidata_code: Q846656
   Org_family: UN and affiliates
   Country: zz
-  Name_en: United Nations Relief and Works Agency for Palestine Refugees in the Near East
-  Name_fr: Office de secours et de travaux des Nations unies pour les réfugiés de Palestine dans le Proche-Orient
+  Name_en: United Nations Relief and Works Agency for Palestine Refugees in the Near
+    East
+  Name_fr: Office de secours et de travaux des Nations unies pour les réfugiés de
+    Palestine dans le Proche-Orient
   Abbreviation_en: UNRWA
   Abbreviation_fr: null
   Name_other_en: null
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
-  Name_es: Agencia de Naciones Unidas para los Refugiados de Palestina en Oriente Próximo
+  Name_es: Agencia de Naciones Unidas para los Refugiados de Palestina en Oriente
+    Próximo
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
@@ -6886,7 +7116,8 @@ International Residual Mechanism for Criminal Tribunals:
   Org_family: UN and affiliates
   Country: zz
   Name_en: International Residual Mechanism for Criminal Tribunals
-  Name_fr: Mécanisme international appelé à exercer les fonctions résiduelles des Tribunaux pénaux
+  Name_fr: Mécanisme international appelé à exercer les fonctions résiduelles des
+    Tribunaux pénaux
   Abbreviation_en: IRMCT
   Abbreviation_fr: null
   Name_other_en: null
