@@ -14,6 +14,8 @@ European Union:
   Name_es: Unión Europea
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B9
+  Year_established: 1993
+  Headquarters: Strasbourg, France
 Council of the European Union:
   Wikidata_code: Q8896
   Entity_type: International organisation
@@ -30,6 +32,8 @@ Council of the European Union:
   Name_es: Consejo de la Unión Europea
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B10
+  Year_established: 1957
+  Headquarters: Europa building, Belgium
 Court of Justice of the European Union:
   Wikidata_code: Q4951
   Entity_type: International organisation
@@ -46,6 +50,8 @@ Court of Justice of the European Union:
   Name_es: Tribunal de Justicia de la Unión Europea
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B10
+  Year_established: 1952
+  Headquarters: Palais de la Cour de Justice, Luxembourg
 European Central Bank:
   Wikidata_code: Q8901
   Entity_type: International organisation
@@ -61,6 +67,8 @@ European Central Bank:
   Name_es: Banco Central Europeo
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B10
+  Year_established: 1998
+  Headquarters: Frankfurt, Germany
 European Commission:
   Wikidata_code: Q8880
   Entity_type: International organisation
@@ -75,6 +83,8 @@ European Commission:
   Name_es: Comisión Europea
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B10
+  Year_established: 1958
+  Headquarters: City of Brussels, Belgium
 European Council:
   Wikidata_code: Q8886
   Entity_type: International organisation
@@ -90,6 +100,8 @@ European Council:
   Name_es: Consejo Europeo
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B10
+  Year_established: 1974
+  Headquarters: Europa building, Belgium
 European Court of Auditors:
   Wikidata_code: Q8900
   Entity_type: International organisation
@@ -105,6 +117,8 @@ European Court of Auditors:
   Name_es: Tribunal de Cuentas de la Unión Europea
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B10
+  Year_established: 1977
+  Headquarters: Luxembourg, Luxembourg
 European Parliament:
   Wikidata_code: Q8889
   Entity_type: International organisation
@@ -121,6 +135,8 @@ European Parliament:
   Name_es: Parlamento Europeo
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B10
+  Year_established: 1957
+  Headquarters: Seat of the European Parliament in Strasbourg, France
 European Investment Bank:
   Wikidata_code: Q192247
   Entity_type: International organisation
@@ -136,6 +152,8 @@ European Investment Bank:
   Name_es: Banco Europeo de Inversiones
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1958
+  Headquarters: Luxembourg, Luxembourg
 European University Institute:
   Wikidata_code: Q1378099
   Entity_type: International organisation
@@ -151,6 +169,7 @@ European University Institute:
   Name_es: Instituto Universitario Europeo
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1972
 European Atomic Energy Community:
   Wikidata_code: Q8919
   Entity_type: International organisation
@@ -168,6 +187,8 @@ European Atomic Energy Community:
   Name_es: Comunidad Europea de la Energía Atómica
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1957
+  Headquarters: Brussels metropolitan area, Belgium
 Unified Patent Court:
   Wikidata_code: Q7884942
   Entity_type: International organisation
@@ -183,6 +204,7 @@ Unified Patent Court:
   Name_fr: Juridiction unique des brevets
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Headquarters: Luxembourg, Luxembourg
 European Stability Mechanism:
   Wikidata_code: Q1130098
   Entity_type: International organisation
@@ -199,6 +221,8 @@ European Stability Mechanism:
   Name_es: Mecanismo Europeo de Estabilidad
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 2012
+  Headquarters: Luxembourg, Luxembourg
 European Climate, Infrastructure and Environment Executive Agency:
   Wikidata_code: Q106818821
   Entity_type: International organisation
@@ -213,6 +237,8 @@ European Climate, Infrastructure and Environment Executive Agency:
   Name_fr: Agence exécutive européenne pour le climat, les infrastructures et l’environnement
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B23
+  Year_established: 2021
+  Headquarters: Etterbeek, Belgium
 European Education and Culture Executive Agency:
   Wikidata_code: Q1383639
   Entity_type: International organisation
@@ -228,6 +254,8 @@ European Education and Culture Executive Agency:
   Name_es: Agencia Ejecutiva en el Ámbito Educativo, Audiovisual y Cultural (EACEA)
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B23
+  Year_established: 2006
+  Headquarters: North Light, Belgium
 European Health and Digital Executive Agency:
   Wikidata_code: Q107636399
   Entity_type: International organisation
@@ -242,6 +270,8 @@ European Health and Digital Executive Agency:
   Name_fr: Agence exécutive européenne pour la santé et le numérique
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B23
+  Year_established: 2021
+  Headquarters: City of Brussels, Belgium
 European Innovation Council and Small and Medium-sized Executive Agency:
   Wikidata_code: Q734374
   Entity_type: International organisation
@@ -257,6 +287,8 @@ European Innovation Council and Small and Medium-sized Executive Agency:
   Name_fr: Agence exécutive pour le Conseil européen de l’innovation et les PME
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B23
+  Year_established: 2004
+  Headquarters: City of Brussels, Belgium
 European Research Council Executive Agency:
   Wikidata_code: Q107641323
   Entity_type: International organisation
@@ -270,6 +302,7 @@ European Research Council Executive Agency:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B23
+  Headquarters: City of Brussels, Belgium
 European Research Executive Agency:
   Wikidata_code: Q3606472
   Entity_type: International organisation
@@ -284,6 +317,8 @@ European Research Executive Agency:
   Name_fr: Agence exécutive européenne pour la recherche
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B23
+  Year_established: 2007
+  Headquarters: North Light, Belgium
 Agency for Support for BEREC:
   Wikidata_code: Q107658738
   Entity_type: International organisation
@@ -298,6 +333,8 @@ Agency for Support for BEREC:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Year_established: 2009
+  Headquarters: Riga, Latvia
 Agency for the Cooperation of Energy Regulators:
   Wikidata_code: Q392883
   Entity_type: International organisation
@@ -314,6 +351,8 @@ Agency for the Cooperation of Energy Regulators:
   Name_es: Agencia de Cooperación de los Reguladores de la Energía
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Year_established: 2009
+  Headquarters: Ljubljana, Slovenia
 Community Plant Variety Office:
   Wikidata_code: Q1501010
   Entity_type: International organisation
@@ -328,6 +367,8 @@ Community Plant Variety Office:
   Name_fr: Office communautaire des variétés végétales
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Year_established: 1995
+  Headquarters: Angers, France
 EU Authority for Anti-Money Laundering and Countering the Financing of Terrorism:
   Wikidata_code: Q124795462
   Entity_type: International organisation
@@ -344,6 +385,8 @@ EU Authority for Anti-Money Laundering and Countering the Financing of Terrorism
   Name_fr: Autorité de lutte contre le blanchiment de capitaux
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Year_established: 2024
+  Headquarters: Messeturm, Germany
 European Foundation for the Improvement of Living and Working Conditions:
   Wikidata_code: Q1377549
   Entity_type: International organisation
@@ -352,13 +395,15 @@ European Foundation for the Improvement of Living and Working Conditions:
   Name_en: European Foundation for the Improvement of Living and Working Conditions
   Name_other_en: Eurofound
   Type: EU decentralised agency
-  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:01975R1365-20050804
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
   Source_2: https://www.irishstatutebook.ie/eli/2016/si/428/made/en/print
   OpenSanctions_id: '[No code found.]'
   Name_fr: Fondation européenne pour l'amélioration des conditions de vie et de travail
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:01975R1365-20050804
+  Year_established: 1975
+  Headquarters: Dublin, Ireland
 European Union Agency for Criminal Justice Cooperation:
   Wikidata_code: Q940784
   Entity_type: International organisation
@@ -375,6 +420,8 @@ European Union Agency for Criminal Justice Cooperation:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
   Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1727
+  Year_established: 2002
+  Headquarters: The Hague, Netherlands
 European Agency for Safety and Health at Work:
   Wikidata_code: Q571118
   Entity_type: International organisation
@@ -391,6 +438,8 @@ European Agency for Safety and Health at Work:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
   Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0126
+  Year_established: 1994
+  Headquarters: Bilbao, Spain
 European Banking Authority:
   Wikidata_code: Q769548
   Entity_type: International organisation
@@ -405,6 +454,8 @@ European Banking Authority:
   Name_es: Autoridad Bancaria Europea
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Year_established: 2011
+  Headquarters: Paris, France
 European Centre for Disease Prevention and Control:
   Wikidata_code: Q918501
   Entity_type: International organisation
@@ -419,6 +470,8 @@ European Centre for Disease Prevention and Control:
   Name_es: Centro Europeo para la Prevención y Control de Enfermedades
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Year_established: 2004
+  Headquarters: Solna Municipality, Sweden
 European Centre for the Development of Vocational Training:
   Wikidata_code: Q116214
   Entity_type: International organisation
@@ -433,6 +486,8 @@ European Centre for the Development of Vocational Training:
   Name_es: Centro Europeo para el Desarrollo de la Formación Profesional
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Year_established: 1975
+  Headquarters: Thessaloniki, Greece
 European Chemicals Agency:
   Wikidata_code: Q48798
   Entity_type: International organisation
@@ -447,6 +502,8 @@ European Chemicals Agency:
   Name_es: Agencia Europea de Sustancias y Preparados Químicos
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Year_established: 2007
+  Headquarters: Helsinki, Finland
 European Environment Agency:
   Wikidata_code: Q632988
   Entity_type: International organisation
@@ -461,6 +518,8 @@ European Environment Agency:
   Name_es: Agencia Europea de Medio Ambiente
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Year_established: 1990
+  Headquarters: Kongens Nytorv 6, Denmark
 European Fisheries Control Agency:
   Wikidata_code: Q201372
   Entity_type: International organisation
@@ -475,6 +534,8 @@ European Fisheries Control Agency:
   Name_es: Agencia Comunitaria de Control de la Pesca
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Year_established: 2005
+  Headquarters: Vigo, Spain
 European Food Safety Authority:
   Wikidata_code: Q516521
   Entity_type: International organisation
@@ -489,6 +550,8 @@ European Food Safety Authority:
   Name_es: Autoridad Europea de Seguridad Alimentaria
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Year_established: 2002
+  Headquarters: Parma, Italy
 European Institute for Gender Equality:
   Wikidata_code: Q48718
   Entity_type: International organisation
@@ -503,6 +566,8 @@ European Institute for Gender Equality:
   Name_es: Instituto Europeo de la Igualdad de Género
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Year_established: 2006
+  Headquarters: Vilnius, Lithuania
 European Insurance and Occupational Pensions Authority:
   Wikidata_code: Q2116004
   Entity_type: International organisation
@@ -517,6 +582,8 @@ European Insurance and Occupational Pensions Authority:
   Name_es: Autoridad Europea de Seguros y Pensiones de Jubilación
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Year_established: 2011
+  Headquarters: Westhafen Tower, Germany
 European Labour Authority:
   Wikidata_code: Q56296301
   Entity_type: International organisation
@@ -531,6 +598,8 @@ European Labour Authority:
   Name_es: Autoridad Laboral Europea
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Year_established: 2019
+  Headquarters: Bratislava, Slovakia
 European Maritime Safety Agency:
   Wikidata_code: Q922693
   Entity_type: International organisation
@@ -545,6 +614,8 @@ European Maritime Safety Agency:
   Name_es: Agencia Europea de Seguridad Marítima
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Year_established: 2002
+  Headquarters: Lisbon, Portugal
 European Medicines Agency:
   Wikidata_code: Q130146
   Entity_type: International organisation
@@ -559,6 +630,8 @@ European Medicines Agency:
   Name_es: Agencia Europea de Medicamentos
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Year_established: 1995
+  Headquarters: Amsterdam, Netherlands
 European Training Foundation:
   Wikidata_code: Q372042
   Entity_type: International organisation
@@ -572,6 +645,8 @@ European Training Foundation:
   Name_fr: Fondation européenne pour la formation
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Year_established: 1993
+  Headquarters: Turin, Italy
 European Union Agency for Asylum:
   Wikidata_code: Q4002697
   Entity_type: International organisation
@@ -586,6 +661,8 @@ European Union Agency for Asylum:
   Name_fr: Agence de l’Union européenne pour l’asile
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Year_established: 2010
+  Headquarters: Marsa, Malta
 European Union Agency for Cybersecurity:
   Wikidata_code: Q1377194
   Entity_type: International organisation
@@ -601,6 +678,8 @@ European Union Agency for Cybersecurity:
   Name_es: Agencia de la Unión Europea para la Ciberseguridad
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Year_established: 2004
+  Headquarters: Heraklion, Greece
 European Union Agency for Fundamental Rights:
   Wikidata_code: Q48790
   Entity_type: International organisation
@@ -616,6 +695,8 @@ European Union Agency for Fundamental Rights:
   Name_es: Agencia de los Derechos Fundamentales de la Unión Europea
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Year_established: 2007
+  Headquarters: Vienna, Austria
 European Union Agency for Law Enforcement Training:
   Wikidata_code: Q1377490
   Entity_type: International organisation
@@ -631,6 +712,8 @@ European Union Agency for Law Enforcement Training:
   Name_es: Escuela Europea de Policía
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Year_established: 2000
+  Headquarters: Budapest, Hungary
 European Union Agency for Railways:
   Wikidata_code: Q369273
   Entity_type: International organisation
@@ -646,6 +729,8 @@ European Union Agency for Railways:
   Name_es: Agencia Ferroviaria Europea
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Year_established: 2004
+  Headquarters: Valenciennes, France
 European Union Agency for the Operational Management of Large-Scale IT Systems in
   the Area of Freedom, Security and Justice:
   Wikidata_code: Q4440501
@@ -663,6 +748,8 @@ European Union Agency for the Operational Management of Large-Scale IT Systems i
     à grande échelle au sein de l'espace de liberté, de sécurité et de justice
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Year_established: 2011
+  Headquarters: Tallinn, Estonia
 European Union Agency for the Space Programme:
   Wikidata_code: Q55610347
   Entity_type: International organisation
@@ -678,6 +765,8 @@ European Union Agency for the Space Programme:
   Name_es: Agencia de la Unión Europea para el Programa Espacial
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Year_established: 2004
+  Headquarters: Prague, Czech Republic
 European Union Aviation Safety Agency:
   Wikidata_code: Q276255
   Entity_type: International organisation
@@ -693,6 +782,8 @@ European Union Aviation Safety Agency:
   Name_es: Agencia Europea de Seguridad Aérea
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Year_established: 2003
+  Headquarters: Cologne, Germany
 European Union Drugs Agency:
   Wikidata_code: Q1377256
   Entity_type: International organisation
@@ -707,6 +798,8 @@ European Union Drugs Agency:
   Name_fr: agence de l’Union européenne sur les drogues
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Year_established: 1993
+  Headquarters: Lisbon, Portugal
 European Union Intellectual Property Office:
   Wikidata_code: Q792534
   Entity_type: International organisation
@@ -722,6 +815,8 @@ European Union Intellectual Property Office:
   Name_es: Oficina de Propiedad Intelectual de la Unión Europea
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Year_established: 1994
+  Headquarters: Alicante, Spain
 Europol:
   Wikidata_code: Q207203
   Entity_type: International organisation
@@ -737,6 +832,8 @@ Europol:
   Name_es: Europol
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Year_established: 1998
+  Headquarters: The Hague, Netherlands
 European Border and Coast Guard Agency:
   Wikidata_code: Q21786841
   Entity_type: International organisation
@@ -751,6 +848,8 @@ European Border and Coast Guard Agency:
   Name_es: Guardia Europea de Fronteras y Costas
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Year_established: 2016
+  Headquarters: Warsaw Spire, Poland
 Single Resolution Board:
   Wikidata_code: Q19516507
   Entity_type: International organisation
@@ -764,6 +863,8 @@ Single Resolution Board:
   Name_fr: Conseil de résolution unique
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Year_established: 2015
+  Headquarters: City of Brussels, Belgium
 European Securities and Markets Authority:
   Wikidata_code: Q769112
   Entity_type: International organisation
@@ -778,6 +879,8 @@ European Securities and Markets Authority:
   Name_es: Autoridad Europea de Valores y Mercados
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Year_established: 2011
+  Headquarters: Paris, France
 Translation Centre for the Bodies of the European Union:
   Wikidata_code: Q333743
   Entity_type: International organisation
@@ -791,6 +894,8 @@ Translation Centre for the Bodies of the European Union:
   Name_fr: Centre de traduction des organes de l'Union européenne
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Year_established: 1994
+  Headquarters: Luxembourg, Luxembourg
 European Committee of the Regions:
   Wikidata_code: Q205203
   Entity_type: International organisation
@@ -805,6 +910,8 @@ European Committee of the Regions:
   Name_es: Comité de las Regiones
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B19
+  Year_established: 1994
+  Headquarters: Delors building, Belgium
 European Cybersecurity Competence Centre:
   Wikidata_code: Q107658626
   Entity_type: International organisation
@@ -818,6 +925,8 @@ European Cybersecurity Competence Centre:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B20
+  Year_established: 2021
+  Headquarters: Bucharest, Romania
 European Data Protection Supervisor:
   Wikidata_code: Q1377705
   Entity_type: International organisation
@@ -833,6 +942,8 @@ European Data Protection Supervisor:
   Name_es: Supervisor Europeo de Protección de Datos
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B27
+  Year_established: 2004
+  Headquarters: City of Brussels, Belgium
 European Economic and Social Committee:
   Wikidata_code: Q331024
   Entity_type: International organisation
@@ -848,6 +959,8 @@ European Economic and Social Committee:
   Treaty_url: https://eur-lex.europa.eu/resource.html?uri=cellar:2bf140bf-a3f8-4ab2-b506-fd71826e6da6.0023.02/DOC_1&format=PDF
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B19
+  Year_established: 1957
+  Headquarters: City of Brussels, Belgium
 European External Action Service:
   Wikidata_code: Q672941
   Entity_type: International organisation
@@ -862,6 +975,8 @@ European External Action Service:
   Name_es: Servicio Europeo de Acción Exterior
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B27
+  Year_established: 2010
+  Headquarters: Triangle building, Belgium
 European Ombudsman:
   Wikidata_code: Q220893
   Entity_type: International organisation
@@ -876,6 +991,8 @@ European Ombudsman:
   Name_es: Defensor del Pueblo Europeo
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B27
+  Year_established: 1995
+  Headquarters: Strasbourg, France
 European Public Prosecutor’s Office:
   Wikidata_code: Q5413070
   Entity_type: International organisation
@@ -890,6 +1007,8 @@ European Public Prosecutor’s Office:
   Name_es: Fiscalía Europea
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B27
+  Year_established: 2017
+  Headquarters: Luxembourg, Luxembourg
 European Data Protection Board:
   Wikidata_code: Q26877724
   Entity_type: International organisation
@@ -905,6 +1024,8 @@ European Data Protection Board:
   Name_es: Comité Europeo de Protección de Datos
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B27
+  Year_established: 2018
+  Headquarters: City of Brussels, Belgium
 European Defence Agency:
   Wikidata_code: Q1134173
   Entity_type: International organisation
@@ -919,6 +1040,8 @@ European Defence Agency:
   Name_es: Agencia Europea de Defensa
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B25
+  Year_established: 2004
+  Headquarters: Ixelles, Belgium
 European Union Satellite Centre:
   Wikidata_code: Q1388519
   Entity_type: International organisation
@@ -935,6 +1058,8 @@ European Union Satellite Centre:
   Name_es: Centro de Satélites de la Unión Europea
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B25
+  Year_established: 2002
+  Headquarters: Torrejón de Ardoz, Spain
 Supply Agency of the European Atomic Energy Community:
   Wikidata_code: Q1374308
   Entity_type: International organisation
@@ -951,6 +1076,8 @@ Supply Agency of the European Atomic Energy Community:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:12016A/TXT
+  Year_established: 1960
+  Headquarters: Luxembourg, Luxembourg
 Fusion for Energy Joint Undertaking:
   Wikidata_code: Q5510278
   Entity_type: International organisation
@@ -967,6 +1094,8 @@ Fusion for Energy Joint Undertaking:
   Name_es: Fusion for Energy
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B24
+  Year_established: 2007
+  Headquarters: Barcelona, Spain
 Chips Joint Undertaking:
   Wikidata_code: Q133884004
   Entity_type: International organisation
@@ -980,6 +1109,8 @@ Chips Joint Undertaking:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B24
+  Year_established: 2023
+  Headquarters: Saint-Gilles, Belgium
 Circular Bio-based Europe Joint Undertaking:
   Wikidata_code: Q133884431
   Entity_type: International organisation
@@ -993,6 +1124,8 @@ Circular Bio-based Europe Joint Undertaking:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B24
+  Year_established: 2021
+  Headquarters: Saint-Gilles, Belgium
 Clean Aviation Joint Undertaking:
   Wikidata_code: Q133884512
   Entity_type: International organisation
@@ -1006,6 +1139,8 @@ Clean Aviation Joint Undertaking:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B24
+  Year_established: 2021
+  Headquarters: Saint-Gilles, Belgium
 Clean Hydrogen Joint Undertaking:
   Wikidata_code: Q133884630
   Entity_type: International organisation
@@ -1019,6 +1154,8 @@ Clean Hydrogen Joint Undertaking:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B24
+  Year_established: 2021
+  Headquarters: Saint-Gilles, Belgium
 Europe’s Rail Joint Undertaking:
   Wikidata_code: Q133884985
   Entity_type: International organisation
@@ -1032,6 +1169,8 @@ Europe’s Rail Joint Undertaking:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B24
+  Year_established: 2021
+  Headquarters: Saint-Gilles, Belgium
 Global Health EDCTP3 Joint Undertaking:
   Wikidata_code: Q30296681
   Entity_type: International organisation
@@ -1045,6 +1184,7 @@ Global Health EDCTP3 Joint Undertaking:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B24
+  Year_established: 2003
 Innovative Health Initiative Joint Undertaking:
   Wikidata_code: Q118695652
   Entity_type: International organisation
@@ -1058,6 +1198,8 @@ Innovative Health Initiative Joint Undertaking:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B24
+  Year_established: 2021
+  Headquarters: Saint-Gilles, Belgium
 European High Performance Computing Joint Undertaking:
   Wikidata_code: Q60983149
   Entity_type: International organisation
@@ -1073,6 +1215,8 @@ European High Performance Computing Joint Undertaking:
   Name_es: Empresa Común Europea de Informática de Alto Rendimiento
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B24
+  Year_established: 2018
+  Headquarters: Luxembourg, Luxembourg
 SESAR 3 Joint Undertaking:
   Wikidata_code: Q3055255
   Entity_type: International organisation
@@ -1088,6 +1232,8 @@ SESAR 3 Joint Undertaking:
   Name_fr: Entreprise commune SESAR
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B24
+  Year_established: 2007
+  Headquarters: City of Brussels, Belgium
 Smart Networks and Services Joint Undertaking:
   Wikidata_code: Q133886014
   Entity_type: International organisation
@@ -1101,6 +1247,8 @@ Smart Networks and Services Joint Undertaking:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B24
+  Year_established: 2021
+  Headquarters: Saint-Gilles, Belgium
 European Schools:
   Wikidata_code: Q30104861
   Entity_type: International organisation
@@ -1112,6 +1260,7 @@ European Schools:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Headquarters: City of Brussels, Belgium
 Council of Europe:
   Wikidata_code: Q8908
   Entity_type: International organisation
@@ -1126,6 +1275,8 @@ Council of Europe:
   Name_es: Consejo de Europa
   Name_fr: Conseil de l'Europe
   Immunity_url: https://rm.coe.int/1680a1c6b3
+  Year_established: 1949
+  Headquarters: Palace of Europe, France
 Benelux:
   Wikidata_code: Q13116
   Entity_type: International organisation
@@ -1140,6 +1291,8 @@ Benelux:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.benelux.int/wp-content/uploads/2023/02/BeneluxVerdrag_2008.pdf
+  Year_established: 1944
+  Headquarters: City of Brussels, Belgium
 Andean Community:
   Wikidata_code: Q471690
   Entity_type: International organisation
@@ -1154,6 +1307,8 @@ Andean Community:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.comunidadandina.org/StaticFiles/201338102616Acuerdo_Cartagena.pdf
+  Year_established: 1969
+  Headquarters: Lima, Peru
 Court of Justice of the Andean Community:
   Wikidata_code: Q5789480
   Entity_type: International organisation
@@ -1167,6 +1322,8 @@ Court of Justice of the Andean Community:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.comunidadandina.org/StaticFiles/201338102616Acuerdo_Cartagena.pdf
+  Year_established: 1979
+  Headquarters: Quito, Ecuador
 Union State:
   Wikidata_code: Q166110
   Entity_type: International organisation
@@ -1181,6 +1338,7 @@ Union State:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%202121/v2121.pdf
+  Year_established: 1996
 Commonwealth of Independent States:
   Wikidata_code: Q7779
   Entity_type: International organisation
@@ -1194,6 +1352,8 @@ Commonwealth of Independent States:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1991
+  Headquarters: Minsk, Belarus
 Organisation of Eastern Caribbean States:
   Wikidata_code: Q392770
   Entity_type: International organisation
@@ -1208,6 +1368,8 @@ Organisation of Eastern Caribbean States:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://caricom.org/documents/legaldocuments/9240-treaty-oecs.htm
+  Year_established: 1981
+  Headquarters: Castries, Saint Lucia
 Eastern Caribbean Central Bank:
   Wikidata_code: Q1210260
   Entity_type: International organisation
@@ -1222,6 +1384,8 @@ Eastern Caribbean Central Bank:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.eccb-centralbank.org/viewPDF/documents/2022-05-27-06-12-30-ECCB-Agreement.pdf
+  Year_established: 1983
+  Headquarters: Basseterre, Saint Kitts and Nevis
 Organization of American States:
   Wikidata_code: Q123759
   Entity_type: International organisation
@@ -1239,6 +1403,8 @@ Organization of American States:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B4
+  Year_established: 1948
+  Headquarters: United States, United States
 Pan‐American Institute of Geography and History:
   Wikidata_code: Q7129603
   Entity_type: International organisation
@@ -1272,6 +1438,8 @@ Inter‐American Institute for Cooperation on Agriculture:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B30
+  Year_established: 1942
+  Headquarters: San José, Costa Rica
 Pan American Health Organization:
   Wikidata_code: Q1856835
   Entity_type: International organisation
@@ -1289,6 +1457,8 @@ Pan American Health Organization:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B30
+  Year_established: 1902
+  Headquarters: Washington, D.C., United States
 Inter‐American Children’s Institute:
   Wikidata_code: '[No code found]'
   Entity_type: International organisation
@@ -1321,6 +1491,7 @@ Inter‐American Commission of Women:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B30
+  Year_established: 1948
 Justice Studies Center for the Americas:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -1360,6 +1531,8 @@ Inter-American Development Bank:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.oas.org/dil/treaties_C-15_Agreement_Establishing_the_Inter-American_Development_Bank.htm
+  Year_established: 1959
+  Headquarters: Washington, D.C., United States
 Inter-American Court of Human Rights:
   Wikidata_code: Q1547804
   Entity_type: International organisation
@@ -1376,6 +1549,8 @@ Inter-American Court of Human Rights:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.oas.org/dil/treaties_b-32_american_convention_on_human_rights.pdf
+  Year_established: 1979
+  Headquarters: San José, Costa Rica
 Inter-American Commission on Human Rights:
   Wikidata_code: Q1589444
   Entity_type: International organisation
@@ -1390,6 +1565,8 @@ Inter-American Commission on Human Rights:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.oas.org/dil/treaties_b-32_american_convention_on_human_rights.pdf
+  Year_established: 1959
+  Headquarters: Washington, D.C., United States
 Inter-American Defense Board:
   Wikidata_code: Q1665759
   Entity_type: International organisation
@@ -1404,6 +1581,8 @@ Inter-American Defense Board:
   Name_es: Junta Interamericana de Defensa
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B30
+  Year_established: 1942
+  Headquarters: Washington, D.C., United States
 Organization for Security and Co-operation in Europe:
   Wikidata_code: Q81299
   Entity_type: International organisation
@@ -1417,6 +1596,8 @@ Organization for Security and Co-operation in Europe:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B4
+  Year_established: 1975
+  Headquarters: Vienna, Austria
 North Atlantic Treaty Organisation:
   Wikidata_code: Q7184
   Entity_type: International organisation
@@ -1430,6 +1611,8 @@ North Atlantic Treaty Organisation:
   Name_fr: Organisation du traité de l'Atlantique nord
   Name_es: OTAN
   OpenSanctions_id: '[No code found.]'
+  Year_established: 1949
+  Headquarters: City of Brussels, Belgium
 Caribbean Community:
   Wikidata_code: Q205995
   Entity_type: International organisation
@@ -1443,6 +1626,8 @@ Caribbean Community:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1973
+  Headquarters: Georgetown, Guyana
 Caribbean Examinations Council:
   Wikidata_code: Q5039378
   Entity_type: International organisation
@@ -1454,6 +1639,7 @@ Caribbean Examinations Council:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Headquarters: Bridgetown, Barbados
 Caribbean Community Implementation Agency for Crime and Security:
   Wikidata_code: Q117197891
   Entity_type: International organisation
@@ -1465,6 +1651,8 @@ Caribbean Community Implementation Agency for Crime and Security:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 2006
+  Headquarters: Port of Spain, Trinidad and Tobago
 Association of Southeast Asian Nations:
   Wikidata_code: Q7768
   Entity_type: International organisation
@@ -1478,6 +1666,8 @@ Association of Southeast Asian Nations:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B7
   OpenSanctions_id: '[No code found.]'
+  Year_established: 1967
+  Headquarters: South Jakarta, Indonesia
 Mercosur:
   Wikidata_code: Q4264
   Entity_type: International organisation
@@ -1491,6 +1681,8 @@ Mercosur:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1991
+  Headquarters: Montevideo, Uruguay
 Mercosur Parliament:
   Wikidata_code: Q2723083
   Entity_type: International organisation
@@ -1505,6 +1697,7 @@ Mercosur Parliament:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.parlamentomercosur.org/innovaportal/file/7308/1/protocolo_es.pdf
+  Headquarters: Montevideo, Uruguay
 Permanent Review Tribunal of Mercosur:
   Wikidata_code: Q2452542
   Entity_type: International organisation
@@ -1513,13 +1706,14 @@ Permanent Review Tribunal of Mercosur:
   Name_en: Permanent Review Tribunal of Mercosur
   Name_es: null
   Name_other_en: null
-  Immunity_url: https://www.tprmercosur.org/es/docum/adm/DEC_01_05_es_Acuerdo_Sede_TPR.pdf
   Treaty_url: https://opil.ouplaw.com/view/10.1093/law-oxio/e148.013.1/law-oxio-e148-regGroup-1-law-oxio-e148-source.pdf
   Source: https://www.europarl.europa.eu/RegData/etudes/IDAN/2022/653652/EXPO_IDA(2022)653652_EN.pdf
   Name_fr: null
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.tprmercosur.org/es/docum/adm/DEC_01_05_es_Acuerdo_Sede_TPR.pdf
+  Year_established: 2002
 African Union:
   Wikidata_code: Q7159
   Entity_type: International organisation
@@ -1533,6 +1727,8 @@ African Union:
   Name_es: Unión Africana
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1999
+  Headquarters: Johannesburg, South Africa
 Africa Centres for Disease Control and Prevention:
   Wikidata_code: Q88234914
   Entity_type: International organisation
@@ -1546,6 +1742,8 @@ Africa Centres for Disease Control and Prevention:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://web.archive.org/web/20250220005838/https://au.int/sites/default/files/treaties/42517-treaty-EN_Revised_Statute_Africa_CDC.pdf
+  Year_established: 2016
+  Headquarters: Addis Ababa, Ethiopia
 African Civil Aviation Commission:
   Wikidata_code: Q88402135
   Entity_type: International organisation
@@ -1558,6 +1756,7 @@ African Civil Aviation Commission:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Headquarters: Dakar, Senegal
 African Medicines Agency:
   Wikidata_code: Q97167520
   Entity_type: International organisation
@@ -1585,6 +1784,8 @@ Arctic Council:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1996
+  Headquarters: Fram Centre, Norway
 Eurasian Economic Union:
   Wikidata_code: Q4173083
   Entity_type: International organisation
@@ -1599,6 +1800,8 @@ Eurasian Economic Union:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.wto.org/english/thewto_e/acc_e/kaz_e/wtacckaz85_leg_1.pdf
+  Year_established: 2015
+  Headquarters: Moscow, Russia
 Organization of Arab Petroleum Exporting Countries:
   Wikidata_code: Q1052077
   Entity_type: International organisation
@@ -1613,6 +1816,8 @@ Organization of Arab Petroleum Exporting Countries:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%20681/volume-681-I-9707-English.pdf
+  Year_established: 1968
+  Headquarters: Kuwait, Kuwait
 Organization of the Petroleum Exporting Countries:
   Wikidata_code: Q7795
   Entity_type: International organisation
@@ -1626,6 +1831,8 @@ Organization of the Petroleum Exporting Countries:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1960
+  Headquarters: Innere Stadt, Austria
 Financial Action Task Force:
   Wikidata_code: Q681487
   Entity_type: International organisation
@@ -1639,6 +1846,8 @@ Financial Action Task Force:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Excluded
   Basis_for_assessment: B34
+  Year_established: 1989
+  Headquarters: Paris, France
 European Court of Human Rights:
   Wikidata_code: Q122880
   Entity_type: International organisation
@@ -1652,6 +1861,8 @@ European Court of Human Rights:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1959
+  Headquarters: Strasbourg, France
 International Hydrographic Organisation:
   Wikidata_code: Q233611
   Entity_type: International organisation
@@ -1666,6 +1877,8 @@ International Hydrographic Organisation:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://iho.int/uploads/user/pubs/misc/M1_Separatedocs/Convention_new_EN.pdf
+  Year_established: 1921
+  Headquarters: Monaco, Monaco
 European Free Trade Association:
   Wikidata_code: Q166546
   Entity_type: International organisation
@@ -1679,6 +1892,8 @@ European Free Trade Association:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1960
+  Headquarters: Geneva, Switzerland
 European Centre for Medium-Range Weather Forecasts:
   Wikidata_code: Q1274195
   Entity_type: International organisation
@@ -1693,6 +1908,8 @@ European Centre for Medium-Range Weather Forecasts:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.ecmwf.int/sites/default/files/amended_convention_protocol_privileges_en.pdf
+  Year_established: 1975
+  Headquarters: Reading, United Kingdom
 International Grains Council:
   Wikidata_code: Q6050768
   Entity_type: International organisation
@@ -1707,6 +1924,8 @@ International Grains Council:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://treaties.un.org/doc/Treaties/1995/07/19950701%2008-42%20PM/Ch_XIX_41_a_bp.pdf
+  Year_established: 1949
+  Headquarters: London, United Kingdom
 International Coffee Organisation:
   Wikidata_code: Q48192
   Entity_type: International organisation
@@ -1720,6 +1939,8 @@ International Coffee Organisation:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1963
+  Headquarters: London, United Kingdom
 International Sugar Organisation:
   Wikidata_code: Q691632
   Entity_type: International organisation
@@ -1734,6 +1955,8 @@ International Sugar Organisation:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://treaties.un.org/doc/Treaties/1993/01/19930120%2004-38%20AM/Ch_XIX_37p.pdf
+  Year_established: 1968
+  Headquarters: London, United Kingdom
 International Cocoa Organization:
   Wikidata_code: Q1667326
   Entity_type: International organisation
@@ -1748,6 +1971,8 @@ International Cocoa Organization:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.icco.org/wp-content/uploads/2019/06/ICA-1986-English.pdf
+  Year_established: 1973
+  Headquarters: Abidjan, Ivory Coast
 International Whaling Commission:
   Wikidata_code: Q1053889
   Entity_type: International organisation
@@ -1761,6 +1986,8 @@ International Whaling Commission:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1946
+  Headquarters: Histon and Impington, United Kingdom
 International Rubber Study Group:
   Wikidata_code: Q131542072
   Entity_type: International organisation
@@ -1799,6 +2026,8 @@ International Telecommunications Satellite Organisation:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://itso.int/wp-content/uploads/2018/01/ITSO-Agreement-Booklet-new-version-FINAL-EnFrEs.pdf
+  Year_established: 1964
+  Headquarters: Washington, D.C., United States
 Oslo and Paris Commissions:
   Wikidata_code: Q125870138
   Entity_type: International organisation
@@ -1846,6 +2075,8 @@ European Telecommunications Satellite Organization:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201519/volume-1519-I-26342-English.pdf
+  Year_established: 1977
+  Headquarters: Paris, France
 North-East Atlantic Fisheries Commission:
   Wikidata_code: Q15106130
   Entity_type: International organisation
@@ -1858,6 +2089,7 @@ North-East Atlantic Fisheries Commission:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1980
 International Mobile Satellite Organization:
   Wikidata_code: Q1666759
   Entity_type: International organisation
@@ -1871,6 +2103,7 @@ International Mobile Satellite Organization:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://imso.org/wp-content/uploads/2025/03/IMSO-C-1976-A-5-Resolution-A.529-E-F-S-R-1.pdf
+  Year_established: 1999
 North Atlantic Salmon Conservation Organization:
   Wikidata_code: Q7053997
   Entity_type: International organisation
@@ -1884,6 +2117,8 @@ North Atlantic Salmon Conservation Organization:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://nasco.int/wp-content/uploads/2020/05/NASCO_Handbook.pdf
+  Year_established: 1983
+  Headquarters: Edinburgh, United Kingdom
 European Organization for Astronomical Research in the Southern Hemisphere:
   Wikidata_code: Q151991
   Entity_type: International organisation
@@ -1898,6 +2133,8 @@ European Organization for Astronomical Research in the Southern Hemisphere:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1962
+  Headquarters: Garching bei München, Germany
 European Space Agency:
   Wikidata_code: Q42262
   Entity_type: International organisation
@@ -1912,6 +2149,8 @@ European Space Agency:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://download.esa.int/docs/LEX-L/ESA-Ratification-acts/United_Kingdom_(28_Mar_1978).pdf
+  Year_established: 1975
+  Headquarters: Paris, France
 European Forest Institute:
   Wikidata_code: Q580400
   Entity_type: International organisation
@@ -1926,6 +2165,8 @@ European Forest Institute:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://efi.int/sites/default/files/files/members/EFI_convention_final_SIW.pdf
+  Year_established: 1993
+  Headquarters: Joensuu, Finland
 Global Combat Air Programme International Government Organisation:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -1963,6 +2204,8 @@ International Criminal Police Organization:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1923
+  Headquarters: Lyon, France
 European Committee for Prevention of Torture:
   Wikidata_code: Q1378135
   Entity_type: International organisation
@@ -1978,6 +2221,7 @@ European Committee for Prevention of Torture:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://rm.coe.int/16806dbaa3
+  Year_established: 1989
 Common Fund for Commodities:
   Wikidata_code: Q604488
   Entity_type: International organisation
@@ -1990,6 +2234,7 @@ Common Fund for Commodities:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://treaties.un.org/pages/ViewDetailsIII.aspx?src=TREATY&mtdsg_no=XIX-21&chapter=19&Temp=mtdsg3&clang=_en
+  Headquarters: Amsterdam, Netherlands
 African Development Bank:
   Wikidata_code: Q340195
   Entity_type: International organisation
@@ -2004,6 +2249,8 @@ African Development Bank:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.afdb.org/fileadmin/uploads/afdb/Documents/Legal-Documents/Agreement_establishing_the_African_development_bank_-_2016_edition.pdf
+  Year_established: 1963
+  Headquarters: Abidjan, Ivory Coast
 African Development Fund:
   Wikidata_code: Q100411453
   Entity_type: International organisation
@@ -2016,6 +2263,7 @@ African Development Fund:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.afdb.org/en/documents/agreement-establishing-african-development-fund-2016-edition
+  Year_established: 1974
 Asian Development Bank:
   Wikidata_code: Q188822
   Entity_type: International organisation
@@ -2029,6 +2277,8 @@ Asian Development Bank:
   OpenSanctions_id: NK-hCyerPpXgxTfWxm5NETuAK
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1966
+  Headquarters: Mandaluyong, Philippines
 Asian Infrastructure Investment Bank:
   Wikidata_code: Q18109843
   Entity_type: International organisation
@@ -2043,6 +2293,8 @@ Asian Infrastructure Investment Bank:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.aiib.org/en/about-aiib/basic-documents/_download/articles-of-agreement/basic_document_english-bank_articles_of_agreement.pdf
+  Year_established: 2014
+  Headquarters: Beijing, People's Republic of China
 Commonwealth Secretariat:
   Wikidata_code: Q3954348
   Entity_type: International organisation
@@ -2051,7 +2303,6 @@ Commonwealth Secretariat:
   Name_en: Commonwealth Secretariat
   Abbreviation_en: null
   Treaty_url: null
-  Immunity_url: https://www.legislation.gov.uk/ukpga/1966/10
   Source: https://www.legislation.gov.uk/ukpga/1966/10
   Source_2: https://comsec-web-static.s3.eu-west-1.amazonaws.com/s3fs-public/2023-10/2022%20Further%20Revised%20Agreed%20Memorandum%20of%20Governance%20Arrangements%20and%20Annexes.pdf?VersionId=I5lXK5y.q4lMIqaVu144z_Ane.729DJn
   Name_fr: Commonwealth Secretariat
@@ -2059,6 +2310,9 @@ Commonwealth Secretariat:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B36
+  Immunity_url: https://www.legislation.gov.uk/ukpga/1966/10
+  Year_established: 1965
+  Headquarters: Marlborough House, United Kingdom
 Commonwealth Secretariat Aribtral Tribunal:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -2067,7 +2321,6 @@ Commonwealth Secretariat Aribtral Tribunal:
   Name_en: Commonwealth Secretariat Aribtral Tribunal
   Abbreviation_en: CSAT
   Treaty_url: https://production-new-commonwealth-files.s3.eu-west-2.amazonaws.com/s3fs-public/2022-02/Tribunal%20(amended)%20Statute%20adopted%2028%20May%202015.pdf?VersionId=HtqpX3_CbRLaeLjziV6JrsAQv71Z1eba
-  Immunity_url: https://www.legislation.gov.uk/ukpga/2005/20/section/2
   Source: https://thecommonwealth.org/tribunal
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
@@ -2086,6 +2339,7 @@ Commonwealth Telecommunications Organisation:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Headquarters: London, United Kingdom
 CAB International:
   Wikidata_code: Q5008528
   Entity_type: International organisation
@@ -2100,6 +2354,8 @@ CAB International:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.cabi.org/wp-content/uploads/PDFs/AboutCABI/CABI-Agreement-2016.pdf
+  Year_established: 1910
+  Headquarters: Wallingford, United Kingdom
 European Organisation for the Safety of Air Navigation:
   Wikidata_code: Q663492
   Entity_type: International organisation
@@ -2113,6 +2369,8 @@ European Organisation for the Safety of Air Navigation:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1960
+  Headquarters: City of Brussels, Belgium
 European Bank for Reconstruction and Development:
   Wikidata_code: Q488981
   Entity_type: International organisation
@@ -2127,6 +2385,8 @@ European Bank for Reconstruction and Development:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.ebrd.com/content/dam/ebrd_dxp/assets/pdfs/institutional-documents/basic-documents-of-the-ebrd-july-2025-english.pdf
+  Year_established: 1991
+  Headquarters: London, United Kingdom
 Caribbean Development Bank:
   Wikidata_code: Q3772571
   Entity_type: International organisation
@@ -2141,6 +2401,8 @@ Caribbean Development Bank:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://treaties.un.org/doc/Treaties/1970/01/19700126%2006-49%20AM/Ch_X_06p.pdf
+  Year_established: 1970
+  Headquarters: Saint Michael, Barbados
 Cooperation Council for the Arab States of the Gulf:
   Wikidata_code: Q217172
   Entity_type: International organisation
@@ -2156,6 +2418,8 @@ Cooperation Council for the Arab States of the Gulf:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1981
+  Headquarters: Riyadh, Saudi Arabia
 Economic Cooperation Organization:
   Wikidata_code: Q225950
   Entity_type: International organisation
@@ -2169,6 +2433,8 @@ Economic Cooperation Organization:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1985
+  Headquarters: Tehran, Iran
 Organization of Ibero-American States:
   Wikidata_code: Q421023
   Entity_type: International organisation
@@ -2184,6 +2450,8 @@ Organization of Ibero-American States:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://oei.int/wp-content/uploads/1985/12/reglamento-de-la-oei.pdf
+  Year_established: 1949
+  Headquarters: calle de Bravo Murillo, Spain
 Organization of the Black Sea Economic Cooperation:
   Wikidata_code: Q380340
   Entity_type: International organisation
@@ -2198,6 +2466,8 @@ Organization of the Black Sea Economic Cooperation:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.bsec-organization.org/UploadedDocuments/StatutoryDocumentsAgreements/CHARTERFourthEdition7July.pdf
+  Year_established: 1992
+  Headquarters: Istanbul, Turkey
 Pacific Alliance:
   Wikidata_code: Q7122288
   Entity_type: International organisation
@@ -2212,6 +2482,7 @@ Pacific Alliance:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 2011
 South Asian Association for Regional Cooperation:
   Wikidata_code: Q145700
   Entity_type: International organisation
@@ -2225,6 +2496,8 @@ South Asian Association for Regional Cooperation:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1985
+  Headquarters: Kathmandu, Nepal
 Union of South American Nations:
   Wikidata_code: Q4230
   Entity_type: International organisation
@@ -2239,6 +2512,8 @@ Union of South American Nations:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.icwa.in/WriteReadData/L45218/1496229018.pdf
+  Year_established: 2008
+  Headquarters: Quito, Ecuador
 Pacific Islands Forum:
   Wikidata_code: Q757276
   Entity_type: International organisation
@@ -2253,6 +2528,8 @@ Pacific Islands Forum:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1971
+  Headquarters: Suva, Fiji
 East African Community:
   Wikidata_code: Q337456
   Entity_type: International organisation
@@ -2267,6 +2544,8 @@ East African Community:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://investmentpolicy.unctad.org/international-investment-agreements/treaty-files/2487/download
+  Year_established: 2000
+  Headquarters: Arusha, Tanzania
 Economic Community of Central African States:
   Wikidata_code: Q189966
   Entity_type: International organisation
@@ -2281,6 +2560,8 @@ Economic Community of Central African States:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://investmentpolicy.unctad.org/international-investment-agreements/treaty-files/2401/download
+  Year_established: 1983
+  Headquarters: Malabo, Equatorial Guinea
 Economic Community of West African States:
   Wikidata_code: Q193272
   Entity_type: International organisation
@@ -2295,6 +2576,8 @@ Economic Community of West African States:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.ecowas.int/wp-content/uploads/2022/06/THE-1975-TREATY-OF-ECOWAS.pdf
+  Year_established: 1975
+  Headquarters: Abuja, Nigeria
 Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation:
   Wikidata_code: Q795985
   Entity_type: International organisation
@@ -2309,6 +2592,7 @@ Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1997
 Union for the Mediterranean:
   Wikidata_code: Q192177
   Entity_type: International organisation
@@ -2322,6 +2606,8 @@ Union for the Mediterranean:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 2008
+  Headquarters: Barcelona, Spain
 Council of Europe Development Bank:
   Wikidata_code: Q611107
   Entity_type: International organisation
@@ -2336,6 +2622,8 @@ Council of Europe Development Bank:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://coebank.org/documents/51/CEB_Articles_of_Agreement_August_2023.pdf
+  Year_established: 1956
+  Headquarters: Paris, France
 World Customs Organisation:
   Wikidata_code: Q605326
   Entity_type: International organisation
@@ -2350,6 +2638,8 @@ World Customs Organisation:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.wcoomd.org/-/media/wco/public/global/pdf/about-us/legal-instruments/conventions-and-agreements/ccc/convccc.pdf?la=en
+  Year_established: 1953
+  Headquarters: Brussels metropolitan area, Belgium
 Organisation for Economic Co-operation and Development:
   Wikidata_code: Q41550
   Entity_type: International organisation
@@ -2363,6 +2653,8 @@ Organisation for Economic Co-operation and Development:
   Name_es: Organización para la Cooperación y el Desarrollo Económico
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1948
+  Headquarters: Paris, France
 Indian Ocean Rim Association:
   Wikidata_code: Q2297691
   Entity_type: International organisation
@@ -2376,6 +2668,7 @@ Indian Ocean Rim Association:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1997
 European Organisation for the Exploitation of Meteorological Satellites:
   Wikidata_code: Q692163
   Entity_type: International organisation
@@ -2390,6 +2683,8 @@ European Organisation for the Exploitation of Meteorological Satellites:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://docs.pca-cpa.org/2016/01/Convention-for-the-Establishment-of-a-European-Organization-for-the-Exploitation-of-Meteorological-Satellites-EUMETSAT.pdf
+  Year_established: 1986
+  Headquarters: Darmstadt, Germany
 International Copper Study Group:
   Wikidata_code: Q17084551
   Entity_type: International organisation
@@ -2402,6 +2697,7 @@ International Copper Study Group:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1992
 International Pepper Community:
   Wikidata_code: Q17022497
   Entity_type: International organisation
@@ -2413,6 +2709,7 @@ International Pepper Community:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1972
 International Organisation of Vine and Wine:
   Wikidata_code: Q1317185
   Entity_type: International organisation
@@ -2426,6 +2723,8 @@ International Organisation of Vine and Wine:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 2001
+  Headquarters: Hôtel d'Esterno, France
 International Olive Council:
   Wikidata_code: Q13516775
   Entity_type: International organisation
@@ -2441,6 +2740,8 @@ International Olive Council:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A22016A1028%2801%29
+  Year_established: 1956
+  Headquarters: Madrid, Spain
 Asian and Pacific Coconut Community:
   Wikidata_code: Q16962216
   Entity_type: International organisation
@@ -2452,6 +2753,7 @@ Asian and Pacific Coconut Community:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1969
 International Nickel Study Group:
   Wikidata_code: Q111552234
   Entity_type: International organisation
@@ -2477,6 +2779,8 @@ Permanent Court of Arbitration:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://docs.pca-cpa.org/2016/01/1899-Convention-for-the-Pacific-Settlement-of-International-Disputes.pdf
+  Year_established: 1899
+  Headquarters: The Hague, Netherlands
 Nordic Council:
   Wikidata_code: Q146165
   Entity_type: International organisation
@@ -2490,6 +2794,8 @@ Nordic Council:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1952
+  Headquarters: Copenhagen, Denmark
 Nordic Council of Ministers:
   Wikidata_code: Q182379
   Entity_type: International organisation
@@ -2503,6 +2809,8 @@ Nordic Council of Ministers:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1971
+  Headquarters: Ved Stranden 18, Denmark
 Advisory Centre on World Trade Organization Law:
   Wikidata_code: Q3664799
   Entity_type: International organisation
@@ -2515,6 +2823,7 @@ Advisory Centre on World Trade Organization Law:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 2001
 African Court of Justice and Human Rights:
   Wikidata_code: Q24963791
   Entity_type: International organisation
@@ -2543,6 +2852,8 @@ International Bureau of Weights and Measures:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.bipm.org/documents/20126/44107685/metre-convention.pdf/cd9c9e57-0cc6-4cda-2930-ec1d7c853743?version=1.9&t=1686910612244&download=true
+  Year_established: 1875
+  Headquarters: Sèvres, France
 International Commission on Civil Status:
   Wikidata_code: Q677893
   Entity_type: International organisation
@@ -2556,6 +2867,8 @@ International Commission on Civil Status:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1949
+  Headquarters: Strasbourg, France
 International Vaccine Institute:
   Wikidata_code: Q6054186
   Entity_type: International organisation
@@ -2570,6 +2883,8 @@ International Vaccine Institute:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.ivi.int/wp-content/uploads/2022/03/IVI_Est_Agreement__Constitution_amended-_English.pdf
+  Year_established: 1997
+  Headquarters: Seoul, South Korea
 Pacific Aviation Safety Office:
   Wikidata_code: Q16962397
   Entity_type: International organisation
@@ -2582,6 +2897,7 @@ Pacific Aviation Safety Office:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://forumsec.org/sites/default/files/2024-03/Pacific-Islands-Civil-Aviation-Safety-and-Security-Treaty-PICASST-1.pdf
+  Year_established: 2002
 International Institute for the Unification of Private Law:
   Wikidata_code: Q1192641
   Entity_type: International organisation
@@ -2596,6 +2912,8 @@ International Institute for the Unification of Private Law:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.unidroit.org/wp-content/uploads/2021/05/statute.pdf
+  Year_established: 1926
+  Headquarters: Rome, Italy
 Regional Cooperation Agreement on Combating Piracy and Armed Robbery against Ships in Asia:
   Wikidata_code: Q7309031
   Entity_type: International organisation
@@ -2611,6 +2929,7 @@ Regional Cooperation Agreement on Combating Piracy and Armed Robbery against Shi
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.mofa.go.jp/mofaj/gaiko/kaiyo/pdfs/kyotei_s.pdf
+  Headquarters: Singapore, Singapore
 Intergovernmental Council of Copper Exporting Countries:
   Wikidata_code: Q1023742
   Entity_type: International organisation
@@ -2624,6 +2943,7 @@ Intergovernmental Council of Copper Exporting Countries:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1967
 East Mediterranean Gas Forum:
   Wikidata_code: Q97163711
   Entity_type: International organisation
@@ -2635,6 +2955,8 @@ East Mediterranean Gas Forum:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 2020
+  Headquarters: Cairo, Egypt
 Gas Exporting Countries Forum:
   Wikidata_code: Q1031255
   Entity_type: International organisation
@@ -2648,6 +2970,8 @@ Gas Exporting Countries Forum:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 2001
+  Headquarters: Doha, Qatar
 International Pacific Halibut Commission:
   Wikidata_code: Q6052294
   Entity_type: International organisation
@@ -2660,6 +2984,8 @@ International Pacific Halibut Commission:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1923
+  Headquarters: Seattle, United States
 Salzburg Forum:
   Wikidata_code: Q7406988
   Entity_type: International organisation
@@ -2671,6 +2997,7 @@ Salzburg Forum:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Excluded
   Basis_for_assessment: B29
+  Year_established: 2000
 Tuvalu Trust Fund:
   Wikidata_code: Q7857109
   Entity_type: International organisation
@@ -2683,6 +3010,7 @@ Tuvalu Trust Fund:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1987
 Southern African Customs Union:
   Wikidata_code: Q1344350
   Entity_type: International organisation
@@ -2697,6 +3025,8 @@ Southern African Customs Union:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1910
+  Headquarters: Windhoek, Namibia
 International Commission for the Protection of the Danube River:
   Wikidata_code: Q699466
   Entity_type: International organisation
@@ -2711,6 +3041,7 @@ International Commission for the Protection of the Danube River:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1998
 Danube Commission:
   Wikidata_code: Q911204
   Entity_type: International organisation
@@ -2726,6 +3057,8 @@ Danube Commission:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1949
+  Headquarters: Budapest, Hungary
 International Boundary and Water Commission:
   Wikidata_code: Q8348493
   Entity_type: International organisation
@@ -2739,6 +3072,7 @@ International Boundary and Water Commission:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1889
 Great Lakes Fishery Commission:
   Wikidata_code: Q2986576
   Entity_type: International organisation
@@ -2752,6 +3086,7 @@ Great Lakes Fishery Commission:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1954
 European Patent Organisation:
   Wikidata_code: Q685547
   Entity_type: International organisation
@@ -2766,6 +3101,8 @@ European Patent Organisation:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://link.epo.org/web/EPC_17th_edition_2020_en.pdf
+  Year_established: 1977
+  Headquarters: Munich, Germany
 Inter-American Investment Corporation:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -2793,6 +3130,8 @@ Organisation of Islamic Cooperation:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.oic-oci.org/upload/documents/charter/en/oic_charter_2018_en.pdf
+  Year_established: 1969
+  Headquarters: Jeddah, Saudi Arabia
 International Investment Bank:
   Wikidata_code: Q1824234
   Entity_type: International organisation
@@ -2806,6 +3145,8 @@ International Investment Bank:
   OpenSanctions_id: bic-IIBMRUMM
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1970
+  Headquarters: Moscow, Russia
 Indian Ocean Commission:
   Wikidata_code: Q1115631
   Entity_type: International organisation
@@ -2820,6 +3161,7 @@ Indian Ocean Commission:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.assemblee-nationale.fr/dyn/16/textes/l16b0150_accord-international.pdf
+  Year_established: 1982
 Central American Integration System:
   Wikidata_code: Q190028
   Entity_type: International organisation
@@ -2833,6 +3175,8 @@ Central American Integration System:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1991
+  Headquarters: San Salvador, El Salvador
 Multilateral Investment Guarantee Agency:
   Wikidata_code: Q1043527
   Entity_type: International organisation
@@ -2847,6 +3191,8 @@ Multilateral Investment Guarantee Agency:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B12
   Immunity_url: https://www.miga.org/sites/default/files/archive/Documents/MIGA%20Convention%20(April%202018).pdf
+  Year_established: 1988
+  Headquarters: Washington, D.C., United States
 Pacific Tourism Organisation:
   Wikidata_code: Q7568120
   Entity_type: International organisation
@@ -2859,6 +3205,7 @@ Pacific Tourism Organisation:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: http://www.paclii.org/pits/en/treaty_database/1999/1.html
+  Year_established: 1999
 Amazon Cooperation Treaty Organization:
   Wikidata_code: Q602399
   Entity_type: International organisation
@@ -2873,6 +3220,8 @@ Amazon Cooperation Treaty Organization:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: http://www.paclii.org/pits/en/treaty_database/1999/1.html
+  Year_established: 1995
+  Headquarters: Brasília, Brazil
 Nordic Investment Bank:
   Wikidata_code: Q2020649
   Entity_type: International organisation
@@ -2887,6 +3236,8 @@ Nordic Investment Bank:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://web.archive.org/web/20240613035236/https://www.jus.uio.no/english/services/library/treaties/09/9-02/nordic-investment-bank.html
+  Year_established: 1976
+  Headquarters: Helsinki, Finland
 Niger Basin Authority:
   Wikidata_code: Q1162546
   Entity_type: International organisation
@@ -2901,6 +3252,8 @@ Niger Basin Authority:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: http://gis.nacse.org/tfdd/tfdddocs/418ENG.pdf
+  Year_established: 1980
+  Headquarters: Niamey, Niger
 Organization of Turkic States:
   Wikidata_code: Q596850
   Entity_type: International organisation
@@ -2914,6 +3267,8 @@ Organization of Turkic States:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 2009
+  Headquarters: Fatih, Turkey
 Common Market for Eastern and Southern Africa:
   Wikidata_code: Q1165797
   Entity_type: International organisation
@@ -2928,6 +3283,7 @@ Common Market for Eastern and Southern Africa:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.comesa.int/wp-content/uploads/2019/02/comesa-treaty-revised-20092012_with-zaire_final.pdf
+  Year_established: 1994
 COMESA Court of Justice:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -2955,6 +3311,8 @@ Community of Portuguese Language Countries:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1996
+  Headquarters: Penafiel Palace, Portugal
 Collective Security Treaty Organization:
   Wikidata_code: Q318693
   Entity_type: International organisation
@@ -2968,6 +3326,8 @@ Collective Security Treaty Organization:
   Name_es: Organización del Tratado de la Seguridad Colectiva
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1992
+  Headquarters: Moscow, Russia
 Agency for Aerial Navigation Safety in Africa and Madagascar:
   Wikidata_code: Q2826699
   Entity_type: International organisation
@@ -2981,6 +3341,8 @@ Agency for Aerial Navigation Safety in Africa and Madagascar:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.asecna.aero/images/Docs/Publications/Convention/Convention_ASECNA_Version_Anglaise.pdf
+  Year_established: 1959
+  Headquarters: Dakar, Senegal
 Shanghai Cooperation Organisation:
   Wikidata_code: Q485207
   Entity_type: International organisation
@@ -2995,6 +3357,8 @@ Shanghai Cooperation Organisation:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.mea.gov.in/Portal/LegalTreatiesDoc/000M3130.pdf
+  Year_established: 2001
+  Headquarters: Beijing, People's Republic of China
 Northwest Atlantic Fisheries Organization:
   Wikidata_code: Q580933
   Entity_type: International organisation
@@ -3008,6 +3372,8 @@ Northwest Atlantic Fisheries Organization:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.nafo.int/Portals/0/PDFs/key-publications/NAFOConvention.pdf
+  Year_established: 1979
+  Headquarters: Halifax, Canada
 Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organisation:
   Wikidata_code: Q15211422
   Entity_type: International organisation
@@ -3021,6 +3387,8 @@ Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organisatio
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1996
+  Headquarters: Vienna International Centre, Austria
 Association of Caribbean States:
   Wikidata_code: Q1147937
   Entity_type: International organisation
@@ -3035,6 +3403,8 @@ Association of Caribbean States:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.acs-aec.org/sites/default/files/acs_convention_eng.doc
+  Year_established: 1994
+  Headquarters: Port of Spain, Trinidad and Tobago
 Dutch Language Union:
   Wikidata_code: Q152299
   Entity_type: International organisation
@@ -3049,6 +3419,8 @@ Dutch Language Union:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://taalunie.org/feeds/download/taalunieverdrag-1980-en-616e8.pdf/Taalunieverdrag%20(1980,%20Engels)/original
+  Year_established: 1980
+  Headquarters: The Hague, Netherlands
 Science and Technology Center in Ukraine:
   Wikidata_code: Q7433636
   Entity_type: International organisation
@@ -3061,6 +3433,7 @@ Science and Technology Center in Ukraine:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.evropskyvyzkum.cz/cs/storage/ddd411519c219953947dede0914eee69f0c355c6?uid=ddd411519c219953947dede0914eee69f0c355c6
+  Year_established: 1993
 Arab Maghreb Union:
   Wikidata_code: Q370862
   Entity_type: International organisation
@@ -3074,6 +3447,7 @@ Arab Maghreb Union:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1989
 South Centre:
   Wikidata_code: Q498517
   Entity_type: International organisation
@@ -3086,6 +3460,8 @@ South Centre:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1995
+  Headquarters: Geneva, Switzerland
 Commission for the Conservation of Southern Bluefin Tuna:
   Wikidata_code: Q22032253
   Entity_type: International organisation
@@ -3098,6 +3474,8 @@ Commission for the Conservation of Southern Bluefin Tuna:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201819/volume-1819-I-31155-English.pdf
+  Year_established: 1994
+  Headquarters: Canberra, Australia
 North East Atlantic Fisheries Commission:
   Wikidata_code: Q15106130
   Entity_type: International organisation
@@ -3110,6 +3488,7 @@ North East Atlantic Fisheries Commission:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1980
 North Atlantic Marine Mammal Commission:
   Wikidata_code: Q3076178
   Entity_type: International organisation
@@ -3123,6 +3502,7 @@ North Atlantic Marine Mammal Commission:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Headquarters: Tromsø Municipality, Norway
 South East Atlantic Fisheries Organisation:
   Wikidata_code: Q3492244
   Entity_type: International organisation
@@ -3136,6 +3516,7 @@ South East Atlantic Fisheries Organisation:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: http://www.seafo.org/About/Convention-Text
+  Year_established: 2003
 Baltic Marine Environment Protection Commission:
   Wikidata_code: Q1563503
   Entity_type: International organisation
@@ -3149,6 +3530,8 @@ Baltic Marine Environment Protection Commission:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1992
+  Headquarters: Helsinki, Finland
 Organisation of African, Caribbean and Pacific States:
   Wikidata_code: Q294278
   Entity_type: International organisation
@@ -3162,6 +3545,8 @@ Organisation of African, Caribbean and Pacific States:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1975
+  Headquarters: City of Brussels, Belgium
 New Development Bank:
   Wikidata_code: Q8579145
   Entity_type: International organisation
@@ -3176,6 +3561,8 @@ New Development Bank:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.ndb.int/wp-content/uploads/2022/11/Agreement-on-the-New-Development-Bank.pdf
+  Year_established: 2015
+  Headquarters: Shanghai, People's Republic of China
 North Pacific Marine Science Organization:
   Wikidata_code: Q21015877
   Entity_type: International organisation
@@ -3188,6 +3575,7 @@ North Pacific Marine Science Organization:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://meetings.pices.int/about/convention
+  Year_established: 1992
 Pacific Community:
   Wikidata_code: Q871511
   Entity_type: International organisation
@@ -3202,6 +3590,8 @@ Pacific Community:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.austlii.edu.au/au/other/dfat/treaties/1948/15.html
+  Year_established: 1947
+  Headquarters: Nouméa, France
 Nigeria–São Tomé and Príncipe Joint Development Authority:
   Wikidata_code: Q7033072
   Entity_type: International organisation
@@ -3214,6 +3604,7 @@ Nigeria–São Tomé and Príncipe Joint Development Authority:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://web.archive.org/web/20100202064636/http://www.nigeriasaotomejda.com/PDFs/treaty.pdf
+  Year_established: 2001
 South Pacific Regional Fisheries Management Organisation:
   Wikidata_code: Q21663305
   Entity_type: International organisation
@@ -3226,6 +3617,8 @@ South Pacific Regional Fisheries Management Organisation:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.austlii.edu.au/au/other/dfat/treaties/ATS/2012/28.html
+  Year_established: 2006
+  Headquarters: Wellington, New Zealand
 Commission for Environmental Cooperation:
   Wikidata_code: Q2986468
   Entity_type: International organisation
@@ -3240,6 +3633,7 @@ Commission for Environmental Cooperation:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://ustr.gov/sites/default/files/naaec.pdf
+  Year_established: 1994
 Inter-American Tropical Tuna Commission:
   Wikidata_code: Q3153044
   Entity_type: International organisation
@@ -3254,6 +3648,7 @@ Inter-American Tropical Tuna Commission:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1950
 Intergovernmental Organisation for International Carriage by Rail:
   Wikidata_code: Q2333216
   Entity_type: International organisation
@@ -3268,6 +3663,8 @@ Intergovernmental Organisation for International Carriage by Rail:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1985
+  Headquarters: Bern, Switzerland
 Organization for the Prohibition of Chemical Weapons:
   Wikidata_code: Q842490
   Entity_type: International organisation
@@ -3281,6 +3678,8 @@ Organization for the Prohibition of Chemical Weapons:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1997
+  Headquarters: The Hague, Netherlands
 International Union for the Protection of New Varieties of Plants:
   Wikidata_code: Q690318
   Entity_type: International organisation
@@ -3294,6 +3693,8 @@ International Union for the Protection of New Varieties of Plants:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1998
+  Headquarters: Geneva, Switzerland
 EUCLID University:
   Wikidata_code: Q3046238
   Entity_type: International organisation
@@ -3306,6 +3707,8 @@ EUCLID University:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 2008
+  Headquarters: Banjul, The Gambia
 International Joint Commission:
   Wikidata_code: Q6051258
   Entity_type: International organisation
@@ -3318,6 +3721,7 @@ International Joint Commission:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1909
 International Energy Agency:
   Wikidata_code: Q826700
   Entity_type: International organisation
@@ -3331,6 +3735,8 @@ International Energy Agency:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1974
+  Headquarters: Paris, France
 International Renewable Energy Agency:
   Wikidata_code: Q392739
   Entity_type: International organisation
@@ -3345,6 +3751,8 @@ International Renewable Energy Agency:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://assets.publishing.service.gov.uk/media/5a807aa540f0b62302693c04/TS_8.2015_Cm_9062_WEB_ACC.pdf
+  Year_established: 2009
+  Headquarters: United Arab Emirates, United Arab Emirates
 Agreement on the Conservation of Albatrosses and Petrels:
   Wikidata_code: Q331541
   Entity_type: International organisation
@@ -3371,6 +3779,8 @@ Comprehensive Nuclear-Test-Ban Treaty Organisation:
   Name_fr: Organisation du traité d'interdiction complète des essais nucléaires
   Name_es: Organización del Tratado de Prohibición Completa de los Ensayos Nucleares
   Immunity_url: https://www.ctbto.org/sites/default/files/2023-10/2022_treaty_booklet_E.pdf
+  Year_established: 1996
+  Headquarters: Vienna, Austria
 Energy Community:
   Wikidata_code: Q2989312
   Entity_type: International organisation
@@ -3383,6 +3793,8 @@ Energy Community:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 2006
+  Headquarters: Vienna, Austria
 Collaborative Inter-Governmental Scientific Research Institute:
   Wikidata_code: Q15991224
   Entity_type: International organisation
@@ -3409,6 +3821,8 @@ International Cospas-Sarsat Programme:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201518/v1518.pdf
+  Year_established: 1979
+  Headquarters: Montreal, Canada
 International Centre for Genetic Engineering and Biotechnology:
   Wikidata_code: Q6049095
   Entity_type: International organisation
@@ -3421,6 +3835,7 @@ International Centre for Genetic Engineering and Biotechnology:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://treaties.un.org/doc/source/docs/ICGEB_BG.3_21-E.pdf
+  Year_established: 1994
 Mano River Union:
   Wikidata_code: Q1505172
   Entity_type: International organisation
@@ -3435,6 +3850,8 @@ Mano River Union:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://wits.worldbank.org/GPTAD/PDF/archive/MRU.pdf
+  Year_established: 1973
+  Headquarters: Freetown, Sierra Leone
 Association of Iron Ore Exporting Countries:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -3458,6 +3875,8 @@ African Groundnut Council:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1964
+  Headquarters: Kano, Nigeria
 International Anti-Corruption Academy:
   Wikidata_code: Q876957
   Entity_type: International organisation
@@ -3472,6 +3891,8 @@ International Anti-Corruption Academy:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.iaca.int/images/PDF/IACA_Agreement_ENGLISH.pdf
+  Year_established: 2011
+  Headquarters: Palais Kaunitz-Wittgenstein, Austria
 Conseil de l'Entente:
   Wikidata_code: Q945574
   Entity_type: International organisation
@@ -3486,6 +3907,8 @@ Conseil de l'Entente:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: http://www.conseildelentente.org/images/pdf/charte/charte_du_conseil_de_lentente.pdf
+  Year_established: 1959
+  Headquarters: Abidjan, Ivory Coast
 Desert Locust Control Organisation for Eastern Africa:
   Wikidata_code: Q30596094
   Entity_type: International organisation
@@ -3498,6 +3921,8 @@ Desert Locust Control Organisation for Eastern Africa:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.fao.org/4/50641E/50641E05.htm
+  Year_established: 1962
+  Headquarters: Addis Ababa, Ethiopia
 International Science and Technology Center:
   Wikidata_code: Q13415305
   Entity_type: International organisation
@@ -3511,6 +3936,8 @@ International Science and Technology Center:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:22017A0214(01)
+  Year_established: 1994
+  Headquarters: Astana, Kazakhstan
 International Commission for the Conservation of Atlantic Tunas:
   Wikidata_code: Q840267
   Entity_type: International organisation
@@ -3524,6 +3951,7 @@ International Commission for the Conservation of Atlantic Tunas:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Headquarters: Madrid, Spain
 Economic Community of the Great Lakes Countries:
   Wikidata_code: Q1331783
   Entity_type: International organisation
@@ -3537,6 +3965,8 @@ Economic Community of the Great Lakes Countries:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800f81f4&clang=_en
+  Year_established: 1976
+  Headquarters: Gisenyi, Rwanda
 International Boundary Commission:
   Wikidata_code: Q29467091
   Entity_type: International organisation
@@ -3549,6 +3979,7 @@ International Boundary Commission:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Excluded
   Basis_for_assessment: B31
+  Year_established: 1908
 African Trade and Investment Development Insurance:
   Wikidata_code: Q60742417
   Entity_type: International organisation
@@ -3561,6 +3992,7 @@ African Trade and Investment Development Insurance:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.atidi.africa/wp-content/uploads/2023/10/ATI-Treaty-2022-001-Certified-091023-Stamped.pdf
+  Year_established: 2001
 Inter-American Institute for Global Change Research:
   Wikidata_code: Q6044567
   Entity_type: International organisation
@@ -3573,6 +4005,7 @@ Inter-American Institute for Global Change Research:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.iai.int/pdf/en/agreement_establishing_the_IAI_en.pdf
+  Year_established: 2004
 European Molecular Biology Laboratory:
   Wikidata_code: Q695267
   Entity_type: International organisation
@@ -3587,6 +4020,8 @@ European Molecular Biology Laboratory:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.embl.org/documents/wp-content/uploads/2020/05/establishingEMBL.pdf
+  Year_established: 1974
+  Headquarters: Heidelberg, Germany
 International Centre for Settlement of Investment Disputes:
   Wikidata_code: Q899770
   Entity_type: International organisation
@@ -3601,6 +4036,7 @@ International Centre for Settlement of Investment Disputes:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B13
   Immunity_url: https://icsid.worldbank.org/sites/default/files/documents/ICSID_Convention.pdf
+  Year_established: 1965
 Center for International Forestry Research and World Agroforestry:
   Wikidata_code: Q121461382
   Entity_type: International organisation
@@ -3613,6 +4049,8 @@ Center for International Forestry Research and World Agroforestry:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.austlii.edu.au/cgi-bin/sinodisp/au/other/dfat/treaties/ATS/1993/13.html?stem=0&synonyms=0&query=CIFOR%20Agreement
+  Year_established: 2019
+  Headquarters: Nairobi, Kenya
 Africa Rice Center:
   Wikidata_code: Q383924
   Entity_type: International organisation
@@ -3630,6 +4068,8 @@ Africa Rice Center:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://faolex.fao.org/docs/pdf/mul215505.pdf
+  Year_established: 1971
+  Headquarters: Bouaké, Ivory Coast
 International Livestock Research Institute:
   Wikidata_code: Q1666743
   Entity_type: International organisation
@@ -3645,6 +4085,8 @@ International Livestock Research Institute:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1994
+  Headquarters: Nairobi, Kenya
 Association of Natural Rubber Producing Countries:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -3671,6 +4113,8 @@ West African Economic and Monetary Union:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.bceao.int/sites/default/files/inline-files/TraiteUMOA2010_tr_Eng.pdf
+  Year_established: 1994
+  Headquarters: Ouagadougou, Burkina Faso
 African Regional Intellectual Property Organization:
   Wikidata_code: Q384434
   Entity_type: International organisation
@@ -3684,6 +4128,8 @@ African Regional Intellectual Property Organization:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1976
+  Headquarters: Harare, Zimbabwe
 African Intellectual Property organisation:
   Wikidata_code: Q1476775
   Entity_type: International organisation
@@ -3699,6 +4145,8 @@ African Intellectual Property organisation:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.wipo.int/wipolex/en/text/582620
+  Year_established: 1962
+  Headquarters: Yaoundé, Cameroon
 Convention for the Conservation of Antarctic Marine Living Resources:
   Wikidata_code: Q97382426
   Entity_type: International organisation
@@ -3711,6 +4159,7 @@ Convention for the Conservation of Antarctic Marine Living Resources:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.ccamlr.org/en/organisation/camlr-convention-text
+  Headquarters: Hobart, Australia
 Residual Special Court for Sierra Leone:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -3737,6 +4186,8 @@ GUAM Organization for Democracy and Economic Development:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://guam-organization.org/en/charter-of-organization-for-democracy-and-economic-development-guam/
+  Year_established: 1997
+  Headquarters: Kyiv, Ukraine
 SAARC Development Fund:
   Wikidata_code: Q120512563
   Entity_type: International organisation
@@ -3797,6 +4248,8 @@ International Committee of Military Medicine:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1921
+  Headquarters: Brussels-Capital Region, Belgium
 International Council for Exploration of the Sea:
   Wikidata_code: Q1613859
   Entity_type: International organisation
@@ -3811,6 +4264,8 @@ International Council for Exploration of the Sea:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.ices.dk/about-ICES/who-we-are/Documents/ICES_Convention_1964.pdf
+  Year_established: 1902
+  Headquarters: Copenhagen, Denmark
 International Development Law Organization:
   Wikidata_code: Q11977461
   Entity_type: International organisation
@@ -3825,6 +4280,8 @@ International Development Law Organization:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.idlo.int/sites/default/files/documents/idlo_establishment_agreement_2019.pdf
+  Year_established: 1983
+  Headquarters: Rome, Italy
 International Commission on Missing Persons:
   Wikidata_code: Q676812
   Entity_type: International organisation
@@ -3838,6 +4295,8 @@ International Commission on Missing Persons:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://assets.publishing.service.gov.uk/media/5a80296de5274a2e87db836f/TS_9.2015_Cm_9063_WEB_ACC.pdf
+  Year_established: 1996
+  Headquarters: The Hague, Netherlands
 International Institute of Refrigeration:
   Wikidata_code: Q3152339
   Entity_type: International organisation
@@ -3850,6 +4309,8 @@ International Institute of Refrigeration:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1908
+  Headquarters: Paris, France
 Latin American Integration Association:
   Wikidata_code: Q607301
   Entity_type: International organisation
@@ -3863,6 +4324,8 @@ Latin American Integration Association:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1980
+  Headquarters: Montevideo, Uruguay
 Hague Conference on Private International Law:
   Wikidata_code: Q4130823
   Entity_type: International organisation
@@ -3876,6 +4339,8 @@ Hague Conference on Private International Law:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1893
+  Headquarters: The Hague, Netherlands
 Group of Latin American and Caribbean Sugar Exporting Countries:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -3901,6 +4366,8 @@ Inter-American Center for Tax Administrations:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1967
+  Headquarters: Panama City, Panama
 Global Crop Diversity Trust:
   Wikidata_code: Q2004478
   Entity_type: International organisation
@@ -3913,6 +4380,8 @@ Global Crop Diversity Trust:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 2005
+  Headquarters: Bonn, Germany
 Joint Institute for Nuclear Research:
   Wikidata_code: Q259517
   Entity_type: International organisation
@@ -3926,6 +4395,8 @@ Joint Institute for Nuclear Research:
   OpenSanctions_id: NK-VzW4UF3eA7ydeHU3hgN3Cc
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1956
+  Headquarters: Dubna, Russia
 Joint Vienna Institute:
   Wikidata_code: Q128996047
   Entity_type: International organisation
@@ -3951,6 +4422,8 @@ International Tropical Timber Organisation:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.itto.int/direct/topics/topics_pdf_download/topics_id=3363&no=1&disp=inline
+  Year_established: 1985
+  Headquarters: Yokohama, Japan
 Lake Chad Basin Commission:
   Wikidata_code: Q2986599
   Entity_type: International organisation
@@ -3964,6 +4437,8 @@ Lake Chad Basin Commission:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://faolex.fao.org/docs/pdf/cmr1076.pdf
+  Year_established: 1964
+  Headquarters: N'Djamena, Chad
 International Tea Promotion Association:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -3989,6 +4464,8 @@ World Organisation for Animal Health:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1924
+  Headquarters: 17th arrondissement of Paris, France
 North Pacific Anadromous Fish Commission:
   Wikidata_code: Q12599115
   Entity_type: International organisation
@@ -4025,6 +4502,7 @@ Parliamentary Assembly of the Mediterranean:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 2005
 Secretariat of the Convention on Biological Diversity:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -4049,6 +4527,8 @@ European and Mediterranean Plant Protection Organization:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1955
+  Headquarters: Paris, France
 Energy Charter Conference:
   Wikidata_code: Q121286812
   Entity_type: International organisation
@@ -4074,6 +4554,8 @@ EU-LAC International Foundation:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:22019A0412(01)&rid=1
+  Year_established: 2010
+  Headquarters: Hamburg, Germany
 Secreriat of the Antarctic Treaty:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -4099,6 +4581,8 @@ Central African Economic and Monetary Community:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1999
+  Headquarters: Bangui, Central African Republic
 Central Africa Forests Commission:
   Wikidata_code: Q5060269
   Entity_type: International organisation
@@ -4111,6 +4595,7 @@ Central Africa Forests Commission:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1999
 Caribbean Court of Justice:
   Wikidata_code: Q775029
   Entity_type: International organisation
@@ -4125,6 +4610,8 @@ Caribbean Court of Justice:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://ccj.org/wp-content/uploads/2021/02/ccj_agreement.pdf
+  Year_established: 2005
+  Headquarters: Port of Spain, Trinidad and Tobago
 Brazilian-Argentine Agency for Accounting and Control of Nuclear Materials:
   Wikidata_code: Q290585
   Entity_type: International organisation
@@ -4138,6 +4625,8 @@ Brazilian-Argentine Agency for Accounting and Control of Nuclear Materials:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.iaea.org/sites/default/files/infcirc435.pdf
+  Year_established: 1991
+  Headquarters: Rio de Janeiro, Brazil
 Central Commission for the Navigation of the Rhine:
   Wikidata_code: Q190650
   Entity_type: International organisation
@@ -4151,6 +4640,8 @@ Central Commission for the Navigation of the Rhine:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1815
+  Headquarters: Strasbourg, France
 Bank of the Central African States:
   Wikidata_code: Q189972
   Entity_type: International organisation
@@ -4164,6 +4655,8 @@ Bank of the Central African States:
   OpenSanctions_id: NK-C6ZmfUo4anjGfu8L8ZotNC
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1972
+  Headquarters: Yaoundé, Cameroon
 West African Monetary Union:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -4200,6 +4693,8 @@ Southern African Development Community:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1980
+  Headquarters: Gaborone, Botswana
 Southeast Asian Ministers of Education Organisation:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -4224,6 +4719,8 @@ Nordic Development Fund:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.ndf.int/media/files/constituent-documents/ndf-agreement-and-statutes-october-2020.pdf
+  Year_established: 1989
+  Headquarters: Helsinki, Finland
 Organisation for the Harmonization of Business Laws in Africa:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -4250,6 +4747,8 @@ International Organisation of Legal Metrology:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.oiml.org/en/files/pdf_b/b001-e68.pdf
+  Year_established: 1955
+  Headquarters: Paris, France
 King Abdullah Bin Abdulaziz International Centre for Interreligious and Intercultural Dialogue:
   Wikidata_code: Q6324948
   Entity_type: International organisation
@@ -4264,6 +4763,8 @@ King Abdullah Bin Abdulaziz International Centre for Interreligious and Intercul
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.kaiciid.org/node/2641
+  Year_established: 2011
+  Headquarters: Lisbon, Portugal
 Organisation for Joint Armament Co-operation:
   Name_en: Organisation for Joint Armament Co-operation
   Name_other_en: Organisation for Joint Armament Cooperation
@@ -4279,6 +4780,8 @@ Organisation for Joint Armament Co-operation:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.occar.int/systems/file_download.ashx?pg=139&ver=2
+  Year_established: 1996
+  Headquarters: Bonn, Germany
 International Centre for Food Micro-Algae Against Malnutrition:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -4314,6 +4817,8 @@ Benelux Organisation for Intellectual Property:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 2005
+  Headquarters: Benelux Office for Intellectual Property building, Netherlands
 European Public Law Organization:
   Wikidata_code: Q119789715
   Entity_type: International organisation
@@ -4325,6 +4830,7 @@ European Public Law Organization:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 2007
 African, Caribbean and Pacific Group of States:
   Wikidata_code: '[No specific code.]'
   Entity_type: International organisation
@@ -4347,6 +4853,8 @@ Surveillance Authority of the European Free Trade Association:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1994
+  Headquarters: City of Brussels, Belgium
 Central American Bank for Economic Integration:
   Wikidata_code: Q190008
   Entity_type: International organisation
@@ -4359,6 +4867,8 @@ Central American Bank for Economic Integration:
   OpenSanctions_id: NK-fCbusw2C6yVEpY2PMvp2vj
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1960
+  Headquarters: Tegucigalpa, Honduras
 European Organization for Nuclear Research:
   Wikidata_code: Q42944
   Entity_type: International organisation
@@ -4373,6 +4883,8 @@ European Organization for Nuclear Research:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://council.web.cern.ch/en/content/convention-establishment-european-organization-nuclear-research
+  Year_established: 1954
+  Headquarters: villarodin Bourget, France
 Intergovernmental Authority on Development:
   Wikidata_code: Q499039
   Entity_type: International organisation
@@ -4386,6 +4898,8 @@ Intergovernmental Authority on Development:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1986
+  Headquarters: Djibouti City, Djibouti
 International Centre for Migration Policy Development:
   Wikidata_code: Q498496
   Entity_type: International organisation
@@ -4400,6 +4914,8 @@ International Centre for Migration Policy Development:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%203132/v3132.pdf
+  Year_established: 1993
+  Headquarters: Vienna, Austria
 Organisation for the Prohibition of Nuclear Weapons in Latin America and the Caribbean:
   Wikidata_code: Q3369762
   Entity_type: International organisation
@@ -4414,6 +4930,8 @@ Organisation for the Prohibition of Nuclear Weapons in Latin America and the Car
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1967
+  Headquarters: Mexico City, Mexico
 Andrés Bello convention for the educational, scientific and cultural integration of Latin America and Spain:
   Wikidata_code: '[No specific code.]'
   Entity_type: International organisation
@@ -4450,6 +4968,7 @@ International Visegrad Fund:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 2000
 International Road Transport Union:
   Wikidata_code: Q2662574
   Entity_type: International organisation
@@ -4464,6 +4983,8 @@ International Road Transport Union:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Excluded
   Basis_for_assessment: B28
+  Year_established: 1948
+  Headquarters: Geneva, Switzerland
 Iran-United States Claims Tribunal:
   Wikidata_code: Q501576
   Entity_type: International organisation
@@ -4476,6 +4997,8 @@ Iran-United States Claims Tribunal:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1981
+  Headquarters: Netherlands, Kingdom of the Netherlands
 Intersputnik International Organization of Space Communications:
   Wikidata_code: Q1548793
   Entity_type: International organisation
@@ -4490,6 +5013,8 @@ Intersputnik International Organization of Space Communications:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%20862/volume-862-I-12343-English.pdf
+  Year_established: 1971
+  Headquarters: Moscow, Russia
 International Organisation of La Francophonie:
   Wikidata_code: Q134102
   Entity_type: International organisation
@@ -4503,6 +5028,8 @@ International Organisation of La Francophonie:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1970
+  Headquarters: Paris, France
 International Centre for Advanced Mediterranean Agronomic Studies:
   Wikidata_code: Q30255657
   Entity_type: International organisation
@@ -4515,6 +5042,7 @@ International Centre for Advanced Mediterranean Agronomic Studies:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.ciheam.org/wp-content/uploads/2021/12/CIHEAM_-_Textes_constitutifs__1_-1.pdf
+  Year_established: 1962
 International Institute of Administrative Sciences:
   Wikidata_code: Q2373849
   Entity_type: International organisation
@@ -4527,6 +5055,8 @@ International Institute of Administrative Sciences:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1930
+  Headquarters: Brussels metropolitan area, Belgium
 International Civil Defence Organization:
   Wikidata_code: Q162656
   Entity_type: International organisation
@@ -4541,6 +5071,8 @@ International Civil Defence Organization:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://icdo.org/files/documents/constitution/icdo_constitution_en.pdf
+  Year_established: 1972
+  Headquarters: Lancy, Switzerland
 International Bank for Economic Co-operation:
   Wikidata_code: Q1520558
   Entity_type: International organisation
@@ -4553,6 +5085,8 @@ International Bank for Economic Co-operation:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://ibec.int/upload/iblock/584/EN_Agreement%20and%20Statutes%202014%20A4.pdf
+  Year_established: 1964
+  Headquarters: Moscow, Russia
 Islamic Development Bank:
   Wikidata_code: Q41230
   Entity_type: International organisation
@@ -4566,6 +5100,8 @@ Islamic Development Bank:
   OpenSanctions_id: NK-Uudj8cknw5f5LB6g95KTyn
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1973
+  Headquarters: Jeddah, Saudi Arabia
 International Institute for Democracy and Electoral Assistance:
   Wikidata_code: Q46340424
   Entity_type: International organisation
@@ -4580,6 +5116,7 @@ International Institute for Democracy and Electoral Assistance:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.idea.int/sites/default/files/media_resources/International-IDEA-statutes-EN-2023.pdf
+  Year_established: 1995
 Latin American Civil Aviation Commission:
   Wikidata_code: Q131103399
   Entity_type: International organisation
@@ -4615,6 +5152,8 @@ Mekong River Commission:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1995
+  Headquarters: Vientiane, Laos
 Caribbean Telecommunications Union:
   Wikidata_code: Q115803554
   Entity_type: International organisation
@@ -4626,6 +5165,8 @@ Caribbean Telecommunications Union:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1990
+  Headquarters: Port of Spain, Trinidad and Tobago
 Eastern and Southern African Trade and Development Bank:
   Wikidata_code: Q13657031
   Entity_type: International organisation
@@ -4639,6 +5180,7 @@ Eastern and Southern African Trade and Development Bank:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.tdbgroup.org/wp-content/uploads/2024/01/TDB-Charter-English-01.01.2024.pdf
+  Year_established: 1985
 East African Development Bank:
   Wikidata_code: Q5327655
   Entity_type: International organisation
@@ -4652,6 +5194,8 @@ East African Development Bank:
   OpenSanctions_id: bic-AFDEUGKA
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1967
+  Headquarters: Kampala, Uganda
 Latin-American Centre for Physics:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -4677,6 +5221,7 @@ Nordic Environment Finance Corporation:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.nefco.int/wp-content/uploads/2019/04/NEFCO_Constituent-Documents_2017.pdf
+  Year_established: 1990
 Fund for the Development of the Indigenous Peoples of Latin America and the Caribbean:
   Wikidata_code: Q125689468
   Entity_type: International organisation
@@ -4705,6 +5250,8 @@ Black Sea Trade and Development Bank:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.bstdb.org/Establishing_Agreement_BSTDB.pdf
+  Year_established: 1997
+  Headquarters: Thessaloniki, Greece
 European Company for the Financing of Railroad Rolling Stock:
   Wikidata_code: Q1374986
   Entity_type: International organisation
@@ -4719,6 +5266,8 @@ European Company for the Financing of Railroad Rolling Stock:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.eurofima.org/sites/default/assets/Image/investor-relations/constitutive-documents/convention_e.pdf
+  Year_established: 1956
+  Headquarters: Basel, Switzerland
 Asian Clearing Union:
   Wikidata_code: Q2150936
   Entity_type: International organisation
@@ -4730,6 +5279,7 @@ Asian Clearing Union:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1974
 Latin American Energy Organization:
   Wikidata_code: Q3356053
   Entity_type: International organisation
@@ -4744,6 +5294,7 @@ Latin American Energy Organization:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://biblioteca.olade.org/opac-tmpl/Documentos/old0058.pdf
+  Year_established: 1973
 Africa Finance Corporation:
   Wikidata_code: Q23578910
   Entity_type: International organisation
@@ -4756,6 +5307,7 @@ Africa Finance Corporation:
   OpenSanctions_id: NK-DfseFqzV5GqzENhzGwMZBh
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 2007
 African Export-Import Bank:
   Wikidata_code: Q4689766
   Entity_type: International organisation
@@ -4770,6 +5322,8 @@ African Export-Import Bank:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201890/volume-1890-I-32192-English.pdf
+  Year_established: 1993
+  Headquarters: Cairo, Egypt
 Latin American Reserve Fund:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -4797,6 +5351,8 @@ Latin American and the Caribbean Economic System:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://sela.org/wp-content/uploads/2023/07/t023600000397-0-convenio_de_panama_-enero_2006.pdf
+  Year_established: 1975
+  Headquarters: Caracas, Venezuela
 International Center for Promotion of Enterprises:
   Wikidata_code: Q6049045
   Entity_type: International organisation
@@ -4808,6 +5364,7 @@ International Center for Promotion of Enterprises:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Headquarters: Ljubljana, Slovenia
 OPEC Fund for International Development:
   Wikidata_code: Q392787
   Entity_type: International organisation
@@ -4835,6 +5392,8 @@ Eurasian Development Bank:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://eabr.org/upload/iblock/c91/foundation-documents.pdf
+  Year_established: 2006
+  Headquarters: Almaty, Kazakhstan
 Central Bank of West African States:
   Wikidata_code: Q620942
   Entity_type: International organisation
@@ -4848,6 +5407,8 @@ Central Bank of West African States:
   OpenSanctions_id: NK-mxyB8RdssqTPhWAWwS9dyb
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1959
+  Headquarters: Dakar, Senegal
 West African Development Bank:
   Wikidata_code: Q2883427
   Entity_type: International organisation
@@ -4861,6 +5422,8 @@ West African Development Bank:
   OpenSanctions_id: bic-BOADTGTG
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1973
+  Headquarters: Lomé, Togo
 Liptako-Gourma Region Integrated Development Authority:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -4886,6 +5449,8 @@ CAF - Development Bank of Latin America and the Caribbean:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: http://www.commonlii.org/jm/legis/consol_act/adcaa1999386.pdf
+  Year_established: 1970
+  Headquarters: Caracas, Venezuela
 International Iberian Nanotechnology Laboratory:
   Wikidata_code: Q6051048
   Entity_type: International organisation
@@ -4912,6 +5477,7 @@ Latin American Faculty of Social Sciences:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: http://www.worldlii.org/int/other/treaties/UNTSer/1976/165.pdf
+  Year_established: 1957
 Pacific Salmon Commission:
   Wikidata_code: Q7122672
   Entity_type: International organisation
@@ -4925,6 +5491,8 @@ Pacific Salmon Commission:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.psc.org/download/45/miscellaneous/2337/pacific-salmon-treaty.pdf
+  Year_established: 1937
+  Headquarters: Vancouver, Canada
 International Exhibition Bureau:
   Wikidata_code: Q1010514
   Entity_type: International organisation
@@ -4940,6 +5508,8 @@ International Exhibition Bureau:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.state.gov/wp-content/uploads/2019/02/17-510-Multilateral-Cultural-Expositions.pdf
+  Year_established: 1928
+  Headquarters: Paris, France
 International Centre for the Study of the Preservation and the Restoration of Cultural Property:
   Wikidata_code: Q590182
   Entity_type: International organisation
@@ -4956,6 +5526,8 @@ International Centre for the Study of the Preservation and the Restoration of Cu
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1956
+  Headquarters: Rome, Italy
 CGIAR System Organization:
   Wikidata_code: Q1128401
   Entity_type: International organisation
@@ -4970,6 +5542,8 @@ CGIAR System Organization:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1971
+  Headquarters: Montpellier, France
 International Centre for Agriculture Research in the Dry Areas:
   Wikidata_code: Q601277
   Entity_type: International organisation
@@ -4983,6 +5557,7 @@ International Centre for Agriculture Research in the Dry Areas:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://icarda.org/sites/default/files/2020-09/ICARDA%20Charter.pdf
+  Year_established: 1975
 Secretariat of the BBNJ Agreement:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -5008,6 +5583,8 @@ Central African States Development Bank:
   OpenSanctions_id: bic-BDEACGCG
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1975
+  Headquarters: Brazzaville, Republic of the Congo
 Benelux Court of Justice:
   Wikidata_code: Q2613970
   Entity_type: International organisation
@@ -5022,6 +5599,8 @@ Benelux Court of Justice:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://wetten.overheid.nl/BWBV0004117/2016-12-01
+  Year_established: 1974
+  Headquarters: Luxembourg, Luxembourg
 Eastern Caribbean Supreme Court:
   Wikidata_code: Q3001122
   Entity_type: International organisation
@@ -5040,6 +5619,8 @@ Eastern Caribbean Supreme Court:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.govt.lc/media.govt.lc/www/resources/legislation/revisedtreatyofbasseterre.pdf
+  Year_established: 1967
+  Headquarters: Castries, Saint Lucia
 Zambezi Watercourse Commission:
   Wikidata_code: Q8065663
   Entity_type: International organisation
@@ -5053,6 +5634,8 @@ Zambezi Watercourse Commission:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 2004
+  Headquarters: Gaborone, Botswana
 East African Court of Justice:
   Wikidata_code: Q5327654
   Entity_type: International organisation
@@ -5066,6 +5649,7 @@ East African Court of Justice:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.eacj.org//wp-content/uploads/2012/08/EACJ-Treaty.pdf
+  Year_established: 2001
 Global Green Growth Institute:
   Wikidata_code: Q12586353
   Entity_type: International organisation
@@ -5081,6 +5665,8 @@ Global Green Growth Institute:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://gggi.org/wp-content/uploads/2017/10/Agreement-on-the-Establishment-of-the-GGGI.pdf
+  Year_established: 2010
+  Headquarters: Seoul, South Korea
 International Bamboo and Rattan Organization:
   Wikidata_code: Q6052145
   Entity_type: International organisation
@@ -5095,6 +5681,8 @@ International Bamboo and Rattan Organization:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%202132/v2132.pdf#page=215
+  Year_established: 1997
+  Headquarters: Beijing, People's Republic of China
 Caribbean Agricultural Research and Development Institute:
   Wikidata_code: Q25339749
   Entity_type: International organisation
@@ -5108,6 +5696,7 @@ Caribbean Agricultural Research and Development Institute:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://faolex.fao.org/docs/pdf/jam70785.pdf
+  Year_established: 1975
 Visegrad Patent Institute:
   Wikidata_code: Q21187824
   Entity_type: International organisation
@@ -5120,6 +5709,7 @@ Visegrad Patent Institute:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 2015
 Pan African Postal Union:
   Wikidata_code: '[No code found].'
   Entity_type: International organisation
@@ -5146,6 +5736,7 @@ African and Malagasy Council for Higher Education:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1968
 International Commission for the Protection of the Elbe River:
   Wikidata_code: Q998153
   Entity_type: International organisation
@@ -5160,6 +5751,8 @@ International Commission for the Protection of the Elbe River:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1990
+  Headquarters: Magdeburg, Germany
 International Meuse Commission:
   Wikidata_code: Q124290267
   Entity_type: International organisation
@@ -5173,6 +5766,8 @@ International Meuse Commission:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 2002
+  Headquarters: Liège, Belgium
 African Telecommunications Union:
   Wikidata_code: Q4689935
   Entity_type: International organisation
@@ -5237,6 +5832,8 @@ Council of the Baltic Sea States:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1992
+  Headquarters: Stockholm, Sweden
 Secretariat of the Central European Free Trade Agreement:
   Wikidata_code: '[No code.]'
   Entity_type: International organisation
@@ -5263,6 +5860,8 @@ Andean Parliament:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1979
+  Headquarters: Bogotá, Colombia
 Eurasian Patent Organization:
   Wikidata_code: Q1374303
   Entity_type: International organisation
@@ -5277,6 +5876,7 @@ Eurasian Patent Organization:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.eapo.org/en/documents-2/legal-protection-of-inventions/eurasian-patent-convention/
+  Year_established: 1994
 African Civil Service Observatory:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -5305,6 +5905,7 @@ ECOWAS Court of Justice:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://africanlii.org/en/akn/aa-ecowas/act/treaty/1993/revised-treaty/eng%401993-07-24/source.pdf
+  Year_established: 2001
 ECOWAS Parliament:
   Wikidata_code: Q97374162
   Entity_type: International organisation
@@ -5320,6 +5921,7 @@ ECOWAS Parliament:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://edit.wti.org/document/show/c3b73b1c-4f51-423a-be13-f57244f4b058
+  Headquarters: Abuja, Nigeria
 Caribbean Disaster Emergency Management Agency:
   Wikidata_code: Q5039374
   Entity_type: International organisation
@@ -5334,6 +5936,7 @@ Caribbean Disaster Emergency Management Agency:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1991
 EFTA Court:
   Wikidata_code: Q610886
   Entity_type: International organisation
@@ -5350,6 +5953,8 @@ EFTA Court:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:E1994A1231(01)
+  Year_established: 1994
+  Headquarters: Luxembourg, Luxembourg
 Economic Court of the Commonwealth of Independent States:
   Wikidata_code: Q4306397
   Entity_type: International organisation
@@ -5362,6 +5967,8 @@ Economic Court of the Commonwealth of Independent States:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1992
+  Headquarters: Minsk, Belarus
 European Nuclear Energy Tribunal:
   Wikidata_code: Q5412873
   Entity_type: International organisation
@@ -5374,6 +5981,7 @@ European Nuclear Energy Tribunal:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1957
 Central American Court of Justice:
   Wikidata_code: Q190017
   Entity_type: International organisation
@@ -5388,6 +5996,8 @@ Central American Court of Justice:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201821/volume-1821-I-31191-English.pdf
+  Year_established: 1994
+  Headquarters: Managua, Nicaragua
 Judicial Committee of the Privy Council:
   Wikidata_code: Q1710982
   Entity_type: International organisation
@@ -5403,6 +6013,8 @@ Judicial Committee of the Privy Council:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Excluded
   Basis_for_assessment: B35
+  Year_established: 1833
+  Headquarters: Middlesex Guildhall, United Kingdom
 Inter-American Statistical Institute:
   Wikidata_code: Q55725862
   Entity_type: International organisation
@@ -5417,6 +6029,7 @@ Inter-American Statistical Institute:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1940
 International Solar Alliance:
   Wikidata_code: Q21594952
   Entity_type: International organisation
@@ -5431,6 +6044,8 @@ International Solar Alliance:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 2015
+  Headquarters: Gurgaon, India
 Limpopo Watercourse Commission:
   Wikidata_code: '[No code.]'
   Entity_type: International organisation
@@ -5456,6 +6071,8 @@ International Sava River Basin Commission:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.savacommission.org/UserDocsImages/05_documents_publications/basic_documents/fasrb.pdf
+  Year_established: 2006
+  Headquarters: Zagreb, Croatia
 International Plant Genetic Resources Institute:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -5482,6 +6099,8 @@ Permanent Okavango River Basin Water Commission:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1994
+  Headquarters: Gaborone, Botswana
 Orange-Senqu River Commission:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -5536,6 +6155,8 @@ International Commission for the Protection of the Rhine:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1994
+  Headquarters: Koblenz, Germany
 Caribbean Council of Legal Education:
   Wikidata_code: Q117210367
   Entity_type: International organisation
@@ -5564,6 +6185,7 @@ Melanesian Spearhead Group:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1983
 Arms Trade Treaty Secretariat:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -5594,6 +6216,8 @@ International Rice Research Institute:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.austlii.edu.au/cgi-bin/viewdoc/au/other/dfat/treaties/2001/6.html
+  Year_established: 1960
+  Headquarters: Los Baños, Philippines
 International Union for Conservation of Nature and Natural Resources:
   Wikidata_code: Q48268
   Entity_type: International organisation
@@ -5609,6 +6233,8 @@ International Union for Conservation of Nature and Natural Resources:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Excluded
   Basis_for_assessment: B28
+  Year_established: 1948
+  Headquarters: Gland, Switzerland
 International Potato Center:
   Wikidata_code: Q1054322
   Entity_type: International organisation
@@ -5624,6 +6250,8 @@ International Potato Center:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1971
+  Headquarters: Lima, Peru
 International Center for Tropical Agriculture:
   Wikidata_code: Q1054314
   Entity_type: International organisation
@@ -5639,6 +6267,8 @@ International Center for Tropical Agriculture:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1967
+  Headquarters: Rome, Italy
 Court of Conciliation and Arbitration:
   Wikidata_code: Q3001076
   Entity_type: International organisation
@@ -5668,6 +6298,7 @@ Asia-Pacific Telecommunity:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://apt.int/pdfs/Constitution.pdf
+  Year_established: 1979
 Central American Maritime Transport Commission:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -5710,6 +6341,8 @@ Moselle Commission:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%202375/v2375.pdf
+  Year_established: 1962
+  Headquarters: Trier, Germany
 Parliamentary Assembly of Turkic States:
   Wikidata_code: Q4345435
   Entity_type: International organisation
@@ -5738,6 +6371,8 @@ Turkic Academy:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 2009
+  Headquarters: Astana, Kazakhstan
 Court of the Eurasian Economic Union:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -5776,6 +6411,8 @@ Caribbean Regional Fisheries Mechanism:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.crfm.int/index.php?option=com_k2&view=item&layout=item&id=2&Itemid=116
+  Year_established: 2003
+  Headquarters: Belize City, Belize
 International Commission for the Protection of the Scheldt:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -5803,6 +6440,7 @@ Lake Tanganyika Authority:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: http://lta.iwlearn.org/documents/the-convention-on-the-sustainable-management-of-lake-tanganyika-eng.pdf
+  Year_established: 2008
 Caribbean Centre for Development Administration:
   Wikidata_code: Q117193380
   Entity_type: International organisation
@@ -5816,6 +6454,8 @@ Caribbean Centre for Development Administration:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1975
+  Headquarters: Saint Michael, Barbados
 Caribbean Community Climate Change Centre:
   Wikidata_code: Q117286619
   Entity_type: International organisation
@@ -5831,6 +6471,8 @@ Caribbean Community Climate Change Centre:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://caricom.org/wp-content/uploads/Agreement-Establishing-The-Caribbean-Community-Climate-Change-Centre-CCCCC.pdf
+  Year_established: 2001
+  Headquarters: Belmopan, Belize
 African Risk Capacity Agency:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -5857,6 +6499,8 @@ British-Irish Council:
   Treaty_url: https://assets.publishing.service.gov.uk/media/619500728fa8f5037d67b678/The_Belfast_Agreement_An_Agreement_Reached_at_the_Multi-Party_Talks_on_Northern_Ireland.pdf
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B26
+  Year_established: 1999
+  Headquarters: Edinburgh, United Kingdom
 Foyle, Carlingford and Irish Lights Commission:
   Wikidata_code: Q98139786
   Org_family: North South bodies
@@ -5887,6 +6531,7 @@ North/South Language Body:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B26
+  Year_established: 1999
 Safefood:
   Wikidata_code: Q7398561
   Org_family: North South bodies
@@ -5898,6 +6543,8 @@ Safefood:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B26
+  Year_established: 1999
+  Headquarters: Cork, Ireland
 Special EU Programmes Body:
   Wikidata_code: Q7574528
   Org_family: North South bodies
@@ -5908,6 +6555,7 @@ Special EU Programmes Body:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B26
+  Year_established: 1999
 Tourism Ireland:
   Wikidata_code: Q7829093
   Org_family: North South bodies
@@ -5918,6 +6566,7 @@ Tourism Ireland:
   Name_fr: Tourism Ireland
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B26
+  Year_established: 1999
 Waterways Ireland:
   Wikidata_code: Q1734583
   Org_family: North South bodies
@@ -5929,6 +6578,8 @@ Waterways Ireland:
   Name_fr: Waterways Ireland
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B26
+  Year_established: 1999
+  Headquarters: Enniskillen, United Kingdom
 North/South Ministerial Council:
   Wikidata_code: Q1800594
   Org_family: North South bodies
@@ -5939,6 +6590,8 @@ North/South Ministerial Council:
   Name_fr: Ministerrådet Nord–Syd
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B26
+  Year_established: 1999
+  Headquarters: Armagh, United Kingdom
 Coalition for Disaster Resilient Infrastructure:
   Wikidata_code: Q85753142
   Org_family: none
@@ -5963,6 +6616,8 @@ Arab League:
   Name_es: Liga Árabe
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1945
+  Headquarters: Headquarters of the Arab League, Egypt
 Arab Industrial Development Standardization and Mining Organization:
   Wikidata_code: Q4783189
   Entity_type: International organisation
@@ -5988,6 +6643,8 @@ Arab States Broadcasting Union:
   Name_es: Unión de Radiodifusión de los Estados Árabes
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1969
+  Headquarters: Tunis, Tunisia
 Arab Center for the Studies of Arid Zones and Dry Lands:
   Wikidata_code: Q30289729
   Entity_type: International organisation
@@ -5999,6 +6656,7 @@ Arab Center for the Studies of Arid Zones and Dry Lands:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1968
 Arab Fund for Economic and Social Development:
   Wikidata_code: Q1137381
   Entity_type: International organisation
@@ -6012,6 +6670,8 @@ Arab Fund for Economic and Social Development:
   Name_es: Fondo árabe para desarrollo económico y social
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1968
+  Headquarters: Kuwait City, Kuwait
 Arab Bank for Economic Development in Africa:
   Wikidata_code: Q4783148
   Entity_type: International organisation
@@ -6026,6 +6686,7 @@ Arab Bank for Economic Development in Africa:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://data.qanoon.om/treaties/1974-0017AEN.pdf
+  Headquarters: Riyadh, Saudi Arabia
 Arab Civil Aviation Organization:
   Wikidata_code: Q22686285
   Entity_type: International organisation
@@ -6037,6 +6698,7 @@ Arab Civil Aviation Organization:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1996
 Arab Women Organization:
   Wikidata_code: Q12245743
   Entity_type: International organisation
@@ -6049,6 +6711,7 @@ Arab Women Organization:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.lloc.gov.bh/FullEn/L2402.docx
+  Headquarters: Egypt, Egypt
 Arab Atomic Energy Agency:
   Wikidata_code: Q56376750
   Entity_type: International organisation
@@ -6062,6 +6725,8 @@ Arab Atomic Energy Agency:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.legalaffairs.gov.bh/Legislation/HTM/K1708
+  Year_established: 1989
+  Headquarters: Tunis, Tunisia
 Arab Labor Organization:
   Wikidata_code: Q35586998
   Entity_type: International organisation
@@ -6073,6 +6738,7 @@ Arab Labor Organization:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Headquarters: Giza, Egypt
 Arab Monetary Fund:
   Wikidata_code: Q624307
   Entity_type: International organisation
@@ -6086,6 +6752,8 @@ Arab Monetary Fund:
   Name_es: Fondo Monetario Árabe
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1976
+  Headquarters: Abu Dhabi, United Arab Emirates
 Arab Satellite Communications Organisation:
   Wikidata_code: Q624426
   Entity_type: International organisation
@@ -6099,6 +6767,8 @@ Arab Satellite Communications Organisation:
   Name_es: Organización árabe de comunicaciones por satélite
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 1976
+  Headquarters: Riyadh, Saudi Arabia
 Arab Organization for Agricultural Development:
   Wikidata_code: Q30082921
   Entity_type: International organisation
@@ -6113,6 +6783,7 @@ Arab Organization for Agricultural Development:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.lloc.gov.bh/Legislation/HTM/D0475
+  Headquarters: Khartoum, Sudan
 Arab Organization for Communication and Information Technologies:
   Wikidata_code: Q4783192
   Entity_type: International organisation
@@ -6126,6 +6797,7 @@ Arab Organization for Communication and Information Technologies:
   Name_es: null
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Headquarters: Tunis, Tunisia
 Simón Bolívar Andean University:
   Wikidata_code: Q136663772
   Entity_type: International organisation
@@ -6138,6 +6810,7 @@ Simón Bolívar Andean University:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.uasb.edu.ec/wp-content/uploads/2021/03/ESTATUTO.pdf
+  Year_established: 1992
 Asian-African Legal Consultative Organisation:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -6164,6 +6837,8 @@ East African Legislative Assembly:
   Name_fr: Assemblée législative est-africaine
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 2001
+  Headquarters: Arusha, Tanzania
 Board of Peace:
   Wikidata_code: Q136402081
   Entity_type: International organisation
@@ -6179,6 +6854,8 @@ Board of Peace:
   Name_es: Junta de Paz
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Year_established: 2026
+  Headquarters: Washington, D.C., United States
 North Pacific Fisheries Commission:
   Wikidata_code: Q24834021
   Entity_type: International organisation
@@ -6192,6 +6869,7 @@ North Pacific Fisheries Commission:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.npfc.int/system/files/2017-01/Convention%20Text.pdf
+  Year_established: 2015
 Centre on Integrated Rural Development for Asia and the Pacific:
   Wikidata_code: Q5011840
   Entity_type: International organisation
@@ -6205,6 +6883,7 @@ Centre on Integrated Rural Development for Asia and the Pacific:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://faolex.fao.org/docs/pdf/mal33937.pdf
+  Year_established: 1979
 United Nations:
   Wikidata_code: Q1065
   Org_family: UN and affiliates
@@ -6219,6 +6898,8 @@ United Nations:
   Name_es: Organización de las Naciones Unidas
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B1
+  Year_established: 1945
+  Headquarters: New York City, United States
 United Nations Security Council:
   Wikidata_code: Q37470
   Org_family: UN and affiliates
@@ -6233,6 +6914,8 @@ United Nations Security Council:
   Name_es: Consejo de Seguridad de las Naciones Unidas
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1945
+  Headquarters: New York City, United States
 United Nations Economic and Social Council:
   Wikidata_code: Q170075
   Org_family: UN and affiliates
@@ -6247,6 +6930,8 @@ United Nations Economic and Social Council:
   Name_es: Consejo Económico y Social de las Naciones Unidas
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1945
+  Headquarters: New York City, United States
 United Nations General Assembly:
   Wikidata_code: Q47423
   Org_family: UN and affiliates
@@ -6261,6 +6946,8 @@ United Nations General Assembly:
   Name_es: Asamblea General de las Naciones Unidas
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1945
+  Headquarters: Headquarters of the United Nations, United States
 United Nations Trusteeship Council:
   Wikidata_code: Q219693
   Org_family: UN and affiliates
@@ -6275,6 +6962,8 @@ United Nations Trusteeship Council:
   Name_es: Consejo de Administración Fiduciaria de las Naciones Unidas
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1945
+  Headquarters: New York City, United States
 United Nations Secretariat:
   Wikidata_code: Q220563
   Org_family: UN and affiliates
@@ -6289,6 +6978,8 @@ United Nations Secretariat:
   Name_es: Secretaría general de Naciones Unidas
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1945
+  Headquarters: Vienna, Austria
 International Court of Justice:
   Wikidata_code: Q7801
   Org_family: UN and affiliates
@@ -6303,6 +6994,8 @@ International Court of Justice:
   Name_es: Corte Internacional de Justicia
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1945
+  Headquarters: Peace Palace, Netherlands
 Food and Agriculture Organization:
   Wikidata_code: Q82151
   Org_family: UN and affiliates
@@ -6319,6 +7012,8 @@ Food and Agriculture Organization:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
   Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
+  Year_established: 1945
+  Headquarters: Rome, Italy
 International Bank for Reconstruction and Development:
   Wikidata_code: Q191384
   Org_family: UN and affiliates
@@ -6335,6 +7030,8 @@ International Bank for Reconstruction and Development:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
   Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
+  Year_established: 1944
+  Headquarters: Washington, D.C., United States
 International Civil Aviation Organization:
   Wikidata_code: Q125761
   Org_family: UN and affiliates
@@ -6351,6 +7048,8 @@ International Civil Aviation Organization:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
   Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
+  Year_established: 1944
+  Headquarters: International Civil Aviation Organization Headquarters, Canada
 International Fund for Agricultural Development:
   Wikidata_code: Q689859
   Org_family: UN and affiliates
@@ -6367,6 +7066,8 @@ International Fund for Agricultural Development:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
   Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
+  Year_established: 1977
+  Headquarters: Rome, Italy
 International Telecommunication Union:
   Wikidata_code: Q376150
   Org_family: UN and affiliates
@@ -6383,6 +7084,8 @@ International Telecommunication Union:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
   Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
+  Year_established: 1865
+  Headquarters: Geneva, Switzerland
 United Nations Children’s Fund:
   Wikidata_code: Q740308
   Org_family: UN and affiliates
@@ -6397,6 +7100,8 @@ United Nations Children’s Fund:
   Name_es: Unicef
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1946
+  Headquarters: New York City, United States
 United Nations Development Programme:
   Wikidata_code: Q161718
   Org_family: UN and affiliates
@@ -6411,6 +7116,8 @@ United Nations Development Programme:
   Name_es: Programa de las Naciones Unidas para el Desarrollo
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1965
+  Headquarters: New York City, United States
 United Nations Environment Programme:
   Wikidata_code: Q182016
   Org_family: UN and affiliates
@@ -6425,6 +7132,8 @@ United Nations Environment Programme:
   Name_es: Programa de las Naciones Unidas para el Medio Ambiente
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1972
+  Headquarters: Nairobi, Kenya
 Office of the United Nations High Commissioner for Refugees:
   Wikidata_code: Q28606331
   Org_family: UN and affiliates
@@ -6452,6 +7161,8 @@ United Nations Office for Project Services:
   Name_es: Oficina de las Naciones Unidas de Servicios para Proyectos
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1974
+  Headquarters: UN City, Denmark
 United Nations Population Fund:
   Wikidata_code: Q623036
   Org_family: UN and affiliates
@@ -6466,6 +7177,8 @@ United Nations Population Fund:
   Name_es: Fondo de Población de las Naciones Unidas
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1969
+  Headquarters: New York City, United States
 United Nations World Food Programme:
   Wikidata_code: Q204344
   Org_family: UN and affiliates
@@ -6480,6 +7193,8 @@ United Nations World Food Programme:
   Name_es: Programa Mundial de Alimentos
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1961
+  Headquarters: Rome, Italy
 World Bank:
   Wikidata_code: Q7164
   Org_family: UN and affiliates
@@ -6499,6 +7214,8 @@ World Bank:
   Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B32
+  Year_established: 1945
+  Headquarters: World Bank Headquarters, United States
 World Bank Group:
   Wikidata_code: Q320863
   Org_family: UN and affiliates
@@ -6512,6 +7229,8 @@ World Bank Group:
   Name_es: Grupo del Banco Mundial
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B33
+  Year_established: 1944
+  Headquarters: Washington, D.C., United States
 World Health Organization:
   Wikidata_code: Q7817
   Org_family: UN and affiliates
@@ -6528,6 +7247,8 @@ World Health Organization:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
   Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
+  Year_established: 1948
+  Headquarters: Geneva, Switzerland
 World Intellectual Property Organization:
   Wikidata_code: Q177773
   Org_family: UN and affiliates
@@ -6544,6 +7265,8 @@ World Intellectual Property Organization:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
   Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
+  Year_established: 1967
+  Headquarters: Geneva, Switzerland
 International Maritime Organization:
   Wikidata_code: Q201054
   Org_family: UN and affiliates
@@ -6560,6 +7283,8 @@ International Maritime Organization:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B2
   Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
+  Year_established: 1982
+  Headquarters: London, United Kingdom
 United Nations Educational, Scientific and Cultural Organization:
   Wikidata_code: Q7809
   Org_family: UN and affiliates
@@ -6576,6 +7301,8 @@ United Nations Educational, Scientific and Cultural Organization:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
   Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
+  Year_established: 1945
+  Headquarters: Paris, France
 International Labour Organization:
   Wikidata_code: Q54129
   Org_family: UN and affiliates
@@ -6592,6 +7319,8 @@ International Labour Organization:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
   Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
+  Year_established: 1919
+  Headquarters: Geneva, Switzerland
 Universal Postal Union:
   Wikidata_code: Q17495
   Org_family: UN and affiliates
@@ -6608,6 +7337,8 @@ Universal Postal Union:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
   Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
+  Year_established: 1874
+  Headquarters: Bern, Switzerland
 International Monetary Fund:
   Wikidata_code: Q7804
   Org_family: UN and affiliates
@@ -6624,6 +7355,8 @@ International Monetary Fund:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
   Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
+  Year_established: 1944
+  Headquarters: Washington, D.C., United States
 International Atomic Energy Agency:
   Wikidata_code: Q41984
   Org_family: UN and affiliates
@@ -6638,6 +7371,8 @@ International Atomic Energy Agency:
   Name_es: Organismo Internacional de Energía Atómica
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1957
+  Headquarters: Vienna, Austria
 World Meteorological Organization:
   Wikidata_code: Q170424
   Org_family: UN and affiliates
@@ -6654,6 +7389,8 @@ World Meteorological Organization:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
   Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
+  Year_established: 1950
+  Headquarters: Geneva, Switzerland
 International Organization for Migration:
   Wikidata_code: Q472311
   Org_family: UN and affiliates
@@ -6668,6 +7405,8 @@ International Organization for Migration:
   Name_es: Organización Internacional para las Migraciones
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1951
+  Headquarters: Geneva, Switzerland
 International Criminal Court:
   Wikidata_code: Q47488
   Org_family: UN and affiliates
@@ -6682,6 +7421,8 @@ International Criminal Court:
   Name_es: Corte Penal Internacional
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 2002
+  Headquarters: The Hague, Netherlands
 Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organization:
   Wikidata_code: Q15211422
   Org_family: UN and affiliates
@@ -6698,6 +7439,8 @@ Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organizatio
     Nucleares
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1996
+  Headquarters: Vienna International Centre, Austria
 International Seabed Authority:
   Wikidata_code: Q333727
   Org_family: UN and affiliates
@@ -6712,6 +7455,8 @@ International Seabed Authority:
   Name_es: Autoridad Internacional de los Fondos Marinos
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1994
+  Headquarters: Kingston, Jamaica
 International Tribunal for the Law of the Sea:
   Wikidata_code: Q639118
   Org_family: UN and affiliates
@@ -6726,6 +7471,8 @@ International Tribunal for the Law of the Sea:
   Name_es: Tribunal Internacional del Derecho del Mar
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1996
+  Headquarters: building of the International Tribunal for the Law of the Sea, Germany
 United Nations Tourism:
   Wikidata_code: Q61923
   Org_family: UN and affiliates
@@ -6743,6 +7490,8 @@ United Nations Tourism:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
   Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
+  Year_established: 1975
+  Headquarters: Madrid, Spain
 United Nations Industrial Development Organization:
   Wikidata_code: Q386120
   Org_family: UN and affiliates
@@ -6759,6 +7508,8 @@ United Nations Industrial Development Organization:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
   Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
+  Year_established: 1966
+  Headquarters: Vienna, Austria
 International Law Commission:
   Wikidata_code: Q684656
   Org_family: UN and affiliates
@@ -6787,6 +7538,8 @@ International Finance Corporation:
   Name_es: Corporación Financiera Internacional
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1956
+  Headquarters: Washington, D.C., United States
 International Development Association:
   Wikidata_code: '[No code found.]'
   Org_family: UN and affiliates
@@ -6871,6 +7624,7 @@ European Inland Fisheries and Aquaculture Advisory Commission:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B16
+  Headquarters: Rome, Italy
 Western Central Atlantic Fishery Commission:
   Wikidata_code: Q134724817
   Org_family: UN and affiliates
@@ -6899,6 +7653,8 @@ International Trade Centre:
   Name_es: Centro de Comercio Internacional
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1964
+  Headquarters: Geneva, Switzerland
 Organisation for the Prohibition of Chemical Weapons:
   Wikidata_code: Q842490
   Org_family: UN and affiliates
@@ -6913,6 +7669,8 @@ Organisation for the Prohibition of Chemical Weapons:
   Name_es: Organización para la Prohibición de Armas Químicas
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1997
+  Headquarters: The Hague, Netherlands
 United Nations Interregional Crime and Justice Research Institute:
   Wikidata_code: Q1427752
   Org_family: UN and affiliates
@@ -6929,6 +7687,7 @@ United Nations Interregional Crime and Justice Research Institute:
     el Crimen y la Justicia
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1968
 United Nations Research Institute For Social Development:
   Wikidata_code: Q962612
   Org_family: UN and affiliates
@@ -6943,6 +7702,8 @@ United Nations Research Institute For Social Development:
   Name_es: Instituto de Investigación de las Naciones Unidas para el Desarrollo Social
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1963
+  Headquarters: Geneva, Switzerland
 United Nations Institute for Disarmament Research:
   Wikidata_code: Q3152150
   Org_family: UN and affiliates
@@ -6956,6 +7717,7 @@ United Nations Institute for Disarmament Research:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1980
 United Nations Human Settlements Programme:
   Wikidata_code: Q487883
   Org_family: UN and affiliates
@@ -6970,6 +7732,8 @@ United Nations Human Settlements Programme:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1978
+  Headquarters: Nairobi, Kenya
 United Nations Human Rights Council:
   Wikidata_code: Q205650
   Org_family: UN and affiliates
@@ -6984,6 +7748,8 @@ United Nations Human Rights Council:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 2006
+  Headquarters: Geneva, Switzerland
 Joint Inspection Unit of the United Nations System:
   Wikidata_code: Q1500903
   Org_family: UN and affiliates
@@ -6997,6 +7763,7 @@ Joint Inspection Unit of the United Nations System:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1976
 United Nations Volunteers:
   Wikidata_code: Q488065
   Org_family: UN and affiliates
@@ -7011,6 +7778,8 @@ United Nations Volunteers:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1970
+  Headquarters: Bonn, Germany
 United Nations Disarmament Commission:
   Wikidata_code: Q4229685
   Org_family: UN and affiliates
@@ -7038,6 +7807,8 @@ UN Women:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 2010
+  Headquarters: Manhattan, United States
 United Nations Commission on International Trade Law:
   Wikidata_code: Q698232
   Org_family: UN and affiliates
@@ -7052,6 +7823,8 @@ United Nations Commission on International Trade Law:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1966
+  Headquarters: Vienna International Centre, Austria
 United Nations Relief and Works Agency for Palestine Refugees in the Near East:
   Wikidata_code: Q846656
   Org_family: UN and affiliates
@@ -7069,6 +7842,8 @@ United Nations Relief and Works Agency for Palestine Refugees in the Near East:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1949
+  Headquarters: Gaza City, Palestine
 World Trade Organization:
   Wikidata_code: Q7825
   Org_family: UN and affiliates
@@ -7083,6 +7858,8 @@ World Trade Organization:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B6
+  Year_established: 1995
+  Headquarters: Centre William Rappard, Switzerland
 United Nations Institute for Training and Research:
   Wikidata_code: Q131878
   Org_family: UN and affiliates
@@ -7097,6 +7874,8 @@ United Nations Institute for Training and Research:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1963
+  Headquarters: Geneva, Switzerland
 United Nations System Staff College:
   Wikidata_code: Q16959083
   Org_family: UN and affiliates
@@ -7111,6 +7890,8 @@ United Nations System Staff College:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 2002
+  Headquarters: Turin, Italy
 International Residual Mechanism for Criminal Tribunals:
   Wikidata_code: Q1667632
   Org_family: UN and affiliates
@@ -7126,6 +7907,8 @@ International Residual Mechanism for Criminal Tribunals:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 2010
+  Headquarters: The Hague, Netherlands
 United Nations Capital Development Fund:
   Wikidata_code: Q356037
   Org_family: UN and affiliates
@@ -7140,6 +7923,8 @@ United Nations Capital Development Fund:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1966
+  Headquarters: New York City, United States
 United Nations University:
   Wikidata_code: Q492442
   Org_family: UN and affiliates
@@ -7154,6 +7939,8 @@ United Nations University:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1972
+  Headquarters: Jingūmae, Japan
 Economic and Social Commission for Western Asia:
   Wikidata_code: Q1355485
   Org_family: UN and affiliates
@@ -7167,6 +7954,8 @@ Economic and Social Commission for Western Asia:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1973
+  Headquarters: Beirut, Lebanon
 Economic Commission for Africa:
   Wikidata_code: Q1144508
   Org_family: UN and affiliates
@@ -7181,6 +7970,8 @@ Economic Commission for Africa:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1958
+  Headquarters: Addis Ababa, Ethiopia
 Economic Commission for Europe:
   Wikidata_code: Q659012
   Org_family: UN and affiliates
@@ -7195,6 +7986,8 @@ Economic Commission for Europe:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1947
+  Headquarters: Geneva, Switzerland
 Economic Commission for Latin America and the Caribbean:
   Wikidata_code: Q32874
   Org_family: UN and affiliates
@@ -7209,6 +8002,8 @@ Economic Commission for Latin America and the Caribbean:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1948
+  Headquarters: Santiago, Chile
 Economic and Social Commission for Asia and the Pacific:
   Wikidata_code: Q1142901
   Org_family: UN and affiliates
@@ -7222,6 +8017,8 @@ Economic and Social Commission for Asia and the Pacific:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1947
+  Headquarters: Bangkok, Rattanakosin Kingdom
 Statistical Commission:
   Wikidata_code: Q15042419
   Org_family: UN and affiliates
@@ -7248,6 +8045,7 @@ Commission on Population and Development:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1946
 Commission for Social Development:
   Wikidata_code: Q3684758
   Org_family: UN and affiliates
@@ -7261,6 +8059,7 @@ Commission for Social Development:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1946
 Commission on the Status of Women:
   Wikidata_code: Q2614097
   Org_family: UN and affiliates
@@ -7275,6 +8074,8 @@ Commission on the Status of Women:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1946
+  Headquarters: New York City, United States
 Commission on Narcotic Drugs:
   Wikidata_code: Q469618
   Org_family: UN and affiliates
@@ -7289,6 +8090,7 @@ Commission on Narcotic Drugs:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1946
 Commission on Crime Prevention and Criminal Justice:
   Wikidata_code: Q104842946
   Org_family: UN and affiliates
@@ -7315,6 +8117,7 @@ Commission on Science and Technology for Development:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1993
 United Nations Forum on Forests:
   Wikidata_code: Q1433762
   Org_family: UN and affiliates
@@ -7329,6 +8132,8 @@ United Nations Forum on Forests:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 2000
+  Headquarters: New York, United States
 High-Level Political Forum on Sustainable Development:
   Wikidata_code: Q17078095
   Org_family: UN and affiliates
@@ -7343,6 +8148,7 @@ High-Level Political Forum on Sustainable Development:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1946
 United Nations Peacebuilding Commission:
   Wikidata_code: Q1534084
   Org_family: UN and affiliates
@@ -7371,6 +8177,7 @@ International Narcotics Control Board:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B14
+  Year_established: 1961
 UNAIDS Programme Coordinating Board:
   Wikidata_code: Q588982
   Org_family: UN and affiliates
@@ -7385,6 +8192,8 @@ UNAIDS Programme Coordinating Board:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Year_established: 1996
+  Headquarters: Geneva, Switzerland
 United Nations Joint Staff Pension Fund:
   Wikidata_code: Q28455859
   Org_family: UN and affiliates
@@ -7413,6 +8222,8 @@ Indian Ocean Tuna Commission:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B16
+  Year_established: 1996
+  Headquarters: Victoria, Seychelles
 Asia-Pacific Fishery Commission:
   Wikidata_code: Q4806252
   Org_family: UN and affiliates
@@ -7427,6 +8238,8 @@ Asia-Pacific Fishery Commission:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B16
+  Year_established: 1948
+  Headquarters: Bangkok, Rattanakosin Kingdom
 Western and Central Pacific Fisheries Commission:
   Wikidata_code: Q2565027
   Org_family: UN and affiliates
@@ -7442,6 +8255,8 @@ Western and Central Pacific Fisheries Commission:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B16
+  Year_established: 2005
+  Headquarters: Kolonia, Federated States of Micronesia
 General Fisheries Commission for the Mediterranean:
   Wikidata_code: Q134724326
   Org_family: UN and affiliates
@@ -7470,6 +8285,7 @@ Central Asian and Caucasus Regional Fisheries and Aquaculture Commission:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B16
+  Year_established: 2009
 Coordinating Working Party on Fishery Statistics:
   Wikidata_code: Q5168022
   Org_family: UN and affiliates
