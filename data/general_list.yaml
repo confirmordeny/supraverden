@@ -16,6 +16,14 @@ European Union:
   Basis_for_assessment: B9
   Year_established: 1993
   Headquarters: Strasbourg, France
+  LEI: 529900FZRK8FGMPEOM08
+  LEI_jurisdiction: BE
+  LEI_category: GENERAL
+  LEI_legal_form: Legal Entity of Public Law
+  LEI_status: ACTIVE
+  LEI_hq_address: 12, Rue Guillaume Kroll, Luxembourg, L-1882, LU
+  LEI_bic:
+  - EUCOLULLXXX
 Council of the European Union:
   Wikidata_code: Q8896
   Entity_type: International organisation
@@ -69,6 +77,14 @@ European Central Bank:
   Basis_for_assessment: B10
   Year_established: 1998
   Headquarters: Frankfurt, Germany
+  LEI: 549300DTUYXVMJXZNY75
+  LEI_jurisdiction: DE
+  LEI_category: GENERAL
+  LEI_legal_form: Legal Entity of Public Law
+  LEI_status: ACTIVE
+  LEI_hq_address: Sonnemannstrasse 20, Frankfurt am Main, 60314, DE
+  LEI_bic:
+  - ECBFDEFFXXX
 European Commission:
   Wikidata_code: Q8880
   Entity_type: International organisation
@@ -85,6 +101,13 @@ European Commission:
   Basis_for_assessment: B10
   Year_established: 1958
   Headquarters: City of Brussels, Belgium
+  LEI: 254900ZNYA1FLUQ9U393
+  LEI_jurisdiction: BE
+  LEI_category: GENERAL
+  LEI_legal_form: Legal Entity of Public Law
+  LEI_status: ACTIVE
+  LEI_hq_address: Rue de la Loi/Wetstraat 200, Brussels, 1040, BE
+  LEI_bic: null
 European Council:
   Wikidata_code: Q8886
   Entity_type: International organisation
@@ -154,6 +177,14 @@ European Investment Bank:
   Basis_for_assessment: B22
   Year_established: 1958
   Headquarters: Luxembourg, Luxembourg
+  LEI: 5493006YXS1U5GIHE750
+  LEI_jurisdiction: EU
+  LEI_category: INTERNATIONAL_ORGANIZATION
+  LEI_legal_form: BANK - EIB Statute
+  LEI_status: ACTIVE
+  LEI_hq_address: 98-100, boulevard Konrad Adenauer, Luxembourg, L-2950, LU
+  LEI_bic:
+  - BEILLULLXXX
 European University Institute:
   Wikidata_code: Q1378099
   Entity_type: International organisation
@@ -170,6 +201,13 @@ European University Institute:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Year_established: 1972
+  LEI: 549300HFFVR36YQ0BA86
+  LEI_jurisdiction: IT
+  LEI_category: GENERAL
+  LEI_legal_form: SCHOOL
+  LEI_status: ACTIVE
+  LEI_hq_address: VIA DELLA BADIA DEI ROCCETTINI, 9, FIESOLE, 50014, IT
+  LEI_bic: null
 European Atomic Energy Community:
   Wikidata_code: Q8919
   Entity_type: International organisation
@@ -189,6 +227,13 @@ European Atomic Energy Community:
   Basis_for_assessment: B22
   Year_established: 1957
   Headquarters: Brussels metropolitan area, Belgium
+  LEI: 529900GYEA9TQP9BA353
+  LEI_jurisdiction: BE
+  LEI_category: GENERAL
+  LEI_legal_form: Legal Entity of Public Law
+  LEI_status: ACTIVE
+  LEI_hq_address: 12, Rue Guillaume Kroll, Luxembourg, L-1882, LU
+  LEI_bic: null
 Unified Patent Court:
   Wikidata_code: Q7884942
   Entity_type: International organisation
@@ -223,6 +268,15 @@ European Stability Mechanism:
   Basis_for_assessment: B22
   Year_established: 2012
   Headquarters: Luxembourg, Luxembourg
+  LEI: 222100W4EEAQ77386N50
+  LEI_jurisdiction: EU
+  LEI_category: INTERNATIONAL_ORGANIZATION
+  LEI_legal_form: ISSUERS OF SECURITIES FOR WHICH LUXEMBOURG IS THE HOME MEMBER STATE
+    PURSUANT TO THE TRANSPARENCY LAW
+  LEI_status: ACTIVE
+  LEI_hq_address: 6A, CIRCUIT DE LA FOIRE INTERNATIONALE, LUXEMBOURG, L-1347, LU
+  LEI_bic:
+  - ESMELULLXXX
 European Climate, Infrastructure and Environment Executive Agency:
   Wikidata_code: Q106818821
   Entity_type: International organisation
@@ -456,6 +510,14 @@ European Banking Authority:
   Basis_for_assessment: B17
   Year_established: 2011
   Headquarters: Paris, France
+  LEI: 636700O2DJI483DM8O80
+  LEI_jurisdiction: EU
+  LEI_category: INTERNATIONAL_ORGANIZATION
+  LEI_legal_form: International Organisation
+  LEI_status: ACTIVE
+  LEI_hq_address: Tour Europlaza 20 avenue André Prothin CS 30154 La Défense, CEDEX,
+    Paris, 92927, FR
+  LEI_bic: null
 European Centre for Disease Prevention and Control:
   Wikidata_code: Q918501
   Entity_type: International organisation
@@ -632,6 +694,13 @@ European Medicines Agency:
   Basis_for_assessment: B17
   Year_established: 1995
   Headquarters: Amsterdam, Netherlands
+  LEI: 213800XTW4IPFATDAT04
+  LEI_jurisdiction: NL
+  LEI_category: GENERAL
+  LEI_legal_form: AGENCY
+  LEI_status: ACTIVE
+  LEI_hq_address: DOMENICO SCARLATTILAAN 6, AMSTERDAM, 1083 HS, NL
+  LEI_bic: null
 European Training Foundation:
   Wikidata_code: Q372042
   Entity_type: International organisation
@@ -714,6 +783,13 @@ European Union Agency for Law Enforcement Training:
   Basis_for_assessment: B17
   Year_established: 2000
   Headquarters: Budapest, Hungary
+  LEI: 5299008IBVG7M544QC74
+  LEI_jurisdiction: HU
+  LEI_category: GENERAL
+  LEI_legal_form: Legal Entity of Public Law
+  LEI_status: ACTIVE
+  LEI_hq_address: Üllői út 114-116, Budapest, 1101, HU
+  LEI_bic: null
 European Union Agency for Railways:
   Wikidata_code: Q369273
   Entity_type: International organisation
@@ -731,9 +807,9 @@ European Union Agency for Railways:
   Basis_for_assessment: B17
   Year_established: 2004
   Headquarters: Valenciennes, France
-European Union Agency for the Operational Management of Large-Scale IT Systems in
-  the Area of Freedom, Security and Justice:
-  Wikidata_code: Q4440501
+? European Union Agency for the Operational Management of Large-Scale IT Systems in
+  the Area of Freedom, Security and Justice
+: Wikidata_code: Q4440501
   Entity_type: International organisation
   Org_family: EU institutions and bodies
   Country: eu
@@ -767,6 +843,13 @@ European Union Agency for the Space Programme:
   Basis_for_assessment: B17
   Year_established: 2004
   Headquarters: Prague, Czech Republic
+  LEI: 315700GI4Y06HF89TM07
+  LEI_jurisdiction: EU
+  LEI_category: INTERNATIONAL_ORGANIZATION
+  LEI_legal_form: Agentura Evropské unie
+  LEI_status: ACTIVE
+  LEI_hq_address: Janovského 438/2, Praha 7, 170 00, CZ
+  LEI_bic: null
 European Union Aviation Safety Agency:
   Wikidata_code: Q276255
   Entity_type: International organisation
@@ -1386,6 +1469,14 @@ Eastern Caribbean Central Bank:
   Immunity_url: https://www.eccb-centralbank.org/viewPDF/documents/2022-05-27-06-12-30-ECCB-Agreement.pdf
   Year_established: 1983
   Headquarters: Basseterre, Saint Kitts and Nevis
+  LEI: 549300JQ26UYYI7I7C72
+  LEI_jurisdiction: KN
+  LEI_category: GENERAL
+  LEI_legal_form: Bank
+  LEI_status: ACTIVE
+  LEI_hq_address: Bird Rock, Basseterre, KN
+  LEI_bic:
+  - ECCBKNSKXXX
 Organization of American States:
   Wikidata_code: Q123759
   Entity_type: International organisation
@@ -1459,6 +1550,14 @@ Pan American Health Organization:
   Basis_for_assessment: B30
   Year_established: 1902
   Headquarters: Washington, D.C., United States
+  LEI: 549300PX4WGXJNU7GL82
+  LEI_jurisdiction: UN
+  LEI_category: INTERNATIONAL_ORGANIZATION
+  LEI_legal_form: International Organization
+  LEI_status: ACTIVE
+  LEI_hq_address: 525 23rd St NW, Washington, 20037, US
+  LEI_bic:
+  - PAABUS33XXX
 Inter‐American Children’s Institute:
   Wikidata_code: '[No code found]'
   Entity_type: International organisation
@@ -1533,6 +1632,14 @@ Inter-American Development Bank:
   Immunity_url: https://www.oas.org/dil/treaties_C-15_Agreement_Establishing_the_Inter-American_Development_Bank.htm
   Year_established: 1959
   Headquarters: Washington, D.C., United States
+  LEI: VKU1UKDS9E7LYLMACP54
+  LEI_jurisdiction: US-DC
+  LEI_category: GENERAL
+  LEI_legal_form: International Organization
+  LEI_status: ACTIVE
+  LEI_hq_address: 1300 New York Avenue, N.W., Washington, 20577, US
+  LEI_bic:
+  - IADBUS3WXXX
 Inter-American Court of Human Rights:
   Wikidata_code: Q1547804
   Entity_type: International organisation
@@ -1628,6 +1735,13 @@ Caribbean Community:
   Basis_for_assessment: B22
   Year_established: 1973
   Headquarters: Georgetown, Guyana
+  LEI: 254900V4OO00FLAXK271
+  LEI_jurisdiction: GY
+  LEI_category: RESIDENT_GOVERNMENT_ENTITY
+  LEI_legal_form: Government Entity
+  LEI_status: ACTIVE
+  LEI_hq_address: Caricom Secretariat Turkeyen, Georgetown, GY
+  LEI_bic: null
 Caribbean Examinations Council:
   Wikidata_code: Q5039378
   Entity_type: International organisation
@@ -1729,6 +1843,14 @@ African Union:
   Basis_for_assessment: B22
   Year_established: 1999
   Headquarters: Johannesburg, South Africa
+  LEI: 254900Q0J01340FOTP78
+  LEI_jurisdiction: ET
+  LEI_category: GENERAL
+  LEI_legal_form: Credit Union
+  LEI_status: ACTIVE
+  LEI_hq_address: P.O. Box 3243 Roosvelt Street, Addis Ababa, 1000, ET
+  LEI_bic:
+  - AFUNETAAXXX
 Africa Centres for Disease Control and Prevention:
   Wikidata_code: Q88234914
   Entity_type: International organisation
@@ -1833,6 +1955,13 @@ Organization of the Petroleum Exporting Countries:
   Basis_for_assessment: B22
   Year_established: 1960
   Headquarters: Innere Stadt, Austria
+  LEI: 984500CFPF35UC37CF81
+  LEI_jurisdiction: XX
+  LEI_category: INTERNATIONAL_ORGANIZATION
+  LEI_legal_form: International Organisation
+  LEI_status: ACTIVE
+  LEI_hq_address: Helferstorferstrasse 17, Wien, 1010, AT
+  LEI_bic: null
 Financial Action Task Force:
   Wikidata_code: Q681487
   Entity_type: International organisation
@@ -1910,6 +2039,13 @@ European Centre for Medium-Range Weather Forecasts:
   Immunity_url: https://www.ecmwf.int/sites/default/files/amended_convention_protocol_privileges_en.pdf
   Year_established: 1975
   Headquarters: Reading, United Kingdom
+  LEI: 549300X1OUUKYPXI9C23
+  LEI_jurisdiction: GB
+  LEI_category: GENERAL
+  LEI_legal_form: INTERNATIONAL ORGANISATION
+  LEI_status: ACTIVE
+  LEI_hq_address: SHINFIELD PARK SHINFIELD ROAD, READING, RG2 9AX, GB
+  LEI_bic: null
 International Grains Council:
   Wikidata_code: Q6050768
   Entity_type: International organisation
@@ -2062,6 +2198,13 @@ International Oil Pollution Compensation Fund 1992:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201956/v1956.pdf
+  LEI: 213800VYRSXJ22LUCU60
+  LEI_jurisdiction: GB
+  LEI_category: RESIDENT_GOVERNMENT_ENTITY
+  LEI_legal_form: null
+  LEI_status: ACTIVE
+  LEI_hq_address: 4 ALBERT EMBANKMENT, LONDON, SE1 7SR, GB
+  LEI_bic: null
 European Telecommunications Satellite Organization:
   Wikidata_code: Q47537350
   Entity_type: International organisation
@@ -2191,6 +2334,14 @@ Square Kilometre Array Observatory:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://assets.publishing.service.gov.uk/media/5d3197f3ed915d2fe2d7e1bc/MS_27.2019_SKAO_Convention_Square_Kilometre_Array_Telescope.pdf
+  LEI: 213800XJ5VDO1HTO9318
+  LEI_jurisdiction: GB
+  LEI_category: RESIDENT_GOVERNMENT_ENTITY
+  LEI_legal_form: INTERNATIONAL ORGANISATION
+  LEI_status: ACTIVE
+  LEI_hq_address: SKA OBSERVATORY JODRELL BANK LOWER WITHINGTON, MACCLESFIELD, SK11
+    9FT, GB
+  LEI_bic: null
 International Criminal Police Organization:
   Wikidata_code: Q8475
   Entity_type: International organisation
@@ -2235,6 +2386,13 @@ Common Fund for Commodities:
   Basis_for_assessment: B22
   Immunity_url: https://treaties.un.org/pages/ViewDetailsIII.aspx?src=TREATY&mtdsg_no=XIX-21&chapter=19&Temp=mtdsg3&clang=_en
   Headquarters: Amsterdam, Netherlands
+  LEI: 549300EOVTY0L70RZR27
+  LEI_jurisdiction: NL
+  LEI_category: GENERAL
+  LEI_legal_form: NON-PROFIT
+  LEI_status: ACTIVE
+  LEI_hq_address: 6TH FLOOR RIETLANDPARK 301, AMSTERDAM, 1019 DW, NL
+  LEI_bic: null
 African Development Bank:
   Wikidata_code: Q340195
   Entity_type: International organisation
@@ -2251,6 +2409,17 @@ African Development Bank:
   Immunity_url: https://www.afdb.org/fileadmin/uploads/afdb/Documents/Legal-Documents/Agreement_establishing_the_African_development_bank_-_2016_edition.pdf
   Year_established: 1963
   Headquarters: Abidjan, Ivory Coast
+  LEI: 549300LNCLMO3ITVCU07
+  LEI_jurisdiction: XX
+  LEI_category: INTERNATIONAL_ORGANIZATION
+  LEI_legal_form: BANK
+  LEI_status: ACTIVE
+  LEI_hq_address: 24TH FLOOR, CCIA BUILDING PLATEAU 01 POSTAL BOX 1387 ABIDJAN 01,
+    ABIDJAN, CI
+  LEI_bic:
+  - ADBGGNG1XXX
+  - AFDBCIABXXX
+  - AFDBKEN1XXX
 African Development Fund:
   Wikidata_code: Q100411453
   Entity_type: International organisation
@@ -2264,6 +2433,14 @@ African Development Fund:
   Basis_for_assessment: B22
   Immunity_url: https://www.afdb.org/en/documents/agreement-establishing-african-development-fund-2016-edition
   Year_established: 1974
+  LEI: 549300GT4BDQ5463KW73
+  LEI_jurisdiction: CI
+  LEI_category: FUND
+  LEI_legal_form: FUND
+  LEI_status: ACTIVE
+  LEI_hq_address: C/O AFRICAN DEVELOPMENT BANK IMMEUBLE CCIA, AVENUE JEAN PAUL II,
+    01 BOITE POSTALE 1387, ABIDJAN 01, ABIDJAN, CI
+  LEI_bic: null
 Asian Development Bank:
   Wikidata_code: Q188822
   Entity_type: International organisation
@@ -2279,6 +2456,14 @@ Asian Development Bank:
   Basis_for_assessment: B22
   Year_established: 1966
   Headquarters: Mandaluyong, Philippines
+  LEI: 549300X0MVH42CY8Q105
+  LEI_jurisdiction: XX
+  LEI_category: INTERNATIONAL_ORGANIZATION
+  LEI_legal_form: BANK
+  LEI_status: ACTIVE
+  LEI_hq_address: 6 ADB AVENUE, MANDALUYONG CITY, 1550, PH
+  LEI_bic:
+  - ASDBPHMMXXX
 Asian Infrastructure Investment Bank:
   Wikidata_code: Q18109843
   Entity_type: International organisation
@@ -2295,6 +2480,14 @@ Asian Infrastructure Investment Bank:
   Immunity_url: https://www.aiib.org/en/about-aiib/basic-documents/_download/articles-of-agreement/basic_document_english-bank_articles_of_agreement.pdf
   Year_established: 2014
   Headquarters: Beijing, People's Republic of China
+  LEI: 25490065OSV2524LCR32
+  LEI_jurisdiction: XX
+  LEI_category: INTERNATIONAL_ORGANIZATION
+  LEI_legal_form: Multilateral Development Bank
+  LEI_status: ACTIVE
+  LEI_hq_address: 亚洲基础设施投资银行总部 亚洲金融大厦A座 天辰东路1号，朝阳区, 北京, 100107, CN
+  LEI_bic:
+  - AINFCNBJXXX
 Commonwealth Secretariat:
   Wikidata_code: Q3954348
   Entity_type: International organisation
@@ -2356,6 +2549,13 @@ CAB International:
   Immunity_url: https://www.cabi.org/wp-content/uploads/PDFs/AboutCABI/CABI-Agreement-2016.pdf
   Year_established: 1910
   Headquarters: Wallingford, United Kingdom
+  LEI: 213800OMJ8SOJW9VMN61
+  LEI_jurisdiction: GB
+  LEI_category: GENERAL
+  LEI_legal_form: INTERNATIONAL NOT FOR PROFIT ORGANISATION
+  LEI_status: ACTIVE
+  LEI_hq_address: NOSWORTHY WAY, WALLINGFORD, OX10 8DE, GB
+  LEI_bic: null
 European Organisation for the Safety of Air Navigation:
   Wikidata_code: Q663492
   Entity_type: International organisation
@@ -2387,6 +2587,15 @@ European Bank for Reconstruction and Development:
   Immunity_url: https://www.ebrd.com/content/dam/ebrd_dxp/assets/pdfs/institutional-documents/basic-documents-of-the-ebrd-july-2025-english.pdf
   Year_established: 1991
   Headquarters: London, United Kingdom
+  LEI: 549300HTGDOVDU6OGK19
+  LEI_jurisdiction: GB
+  LEI_category: GENERAL
+  LEI_legal_form: BANK
+  LEI_status: ACTIVE
+  LEI_hq_address: 5 BANK STREET, LONDON, E14 4BG, GB
+  LEI_bic:
+  - EBRDGB2LXXX
+  - ERDCITM1XXX
 Caribbean Development Bank:
   Wikidata_code: Q3772571
   Entity_type: International organisation
@@ -2403,6 +2612,14 @@ Caribbean Development Bank:
   Immunity_url: https://treaties.un.org/doc/Treaties/1970/01/19700126%2006-49%20AM/Ch_X_06p.pdf
   Year_established: 1970
   Headquarters: Saint Michael, Barbados
+  LEI: 549300TSCH0ZTLR5W421
+  LEI_jurisdiction: BB
+  LEI_category: GENERAL
+  LEI_legal_form: null
+  LEI_status: ACTIVE
+  LEI_hq_address: PO Box 408 Wildey, Bridgetown, BB11000, BB
+  LEI_bic:
+  - CDEVBBBBXXX
 Cooperation Council for the Arab States of the Gulf:
   Wikidata_code: Q217172
   Entity_type: International organisation
@@ -2530,6 +2747,13 @@ Pacific Islands Forum:
   Basis_for_assessment: B22
   Year_established: 1971
   Headquarters: Suva, Fiji
+  LEI: 254900TLPKM7IXXN3S43
+  LEI_jurisdiction: FJ
+  LEI_category: GENERAL
+  LEI_legal_form: Government
+  LEI_status: ACTIVE
+  LEI_hq_address: Ratu Sukuna Rd, Suva, FJ
+  LEI_bic: null
 East African Community:
   Wikidata_code: Q337456
   Entity_type: International organisation
@@ -2624,6 +2848,14 @@ Council of Europe Development Bank:
   Immunity_url: https://coebank.org/documents/51/CEB_Articles_of_Agreement_August_2023.pdf
   Year_established: 1956
   Headquarters: Paris, France
+  LEI: 549300UYNXMI821WYG82
+  LEI_jurisdiction: XX
+  LEI_category: INTERNATIONAL_ORGANIZATION
+  LEI_legal_form: MULTILATERAL DEVELOPMENT BANK
+  LEI_status: ACTIVE
+  LEI_hq_address: 55, AVENUE KLEBER, PARIS, 75116, FR
+  LEI_bic:
+  - CEFPFRPPXXX
 World Customs Organisation:
   Wikidata_code: Q605326
   Entity_type: International organisation
@@ -2781,6 +3013,13 @@ Permanent Court of Arbitration:
   Immunity_url: https://docs.pca-cpa.org/2016/01/1899-Convention-for-the-Pacific-Settlement-of-International-Disputes.pdf
   Year_established: 1899
   Headquarters: The Hague, Netherlands
+  LEI: 529900C2L7MB15U6IK48
+  LEI_jurisdiction: NL
+  LEI_category: GENERAL
+  LEI_legal_form: Legal Entity of Public Law
+  LEI_status: ACTIVE
+  LEI_hq_address: Peace Palace, Carnegieplein 2, Den Haag, 2517 KJ, NL
+  LEI_bic: null
 Nordic Council:
   Wikidata_code: Q146165
   Entity_type: International organisation
@@ -3115,6 +3354,14 @@ Inter-American Investment Corporation:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://assets.publishing.service.gov.uk/media/640b3cdc8fa8f5560820da5b/TS_11.2023_Agreement_Establishing_InterAmerican_Investment_Corporation.pdf
+  LEI: 5493001X4LH60PFRL744
+  LEI_jurisdiction: US
+  LEI_category: GENERAL
+  LEI_legal_form: CORPORATION
+  LEI_status: ACTIVE
+  LEI_hq_address: 1350 NEW YORK AVENUE, N.W., Washington, 20090, US
+  LEI_bic:
+  - IAICUS3WXXX
 Organisation of Islamic Cooperation:
   Wikidata_code: Q47543
   Entity_type: International organisation
@@ -3147,6 +3394,14 @@ International Investment Bank:
   Basis_for_assessment: B22
   Year_established: 1970
   Headquarters: Moscow, Russia
+  LEI: 213800AHASVLW3QIYP34
+  LEI_jurisdiction: BS
+  LEI_category: GENERAL
+  LEI_legal_form: null
+  LEI_status: ACTIVE
+  LEI_hq_address: GROUND FLOOR, 5 PINEAPPLE HOUSE BLAKE ROAD, NASSAU, BS
+  LEI_bic:
+  - IIBBBSNSXXX
 Indian Ocean Commission:
   Wikidata_code: Q1115631
   Entity_type: International organisation
@@ -3193,6 +3448,14 @@ Multilateral Investment Guarantee Agency:
   Immunity_url: https://www.miga.org/sites/default/files/archive/Documents/MIGA%20Convention%20(April%202018).pdf
   Year_established: 1988
   Headquarters: Washington, D.C., United States
+  LEI: 549300ZG5PH6MA164968
+  LEI_jurisdiction: US-DC
+  LEI_category: RESIDENT_GOVERNMENT_ENTITY
+  LEI_legal_form: CENTRAL GOVERNMENT
+  LEI_status: ACTIVE
+  LEI_hq_address: 1818 H Street, NW, Washington, 20433, US
+  LEI_bic:
+  - MIGAUS33XXX
 Pacific Tourism Organisation:
   Wikidata_code: Q7568120
   Entity_type: International organisation
@@ -3238,6 +3501,13 @@ Nordic Investment Bank:
   Immunity_url: https://web.archive.org/web/20240613035236/https://www.jus.uio.no/english/services/library/treaties/09/9-02/nordic-investment-bank.html
   Year_established: 1976
   Headquarters: Helsinki, Finland
+  LEI: 549300RI01LUQPVY2E66
+  LEI_jurisdiction: FI
+  LEI_category: GENERAL
+  LEI_legal_form: null
+  LEI_status: 'NULL'
+  LEI_hq_address: PO Box 249 Fabianinkatu 34, Helsinki, 00171, FI
+  LEI_bic: null
 Niger Basin Authority:
   Wikidata_code: Q1162546
   Entity_type: International organisation
@@ -3563,6 +3833,14 @@ New Development Bank:
   Immunity_url: https://www.ndb.int/wp-content/uploads/2022/11/Agreement-on-the-New-Development-Bank.pdf
   Year_established: 2015
   Headquarters: Shanghai, People's Republic of China
+  LEI: 254900VPI91W77OOUM06
+  LEI_jurisdiction: CN
+  LEI_category: GENERAL
+  LEI_legal_form: null
+  LEI_status: ACTIVE
+  LEI_hq_address: 新開發銀行總部 國展路 1600 號 浦東新區, 上海, 200126, CN
+  LEI_bic:
+  - NEDVCNSHXXX
 North Pacific Marine Science Organization:
   Wikidata_code: Q21015877
   Entity_type: International organisation
@@ -3753,6 +4031,13 @@ International Renewable Energy Agency:
   Immunity_url: https://assets.publishing.service.gov.uk/media/5a807aa540f0b62302693c04/TS_8.2015_Cm_9062_WEB_ACC.pdf
   Year_established: 2009
   Headquarters: United Arab Emirates, United Arab Emirates
+  LEI: 558600GLTPYDQHUVWA03
+  LEI_jurisdiction: AE
+  LEI_category: GENERAL
+  LEI_legal_form: IO
+  LEI_status: ACTIVE
+  LEI_hq_address: IRENA HQ MAsdar CIty Masdar City, Abu Dhabi Municipality, AE
+  LEI_bic: null
 Agreement on the Conservation of Albatrosses and Petrels:
   Wikidata_code: Q331541
   Entity_type: International organisation
@@ -3823,6 +4108,13 @@ International Cospas-Sarsat Programme:
   Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201518/v1518.pdf
   Year_established: 1979
   Headquarters: Montreal, Canada
+  LEI: 254900TZY42EQRYV6Z05
+  LEI_jurisdiction: CA-QC
+  LEI_category: GENERAL
+  LEI_legal_form: Legal Entity Under Public Law
+  LEI_status: ACTIVE
+  LEI_hq_address: 4215-1250 boul. Rene-Levesque O, Montreal, H3B 4W8, CA
+  LEI_bic: null
 International Centre for Genetic Engineering and Biotechnology:
   Wikidata_code: Q6049095
   Entity_type: International organisation
@@ -3938,6 +4230,13 @@ International Science and Technology Center:
   Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:22017A0214(01)
   Year_established: 1994
   Headquarters: Astana, Kazakhstan
+  LEI: 2549002Q194Z0WAGJ068
+  LEI_jurisdiction: KZ
+  LEI_category: GENERAL
+  LEI_legal_form: International intergovernmental organization
+  LEI_status: ACTIVE
+  LEI_hq_address: 46/1 Turan Avenue, Nur-Sultan, 010000, KZ
+  LEI_bic: null
 International Commission for the Conservation of Atlantic Tunas:
   Wikidata_code: Q840267
   Entity_type: International organisation
@@ -4266,6 +4565,13 @@ International Council for Exploration of the Sea:
   Immunity_url: https://www.ices.dk/about-ICES/who-we-are/Documents/ICES_Convention_1964.pdf
   Year_established: 1902
   Headquarters: Copenhagen, Denmark
+  LEI: 549300VABW5FSKOKO735
+  LEI_jurisdiction: DK
+  LEI_category: GENERAL
+  LEI_legal_form: null
+  LEI_status: ACTIVE
+  LEI_hq_address: H.C. Andersens Boulevard 44-46, København V, 1553, DK
+  LEI_bic: null
 International Development Law Organization:
   Wikidata_code: Q11977461
   Entity_type: International organisation
@@ -4869,6 +5175,16 @@ Central American Bank for Economic Integration:
   Basis_for_assessment: B22
   Year_established: 1960
   Headquarters: Tegucigalpa, Honduras
+  LEI: 549300OLDAMXBPSHIC05
+  LEI_jurisdiction: XX
+  LEI_category: INTERNATIONAL_ORGANIZATION
+  LEI_legal_form: Institución Financiera Multilateral de Desarrollo
+  LEI_status: ACTIVE
+  LEI_hq_address: Boulevard Suyapa, Tegucigalpa, 11101, HN
+  LEI_bic:
+  - BCIEHNTEXXX
+  - BCIENIM1XXX
+  - BCIESVS1XXX
 European Organization for Nuclear Research:
   Wikidata_code: Q42944
   Entity_type: International organisation
@@ -4885,6 +5201,13 @@ European Organization for Nuclear Research:
   Immunity_url: https://council.web.cern.ch/en/content/convention-establishment-european-organization-nuclear-research
   Year_established: 1954
   Headquarters: villarodin Bourget, France
+  LEI: 8945001PQCC375ANAQ33
+  LEI_jurisdiction: CH
+  LEI_category: GENERAL
+  LEI_legal_form: null
+  LEI_status: ACTIVE
+  LEI_hq_address: Esplanade des Particules 1, Meyrin, 1217, CH
+  LEI_bic: null
 Intergovernmental Authority on Development:
   Wikidata_code: Q499039
   Entity_type: International organisation
@@ -4916,6 +5239,13 @@ International Centre for Migration Policy Development:
   Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%203132/v3132.pdf
   Year_established: 1993
   Headquarters: Vienna, Austria
+  LEI: 5299008B79P1QNOXHO05
+  LEI_jurisdiction: AT
+  LEI_category: GENERAL
+  LEI_legal_form: null
+  LEI_status: ACTIVE
+  LEI_hq_address: Rothschildplatz 4, Wien, 1020, AT
+  LEI_bic: null
 Organisation for the Prohibition of Nuclear Weapons in Latin America and the Caribbean:
   Wikidata_code: Q3369762
   Entity_type: International organisation
@@ -5073,6 +5403,13 @@ International Civil Defence Organization:
   Immunity_url: https://icdo.org/files/documents/constitution/icdo_constitution_en.pdf
   Year_established: 1972
   Headquarters: Lancy, Switzerland
+  LEI: 549300FTV3W9T9TF0N97
+  LEI_jurisdiction: CH
+  LEI_category: RESIDENT_GOVERNMENT_ENTITY
+  LEI_legal_form: COMPANY
+  LEI_status: ACTIVE
+  LEI_hq_address: 10 - 12 CHEMIN DE SURVILLE PETIT-LANCY, GENEVA, 1213, CH
+  LEI_bic: null
 International Bank for Economic Co-operation:
   Wikidata_code: Q1520558
   Entity_type: International organisation
@@ -5102,6 +5439,15 @@ Islamic Development Bank:
   Basis_for_assessment: B22
   Year_established: 1973
   Headquarters: Jeddah, Saudi Arabia
+  LEI: 254900TNNQC073KOJ554
+  LEI_jurisdiction: SA
+  LEI_category: GENERAL
+  LEI_legal_form: Bank
+  LEI_status: ACTIVE
+  LEI_hq_address: 8111 King Khalid St. AI Nuzlah AI Yamania Dist. Unit No. 1, Jeddah,
+    22332, SA
+  LEI_bic:
+  - ISLDSAJEXXX
 International Institute for Democracy and Electoral Assistance:
   Wikidata_code: Q46340424
   Entity_type: International organisation
@@ -5181,6 +5527,14 @@ Eastern and Southern African Trade and Development Bank:
   Basis_for_assessment: B22
   Immunity_url: https://www.tdbgroup.org/wp-content/uploads/2024/01/TDB-Charter-English-01.01.2024.pdf
   Year_established: 1985
+  LEI: 2138004HC83AB2ENIZ64
+  LEI_jurisdiction: MU
+  LEI_category: GENERAL
+  LEI_legal_form: TREATY
+  LEI_status: ACTIVE
+  LEI_hq_address: AFRICA FI PLACE, LOT NO. 13 WALL STREET P.O. BOX 43 CYBERCITY, EBENE,
+    72201, MU
+  LEI_bic: null
 East African Development Bank:
   Wikidata_code: Q5327655
   Entity_type: International organisation
@@ -5196,6 +5550,16 @@ East African Development Bank:
   Basis_for_assessment: B22
   Year_established: 1967
   Headquarters: Kampala, Uganda
+  LEI: 894500E3HXI81E315894
+  LEI_jurisdiction: UG
+  LEI_category: GENERAL
+  LEI_legal_form: BANK
+  LEI_status: ACTIVE
+  LEI_hq_address: 4 Nile Avenue, EADB Building, Kampala, 256, UG
+  LEI_bic:
+  - AFDETZT1XXX
+  - AFDEUGKAXXX
+  - EADBKEN1XXX
 Latin-American Centre for Physics:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -5222,6 +5586,13 @@ Nordic Environment Finance Corporation:
   Basis_for_assessment: B22
   Immunity_url: https://www.nefco.int/wp-content/uploads/2019/04/NEFCO_Constituent-Documents_2017.pdf
   Year_established: 1990
+  LEI: 743700Y85DJRD8NL1W59
+  LEI_jurisdiction: FI
+  LEI_category: GENERAL
+  LEI_legal_form: null
+  LEI_status: ACTIVE
+  LEI_hq_address: Fabianinkatu 34 00170 HELSINKI, HELSINKI, FI-00170, FI
+  LEI_bic: null
 Fund for the Development of the Indigenous Peoples of Latin America and the Caribbean:
   Wikidata_code: Q125689468
   Entity_type: International organisation
@@ -5252,6 +5623,14 @@ Black Sea Trade and Development Bank:
   Immunity_url: https://www.bstdb.org/Establishing_Agreement_BSTDB.pdf
   Year_established: 1997
   Headquarters: Thessaloniki, Greece
+  LEI: 529900J7FSFACAGZ5042
+  LEI_jurisdiction: GR
+  LEI_category: GENERAL
+  LEI_legal_form: null
+  LEI_status: ACTIVE
+  LEI_hq_address: 26th Oktovriou & 1 Limnou Street, Thessaloniki, 546 27, GR
+  LEI_bic:
+  - BSTDGR2TXXX
 European Company for the Financing of Railroad Rolling Stock:
   Wikidata_code: Q1374986
   Entity_type: International organisation
@@ -5268,6 +5647,14 @@ European Company for the Financing of Railroad Rolling Stock:
   Immunity_url: https://www.eurofima.org/sites/default/assets/Image/investor-relations/constitutive-documents/convention_e.pdf
   Year_established: 1956
   Headquarters: Basel, Switzerland
+  LEI: 4S66HJ5RNB5ZWG9YW219
+  LEI_jurisdiction: CH
+  LEI_category: GENERAL
+  LEI_legal_form: null
+  LEI_status: ACTIVE
+  LEI_hq_address: MERET OPPENHEIM-PLATZ 1 C, BASEL, 4053, CH
+  LEI_bic:
+  - EURACHBBXXX
 Asian Clearing Union:
   Wikidata_code: Q2150936
   Entity_type: International organisation
@@ -5308,6 +5695,14 @@ Africa Finance Corporation:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Year_established: 2007
+  LEI: 213800LXFHRRXIJRXW97
+  LEI_jurisdiction: NG
+  LEI_category: GENERAL
+  LEI_legal_form: CORPORATION
+  LEI_status: ACTIVE
+  LEI_hq_address: 3A OSBORNE ROAD IKOYI, LAGOS, 106104, NG
+  LEI_bic:
+  - AFFCNGLAXXX
 African Export-Import Bank:
   Wikidata_code: Q4689766
   Entity_type: International organisation
@@ -5324,6 +5719,16 @@ African Export-Import Bank:
   Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201890/volume-1890-I-32192-English.pdf
   Year_established: 1993
   Headquarters: Cairo, Egypt
+  LEI: 21380068LJCDYA42GJ76
+  LEI_jurisdiction: EG
+  LEI_category: GENERAL
+  LEI_legal_form: MULTILATERAL BANK
+  LEI_status: ACTIVE
+  LEI_hq_address: 72B EL-MAAHAD EL-ESHTERAKY STREET HELIOPOLIS, P.O.BOX 613, CAIRO,
+    11341, EG
+  LEI_bic:
+  - AFXMEGCAXXX
+  - PASSNGLAXXX
 Latin American Reserve Fund:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -5378,6 +5783,14 @@ OPEC Fund for International Development:
   OpenSanctions_id: bic-OFIDATWW
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  LEI: HHX3T53LK1P186EUNV37
+  LEI_jurisdiction: XX
+  LEI_category: INTERNATIONAL_ORGANIZATION
+  LEI_legal_form: OPEC FUND
+  LEI_status: ACTIVE
+  LEI_hq_address: PARKRING 8, VIENNA, 1010, AT
+  LEI_bic:
+  - OFIDATWWXXX
 Eurasian Development Bank:
   Wikidata_code: Q498991
   Entity_type: International organisation
@@ -5424,6 +5837,14 @@ West African Development Bank:
   Basis_for_assessment: B22
   Year_established: 1973
   Headquarters: Lomé, Togo
+  LEI: 529900LIZJABE4JJS826
+  LEI_jurisdiction: TG
+  LEI_category: GENERAL
+  LEI_legal_form: Legal Entity of Public Law
+  LEI_status: ACTIVE
+  LEI_hq_address: 68 Avenue De La Liberation, Lome, 1172, TG
+  LEI_bic:
+  - BOADTGTGXXX
 Liptako-Gourma Region Integrated Development Authority:
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -5955,6 +6376,13 @@ EFTA Court:
   Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:E1994A1231(01)
   Year_established: 1994
   Headquarters: Luxembourg, Luxembourg
+  LEI: 222100PWFXJ2POS9DQ95
+  LEI_jurisdiction: LU
+  LEI_category: GENERAL
+  LEI_legal_form: LEGAL ENTITY OF PUBLIC LAW
+  LEI_status: ACTIVE
+  LEI_hq_address: 1, RUE DU FORT THÜNGEN, LUXEMBOURG, L-1499, LU
+  LEI_bic: null
 Economic Court of the Commonwealth of Independent States:
   Wikidata_code: Q4306397
   Entity_type: International organisation
@@ -6046,6 +6474,14 @@ International Solar Alliance:
   Basis_for_assessment: B22
   Year_established: 2015
   Headquarters: Gurgaon, India
+  LEI: 335800TI2VJT9YHOXL60
+  LEI_jurisdiction: IN
+  LEI_category: GENERAL
+  LEI_legal_form: University/AOP/Society
+  LEI_status: ACTIVE
+  LEI_hq_address: NATIONAL INSTITUTE OF SOLAR ENERGY CAMPUS, GWAL PAHARI, GURUGRAM,
+    GURUGRAM, HARYANA, GURUGRAM, GURUGRAM, 122003, IN
+  LEI_bic: null
 Limpopo Watercourse Commission:
   Wikidata_code: '[No code.]'
   Entity_type: International organisation
@@ -6235,6 +6671,13 @@ International Union for Conservation of Nature and Natural Resources:
   Basis_for_assessment: B28
   Year_established: 1948
   Headquarters: Gland, Switzerland
+  LEI: 5067002G380LHZGE5X83
+  LEI_jurisdiction: CH
+  LEI_category: GENERAL
+  LEI_legal_form: null
+  LEI_status: ACTIVE
+  LEI_hq_address: Rue Mauverney 28, Gland, 1196, CH
+  LEI_bic: null
 International Potato Center:
   Wikidata_code: Q1054322
   Entity_type: International organisation
@@ -6602,6 +7045,14 @@ Coalition for Disaster Resilient Infrastructure:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  LEI: 3358001V1EX9LD85BM70
+  LEI_jurisdiction: XX
+  LEI_category: INTERNATIONAL_ORGANIZATION
+  LEI_legal_form: INDIA HQA
+  LEI_status: ACTIVE
+  LEI_hq_address: 3RD & 4TH FLOOR IIPA BHAWAN INDIAN INSTITUTE OF PUBLIC ADMINISTRATION
+    (IIPA) INDRAPRASTHA ESTATE, MAHATMA GANDHI ROAD, NEW DELHI, 110002, IN
+  LEI_bic: null
 Arab League:
   Wikidata_code: Q7172
   Entity_type: International organisation
@@ -6630,6 +7081,13 @@ Arab Industrial Development Standardization and Mining Organization:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.lloc.gov.bh/FullEn/L2479.docx
+  LEI: 984500C87E46ABP6C794
+  LEI_jurisdiction: MA
+  LEI_category: GENERAL
+  LEI_legal_form: Societe Civile Professionnelle - (SCP)
+  LEI_status: ACTIVE
+  LEI_hq_address: France Avenue, Agdal, Rabat, 10000, MA
+  LEI_bic: null
 Arab States Broadcasting Union:
   Wikidata_code: Q4783249
   Entity_type: International organisation
@@ -6645,6 +7103,13 @@ Arab States Broadcasting Union:
   Basis_for_assessment: B22
   Year_established: 1969
   Headquarters: Tunis, Tunisia
+  LEI: 4117KG5WLI9LY4I6AW83
+  LEI_jurisdiction: XX
+  LEI_category: INTERNATIONAL_ORGANIZATION
+  LEI_legal_form: Organisation Internationale
+  LEI_status: ACTIVE
+  LEI_hq_address: RUE SOFIENE CHAARI CENTRE URBAIN NORD, Tunis, 1001, TN
+  LEI_bic: null
 Arab Center for the Studies of Arid Zones and Dry Lands:
   Wikidata_code: Q30289729
   Entity_type: International organisation
@@ -6687,6 +7152,15 @@ Arab Bank for Economic Development in Africa:
   Basis_for_assessment: B22
   Immunity_url: https://data.qanoon.om/treaties/1974-0017AEN.pdf
   Headquarters: Riyadh, Saudi Arabia
+  LEI: 549300BZGC73FHYP9S05
+  LEI_jurisdiction: SD
+  LEI_category: GENERAL
+  LEI_legal_form: Commercial Bank
+  LEI_status: ACTIVE
+  LEI_hq_address: ALAMERYIA TOWER, BUILDING NO. 7922 SUB NO.4091,P.O. BOX 12333 ALALIYA
+    KING FAHAD ROAD, RIYADH, 11564, SA
+  LEI_bic:
+  - AEDCSARIXXX
 Arab Civil Aviation Organization:
   Wikidata_code: Q22686285
   Entity_type: International organisation
@@ -6699,6 +7173,13 @@ Arab Civil Aviation Organization:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Year_established: 1996
+  LEI: 894500SO2Q3W5BRPU384
+  LEI_jurisdiction: XX
+  LEI_category: INTERNATIONAL_ORGANIZATION
+  LEI_legal_form: https://acao.org.ma/site/en/page.php?idem=2&cat=0&pgi=12&tpct=0
+  LEI_status: ACTIVE
+  LEI_hq_address: 20 Ait Ba'amran Street Mohammed VI Street, Rabat-Suezy, 10001, MA
+  LEI_bic: null
 Arab Women Organization:
   Wikidata_code: Q12245743
   Entity_type: International organisation
@@ -6754,6 +7235,14 @@ Arab Monetary Fund:
   Basis_for_assessment: B22
   Year_established: 1976
   Headquarters: Abu Dhabi, United Arab Emirates
+  LEI: 549300WT3YR8YON1F749
+  LEI_jurisdiction: XX
+  LEI_category: INTERNATIONAL_ORGANIZATION
+  LEI_legal_form: INTERNATIONAL ORGANIZATION
+  LEI_status: ACTIVE
+  LEI_hq_address: PO BOX 2818, ABU DHABI, AE
+  LEI_bic:
+  - ARMFAEAAXXX
 Arab Satellite Communications Organisation:
   Wikidata_code: Q624426
   Entity_type: International organisation
@@ -6900,6 +7389,15 @@ United Nations:
   Basis_for_assessment: B1
   Year_established: 1945
   Headquarters: New York City, United States
+  LEI: 549300HYGYJKXU2J8X74
+  LEI_jurisdiction: UN
+  LEI_category: INTERNATIONAL_ORGANIZATION
+  LEI_legal_form: International Organisation
+  LEI_status: ACTIVE
+  LEI_hq_address: United Nations Secretariat Building 405 East 42nd Street, New York,
+    10017, US
+  LEI_bic:
+  - UNATUS33XXX
 United Nations Security Council:
   Wikidata_code: Q37470
   Org_family: UN and affiliates
@@ -7014,6 +7512,14 @@ Food and Agriculture Organization:
   Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
   Year_established: 1945
   Headquarters: Rome, Italy
+  LEI: 549300GB85OJ8241D118
+  LEI_jurisdiction: IT
+  LEI_category: GENERAL
+  LEI_legal_form: TRUST
+  LEI_status: ACTIVE
+  LEI_hq_address: VIALE DELLE TERME DI CARACALLA, ROME, 00153, IT
+  LEI_bic:
+  - FAORITRRXXX
 International Bank for Reconstruction and Development:
   Wikidata_code: Q191384
   Org_family: UN and affiliates
@@ -7032,6 +7538,14 @@ International Bank for Reconstruction and Development:
   Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
   Year_established: 1944
   Headquarters: Washington, D.C., United States
+  LEI: ZTMSNXROF84AHWJNKQ93
+  LEI_jurisdiction: XX
+  LEI_category: INTERNATIONAL_ORGANIZATION
+  LEI_legal_form: CENTRAL GOVERNMENT
+  LEI_status: ACTIVE
+  LEI_hq_address: 1818 H Street, NW, Washington, 20433, US
+  LEI_bic:
+  - IBRDUS33XXX
 International Civil Aviation Organization:
   Wikidata_code: Q125761
   Org_family: UN and affiliates
@@ -7050,6 +7564,13 @@ International Civil Aviation Organization:
   Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
   Year_established: 1944
   Headquarters: International Civil Aviation Organization Headquarters, Canada
+  LEI: 2549008CD8US912FMF04
+  LEI_jurisdiction: UN
+  LEI_category: INTERNATIONAL_ORGANIZATION
+  LEI_legal_form: Convention on International Civil Aviation
+  LEI_status: ACTIVE
+  LEI_hq_address: 999 Blvd Robert-Bourassa, Montreal, H3C 5H7, CA
+  LEI_bic: null
 International Fund for Agricultural Development:
   Wikidata_code: Q689859
   Org_family: UN and affiliates
@@ -7068,6 +7589,14 @@ International Fund for Agricultural Development:
   Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
   Year_established: 1977
   Headquarters: Rome, Italy
+  LEI: 54930018GXVZ0BEQ7K32
+  LEI_jurisdiction: UN
+  LEI_category: INTERNATIONAL_ORGANIZATION
+  LEI_legal_form: INTERNATIONAL INSTITUTION
+  LEI_status: ACTIVE
+  LEI_hq_address: VIA PAOLO DI DONO, 44, ROME, 00142, IT
+  LEI_bic:
+  - IFADITRRXXX
 International Telecommunication Union:
   Wikidata_code: Q376150
   Org_family: UN and affiliates
@@ -7102,6 +7631,15 @@ United Nations Children’s Fund:
   Basis_for_assessment: B11
   Year_established: 1946
   Headquarters: New York City, United States
+  LEI: 5493003PODH0BS5ZOF16
+  LEI_jurisdiction: US
+  LEI_category: FUND
+  LEI_legal_form: FUND
+  LEI_status: ACTIVE
+  LEI_hq_address: C/O United Nations Children's Fund UNICEF House, New York, 10017,
+    US
+  LEI_bic:
+  - UNCFUS33XXX
 United Nations Development Programme:
   Wikidata_code: Q161718
   Org_family: UN and affiliates
@@ -7118,6 +7656,14 @@ United Nations Development Programme:
   Basis_for_assessment: B11
   Year_established: 1965
   Headquarters: New York City, United States
+  LEI: 213800HHKG1TKV8LMW56
+  LEI_jurisdiction: UN
+  LEI_category: INTERNATIONAL_ORGANIZATION
+  LEI_legal_form: INTERNATIONAL ORGANIZATION
+  LEI_status: ACTIVE
+  LEI_hq_address: ONE UNITED NATIONS PLAZA, NEW YORK, 10017, US
+  LEI_bic:
+  - UNDPUS33XXX
 United Nations Environment Programme:
   Wikidata_code: Q182016
   Org_family: UN and affiliates
@@ -7163,6 +7709,14 @@ United Nations Office for Project Services:
   Basis_for_assessment: B11
   Year_established: 1974
   Headquarters: UN City, Denmark
+  LEI: 213800OZSDOA9UEAFP83
+  LEI_jurisdiction: UN
+  LEI_category: INTERNATIONAL_ORGANIZATION
+  LEI_legal_form: International Organization
+  LEI_status: ACTIVE
+  LEI_hq_address: MARMORVEJ 51 PO BOX 2695, COPENHAGEN, 2100, DK
+  LEI_bic:
+  - UNOPDKKKXXX
 United Nations Population Fund:
   Wikidata_code: Q623036
   Org_family: UN and affiliates
@@ -7179,6 +7733,13 @@ United Nations Population Fund:
   Basis_for_assessment: B11
   Year_established: 1969
   Headquarters: New York City, United States
+  LEI: 213800ZWT4VX2OHR5N14
+  LEI_jurisdiction: UN
+  LEI_category: INTERNATIONAL_ORGANIZATION
+  LEI_legal_form: INTERNATIONAL ORGANIZATION
+  LEI_status: ACTIVE
+  LEI_hq_address: 605 THIRD AVENUE, NEW YORK, 10158, US
+  LEI_bic: null
 United Nations World Food Programme:
   Wikidata_code: Q204344
   Org_family: UN and affiliates
@@ -7195,6 +7756,14 @@ United Nations World Food Programme:
   Basis_for_assessment: B11
   Year_established: 1961
   Headquarters: Rome, Italy
+  LEI: 549300VOUIBR2256K858
+  LEI_jurisdiction: IT
+  LEI_category: RESIDENT_GOVERNMENT_ENTITY
+  LEI_legal_form: Intergovernmental organization
+  LEI_status: ACTIVE
+  LEI_hq_address: VIA CESARE GIULIO VIOLA 68 PARCO DE' MEDICI, ROME, 00148, IT
+  LEI_bic:
+  - WFPRITRRXXX
 World Bank:
   Wikidata_code: Q7164
   Org_family: UN and affiliates
@@ -7249,6 +7818,13 @@ World Health Organization:
   Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
   Year_established: 1948
   Headquarters: Geneva, Switzerland
+  LEI: 0T1CG46EXJPKIM1GY234
+  LEI_jurisdiction: UN
+  LEI_category: INTERNATIONAL_ORGANIZATION
+  LEI_legal_form: AGENCY
+  LEI_status: ACTIVE
+  LEI_hq_address: AVENUE APPIA 20, GENEVA, 1211, CH
+  LEI_bic: null
 World Intellectual Property Organization:
   Wikidata_code: Q177773
   Org_family: UN and affiliates
@@ -7285,6 +7861,13 @@ International Maritime Organization:
   Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
   Year_established: 1982
   Headquarters: London, United Kingdom
+  LEI: 254900J67UT1HWPDEZ93
+  LEI_jurisdiction: UN
+  LEI_category: INTERNATIONAL_ORGANIZATION
+  LEI_legal_form: United Nations Agency
+  LEI_status: ACTIVE
+  LEI_hq_address: 4 Albert Embankment, London, SE1 7SR, GB
+  LEI_bic: null
 United Nations Educational, Scientific and Cultural Organization:
   Wikidata_code: Q7809
   Org_family: UN and affiliates
@@ -7303,6 +7886,14 @@ United Nations Educational, Scientific and Cultural Organization:
   Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
   Year_established: 1945
   Headquarters: Paris, France
+  LEI: 549300UOQ4N8CBASRY79
+  LEI_jurisdiction: UN
+  LEI_category: INTERNATIONAL_ORGANIZATION
+  LEI_legal_form: United Nations Specialized Agency
+  LEI_status: ACTIVE
+  LEI_hq_address: 7 Placé de Fontenoy, Paris, 75007, FR
+  LEI_bic:
+  - UNESFRP2XXX
 International Labour Organization:
   Wikidata_code: Q54129
   Org_family: UN and affiliates
@@ -7357,6 +7948,14 @@ International Monetary Fund:
   Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
   Year_established: 1944
   Headquarters: Washington, D.C., United States
+  LEI: E7EXN6FJGRUTJYNZ3Z71
+  LEI_jurisdiction: UN
+  LEI_category: INTERNATIONAL_ORGANIZATION
+  LEI_legal_form: FUND
+  LEI_status: ACTIVE
+  LEI_hq_address: 1900 Pennsylvania Ave NW, Washington, 20431, US
+  LEI_bic:
+  - IMFDUS3WXXX
 International Atomic Energy Agency:
   Wikidata_code: Q41984
   Org_family: UN and affiliates
@@ -7373,6 +7972,14 @@ International Atomic Energy Agency:
   Basis_for_assessment: B11
   Year_established: 1957
   Headquarters: Vienna, Austria
+  LEI: 254900LA8J6AFBG2V690
+  LEI_jurisdiction: UN
+  LEI_category: INTERNATIONAL_ORGANIZATION
+  LEI_legal_form: International Organization
+  LEI_status: ACTIVE
+  LEI_hq_address: Vienna International Centre PO Box 100, Vienna, 1400, AT
+  LEI_bic:
+  - IAEAATWWXXX
 World Meteorological Organization:
   Wikidata_code: Q170424
   Org_family: UN and affiliates
@@ -7407,6 +8014,14 @@ International Organization for Migration:
   Basis_for_assessment: B11
   Year_established: 1951
   Headquarters: Geneva, Switzerland
+  LEI: 213800ZOADXV69DW8Z91
+  LEI_jurisdiction: CH
+  LEI_category: GENERAL
+  LEI_legal_form: null
+  LEI_status: ACTIVE
+  LEI_hq_address: 17 ROUTE DES MORILLONS, GENEVA, 1218, CH
+  LEI_bic:
+  - IOMICHGGXXX
 International Criminal Court:
   Wikidata_code: Q47488
   Org_family: UN and affiliates
@@ -7441,6 +8056,14 @@ Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organizatio
   Basis_for_assessment: B11
   Year_established: 1996
   Headquarters: Vienna International Centre, Austria
+  LEI: 254900M5F2STTFUYKM29
+  LEI_jurisdiction: AT
+  LEI_category: GENERAL
+  LEI_legal_form: TRUST
+  LEI_status: ACTIVE
+  LEI_hq_address: Vienna International Centre Wagramer Strasse 5, Vienna, 1400, AT
+  LEI_bic:
+  - CTBTATWWXXX
 International Seabed Authority:
   Wikidata_code: Q333727
   Org_family: UN and affiliates
@@ -7510,6 +8133,13 @@ United Nations Industrial Development Organization:
   Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
   Year_established: 1966
   Headquarters: Vienna, Austria
+  LEI: 2549002PN69CN4K2K382
+  LEI_jurisdiction: UN
+  LEI_category: INTERNATIONAL_ORGANIZATION
+  LEI_legal_form: Development Organization
+  LEI_status: ACTIVE
+  LEI_hq_address: Wagramer Strasse 5, Vienna, 1220, AT
+  LEI_bic: null
 International Law Commission:
   Wikidata_code: Q684656
   Org_family: UN and affiliates
@@ -7540,6 +8170,14 @@ International Finance Corporation:
   Basis_for_assessment: B11
   Year_established: 1956
   Headquarters: Washington, D.C., United States
+  LEI: QKL54NQY28TCDAI75F60
+  LEI_jurisdiction: US-DC
+  LEI_category: GENERAL
+  LEI_legal_form: null
+  LEI_status: ACTIVE
+  LEI_hq_address: 2121 PENNSYLVANIA AVENUE NORTH WEST, WASHINGTON, 20433, US
+  LEI_bic:
+  - IFCWUS33XXX
 International Development Association:
   Wikidata_code: '[No code found.]'
   Org_family: UN and affiliates
@@ -7553,6 +8191,14 @@ International Development Association:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  LEI: P41R60HC414IWQA1XW02
+  LEI_jurisdiction: XX
+  LEI_category: INTERNATIONAL_ORGANIZATION
+  LEI_legal_form: CENTRAL GOVERNMENT
+  LEI_status: ACTIVE
+  LEI_hq_address: 1818 H Street, North West, Washington, 20433, US
+  LEI_bic:
+  - IDAWUS33XXX
 Fishery Committee for the Eastern Central Atlantic:
   Wikidata_code: Q12617572
   Org_family: UN and affiliates
@@ -7671,6 +8317,13 @@ Organisation for the Prohibition of Chemical Weapons:
   Basis_for_assessment: B11
   Year_established: 1997
   Headquarters: The Hague, Netherlands
+  LEI: 254900QSGOKZP3X0FE25
+  LEI_jurisdiction: UN
+  LEI_category: INTERNATIONAL_ORGANIZATION
+  LEI_legal_form: International Organization
+  LEI_status: ACTIVE
+  LEI_hq_address: Johan de Wittlaan 32, The Hague, 2517JR, NL
+  LEI_bic: null
 United Nations Interregional Crime and Justice Research Institute:
   Wikidata_code: Q1427752
   Org_family: UN and affiliates
@@ -7844,6 +8497,14 @@ United Nations Relief and Works Agency for Palestine Refugees in the Near East:
   Basis_for_assessment: B11
   Year_established: 1949
   Headquarters: Gaza City, Palestine
+  LEI: 549300IN92C81ZXJV444
+  LEI_jurisdiction: XX
+  LEI_category: INTERNATIONAL_ORGANIZATION
+  LEI_legal_form: NON-PROFIT
+  LEI_status: ACTIVE
+  LEI_hq_address: PO BOX 140157 BAYADER WADI AL-SEER INDUSTRIAL STREET, AMMAN, 11814,
+    JO
+  LEI_bic: null
 World Trade Organization:
   Wikidata_code: Q7825
   Org_family: UN and affiliates
@@ -7925,6 +8586,14 @@ United Nations Capital Development Fund:
   Basis_for_assessment: B11
   Year_established: 1966
   Headquarters: New York City, United States
+  LEI: 549300R068TFDFYV3549
+  LEI_jurisdiction: US
+  LEI_category: FUND
+  LEI_legal_form: FUND
+  LEI_status: ACTIVE
+  LEI_hq_address: C/O United Nations Capital Development Fund 26th Floor Two UN Plaza,
+    New York, 10017, US
+  LEI_bic: null
 United Nations University:
   Wikidata_code: Q492442
   Org_family: UN and affiliates
