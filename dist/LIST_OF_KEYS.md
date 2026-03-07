@@ -10,6 +10,7 @@
 * Basis_for_assessment
 * Country
 * Entity_type
+* Headquarters
 * Immunity_url
 * Name
   * en
@@ -34,4 +35,6 @@
 * Treaty_url
 * Type
 * Wikidata_code
+* Year
+  * established
 * the Area of Freedom, Security and Justice
