@@ -10,6 +10,10 @@
 * Basis_for_assessment
 * Country
 * Entity_type
+* Immmunity
+  * url
+* Immunities
+  * url
 * Immunity_url
 * Name
   * en
