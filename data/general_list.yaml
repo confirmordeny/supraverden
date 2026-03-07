@@ -352,7 +352,9 @@ European Foundation for the Improvement of Living and Working Conditions:
   Name_en: European Foundation for the Improvement of Living and Working Conditions
   Name_other_en: Eurofound
   Type: EU decentralised agency
+  Immmunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:01975R1365-20050804
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  Source_2: https://www.irishstatutebook.ie/eli/2016/si/428/made/en/print
   OpenSanctions_id: '[No code found.]'
   Name_fr: Fondation européenne pour l'amélioration des conditions de vie et de travail
   Assessment_against_FATF_definition: Included
@@ -365,6 +367,7 @@ European Union Agency for Criminal Justice Cooperation:
   Name_en: European Union Agency for Criminal Justice Cooperation
   Name_other_en: Eurojust
   Type: EU decentralised agency
+  Treaty_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1727
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
   OpenSanctions_id: '[No code found.]'
   Name_fr: Eurojust
@@ -379,6 +382,7 @@ European Agency for Safety and Health at Work:
   Name_en: European Agency for Safety and Health at Work
   Abbreviation_en: EU-OSHA
   Type: EU decentralised agency
+  Treaty_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0126
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
   OpenSanctions_id: '[No code found.]'
   Name_fr: Agence européenne pour la sécurité et la santé au travail
@@ -1492,6 +1496,7 @@ Permanent Review Tribunal of Mercosur:
   Name_en: Permanent Review Tribunal of Mercosur
   Name_es: null
   Name_other_en: null
+  Immunities_url: https://www.tprmercosur.org/es/docum/adm/DEC_01_05_es_Acuerdo_Sede_TPR.pdf
   Treaty_url: https://opil.ouplaw.com/view/10.1093/law-oxio/e148.013.1/law-oxio-e148-regGroup-1-law-oxio-e148-source.pdf
   Source: https://www.europarl.europa.eu/RegData/etudes/IDAN/2022/653652/EXPO_IDA(2022)653652_EN.pdf
   Name_fr: null
@@ -1555,6 +1560,7 @@ Arctic Council:
   Country: zz
   Name_en: Arctic Council
   Abbreviation_en: null
+  Immunity_url: https://oaarchive.arctic-council.org/server/api/core/bitstreams/946cbad7-8968-4d72-b55b-0544267106f8/content
   Treaty_url: https://oaarchive.arctic-council.org/server/api/core/bitstreams/bdc15f51-fb91-4e0d-9037-3e8618e7b98f/content
   Name_fr: Conseil de l'Arctique
   Name_es: Consejo Ártico
@@ -2583,6 +2589,7 @@ International Pacific Halibut Commission:
   Country: zz
   Name_en: International Pacific Halibut Commission
   Abbreviation_en: null
+  Immunity_url: https://www.presidency.ucsb.edu/documents/executive-order-11059-designating-public-international-organizations-entitled-enjoy
   Treaty_url: https://www.iphc.int/uploads/pdf/basic-texts/iphc-1979-pacific-halibut-convention.pdf
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
@@ -2617,6 +2624,7 @@ Southern African Customs Union:
   Country: zz
   Name_en: Southern African Customs Union
   Abbreviation_en: SACU
+  Immunity_url: https://www.sacu.int/uploads/documents/6a7ae39b41cba945b083e93a2e1a103d7cee629c.pdf
   Treaty_url: https://www.sacu.int/uploads/documents/6a7ae39b41cba945b083e93a2e1a103d7cee629c.pdf
   Name_fr: Union douanière d'Afrique australe
   Name_es: Unión Aduanera de África Austral
@@ -2629,8 +2637,9 @@ International Commission for the Protection of the Danube River:
   Org_family: none
   Country: zz
   Name_en: International Commission for the Protection of the Danube River
-  Abbreviation_en: null
+  Abbreviation_en: ICPDR
   Notes: Not to be confused with the Danube Commission.
+  Immunity_url: https://www.icpdr.org/sites/default/files/FINAL%20-%20Seat%20Agreement%20-%20English%20-%20ICPDR%20vs%20AT.pdf
   Treaty_url: https://www.icpdr.org/sites/default/files/DRPC%20English%20ver.pdf
   Name_es: Comisión Internacional para la Protección del Río Danubio
   OpenSanctions_id: '[No code found.]'
@@ -2644,6 +2653,7 @@ Danube Commission:
   Name_en: Danube Commission
   Abbreviation_en: null
   Notes: Not to be confused with the International Commission for the Protection of the Danube River.
+  Immunity_url: https://www.danubecommission.org/uploads/doc/convention-en.pdf
   Treaty_url: https://www.danubecommission.org/uploads/doc/convention-en.pdf
   Name_fr: Commission du Danube
   OpenSanctions_id: '[No code found.]'
@@ -2656,6 +2666,7 @@ International Boundary and Water Commission:
   Country: zz
   Name_en: International Boundary and Water Commission
   Abbreviation_en: IBWC
+  Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%203/v3.pdf
   Treaty_url: https://www.ibwc.gov/wp-content/uploads/2022/11/TREATY_OF_1889.pdf
   Name_es: Comisión Internacional de Límites y Aguas
   OpenSanctions_id: '[No code found.]'
@@ -2668,6 +2679,7 @@ Great Lakes Fishery Commission:
   Country: zz
   Name_en: Great Lakes Fishery Commission
   Abbreviation_en: null
+  Immunity_url: https://www.presidency.ucsb.edu/documents/executive-order-11059-designating-public-international-organizations-entitled-enjoy
   Treaty_url: https://laws-lois.justice.gc.ca/eng/acts/F-17/FullText.html
   Name_fr: Commission des pêcheries des Grands Lacs
   OpenSanctions_id: '[No code found.]'
@@ -3143,6 +3155,7 @@ Inter-American Tropical Tuna Commission:
   Country: zz
   Name_en: Inter-American Tropical Tuna Commission
   Abbreviation_en: null
+  Immunity_url: https://www.presidency.ucsb.edu/documents/executive-order-11059-designating-public-international-organizations-entitled-enjoy
   Treaty_url: https://web.archive.org/web/20160513131225/http://www.iattc.org/PDFFiles/IATTC_convention_1949.pdf
   Name_fr: Inter-American Tropical Tuna Commission
   Name_es: Comisión Interamericana del Atún Tropical
