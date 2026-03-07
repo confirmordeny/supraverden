@@ -352,7 +352,7 @@ European Foundation for the Improvement of Living and Working Conditions:
   Name_en: European Foundation for the Improvement of Living and Working Conditions
   Name_other_en: Eurofound
   Type: EU decentralised agency
-  Immmunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:01975R1365-20050804
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:01975R1365-20050804
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
   Source_2: https://www.irishstatutebook.ie/eli/2016/si/428/made/en/print
   OpenSanctions_id: '[No code found.]'
@@ -1513,7 +1513,7 @@ Permanent Review Tribunal of Mercosur:
   Name_en: Permanent Review Tribunal of Mercosur
   Name_es: null
   Name_other_en: null
-  Immunities_url: https://www.tprmercosur.org/es/docum/adm/DEC_01_05_es_Acuerdo_Sede_TPR.pdf
+  Immunity_url: https://www.tprmercosur.org/es/docum/adm/DEC_01_05_es_Acuerdo_Sede_TPR.pdf
   Treaty_url: https://opil.ouplaw.com/view/10.1093/law-oxio/e148.013.1/law-oxio-e148-regGroup-1-law-oxio-e148-source.pdf
   Source: https://www.europarl.europa.eu/RegData/etudes/IDAN/2022/653652/EXPO_IDA(2022)653652_EN.pdf
   Name_fr: null
@@ -2051,7 +2051,7 @@ Commonwealth Secretariat:
   Name_en: Commonwealth Secretariat
   Abbreviation_en: null
   Treaty_url: null
-  Immunities_url: https://www.legislation.gov.uk/ukpga/1966/10
+  Immunity_url: https://www.legislation.gov.uk/ukpga/1966/10
   Source: https://www.legislation.gov.uk/ukpga/1966/10
   Source_2: https://comsec-web-static.s3.eu-west-1.amazonaws.com/s3fs-public/2023-10/2022%20Further%20Revised%20Agreed%20Memorandum%20of%20Governance%20Arrangements%20and%20Annexes.pdf?VersionId=I5lXK5y.q4lMIqaVu144z_Ane.729DJn
   Name_fr: Commonwealth Secretariat
@@ -2067,7 +2067,7 @@ Commonwealth Secretariat Aribtral Tribunal:
   Name_en: Commonwealth Secretariat Aribtral Tribunal
   Abbreviation_en: CSAT
   Treaty_url: https://production-new-commonwealth-files.s3.eu-west-2.amazonaws.com/s3fs-public/2022-02/Tribunal%20(amended)%20Statute%20adopted%2028%20May%202015.pdf?VersionId=HtqpX3_CbRLaeLjziV6JrsAQv71Z1eba
-  Immunities_url: https://www.legislation.gov.uk/ukpga/2005/20/section/2
+  Immunity_url: https://www.legislation.gov.uk/ukpga/2005/20/section/2
   Source: https://thecommonwealth.org/tribunal
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
