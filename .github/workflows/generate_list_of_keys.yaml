@@ -74,7 +74,8 @@ jobs:
 
           key_tree = {}
           exceptions = {'Abbreviation_other', 'Assessment_against_FATF_definition', 'Basis_for_assessment', 'Legal_type', 'Entity_type', 'Immunity_url', 'Name_former', 'Name_other', 'Name_other_2', 'Org_family', 'OpenSanctions_id', 'Treaty_url', 'Wikidata_code'}
-          language_suffixes = {'en', 'fr', 'es'}
+          language_suffixes = {'en', 'fr', 'es', 'de', 'pt', 'ru', 'uk', 'zh'}
+          source_index_suffixes = {'1', '2', '3'}
 
           for key in unique_keys:
               if key in exceptions:
@@ -86,7 +87,9 @@ jobs:
                   # e.g. Year_established -> ['Year_established']
                   if '_' in key:
                       stem, suffix = key.rsplit('_', 1)
-                      if suffix in language_suffixes and stem:
+                      if stem == 'Source' and suffix in source_index_suffixes:
+                          parts = [stem, suffix]
+                      elif suffix in language_suffixes and stem:
                           parts = [stem, suffix]
                       else:
                           parts = [key]

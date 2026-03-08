@@ -39,11 +39,17 @@ jobs:
           def get_wikidata_data(q_code):
               time.sleep(1.0)
               query = f"""
-              SELECT ?id ?name_fr ?name_es WHERE {{
+              SELECT ?id ?name_fr ?name_es ?name_de ?name_pt ?name_ru ?name_uk ?name_zh ?website WHERE {{
                 BIND(wd:{q_code} AS ?item)
                 OPTIONAL {{ ?item wdt:P10632 ?id . }}
                 OPTIONAL {{ ?item rdfs:label ?name_fr . FILTER(LANG(?name_fr) = "fr") }}
                 OPTIONAL {{ ?item rdfs:label ?name_es . FILTER(LANG(?name_es) = "es") }}
+                OPTIONAL {{ ?item rdfs:label ?name_de . FILTER(LANG(?name_de) = "de") }}
+                OPTIONAL {{ ?item rdfs:label ?name_pt . FILTER(LANG(?name_pt) = "pt") }}
+                OPTIONAL {{ ?item rdfs:label ?name_ru . FILTER(LANG(?name_ru) = "ru") }}
+                OPTIONAL {{ ?item rdfs:label ?name_uk . FILTER(LANG(?name_uk) = "uk") }}
+                OPTIONAL {{ ?item rdfs:label ?name_zh . FILTER(LANG(?name_zh) = "zh") }}
+                OPTIONAL {{ ?item wdt:P856 ?website . }}
               }}
               LIMIT 1
               """
@@ -62,7 +68,13 @@ jobs:
                           return {
                               'os_id': result_row.get('id', {}).get('value'),
                               'name_fr': result_row.get('name_fr', {}).get('value'),
-                              'name_es': result_row.get('name_es', {}).get('value')
+                              'name_es': result_row.get('name_es', {}).get('value'),
+                              'name_de': result_row.get('name_de', {}).get('value'),
+                              'name_pt': result_row.get('name_pt', {}).get('value'),
+                              'name_ru': result_row.get('name_ru', {}).get('value'),
+                              'name_uk': result_row.get('name_uk', {}).get('value'),
+                              'name_zh': result_row.get('name_zh', {}).get('value'),
+                              'website': result_row.get('website', {}).get('value')
                           }
                   return {}
               except:
@@ -97,8 +109,14 @@ jobs:
                   needs_os = 'OpenSanctions_id' not in info
                   needs_fr = 'Name_fr' not in info
                   needs_es = 'Name_es' not in info
+                  needs_de = 'Name_de' not in info
+                  needs_pt = 'Name_pt' not in info
+                  needs_ru = 'Name_ru' not in info
+                  needs_uk = 'Name_uk' not in info
+                  needs_zh = 'Name_zh' not in info
+                  needs_website = 'Website' not in info
                   
-                  if needs_os or needs_fr or needs_es:
+                  if needs_os or needs_fr or needs_es or needs_de or needs_pt or needs_ru or needs_uk or needs_zh or needs_website:
                       remote = get_wikidata_data(w_code)
                       if not remote:
                           continue
@@ -112,6 +130,24 @@ jobs:
                           changed = True
                       if needs_es and remote.get('name_es'):
                           info['Name_es'] = remote['name_es']
+                          changed = True
+                      if needs_de and remote.get('name_de'):
+                          info['Name_de'] = remote['name_de']
+                          changed = True
+                      if needs_pt and remote.get('name_pt'):
+                          info['Name_pt'] = remote['name_pt']
+                          changed = True
+                      if needs_ru and remote.get('name_ru'):
+                          info['Name_ru'] = remote['name_ru']
+                          changed = True
+                      if needs_uk and remote.get('name_uk'):
+                          info['Name_uk'] = remote['name_uk']
+                          changed = True
+                      if needs_zh and remote.get('name_zh'):
+                          info['Name_zh'] = remote['name_zh']
+                          changed = True
+                      if needs_website and remote.get('website'):
+                          info['Website'] = remote['website']
                           changed = True
                       
                       if changed:
@@ -133,7 +169,7 @@ jobs:
           if not any_updated:
               print("No changes found.")
 
-      - name: Enrich VAT numbers from Wikidata
+      - name: Enrich VAT numbers and websites from Wikidata
         run: |
           python scripts/enrich_vat_from_wikidata.py
 

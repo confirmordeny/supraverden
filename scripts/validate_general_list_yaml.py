@@ -269,6 +269,28 @@ def parse_length(value: Any) -> int | None:
     return int(text)
 
 
+def is_blank_value(value: Any) -> bool:
+    if value is None:
+        return True
+    if isinstance(value, str) and value.strip() == "":
+        return True
+    return False
+
+
+def rules_allow_blank(rules: Any) -> bool:
+    if isinstance(rules, dict):
+        rules_list: list[Any] = [rules]
+    elif isinstance(rules, list):
+        rules_list = rules
+    else:
+        return False
+
+    for entry in rules_list:
+        if isinstance(entry, dict) and bool(entry.get("allow_blank")):
+            return True
+    return False
+
+
 def parse_permissible_values(value: Any) -> set[str]:
     if value is None:
         return set()
@@ -451,7 +473,7 @@ def apply_machine_validation_rules(value: Any, rules: Any) -> list[str]:
             continue
 
         allow_blank = bool(entry.get("allow_blank"))
-        if allow_blank and isinstance(value, str) and value.strip() == "":
+        if allow_blank and is_blank_value(value):
             continue
 
         if rule == "no_spaces":
@@ -513,13 +535,14 @@ def validate_value(record: str, key: str, value: Any, meta: dict[str, Any]) -> l
     if value is None:
         return violations
 
-    data_type = str(meta.get("datatype") or meta.get("datatype") or "").strip().lower()
+    data_type = str(meta.get("datatype") or "").strip().lower()
     min_length = parse_length(meta.get("minimumlength"))
     max_length = parse_length(meta.get("maximumlength"))
     multi_value = parse_bool(meta.get("multivalue"))
     permissible = parse_permissible_values(meta.get("permissiblevalues"))
     rules_field = meta.get("validationrules")
     rules_summary = str(meta.get("validationsummary") or "").strip()
+    allow_blank = rules_allow_blank(rules_field)
 
     if isinstance(value, list):
         if not multi_value:
@@ -530,11 +553,24 @@ def validate_value(record: str, key: str, value: Any, meta: dict[str, Any]) -> l
         values_to_check = [value]
 
     for item in values_to_check:
+        if allow_blank and is_blank_value(item):
+            continue
+
         if key in {"OpenSanctions_id", "Wikidata_code"} and is_no_code_found(item):
             continue
 
         if data_type == "integer" and not is_int_like(item):
             violations.append(Violation(record, key, "expected integer"))
+
+        if data_type == "date":
+            if not isinstance(item, str):
+                violations.append(Violation(record, key, "expected date string in YYYY-MM-DD format"))
+                continue
+            try:
+                datetime.strptime(item, "%Y-%m-%d")
+            except ValueError:
+                violations.append(Violation(record, key, "expected date in YYYY-MM-DD format"))
+                continue
 
         if data_type in {"text", "url", "country", "opensanctions id"} and not isinstance(item, str):
             violations.append(Violation(record, key, f"expected string for data type '{data_type}'"))
