@@ -284,8 +284,7 @@ European Stability Mechanism:
   LEI: 222100W4EEAQ77386N50
   LEI_jurisdiction: EU
   LEI_category: INTERNATIONAL_ORGANIZATION
-  LEI_legal_form: ISSUERS OF SECURITIES FOR WHICH LUXEMBOURG IS THE HOME MEMBER STATE
-    PURSUANT TO THE TRANSPARENCY LAW
+  LEI_legal_form: ISSUERS OF SECURITIES FOR WHICH LUXEMBOURG IS THE HOME MEMBER STATE PURSUANT TO THE TRANSPARENCY LAW
   LEI_status: ACTIVE
   LEI_hq_address: 6A, CIRCUIT DE LA FOIRE INTERNATIONALE, LUXEMBOURG, L-1347, LU
   LEI_bic:
@@ -451,8 +450,7 @@ EU Authority for Anti-Money Laundering and Countering the Financing of Terrorism
   Entity_type: International organisation
   Org_family: EU institutions and bodies
   Country: EU
-  Name_en: EU Authority for Anti-Money Laundering and Countering the Financing of
-    Terrorism
+  Name_en: EU Authority for Anti-Money Laundering and Countering the Financing of Terrorism
   Abbreviation_en: AMLA
   Name_other_en: Anti-Money Laundering Authority
   Type: EU decentralised agency
@@ -542,8 +540,7 @@ European Banking Authority:
   LEI_category: INTERNATIONAL_ORGANIZATION
   LEI_legal_form: International Organisation
   LEI_status: ACTIVE
-  LEI_hq_address: Tour Europlaza 20 avenue André Prothin CS 30154 La Défense, CEDEX,
-    Paris, 92927, FR
+  LEI_hq_address: Tour Europlaza 20 avenue André Prothin CS 30154 La Défense, CEDEX, Paris, 92927, FR
   LEI_bic: null
 European Centre for Disease Prevention and Control:
   SPRVD_id: SPRVD0067969
@@ -851,22 +848,19 @@ European Union Agency for Railways:
   Basis_for_assessment: B17
   Year_established: 2004
   Headquarters: Valenciennes, France
-? European Union Agency for the Operational Management of Large-Scale IT Systems in
-  the Area of Freedom, Security and Justice
+? European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice
 : Wikidata_code: Q4440501
   SPRVD_id: SPRVD0651456
   Entity_type: International organisation
   Org_family: EU institutions and bodies
   Country: EU
-  Name_en: European Union Agency for the Operational Management of Large-Scale IT
-    Systems in the Area of Freedom, Security and Justice
+  Name_en: European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice
   Abbreviation_en: eu-LISA
   Name_other_en: EU Agency for the Operational Management of Large-Scale IT Systems
   Type: EU decentralised agency
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
   OpenSanctions_id: '[No code found.]'
-  Name_fr: Agence européenne pour la gestion opérationnelle des systèmes d'information
-    à grande échelle au sein de l'espace de liberté, de sécurité et de justice
+  Name_fr: Agence européenne pour la gestion opérationnelle des systèmes d'information à grande échelle au sein de l'espace de liberté, de sécurité et de justice
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
   Year_established: 2011
@@ -1207,6 +1201,7 @@ European Union Satellite Centre:
   Basis_for_assessment: B25
   Year_established: 2002
   Headquarters: Torrejón de Ardoz, Spain
+  VAT_number: ESN0063121H
 Supply Agency of the European Atomic Energy Community:
   SPRVD_id: SPRVD0903673
   Wikidata_code: Q1374308
@@ -2479,8 +2474,7 @@ Square Kilometre Array Observatory:
   LEI_category: RESIDENT_GOVERNMENT_ENTITY
   LEI_legal_form: INTERNATIONAL ORGANISATION
   LEI_status: ACTIVE
-  LEI_hq_address: SKA OBSERVATORY JODRELL BANK LOWER WITHINGTON, MACCLESFIELD, SK11
-    9FT, GB
+  LEI_hq_address: SKA OBSERVATORY JODRELL BANK LOWER WITHINGTON, MACCLESFIELD, SK11 9FT, GB
   LEI_bic: null
 International Criminal Police Organization:
   SPRVD_id: SPRVD0346601
@@ -2507,8 +2501,7 @@ European Committee for Prevention of Torture:
   Name_en: European Committee for Prevention of Torture
   Abbreviation_en: null
   Treaty_url: https://rm.coe.int/16806dbaa3
-  Name_fr: comité européen pour la prévention de la torture et des peines ou traitements
-    inhumains ou dégradants
+  Name_fr: comité européen pour la prévention de la torture et des peines ou traitements inhumains ou dégradants
   Name_es: Comité Europeo para la prevención de la tortura
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
@@ -2558,8 +2551,7 @@ African Development Bank:
   LEI_category: INTERNATIONAL_ORGANIZATION
   LEI_legal_form: BANK
   LEI_status: ACTIVE
-  LEI_hq_address: 24TH FLOOR, CCIA BUILDING PLATEAU 01 POSTAL BOX 1387 ABIDJAN 01,
-    ABIDJAN, CI
+  LEI_hq_address: 24TH FLOOR, CCIA BUILDING PLATEAU 01 POSTAL BOX 1387 ABIDJAN 01, ABIDJAN, CI
   LEI_bic:
   - ADBGGNG1XXX
   - AFDBCIABXXX
@@ -2583,8 +2575,7 @@ African Development Fund:
   LEI_category: FUND
   LEI_legal_form: FUND
   LEI_status: ACTIVE
-  LEI_hq_address: C/O AFRICAN DEVELOPMENT BANK IMMEUBLE CCIA, AVENUE JEAN PAUL II,
-    01 BOITE POSTALE 1387, ABIDJAN 01, ABIDJAN, CI
+  LEI_hq_address: C/O AFRICAN DEVELOPMENT BANK IMMEUBLE CCIA, AVENUE JEAN PAUL II, 01 BOITE POSTALE 1387, ABIDJAN 01, ABIDJAN, CI
   LEI_bic: null
 Asian Development Bank:
   SPRVD_id: SPRVD0982718
@@ -2818,8 +2809,7 @@ Organization of Ibero-American States:
   Abbreviation_en: null
   Treaty_url: https://oei.int/wp-content/uploads/1985/12/reglamento-de-la-oei.pdf
   Name_fr: Organisation des États Ibéro-américains
-  Name_es: Organización de Estados Iberoamericanos para la Educación, la Ciencia y
-    la Cultura
+  Name_es: Organización de Estados Iberoamericanos para la Educación, la Ciencia y la Cultura
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
@@ -2977,8 +2967,7 @@ Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation:
   Abbreviation_en: BIMSTEC
   Treaty_url: https://bimstec.org/images/content_page_pdf/1696679710_BIMSTEC%20Charter.pdf
   Name_fr: Bay of Bengal Initiative for MultiSectoral Technical and Economic Cooperation
-  Name_es: Iniciativa de la Bahía de Bengala para la Cooperación Técnica y Económica
-    Multisectorial
+  Name_es: Iniciativa de la Bahía de Bengala para la Cooperación Técnica y Económica Multisectorial
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
@@ -3347,12 +3336,10 @@ Regional Cooperation Agreement on Combating Piracy and Armed Robbery against Shi
   Entity_type: International organisation
   Org_family: none
   Country: ZZ
-  Name_en: Regional Cooperation Agreement on Combating Piracy and Armed Robbery against
-    Ships in Asia
+  Name_en: Regional Cooperation Agreement on Combating Piracy and Armed Robbery against Ships in Asia
   Abbreviation_en: null
   Treaty_url: https://www.mofa.go.jp/mofaj/gaiko/kaiyo/pdfs/kyotei_s.pdf
-  Name_fr: Accord de coopération régionale sur la lutte contre la piraterie et les
-    vols à main armée contre les navires en Asie
+  Name_fr: Accord de coopération régionale sur la lutte contre la piraterie et les vols à main armée contre les navires en Asie
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
@@ -3486,8 +3473,7 @@ Danube Commission:
   Country: ZZ
   Name_en: Danube Commission
   Abbreviation_en: null
-  Notes: Not to be confused with the International Commission for the Protection of
-    the Danube River.
+  Notes: Not to be confused with the International Commission for the Protection of the Danube River.
   Immunity_url: https://www.danubecommission.org/uploads/doc/convention-en.pdf
   Treaty_url: https://www.danubecommission.org/uploads/doc/convention-en.pdf
   Name_fr: Commission du Danube
@@ -3927,6 +3913,7 @@ Science and Technology Center in Ukraine:
   Basis_for_assessment: B22
   Immunity_url: https://www.evropskyvyzkum.cz/cs/storage/ddd411519c219953947dede0914eee69f0c355c6?uid=ddd411519c219953947dede0914eee69f0c355c6
   Year_established: 1993
+  VAT_number: UA560241779
 Arab Maghreb Union:
   SPRVD_id: SPRVD0337871
   Wikidata_code: Q370862
@@ -4175,8 +4162,7 @@ Intergovernmental Organisation for International Carriage by Rail:
   Abbreviation_en: null
   Treaty_url: https://otif.org/fileadmin/user_upload/otif_verlinkte_files/07_veroeff/01_COTIF_80/cotif-1980-e.pdf
   Name_fr: Organisation intergouvernementale pour les transports internationaux ferroviaires
-  Name_es: Organización Intergubernamental para los Transportes Internacionales por
-    Ferrocarril
+  Name_es: Organización Intergubernamental para los Transportes Internacionales por Ferrocarril
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
@@ -5377,8 +5363,7 @@ King Abdullah Bin Abdulaziz International Centre for Interreligious and Intercul
   Entity_type: International organisation
   Org_family: none
   Country: ZZ
-  Name_en: King Abdullah Bin Abdulaziz International Centre for Interreligious and
-    Intercultural Dialogue
+  Name_en: King Abdullah Bin Abdulaziz International Centre for Interreligious and Intercultural Dialogue
   Abbreviation_en: KAICIID
   Treaty_url: https://www.kaiciid.org/node/2641
   Name_fr: KAICIID Dialogue Centre
@@ -5580,10 +5565,8 @@ Organisation for the Prohibition of Nuclear Weapons in Latin America and the Car
   Entity_type: International organisation
   Org_family: none
   Country: ZZ
-  Name_en: Organisation for the Prohibition of Nuclear Weapons in Latin America and
-    the Caribbean
-  Name_es: Organismo para la Proscripción de las Armas Nucleares en la América Latina
-    y el Caribe
+  Name_en: Organisation for the Prohibition of Nuclear Weapons in Latin America and the Caribbean
+  Name_es: Organismo para la Proscripción de las Armas Nucleares en la América Latina y el Caribe
   Abbreviation_en: OPANAL
   Treaty_url: https://www.opanal.org/en/texto-del-tratado-de-tlatelolco/
   OpenSanctions_id: '[No code found.]'
@@ -5597,8 +5580,7 @@ Andrés Bello convention for the educational, scientific and cultural integratio
   Entity_type: International organisation
   Org_family: none
   Country: ZZ
-  Name_en: Andrés Bello convention for the educational, scientific and cultural integration
-    of Latin America and Spain
+  Name_en: Andrés Bello convention for the educational, scientific and cultural integration of Latin America and Spain
   Abbreviation_en: null
   Treaty_url: https://convenioandresbello.org/wp-content/uploads/2021/08/tratado_constitutivo_cab_firmado.pdf
   OpenSanctions_id: '[No code found.]'
@@ -5610,8 +5592,7 @@ International Organisation for the Development of Fisheries in Eastern and Centr
   Entity_type: International organisation
   Org_family: none
   Country: ZZ
-  Name_en: International Organisation for the Development of Fisheries in Eastern
-    and Central Europe
+  Name_en: International Organisation for the Development of Fisheries in Eastern and Central Europe
   Abbreviation_en: EUROFISH
   Treaty_url: https://faolex.fao.org/treaty/docs/tre000049E.pdf
   OpenSanctions_id: '[No code found.]'
@@ -5785,8 +5766,7 @@ Islamic Development Bank:
   LEI_category: GENERAL
   LEI_legal_form: Bank
   LEI_status: ACTIVE
-  LEI_hq_address: 8111 King Khalid St. AI Nuzlah AI Yamania Dist. Unit No. 1, Jeddah,
-    22332, SA
+  LEI_hq_address: 8111 King Khalid St. AI Nuzlah AI Yamania Dist. Unit No. 1, Jeddah, 22332, SA
   LEI_bic:
   - ISLDSAJEXXX
 International Institute for Democracy and Electoral Assistance:
@@ -5879,8 +5859,7 @@ Eastern and Southern African Trade and Development Bank:
   LEI_category: GENERAL
   LEI_legal_form: TREATY
   LEI_status: ACTIVE
-  LEI_hq_address: AFRICA FI PLACE, LOT NO. 13 WALL STREET P.O. BOX 43 CYBERCITY, EBENE,
-    72201, MU
+  LEI_hq_address: AFRICA FI PLACE, LOT NO. 13 WALL STREET P.O. BOX 43 CYBERCITY, EBENE, 72201, MU
   LEI_bic: null
 East African Development Bank:
   SPRVD_id: SPRVD0906116
@@ -5949,8 +5928,7 @@ Fund for the Development of the Indigenous Peoples of Latin America and the Cari
   Entity_type: International organisation
   Org_family: none
   Country: ZZ
-  Name_en: Fund for the Development of the Indigenous Peoples of Latin America and
-    the Caribbean
+  Name_en: Fund for the Development of the Indigenous Peoples of Latin America and the Caribbean
   Abbreviation_en: FILAC
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201728/volume-1728-I-30177-English.pdf
   Name_es: Fondo para el desarrollo de pueblos indígenas de América Latina y el Caribee
@@ -6081,8 +6059,7 @@ African Export-Import Bank:
   LEI_category: GENERAL
   LEI_legal_form: MULTILATERAL BANK
   LEI_status: ACTIVE
-  LEI_hq_address: 72B EL-MAAHAD EL-ESHTERAKY STREET HELIOPOLIS, P.O.BOX 613, CAIRO,
-    11341, EG
+  LEI_hq_address: 72B EL-MAAHAD EL-ESHTERAKY STREET HELIOPOLIS, P.O.BOX 613, CAIRO, 11341, EG
   LEI_bic:
   - AFXMEGCAXXX
   - PASSNGLAXXX
@@ -6307,14 +6284,11 @@ International Centre for the Study of the Preservation and the Restoration of Cu
   Entity_type: International organisation
   Org_family: none
   Country: ZZ
-  Name_en: International Centre for the Study of the Preservation and the Restoration
-    of Cultural Property
+  Name_en: International Centre for the Study of the Preservation and the Restoration of Cultural Property
   Abbreviation_en: ICCROM
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201321/volume-1321-I-22032-English.pdf
-  Name_fr: centre international d'études pour la conservation et la restauration des
-    biens culturels
-  Name_es: Centro Internacional de Estudios de Conservación y Restauración de los
-    Bienes Culturales
+  Name_fr: centre international d'études pour la conservation et la restauration des biens culturels
+  Name_es: Centro Internacional de Estudios de Conservación y Restauración de los Bienes Culturales
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
@@ -6885,8 +6859,7 @@ International Solar Alliance:
   LEI_category: GENERAL
   LEI_legal_form: University/AOP/Society
   LEI_status: ACTIVE
-  LEI_hq_address: NATIONAL INSTITUTE OF SOLAR ENERGY CAMPUS, GWAL PAHARI, GURUGRAM,
-    GURUGRAM, HARYANA, GURUGRAM, GURUGRAM, 122003, IN
+  LEI_hq_address: NATIONAL INSTITUTE OF SOLAR ENERGY CAMPUS, GWAL PAHARI, GURUGRAM, GURUGRAM, HARYANA, GURUGRAM, GURUGRAM, 122003, IN
   LEI_bic: null
 Limpopo Watercourse Commission:
   SPRVD_id: SPRVD0084388
@@ -7115,6 +7088,7 @@ International Potato Center:
   Basis_for_assessment: B22
   Year_established: 1971
   Headquarters: Lima, Peru
+  VAT_number: PE20142582725
 International Center for Tropical Agriculture:
   SPRVD_id: SPRVD0868111
   Wikidata_code: Q1054314
@@ -7506,8 +7480,7 @@ Coalition for Disaster Resilient Infrastructure:
   LEI_category: INTERNATIONAL_ORGANIZATION
   LEI_legal_form: INDIA HQA
   LEI_status: ACTIVE
-  LEI_hq_address: 3RD & 4TH FLOOR IIPA BHAWAN INDIAN INSTITUTE OF PUBLIC ADMINISTRATION
-    (IIPA) INDRAPRASTHA ESTATE, MAHATMA GANDHI ROAD, NEW DELHI, 110002, IN
+  LEI_hq_address: 3RD & 4TH FLOOR IIPA BHAWAN INDIAN INSTITUTE OF PUBLIC ADMINISTRATION (IIPA) INDRAPRASTHA ESTATE, MAHATMA GANDHI ROAD, NEW DELHI, 110002, IN
   LEI_bic: null
 Arab League:
   SPRVD_id: SPRVD0441736
@@ -7619,8 +7592,7 @@ Arab Bank for Economic Development in Africa:
   LEI_category: GENERAL
   LEI_legal_form: Commercial Bank
   LEI_status: ACTIVE
-  LEI_hq_address: ALAMERYIA TOWER, BUILDING NO. 7922 SUB NO.4091,P.O. BOX 12333 ALALIYA
-    KING FAHAD ROAD, RIYADH, 11564, SA
+  LEI_hq_address: ALAMERYIA TOWER, BUILDING NO. 7922 SUB NO.4091,P.O. BOX 12333 ALALIYA KING FAHAD ROAD, RIYADH, 11564, SA
   LEI_bic:
   - AEDCSARIXXX
 Arab Civil Aviation Organization:
@@ -7872,8 +7844,7 @@ United Nations:
   LEI_category: INTERNATIONAL_ORGANIZATION
   LEI_legal_form: International Organisation
   LEI_status: ACTIVE
-  LEI_hq_address: United Nations Secretariat Building 405 East 42nd Street, New York,
-    10017, US
+  LEI_hq_address: United Nations Secretariat Building 405 East 42nd Street, New York, 10017, US
   LEI_bic:
   - UNATUS33XXX
 United Nations Security Council:
@@ -8138,8 +8109,7 @@ United Nations Children’s Fund:
   LEI_category: FUND
   LEI_legal_form: FUND
   LEI_status: ACTIVE
-  LEI_hq_address: C/O United Nations Children's Fund UNICEF House, New York, 10017,
-    US
+  LEI_hq_address: C/O United Nations Children's Fund UNICEF House, New York, 10017, US
   LEI_bic:
   - UNCFUS33XXX
 United Nations Development Programme:
@@ -8293,9 +8263,7 @@ World Bank:
   Source: https://www.un.org/en/about-us/specialized-agencies
   OpenSanctions_id: '[No code found.]'
   Name_es: Banco Mundial
-  Notes_en: The "World Bank" is an umbrella term for the International Bank for Reconstruction
-    and Development and the International Development Association when considered
-    collectively.
+  Notes_en: The "World Bank" is an umbrella term for the International Bank for Reconstruction and Development and the International Development Association when considered collectively.
   Immunity_url: https://treaties.un.org/doc/Treaties/1949/08/19490816%2010-43%20AM/Ch_III_2p-full%20text.pdf
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B32
@@ -8585,15 +8553,13 @@ Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organizatio
   Org_family: UN and affiliates
   Country: ZZ
   Name_en: Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organization
-  Name_fr: Commission préparatoire de l’Organisation du traité d’interdiction complète
-    des essais nucléaires
+  Name_fr: Commission préparatoire de l’Organisation du traité d’interdiction complète des essais nucléaires
   Abbreviation_en: CTBTO
   Abbreviation_fr: null
   Name_other_en: Comprehensive Nuclear-Test-Ban Treaty Organization Preparatory Commission
   Source: https://www.un.org/en/about-us/specialized-agencies
   OpenSanctions_id: '[No code found.]'
-  Name_es: Comisión Preparatoria del Tratado de Prohibición Completa de los Ensayos
-    Nucleares
+  Name_es: Comisión Preparatoria del Tratado de Prohibición Completa de los Ensayos Nucleares
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
   Year_established: 1996
@@ -8810,8 +8776,7 @@ Commission for Inland Fisheries and Aquaculture of Latin America and the Caribbe
   Org_family: UN and affiliates
   Type: FAO statutory body
   Country: ZZ
-  Name_en: Commission for Inland Fisheries and Aquaculture of Latin America and the
-    Caribbean
+  Name_en: Commission for Inland Fisheries and Aquaculture of Latin America and the Caribbean
   Name_fr: null
   Abbreviation_en: COPESCAALC
   Abbreviation_fr: null
@@ -8903,15 +8868,13 @@ United Nations Interregional Crime and Justice Research Institute:
   Org_family: UN and affiliates
   Country: ZZ
   Name_en: United Nations Interregional Crime and Justice Research Institute
-  Name_fr: Institut interrégional de recherche des Nations unies sur la criminalité
-    et la justice
+  Name_fr: Institut interrégional de recherche des Nations unies sur la criminalité et la justice
   Abbreviation_en: UNICRI
   Abbreviation_fr: null
   Name_other_en: UN Interregional Crime and Justice Research Institute
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
-  Name_es: Instituto Interregional de las Naciones Unidas para Investigaciones sobre
-    el Crimen y la Justicia
+  Name_es: Instituto Interregional de las Naciones Unidas para Investigaciones sobre el Crimen y la Justicia
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
   Year_established: 1968
@@ -9076,16 +9039,13 @@ United Nations Relief and Works Agency for Palestine Refugees in the Near East:
   Wikidata_code: Q846656
   Org_family: UN and affiliates
   Country: ZZ
-  Name_en: United Nations Relief and Works Agency for Palestine Refugees in the Near
-    East
-  Name_fr: Office de secours et de travaux des Nations unies pour les réfugiés de
-    Palestine dans le Proche-Orient
+  Name_en: United Nations Relief and Works Agency for Palestine Refugees in the Near East
+  Name_fr: Office de secours et de travaux des Nations unies pour les réfugiés de Palestine dans le Proche-Orient
   Abbreviation_en: UNRWA
   Abbreviation_fr: null
   Name_other_en: null
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
-  Name_es: Agencia de Naciones Unidas para los Refugiados de Palestina en Oriente
-    Próximo
+  Name_es: Agencia de Naciones Unidas para los Refugiados de Palestina en Oriente Próximo
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
@@ -9096,8 +9056,7 @@ United Nations Relief and Works Agency for Palestine Refugees in the Near East:
   LEI_category: INTERNATIONAL_ORGANIZATION
   LEI_legal_form: NON-PROFIT
   LEI_status: ACTIVE
-  LEI_hq_address: PO BOX 140157 BAYADER WADI AL-SEER INDUSTRIAL STREET, AMMAN, 11814,
-    JO
+  LEI_hq_address: PO BOX 140157 BAYADER WADI AL-SEER INDUSTRIAL STREET, AMMAN, 11814, JO
   LEI_bic: null
 World Trade Organization:
   SPRVD_id: SPRVD0393191
@@ -9135,6 +9094,7 @@ United Nations Institute for Training and Research:
   Basis_for_assessment: B11
   Year_established: 1963
   Headquarters: Geneva, Switzerland
+  VAT_number: CH00000000
 United Nations System Staff College:
   SPRVD_id: SPRVD0238562
   Entity_type: International organisation
@@ -9160,8 +9120,7 @@ International Residual Mechanism for Criminal Tribunals:
   Org_family: UN and affiliates
   Country: ZZ
   Name_en: International Residual Mechanism for Criminal Tribunals
-  Name_fr: Mécanisme international appelé à exercer les fonctions résiduelles des
-    Tribunaux pénaux
+  Name_fr: Mécanisme international appelé à exercer les fonctions résiduelles des Tribunaux pénaux
   Abbreviation_en: IRMCT
   Abbreviation_fr: null
   Name_other_en: null
@@ -9195,8 +9154,7 @@ United Nations Capital Development Fund:
   LEI_category: FUND
   LEI_legal_form: FUND
   LEI_status: ACTIVE
-  LEI_hq_address: C/O United Nations Capital Development Fund 26th Floor Two UN Plaza,
-    New York, 10017, US
+  LEI_hq_address: C/O United Nations Capital Development Fund 26th Floor Two UN Plaza, New York, 10017, US
   LEI_bic: null
 United Nations University:
   SPRVD_id: SPRVD0959455
