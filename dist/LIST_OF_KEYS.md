@@ -1,11 +1,11 @@
 * Abbreviation
   * en
   * es
-  * former
-    * en
   * fr
-  * other
-    * en
+* Abbreviation_former
+  * en
+* Abbreviation_other
+  * en
 * Assessment_against_FATF_definition
 * Basis_for_assessment
 * Country
@@ -13,38 +13,34 @@
 * Headquarters
 * Immunity_url
 * LEI
-  * bic
-  * category
-  * hq
-    * address
-  * jurisdiction
-  * legal
-    * form
-  * status
+* LEI_bic
+* LEI_category
+* LEI_hq_address
+* LEI_jurisdiction
+* LEI_legal_form
+* LEI_status
 * Name
   * en
   * es
-  * former
-    * en
   * fr
-  * other
-    * 2
-      * en
-    * en
-      * 2
-  * pt
+* Name_former
+  * en
+* Name_other
+  * en
+* Name_other_2
+  * en
+* Name_other_en_2
+* Name_pt
 * Notes
   * en
 * OpenSanctions_id
 * Org_family
-* SPVDN
-  * id
+* SPRVD_id
 * Source
-  * 1
-  * 2
-  * 3
+* Source_1
+* Source_2
+* Source_3
 * Treaty_url
 * Type
 * Wikidata_code
-* Year
-  * established
+* Year_established
