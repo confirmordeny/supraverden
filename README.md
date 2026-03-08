@@ -44,6 +44,8 @@ Data taken from UK Central Government websites is reproduced under the [Open Gov
 
 This repo include Q codes sourced from [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page), which is available under the CC0 Public Domain Dedication license. 
 
+This repo includes Legal Entity Identifier (LEI) data provided by the Global Legal Entity Identifier Foundation (GLEIF) under the CC0 Public Domain Dedication license. 
+
 Quotes from FATF publications are published in this repo under the principles of [fair dealing](https://www.gov.uk/guidance/exceptions-to-copyright#:~:text=%E2%80%98Fair%20dealing%E2%80%99%20is,with%20the%20work%3F) for the UK and [fair use](https://www.copyright.gov/fair-use/) for the USA. 
 
 ## The name of the Repo
