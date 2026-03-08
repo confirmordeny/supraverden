@@ -37,6 +37,8 @@
   * en
 * OpenSanctions_id
 * Org_family
+* SPVDN
+  * id
 * Source
   * 1
   * 2
