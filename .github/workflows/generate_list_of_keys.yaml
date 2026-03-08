@@ -25,6 +25,9 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Install dependencies
+        run: pip install pyyaml
+
       - name: Extract Keys and Generate List
         run: |
           python3 - <<'EOF'

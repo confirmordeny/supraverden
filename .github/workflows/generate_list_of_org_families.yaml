@@ -23,6 +23,9 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Install dependencies
+        run: pip install pyyaml
+
       # Step 1: Write the Python script to a temporary file
       # This is safer than running it inline and avoids EOF warnings.
       - name: Create Generator Script
