@@ -133,6 +133,10 @@ jobs:
           if not any_updated:
               print("No changes found.")
 
+      - name: Enrich VAT numbers from Wikidata
+        run: |
+          python scripts/enrich_vat_from_wikidata.py
+
       - name: Commit changes
         run: |
           git config --global user.name "github-actions[bot]"

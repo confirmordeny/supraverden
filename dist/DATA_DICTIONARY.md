@@ -28,6 +28,7 @@
 - [`Source`](#field-source)
 - [`Treaty_url`](#field-treaty_url)
 - [`Type`](#field-type)
+- [`VAT_number`](#field-vat_number)
 - [`Wikidata_code`](#field-wikidata_code)
 - [`Year_established`](#field-year_established)
 
@@ -44,7 +45,7 @@
 | --- | --- |
 | `language_suffixes` | en, fr, es, pt |
 | `index_suffixes` | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 |
-| `key_pattern` | <base>_<lang> and <base>_<n> and <base>_<lang>_<n> and <base>_<n>_<lang> |
+| `variant_usage` | Variant fields may use language suffixes and index numbers together, e.g. Name_other_1_en. |
 | `applies_to` | Name, Abbreviation, Abbreviation_former, Abbreviation_other, Name_former, Name_other, Notes |
 
 <a id="field-abbreviation"></a>
@@ -412,6 +413,22 @@
 | `Description` | The type of the international organisation from a legal perspective. |
 | `Examples` | EU decentralised agency, EU executive agency |
 | `Property` | Type |
+
+<a id="field-vat_number"></a>
+## `VAT_number`
+
+| Attribute | Value |
+| --- | --- |
+| `Title` | VAT number |
+| `Data_type` | text |
+| `Minimum_length` | 4 |
+| `Maximum_length` | 20 |
+| `Requirement` | optional |
+| `Description` | VAT number(s) sourced from Wikidata (property P3608), where available. |
+| `Multi_value` | True |
+| `Validation_summary` | starts with a two-letter country code followed by letters/digits. |
+| `Examples` | DE123456789 |
+| `Validation_rules` | `- rule: regex   pattern: ^[A-Z]{2}[A-Z0-9*+]+$` |
 
 <a id="field-wikidata_code"></a>
 ## `Wikidata_code`
