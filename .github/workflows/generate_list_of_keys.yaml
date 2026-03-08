@@ -29,6 +29,7 @@ jobs:
         run: |
           python3 - <<'EOF'
           import os
+          import yaml
           
           # Input files configuration
           input_files = [
@@ -46,12 +47,13 @@ jobs:
                   continue
 
               with open(filepath, 'r', encoding='utf-8') as f:
-                  for line in f:
-                      stripped = line.strip()
-                      # Parsing logic:
-                      if line.startswith(' ') and ':' in stripped and not stripped.startswith('#'):
-                          key = stripped.split(':', 1)[0].strip()
-                          unique_keys.add(key)
+                  data = yaml.safe_load(f) or {}
+              if not isinstance(data, dict):
+                  print(f"Skipping non-mapping YAML root in: {filepath}")
+                  continue
+              for _, record in data.items():
+                  if isinstance(record, dict):
+                      unique_keys.update(record.keys())
 
           # --- RECURSIVE GROUPING LOGIC ---
 
@@ -69,15 +71,24 @@ jobs:
 
           key_tree = {}
           exceptions = {'Abbreviation_other', 'Assessment_against_FATF_definition', 'Basis_for_assessment', 'Legal_type', 'Entity_type', 'Immunity_url', 'Name_former', 'Name_other', 'Name_other_2', 'Org_family', 'OpenSanctions_id', 'Treaty_url', 'Wikidata_code'}
+          language_suffixes = {'en', 'fr', 'es'}
 
           for key in unique_keys:
               if key in exceptions:
                   # Treat exceptions as a single chunk (no splitting)
                   attach_to_tree(key_tree, [key])
               else:
-                  # Split by ALL underscores to create hierarchy
-                  # e.g. Name_other_en -> ['Name', 'other', 'en']
-                  parts = key.split('_')
+                  # Only split language suffixes to avoid unnecessary breaks
+                  # e.g. Name_other_en -> ['Name_other', 'en']
+                  # e.g. Year_established -> ['Year_established']
+                  if '_' in key:
+                      stem, suffix = key.rsplit('_', 1)
+                      if suffix in language_suffixes and stem:
+                          parts = [stem, suffix]
+                      else:
+                          parts = [key]
+                  else:
+                      parts = [key]
                   attach_to_tree(key_tree, parts)
 
           # Recursive function to generate markdown

@@ -39,6 +39,7 @@ jobs:
           python3 - <<'EOF'
           import os
           import sys
+          import yaml
 
           # Define input and output file paths
           input_files = [
@@ -53,37 +54,24 @@ jobs:
               return text.replace('|', '\|')
 
           def parse_file(filepath):
-              '''Parses the custom YAML-like file format.'''
+              '''Parses YAML robustly, including explicit key syntax.'''
               if not os.path.exists(filepath):
                   print(f'Error: Input file not found at {filepath}')
                   return []
-              
-              organizations = []
+
               with open(filepath, 'r', encoding='utf-8') as f:
-                  current_org = None
-                  for line in f:
-                      stripped_line = line.strip()
-                      # Skip comments and empty lines
-                      if not stripped_line or stripped_line.startswith('#'):
-                          continue
-                      
-                      # A new organization is a non-indented line
-                      if not line.startswith(' '):
-                          if current_org:
-                              organizations.append(current_org)
-                          org_name = stripped_line.rstrip(':')
-                          current_org = {'_main_name': org_name}
-                      # A property for the current organization
-                      elif current_org is not None and ':' in stripped_line:
-                          try:
-                              key, value = stripped_line.split(':', 1)
-                              current_org[key.strip()] = value.strip()
-                          except ValueError:
-                              print(f'Warning: Skipping malformed line: {stripped_line}')
-              
-              # Append the last organization in the file
-              if current_org:
-                  organizations.append(current_org)
+                  data = yaml.safe_load(f) or {}
+
+              if not isinstance(data, dict):
+                  print(f'Warning: YAML root is not a mapping in {filepath}')
+                  return []
+
+              organizations = []
+              for org_name, props in data.items():
+                  row = {'_main_name': str(org_name)}
+                  if isinstance(props, dict):
+                      row.update(props)
+                  organizations.append(row)
               return organizations
 
           def generate_markdown_table(organizations):

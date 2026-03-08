@@ -48,7 +48,7 @@ Basis_for_assessment:
   Requirement: strongly recommended
   Description: The code for the basis for repo's assessment as to whether the organisation is likely to satisfy the FATF definition of International organisation.
   Examples: B22
-  Validation rules: begins with "B" followed by two digits, B00 is not valid.
+  Validation rules: begins with "B" followed by one or two digits, B00 is not valid.
 
 Country:
   Property: Country
@@ -57,10 +57,10 @@ Country:
   Minimum length: 2
   Maximum length: 2
   Requirement: mandatory
-  Description: Country code for the organisation. EU is used for European Union entities and ZZ is used for all other international organisations.
-  Permissible values: EU, ZZ
-  Examples: EU, ZZ
-  Validation rules: must consist of two uppercase letters
+  Description: Country code for the organisation. eu is used for European Union entities and zz is used for all other international organisations.
+  Permissible values: eu, zz
+  Examples: eu, zz
+  Validation rules: must consist of two lowercase letters
 
 Name_en:
   Title: Name_en
@@ -77,9 +77,9 @@ OpenSanctions_id:
   Minimum length: 10
   Maximum length: 50
   Requirement: mandatory
-  Description: OpenSanctions ID code from opensanctions.org
-  Examples: bic-ESMAFRP2, NK-Ubo23KznV2pvcXMiQkTmvd
-  Validation rules: no spaces
+  Description: "OpenSanctions ID code from opensanctions.org. If no identifier exists, [No code found] may be used."
+  Examples: "bic-ESMAFRP2, NK-Ubo23KznV2pvcXMiQkTmvd, [No code found]"
+  Validation rules: "no spaces, except [No code found]"
 
 Org_family:
   Property: Org_family
@@ -117,9 +117,9 @@ Wikidata_code:
   Data type: text
   Maximum length: 15
   Requirement: optional
-  Description: Wikidata property code for the organisation
-  Examples: Q674182
-  Validation rules: starts with "Q" remaining characters are digits 0-9.
+  Description: "Wikidata property code for the organisation. If no identifier exists, [No code found] may be used."
+  Examples: "Q674182, [No code found]"
+  Validation rules: "starts with 'Q' remaining characters are digits 0-9, except [No code found]."
 
 Year_established:
   Property: Year_established
