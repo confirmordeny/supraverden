@@ -143,15 +143,15 @@ B32:
 
 B33:
  Basis_text: "The World Bank Group is a collective term for five organisations and has been
- included in this repo for practical reasons. The five organisations are:
+  included in this repo for practical reasons. The five organisations are:
  - International Bank for Reconstruction and Development.
  - International Finance Corporation.
  - International Development Association.
  - International Centre for Settlement of Investment Disputes.
  - Multilateral Investment Guarantee Agency
-Each of the five have been individally assessed as meeting the FATF definition of international
-organisation. For this reason, the World Bank Group has also been assessed as meeting 
-the definition."
+  Each of the five have been individally assessed as meeting the FATF definition of international
+  organisation. For this reason, the World Bank Group has also been assessed as meeting 
+  the definition."
 
 B34:
  Basis_text: "The FATF definition of International organisations is limited to entities established by formal political
