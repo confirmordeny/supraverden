@@ -29,6 +29,7 @@ jobs:
         run: |
           cat << 'PY_SCRIPT' > generate_families.py
           import os
+          import yaml
           from collections import Counter
 
           # CONFIGURATION
@@ -42,34 +43,20 @@ jobs:
               if not os.path.exists(filepath):
                   print(f'Warning: File not found: {filepath}')
                   return []
-              
-              organizations = []
-              # Using utf-8 to handle all special characters
+
               with open(filepath, 'r', encoding='utf-8') as f:
-                  current_org = None
-                  for line in f:
-                      stripped_line = line.strip()
-                      # Ignore comments
-                      if not stripped_line or stripped_line.startswith('#'):
-                          continue
-                      
-                      # New Organization detection (no indentation)
-                      if not line.startswith(' '):
-                          if current_org:
-                              organizations.append(current_org)
-                          org_name = stripped_line.rstrip(':')
-                          current_org = {'_main_name': org_name}
-                      
-                      # Property detection (indented)
-                      elif current_org is not None and ':' in stripped_line:
-                          try:
-                              key, value = stripped_line.split(':', 1)
-                              current_org[key.strip()] = value.strip()
-                          except ValueError:
-                              pass # Skip malformed lines gracefully
-              
-              if current_org:
-                  organizations.append(current_org)
+                  data = yaml.safe_load(f) or {}
+
+              if not isinstance(data, dict):
+                  print(f'Warning: YAML root is not a mapping in {filepath}')
+                  return []
+
+              organizations = []
+              for org_name, props in data.items():
+                  row = {'_main_name': str(org_name)}
+                  if isinstance(props, dict):
+                      row.update(props)
+                  organizations.append(row)
               return organizations
 
           def generate_markdown(organizations):
