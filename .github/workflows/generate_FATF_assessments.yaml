@@ -1,9 +1,6 @@
 name: Generate FATF Assessment Table
 
 on:
-  push:
-    paths:
-      - 'data/**'
   workflow_dispatch:
 
 permissions:

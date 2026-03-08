@@ -1,9 +1,6 @@
 name: Generate data dictionary
 
 on:
-  push:
-    paths:
-      - 'data/**'
   workflow_dispatch:
 
 permissions:
@@ -25,53 +22,8 @@ jobs:
         run: pip install pyyaml
 
       - name: Generate Markdown from YAML
-        shell: python
         run: |
-          import yaml
-          import os
-
-          src_file = 'data/data_dictionary.yaml' 
-          output_dir = 'dist'
-          output_file = os.path.join(output_dir, 'DATA_DICTIONARY.md')
-
-          if not os.path.exists(src_file):
-              print(f"Skipping: {src_file} not found.")
-              exit(0)
-
-          with open(src_file, 'r', encoding='utf-8') as f:
-              data = yaml.safe_load(f)
-
-          headers = [
-              "Property", "Title", "Data type", "Length", 
-              "Requirement", "Description", "Permissible values", 
-              "Validation rules", "Example"
-          ]
-
-          md_content = ["# Data Dictionary", ""]
-          md_content.append("| " + " | ".join(headers) + " |")
-          md_content.append("| " + " | ".join(["---"] * len(headers)) + " |")
-
-          # Handle data as a dict (keyed by Property)
-          for key, fields in data.items():
-              if not isinstance(fields, dict):
-                  continue
-              
-              row = []
-              for h in headers:
-                  # Robust matching: Exact, Lowercase, or Key-fallback for 'Property'
-                  val = fields.get(h) or fields.get(h.lower()) or ""
-                  
-                  if h == "Property" and not val:
-                      val = key
-
-                  clean_val = str(val).replace("\n", " ").replace("|", "\\|").strip()
-                  row.append(clean_val)
-              
-              md_content.append("| " + " | ".join(row) + " |")
-
-          os.makedirs(output_dir, exist_ok=True)
-          with open(output_file, 'w', encoding='utf-8') as f:
-              f.write("\n".join(md_content))
+          python scripts/generate_data_dictionary_md.py
 
       - name: Install Pandoc and TeX Live
         run: |

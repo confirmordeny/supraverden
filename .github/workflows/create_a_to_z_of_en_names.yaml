@@ -1,11 +1,6 @@
 name: Create A to Z
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - 'data/general_list.yaml'
   workflow_dispatch:
 
 jobs:

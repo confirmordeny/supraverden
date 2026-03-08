@@ -1,0 +1,60 @@
+name: Generate Dist Outputs
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'data/**'
+      - 'scripts/generate_*'
+      - '.github/workflows/generate_dist_outputs.yaml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install Python dependencies
+        run: pip install pyyaml
+
+      - name: Generate markdown outputs
+        run: |
+          python scripts/generate_data_dictionary_md.py
+          python scripts/generate_a_to_z_md.py
+          python scripts/generate_all_bodies_md.py
+          python scripts/generate_fatf_assessments_md.py
+
+      - name: Install Pandoc and TeX Live
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-latex-extra
+
+      - name: Convert Data Dictionary Markdown to PDF
+        run: |
+          pandoc dist/DATA_DICTIONARY.md -o dist/DATA_DICTIONARY.pdf --variable geometry:margin=1in
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "github-actions[bot]"
+          git add dist/DATA_DICTIONARY.md dist/DATA_DICTIONARY.pdf dist/ENGLISH_A_TO_Z_LIST.md dist/ALL_BODIES.md dist/FATF_ASSESSMENTS.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "docs: auto-generate dist outputs (dictionary, a-z, bodies, fatf)"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
