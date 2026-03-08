@@ -25,18 +25,9 @@ jobs:
         run: |
           python scripts/generate_data_dictionary_md.py
 
-      - name: Install Pandoc and TeX Live
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-latex-extra
-
-      - name: Convert Markdown to PDF
-        run: |
-          pandoc dist/DATA_DICTIONARY.md -o dist/DATA_DICTIONARY.pdf --variable geometry:margin=1in
-
       - name: Commit and Push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "github-actions[bot]"
-          git add dist/DATA_DICTIONARY.md dist/DATA_DICTIONARY.pdf
-          git diff-index --quiet HEAD || (git commit -m "docs: auto-generate data dictionary (md & pdf)" && git push)
+          git add dist/DATA_DICTIONARY.md
+          git diff-index --quiet HEAD || (git commit -m "docs: auto-generate data dictionary markdown" && git push)

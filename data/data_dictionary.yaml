@@ -37,7 +37,7 @@ _record_policy:
 _variant_policy:
   language_suffixes: [en, fr, es, pt]
   index_suffixes: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
-  key_pattern: "<base>_<lang> and <base>_<n> and <base>_<lang>_<n> and <base>_<n>_<lang>"
+  variant_usage: "Variant fields may use language suffixes and index numbers together, e.g. Name_other_1_en."
   applies_to: [Name, Abbreviation, Abbreviation_former, Abbreviation_other, Name_former, Name_other, Notes]
 
 Abbreviation:

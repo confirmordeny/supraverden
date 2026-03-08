@@ -37,20 +37,11 @@ jobs:
           python scripts/generate_all_bodies_md.py
           python scripts/generate_fatf_assessments_md.py
 
-      - name: Install Pandoc and TeX Live
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-latex-extra
-
-      - name: Convert Data Dictionary Markdown to PDF
-        run: |
-          pandoc dist/DATA_DICTIONARY.md -o dist/DATA_DICTIONARY.pdf --variable geometry:margin=1in
-
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "github-actions[bot]"
-          git add dist/DATA_DICTIONARY.md dist/DATA_DICTIONARY.pdf dist/ENGLISH_A_TO_Z_LIST.md dist/ALL_BODIES.md dist/FATF_ASSESSMENTS.md
+          git add dist/DATA_DICTIONARY.md dist/ENGLISH_A_TO_Z_LIST.md dist/ALL_BODIES.md dist/FATF_ASSESSMENTS.md
           if git diff --staged --quiet; then
             echo "No changes to commit"
             exit 0
