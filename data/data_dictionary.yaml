@@ -6,8 +6,11 @@
 # Maximum length (maximum characters allowed)
 # Requirement	(e.g. primary key, mandatory, recommended, strongly recommended)
 # Description (what goes in this field, any policies)
+# Multi_value (true if list values are allowed)
 # Permissible values (dropdown)
-# Validation rules
+# Validation_rules (machine-readable rules)
+# Validation_summary (human-readable rule summary)
+# Example_source (record name(s) from general_list used for the example value)
 # Examples (one or two examples of valid inputs, comma separated)
 
 # *** Template ***
@@ -18,19 +21,53 @@
 # Maximum_length:
 # Requirement: 
 # Description:
+# Multi_value:
+# Validation_rules:
+# Validation_summary:
+# Example_source:
 # Examples:
 
 # *** Ordering ***
 # Headings should be listed alphabetically here.
 
+_record_policy:
+  required_fields: [SPRVD_id, Entity_type, Country, Name_en]
+  source_required_for: [Type]
+
+_variant_policy:
+  language_suffixes: [en, fr, es, pt]
+  index_suffixes: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+  key_pattern: "<base>_<lang> and <base>_<n> and <base>_<lang>_<n> and <base>_<n>_<lang>"
+  applies_to: [Name, Abbreviation, Abbreviation_former, Abbreviation_other, Name_former, Name_other, Notes]
+
 Abbreviation:
   Title: Abbreviation
   Data_type: text
   Minimum_length: 2
-  Maximum_length: 10
+  Maximum_length: 50
   Requirement: optional
-  Description: Abbreviation used by the organisation itself or in common use
-  Examples: NATO, UN
+  Description: Abbreviation for the organisation in the language indicated by suffix.
+  Examples: EU, UN
+
+Abbreviation_former:
+  Title: Former abbreviation
+  Data_type: text
+  Minimum_length: 2
+  Maximum_length: 50
+  Requirement: optional
+  Description: Former abbreviation of the organisation in the language indicated by suffix.
+  Example_source: Organisation of Islamic Cooperation
+  Examples: OIC
+
+Abbreviation_other:
+  Title: Other abbreviation
+  Data_type: text
+  Minimum_length: 2
+  Maximum_length: 50
+  Requirement: optional
+  Description: Alternative abbreviation of the organisation in the language indicated by suffix.
+  Example_source: African Intellectual Property organisation
+  Examples: OAPI
 
 Assessment_against_FATF_definition:
   Title: Assessment_against_FATF_definition
@@ -42,44 +79,195 @@ Assessment_against_FATF_definition:
 
 Basis_for_assessment:
   Title: Basis_for_assessment
-  Data type: text
-  Minimum length: 2
-  Maximum length: 3
+  Data_type: text
+  Minimum_length: 2
+  Maximum_length: 3
   Requirement: strongly recommended
   Description: The code for the basis for repo's assessment as to whether the organisation is likely to satisfy the FATF definition of International organisation.
   Examples: B22
-  Validation rules: begins with "B" followed by one or two digits, B00 is not valid.
+  Validation_rules:
+  - rule: regex
+    pattern: ^B\d{1,2}$
+  - rule: disallow_values
+    values: [B00]
+  Validation_summary: begins with "B" followed by one or two digits; B00 is not valid.
 
 Country:
   Property: Country
   Title: Country code
-  Data type: text
-  Minimum length: 2
-  Maximum length: 2
+  Data_type: text
+  Minimum_length: 2
+  Maximum_length: 2
   Requirement: mandatory
-  Description: Country code for the organisation. eu is used for European Union entities and zz is used for all other international organisations.
-  Permissible values: eu, zz
-  Examples: eu, zz
-  Validation rules: must consist of two lowercase letters
+  Description: Country code for the organisation. EU is used for European Union entities and ZZ is used for all other international organisations.
+  Permissible values: EU, ZZ
+  Examples: EU, ZZ
+  Validation_rules:
+  - rule: regex
+    pattern: ^[A-Z]{2}$
+  Validation_summary: must consist of two uppercase letters.
 
-Name_en:
-  Title: Name_en
-  Data type: text
-  Minimum length: 6
-  Maximum length: 200
+Entity_type:
+  Title: Entity type
+  Data_type: text
+  Minimum_length: 5
+  Maximum_length: 50
+  Requirement: mandatory
+  Description: High-level classification of the entity.
+  Permissible values: International organisation
+  Example_source: European Union
+  Examples: International organisation
+
+Headquarters:
+  Title: Headquarters
+  Data_type: text
+  Minimum_length: 2
+  Maximum_length: 200
+  Requirement: recommended
+  Description: Location of the organisation's headquarters.
+  Example_source: UNESCO
+  Examples: Paris, France
+
+Immunity_url:
+  Title: Immunity url
+  Data_type: url
+  Minimum_length: 12
+  Maximum_length: 2048
+  Requirement: strongly recommended
+  Description: URL to a source for privileges and immunities applicable to the organisation.
+  Examples: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32003R0058
+  Validation_rules:
+  - rule: starts_with
+    value: http
+  - rule: no_spaces
+  Validation_summary: must begin with "http" and contain no spaces.
+
+LEI:
+  Title: Legal Entity Identifier
+  Data_type: text
+  Minimum_length: 20
+  Maximum_length: 20
+  Requirement: optional
+  Description: 20-character Legal Entity Identifier (ISO 17442) for the organisation.
+  Example_source: UNESCO
+  Examples: 549300UOQ4N8CBASRY79
+  Validation_rules:
+  - rule: exact_length
+    length: 20
+  - rule: regex
+    pattern: ^[A-Z0-9]{20}$
+  - rule: no_spaces
+  Validation_summary: exactly 20 characters, uppercase letters A-Z and digits 0-9 only, no spaces.
+
+LEI_bic:
+  Title: LEI BIC
+  Data_type: text
+  Minimum_length: 8
+  Maximum_length: 11
+  Requirement: optional
+  Multi_value: true
+  Description: BIC associated with the LEI record, where available.
+  Example_source: UNESCO
+  Examples: UNESFRP2XXX
+  Validation_rules:
+  - rule: regex
+    pattern: ^[A-Z0-9]{8}([A-Z0-9]{3})?$
+    allow_blank: true
+  Validation_summary: uppercase letters A-Z and digits 0-9 only; either blank/null or 8 or 11 characters.
+
+LEI_category:
+  Title: LEI category
+  Data_type: text
+  Requirement: optional
+  Description: LEI entity category from the LEI reference record.
+  Permissible values: GENERAL, INTERNATIONAL_ORGANIZATION, RESIDENT_GOVERNMENT_ENTITY, FUND
+  Examples: INTERNATIONAL_ORGANIZATION
+
+LEI_hq_address:
+  Title: LEI headquarters address
+  Data_type: text
+  Minimum_length: 5
+  Maximum_length: 512
+  Requirement: optional
+  Description: Headquarters address from the LEI reference record.
+  Examples: 7 Placé de Fontenoy, Paris, 75007, FR
+
+LEI_jurisdiction:
+  Title: LEI jurisdiction
+  Data_type: text
+  Minimum_length: 2
+  Maximum_length: 10
+  Requirement: optional
+  Description: Jurisdiction code reported in the LEI record.
+  Examples: UN
+
+LEI_legal_form:
+  Title: LEI legal form
+  Data_type: text
+  Minimum_length: 2
+  Maximum_length: 200
+  Requirement: optional
+  Description: Legal form string from the LEI reference record.
+  Examples: United Nations Specialized Agency
+
+LEI_status:
+  Title: LEI status
+  Data_type: text
+  Requirement: optional
+  Description: LEI registration status from the LEI reference record, as at March 2026.
+  Permissible values: ACTIVE, INACTIVE, LAPSED, RETIRED, ANNULLED, MERGED, DUPLICATE, PENDING_TRANSFER, PENDING_ARCHIVAL, ISSUED
+  Examples: ACTIVE
+
+Name:
+  Title: Name
+  Data_type: text
+  Minimum_length: 4
+  Maximum_length: 200
   Requirement: mandatory 
-  Description: The full formal name of the organisation in English. Typically, "the" is omitted from the start.
+  Description: The full formal name of the organisation in the language indicated by suffix.
   Examples: European Union, United Nations
+
+Name_former:
+  Title: Former name
+  Data_type: text
+  Minimum_length: 2
+  Maximum_length: 200
+  Requirement: optional
+  Description: A former official name of the organisation in the language indicated by suffix.
+  Example_source: Organization of American States
+  Examples: Pan-American Union
+
+Name_other:
+  Title: Other name
+  Data_type: text
+  Minimum_length: 2
+  Maximum_length: 200
+  Requirement: optional
+  Description: Alternative name of the organisation in the language indicated by suffix.
+  Examples: Council of the EU
+
+Notes:
+  Title: Notes
+  Data_type: text
+  Minimum_length: 0
+  Maximum_length: 2000
+  Requirement: optional
+  Description: Free-text notes for context, caveats, or editorial clarifications in the language indicated by suffix.
+  Example_source: International Commission for the Protection of the Danube River
+  Examples: Not to be confused with the Danube Commission.
 
 OpenSanctions_id:
   Title: OpenSanctions_id
-  Data type: OpenSanctions ID
-  Minimum length: 10
-  Maximum length: 50
+  Data_type: text
+  Minimum_length: 10
+  Maximum_length: 50
   Requirement: mandatory
-  Description: "OpenSanctions ID code from opensanctions.org. If no identifier exists, [No code found] may be used."
-  Examples: "bic-ESMAFRP2, NK-Ubo23KznV2pvcXMiQkTmvd, [No code found]"
-  Validation rules: "no spaces, except [No code found]"
+  Description: "OpenSanctions ID code from opensanctions.org. If no identifier exists, [No code found.] may be used."
+  Examples: "bic-ESMAFRP2, NK-Ubo23KznV2pvcXMiQkTmvd, [No code found.]"
+  Validation_rules:
+  - rule: no_spaces
+    allow_values: ["[No code found.]"]
+  Validation_summary: no spaces, except [No code found.].
 
 Org_family:
   Property: Org_family
@@ -90,23 +278,50 @@ Org_family:
   Description: The family of organisations to which the organisation belongs.
   Examples: African Union entities
 
+SPRVD_id:
+  Title: SPRVD_id
+  Data_type: text
+  Minimum_length: 12
+  Maximum_length: 12
+  Requirement: mandatory (primary key)
+  Description: Unique identifier assigned by this repository to each organisation record.
+  Examples: SPRVD0688028
+  Validation_rules:
+  - rule: regex
+    pattern: ^SPRVD0\d{6}$
+  Validation_summary: must match SPRVD0 followed by 6 digits; final digit is a check digit.
+
+Source:
+  Title: Source
+  Data_type: text
+  Minimum_length: 3
+  Maximum_length: 2048
+  Requirement: recommended
+  Description: Source reference for the record data. May be a URL, citation, publication title, or other textual reference.
+  Example_source: UNESCO
+  Examples: https://www.un.org/en/about-us/specialized-agencies
+
 Treaty_url:
  Property: Treaty_url
  Title: Treaty url
- Data type: URL
+ Data_type: url
  Minimum_length: 12
  Maximum_length: 2048
  Requirement: optional
  Description: The URL of the treaty that created or reconstituted the organisation.
  Examples: https://iho.int/uploads/user/pubs/misc/M1_Separatedocs/Convention_new_EN.pdf
- Validation rules: begins with "http", no spaces
+ Validation_rules:
+ - rule: starts_with
+   value: http
+ - rule: no_spaces
+ Validation_summary: must begin with "http" and contain no spaces.
 
 Type:
   Property: Type
   Title: Type
-  Data type: text
-  Minimum_lenghth: 5
-  Maximum length: 50
+  Data_type: text
+  Minimum_length: 5
+  Maximum_length: 50
   Requirement: optional
   Description: The type of the international organisation from a legal perspective.
   Examples:  EU decentralised agency, EU executive agency
@@ -114,19 +329,27 @@ Type:
 Wikidata_code:
   Property: Wikidata_code
   Title: Wikidata code
-  Data type: text
-  Maximum length: 15
+  Data_type: text
+  Maximum_length: 15
   Requirement: optional
-  Description: "Wikidata property code for the organisation. If no identifier exists, [No code found] may be used."
-  Examples: "Q674182, [No code found]"
-  Validation rules: "starts with 'Q' remaining characters are digits 0-9, except [No code found]."
+  Description: "Wikidata property code for the organisation. If no identifier exists, [No code found.] may be used."
+  Examples: "Q674182, [No code found.]"
+  Validation_rules:
+  - rule: regex
+    pattern: ^Q\d+$
+    allow_values: ["[No code found.]"]
+  Validation_summary: starts with "Q"; remaining characters are digits 0-9, except [No code found.].
 
 Year_established:
   Property: Year_established
   Title: Year established
-  Data type: integer
-  Maximum length: 4
+  Data_type: integer
+  Maximum_length: 4
   Requirement: optional
   Description: The calendar year in which the organisation was established based on the Gregorian calendar.
   Examples: 1993
-  Validation rules: no earlier than 1810, no later than the current year
+  Validation_rules:
+  - rule: year_range
+    min: 1810
+    max_current_year: true
+  Validation_summary: no earlier than 1810, no later than the current year.
