@@ -326,6 +326,20 @@ Type:
   Description: The type of the international organisation from a legal perspective.
   Examples:  EU decentralised agency, EU executive agency
 
+VAT_number:
+  Title: VAT number
+  Data_type: text
+  Minimum_length: 4
+  Maximum_length: 20
+  Requirement: optional
+  Multi_value: true
+  Description: VAT number(s) sourced from Wikidata (property P3608), where available.
+  Examples: DE123456789
+  Validation_rules:
+  - rule: regex
+    pattern: ^[A-Z]{2}[A-Z0-9*+]+$
+  Validation_summary: starts with a two-letter country code followed by letters/digits.
+
 Wikidata_code:
   Property: Wikidata_code
   Title: Wikidata code

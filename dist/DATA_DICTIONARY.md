@@ -28,6 +28,7 @@
 - [`Source`](#field-source)
 - [`Treaty_url`](#field-treaty_url)
 - [`Type`](#field-type)
+- [`VAT_number`](#field-vat_number)
 - [`Wikidata_code`](#field-wikidata_code)
 - [`Year_established`](#field-year_established)
 
@@ -412,6 +413,22 @@
 | `Description` | The type of the international organisation from a legal perspective. |
 | `Examples` | EU decentralised agency, EU executive agency |
 | `Property` | Type |
+
+<a id="field-vat_number"></a>
+## `VAT_number`
+
+| Attribute | Value |
+| --- | --- |
+| `Title` | VAT number |
+| `Data_type` | text |
+| `Minimum_length` | 4 |
+| `Maximum_length` | 20 |
+| `Requirement` | optional |
+| `Description` | VAT number(s) sourced from Wikidata (property P3608), where available. |
+| `Multi_value` | True |
+| `Validation_summary` | starts with a two-letter country code followed by letters/digits. |
+| `Examples` | DE123456789 |
+| `Validation_rules` | `- rule: regex   pattern: ^[A-Z]{2}[A-Z0-9*+]+$` |
 
 <a id="field-wikidata_code"></a>
 ## `Wikidata_code`
