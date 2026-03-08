@@ -2,90 +2,131 @@
 # Property (machine readable form)
 # Title (human readable form)
 # Data type	(country, date, integer, text, url)
-# Length (maximum characters allowed)
-# Requirement	(e.g. primary key, mandatory, recommended)
+# Minimum length (maximum characters allowed if not blank)
+# Maximum length (maximum characters allowed)
+# Requirement	(e.g. primary key, mandatory, recommended, strongly recommended)
 # Description (what goes in this field, any policies)
 # Permissible values (dropdown)
 # Validation rules
-# Example (one or two examples of valid inputs)
+# Examples (one or two examples of valid inputs, comma separated)
 
 # *** Template ***
 # Property:
 # Title:
-# Data type:
-# Length:
+# Data_type:
+# Minimum_length:
+# Maximum_length:
 # Requirement: 
 # Description:
-# Example:
+# Examples:
 
-Name_en:
-  Title: Name_en
-  Data type: text
-  Length: 200
-  Requirement: mandatory 
-  Description: The full formal name of the organisation in English. Typically, "the" is omitted from the start.
-  Example: European Union, United Nations
+# *** Ordering ***
+# Headings should be listed alphabetically here.
 
 Abbreviation:
   Title: Abbreviation
-  Data type: text
-  Length: 10
+  Data_type: text
+  Minimum_length: 2
+  Maximum_length: 10
   Requirement: optional
   Description: Abbreviation used by the organisation itself or in common use
-  Example: NATO, UN
+  Examples: NATO, UN
+
+Assessment_against_FATF_definition:
+  Title: Assessment_against_FATF_definition
+  Data_type: text
+  Requirement: strongly recommended
+  Description: The repo's assessment as to whether the organisation is likely to satisfy the FATF definition of International organisation.
+  Permissible values: Included, Excluded
+  Examples: Included
+
+Basis_for_assessment:
+  Title: Basis_for_assessment
+  Data type: text
+  Minimum length: 2
+  Maximum length: 3
+  Requirement: strongly recommended
+  Description: The code for the basis for repo's assessment as to whether the organisation is likely to satisfy the FATF definition of International organisation.
+  Examples: B22
+  Validation rules: begins with "B" followed by two digits, B00 is not valid.
 
 Country:
   Property: Country
   Title: Country code
   Data type: text
-  Length: 2
+  Minimum length: 2
+  Maximum length: 2
   Requirement: mandatory
   Description: Country code for the organisation. EU is used for European Union entities and ZZ is used for all other international organisations.
   Permissible values: EU, ZZ
-  Example: EU, ZZ
+  Examples: EU, ZZ
+  Validation rules: must consist of two uppercase letters
+
+Name_en:
+  Title: Name_en
+  Data type: text
+  Minimum length: 6
+  Maximum length: 200
+  Requirement: mandatory 
+  Description: The full formal name of the organisation in English. Typically, "the" is omitted from the start.
+  Examples: European Union, United Nations
 
 OpenSanctions_id:
   Title: OpenSanctions_id
   Data type: OpenSanctions ID
-  Length: 50
+  Minimum length: 10
+  Maximum length: 50
   Requirement: mandatory
   Description: OpenSanctions ID code from opensanctions.org
-  Example: bic-ESMAFRP2, NK-Ubo23KznV2pvcXMiQkTmvd
+  Examples: bic-ESMAFRP2, NK-Ubo23KznV2pvcXMiQkTmvd
   Validation rules: no spaces
 
 Org_family:
- Property: Org_family
- Title: Organisation family
- Data type: text
- Length: 100
- Requirement: mandatory (can be "none")
- Description: The family of organisations to which the organisation belongs.
- Example: African Union entities
-
- Type:
-  Property: Type
-  Title: Type
-  Data type: text
-  Length: 50
-  Requirement: optional
-  Description: The type of the international organisation from a legal perspective.
-  Example:  EU decentralised agency, EU executive agency
+  Property: Org_family
+  Title: Organisation family
+  Data_type: text
+  Maximum_length: 100
+  Requirement: mandatory (can be "none")
+  Description: The family of organisations to which the organisation belongs.
+  Examples: African Union entities
 
 Treaty_url:
  Property: Treaty_url
  Title: Treaty url
  Data type: URL
- Length: 2048
+ Minimum_length: 12
+ Maximum_length: 2048
  Requirement: optional
  Description: The URL of the treaty that created or reconstituted the organisation.
- Example: https://iho.int/uploads/user/pubs/misc/M1_Separatedocs/Convention_new_EN.pdf
+ Examples: https://iho.int/uploads/user/pubs/misc/M1_Separatedocs/Convention_new_EN.pdf
+ Validation rules: begins with "http", no spaces
+
+Type:
+  Property: Type
+  Title: Type
+  Data type: text
+  Minimum_lenghth: 5
+  Maximum length: 50
+  Requirement: optional
+  Description: The type of the international organisation from a legal perspective.
+  Examples:  EU decentralised agency, EU executive agency
 
 Wikidata_code:
   Property: Wikidata_code
   Title: Wikidata code
   Data type: text
-  Length: 15
+  Maximum length: 15
   Requirement: optional
   Description: Wikidata property code for the organisation
-  Example: Q674182
+  Examples: Q674182
   Validation rules: starts with "Q" remaining characters are digits 0-9.
+
+Year_established:
+  Property: Year_established
+  Title: Year established
+  Data type: integer
+  Maximum length: 4
+  Requirement: optional
+  Description: The calendar year in which the organisation was established based on the Gregorian calendar.
+  Examples: 1993
+  Validation rules: no earlier than 1810, no later than the current year
