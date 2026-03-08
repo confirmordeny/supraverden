@@ -1,4 +1,5 @@
 European Union:
+  SPVDN_id: SPVDN0688028
   Wikidata_code: Q458
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -25,6 +26,7 @@ European Union:
   LEI_bic:
   - EUCOLULLXXX
 Council of the European Union:
+  SPVDN_id: SPVDN0698793
   Wikidata_code: Q8896
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -43,6 +45,7 @@ Council of the European Union:
   Year_established: 1957
   Headquarters: Europa building, Belgium
 Court of Justice of the European Union:
+  SPVDN_id: SPVDN0688288
   Wikidata_code: Q4951
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -61,6 +64,7 @@ Court of Justice of the European Union:
   Year_established: 1952
   Headquarters: Palais de la Cour de Justice, Luxembourg
 European Central Bank:
+  SPVDN_id: SPVDN0973897
   Wikidata_code: Q8901
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -86,6 +90,7 @@ European Central Bank:
   LEI_bic:
   - ECBFDEFFXXX
 European Commission:
+  SPVDN_id: SPVDN0206688
   Wikidata_code: Q8880
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -109,6 +114,7 @@ European Commission:
   LEI_hq_address: Rue de la Loi/Wetstraat 200, Brussels, 1040, BE
   LEI_bic: null
 European Council:
+  SPVDN_id: SPVDN0106274
   Wikidata_code: Q8886
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -126,6 +132,7 @@ European Council:
   Year_established: 1974
   Headquarters: Europa building, Belgium
 European Court of Auditors:
+  SPVDN_id: SPVDN0712674
   Wikidata_code: Q8900
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -143,6 +150,7 @@ European Court of Auditors:
   Year_established: 1977
   Headquarters: Luxembourg, Luxembourg
 European Parliament:
+  SPVDN_id: SPVDN0491805
   Wikidata_code: Q8889
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -161,6 +169,7 @@ European Parliament:
   Year_established: 1957
   Headquarters: Seat of the European Parliament in Strasbourg, France
 European Investment Bank:
+  SPVDN_id: SPVDN0055823
   Wikidata_code: Q192247
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -186,6 +195,7 @@ European Investment Bank:
   LEI_bic:
   - BEILLULLXXX
 European University Institute:
+  SPVDN_id: SPVDN0245363
   Wikidata_code: Q1378099
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -209,6 +219,7 @@ European University Institute:
   LEI_hq_address: VIA DELLA BADIA DEI ROCCETTINI, 9, FIESOLE, 50014, IT
   LEI_bic: null
 European Atomic Energy Community:
+  SPVDN_id: SPVDN0638255
   Wikidata_code: Q8919
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -235,6 +246,7 @@ European Atomic Energy Community:
   LEI_hq_address: 12, Rue Guillaume Kroll, Luxembourg, L-1882, LU
   LEI_bic: null
 Unified Patent Court:
+  SPVDN_id: SPVDN0796930
   Wikidata_code: Q7884942
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -251,6 +263,7 @@ Unified Patent Court:
   Basis_for_assessment: B22
   Headquarters: Luxembourg, Luxembourg
 European Stability Mechanism:
+  SPVDN_id: SPVDN0776943
   Wikidata_code: Q1130098
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -278,6 +291,7 @@ European Stability Mechanism:
   LEI_bic:
   - ESMELULLXXX
 European Climate, Infrastructure and Environment Executive Agency:
+  SPVDN_id: SPVDN0825525
   Wikidata_code: Q106818821
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -294,6 +308,7 @@ European Climate, Infrastructure and Environment Executive Agency:
   Year_established: 2021
   Headquarters: Etterbeek, Belgium
 European Education and Culture Executive Agency:
+  SPVDN_id: SPVDN0630024
   Wikidata_code: Q1383639
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -311,6 +326,7 @@ European Education and Culture Executive Agency:
   Year_established: 2006
   Headquarters: North Light, Belgium
 European Health and Digital Executive Agency:
+  SPVDN_id: SPVDN0794605
   Wikidata_code: Q107636399
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -327,6 +343,7 @@ European Health and Digital Executive Agency:
   Year_established: 2021
   Headquarters: City of Brussels, Belgium
 European Innovation Council and Small and Medium-sized Executive Agency:
+  SPVDN_id: SPVDN0320263
   Wikidata_code: Q734374
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -344,6 +361,7 @@ European Innovation Council and Small and Medium-sized Executive Agency:
   Year_established: 2004
   Headquarters: City of Brussels, Belgium
 European Research Council Executive Agency:
+  SPVDN_id: SPVDN0066386
   Wikidata_code: Q107641323
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -358,6 +376,7 @@ European Research Council Executive Agency:
   Basis_for_assessment: B23
   Headquarters: City of Brussels, Belgium
 European Research Executive Agency:
+  SPVDN_id: SPVDN0832519
   Wikidata_code: Q3606472
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -374,6 +393,7 @@ European Research Executive Agency:
   Year_established: 2007
   Headquarters: North Light, Belgium
 Agency for Support for BEREC:
+  SPVDN_id: SPVDN0154278
   Wikidata_code: Q107658738
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -390,6 +410,7 @@ Agency for Support for BEREC:
   Year_established: 2009
   Headquarters: Riga, Latvia
 Agency for the Cooperation of Energy Regulators:
+  SPVDN_id: SPVDN0878648
   Wikidata_code: Q392883
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -408,6 +429,7 @@ Agency for the Cooperation of Energy Regulators:
   Year_established: 2009
   Headquarters: Ljubljana, Slovenia
 Community Plant Variety Office:
+  SPVDN_id: SPVDN0140987
   Wikidata_code: Q1501010
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -424,6 +446,7 @@ Community Plant Variety Office:
   Year_established: 1995
   Headquarters: Angers, France
 EU Authority for Anti-Money Laundering and Countering the Financing of Terrorism:
+  SPVDN_id: SPVDN0561171
   Wikidata_code: Q124795462
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -442,6 +465,7 @@ EU Authority for Anti-Money Laundering and Countering the Financing of Terrorism
   Year_established: 2024
   Headquarters: Messeturm, Germany
 European Foundation for the Improvement of Living and Working Conditions:
+  SPVDN_id: SPVDN0643776
   Wikidata_code: Q1377549
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -459,6 +483,7 @@ European Foundation for the Improvement of Living and Working Conditions:
   Year_established: 1975
   Headquarters: Dublin, Ireland
 European Union Agency for Criminal Justice Cooperation:
+  SPVDN_id: SPVDN0268177
   Wikidata_code: Q940784
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -477,6 +502,7 @@ European Union Agency for Criminal Justice Cooperation:
   Year_established: 2002
   Headquarters: The Hague, Netherlands
 European Agency for Safety and Health at Work:
+  SPVDN_id: SPVDN0175633
   Wikidata_code: Q571118
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -495,6 +521,7 @@ European Agency for Safety and Health at Work:
   Year_established: 1994
   Headquarters: Bilbao, Spain
 European Banking Authority:
+  SPVDN_id: SPVDN0196667
   Wikidata_code: Q769548
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -519,6 +546,7 @@ European Banking Authority:
     Paris, 92927, FR
   LEI_bic: null
 European Centre for Disease Prevention and Control:
+  SPVDN_id: SPVDN0067969
   Wikidata_code: Q918501
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -535,6 +563,7 @@ European Centre for Disease Prevention and Control:
   Year_established: 2004
   Headquarters: Solna Municipality, Sweden
 European Centre for the Development of Vocational Training:
+  SPVDN_id: SPVDN0050000
   Wikidata_code: Q116214
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -551,6 +580,7 @@ European Centre for the Development of Vocational Training:
   Year_established: 1975
   Headquarters: Thessaloniki, Greece
 European Chemicals Agency:
+  SPVDN_id: SPVDN0253781
   Wikidata_code: Q48798
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -567,6 +597,7 @@ European Chemicals Agency:
   Year_established: 2007
   Headquarters: Helsinki, Finland
 European Environment Agency:
+  SPVDN_id: SPVDN0391888
   Wikidata_code: Q632988
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -583,6 +614,7 @@ European Environment Agency:
   Year_established: 1990
   Headquarters: Kongens Nytorv 6, Denmark
 European Fisheries Control Agency:
+  SPVDN_id: SPVDN0693414
   Wikidata_code: Q201372
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -599,6 +631,7 @@ European Fisheries Control Agency:
   Year_established: 2005
   Headquarters: Vigo, Spain
 European Food Safety Authority:
+  SPVDN_id: SPVDN0637354
   Wikidata_code: Q516521
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -615,6 +648,7 @@ European Food Safety Authority:
   Year_established: 2002
   Headquarters: Parma, Italy
 European Institute for Gender Equality:
+  SPVDN_id: SPVDN0329908
   Wikidata_code: Q48718
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -631,6 +665,7 @@ European Institute for Gender Equality:
   Year_established: 2006
   Headquarters: Vilnius, Lithuania
 European Insurance and Occupational Pensions Authority:
+  SPVDN_id: SPVDN0855129
   Wikidata_code: Q2116004
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -647,6 +682,7 @@ European Insurance and Occupational Pensions Authority:
   Year_established: 2011
   Headquarters: Westhafen Tower, Germany
 European Labour Authority:
+  SPVDN_id: SPVDN0133573
   Wikidata_code: Q56296301
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -663,6 +699,7 @@ European Labour Authority:
   Year_established: 2019
   Headquarters: Bratislava, Slovakia
 European Maritime Safety Agency:
+  SPVDN_id: SPVDN0337451
   Wikidata_code: Q922693
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -679,6 +716,7 @@ European Maritime Safety Agency:
   Year_established: 2002
   Headquarters: Lisbon, Portugal
 European Medicines Agency:
+  SPVDN_id: SPVDN0953639
   Wikidata_code: Q130146
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -702,6 +740,7 @@ European Medicines Agency:
   LEI_hq_address: DOMENICO SCARLATTILAAN 6, AMSTERDAM, 1083 HS, NL
   LEI_bic: null
 European Training Foundation:
+  SPVDN_id: SPVDN0032133
   Wikidata_code: Q372042
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -717,6 +756,7 @@ European Training Foundation:
   Year_established: 1993
   Headquarters: Turin, Italy
 European Union Agency for Asylum:
+  SPVDN_id: SPVDN0143771
   Wikidata_code: Q4002697
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -733,6 +773,7 @@ European Union Agency for Asylum:
   Year_established: 2010
   Headquarters: Marsa, Malta
 European Union Agency for Cybersecurity:
+  SPVDN_id: SPVDN0811290
   Wikidata_code: Q1377194
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -750,6 +791,7 @@ European Union Agency for Cybersecurity:
   Year_established: 2004
   Headquarters: Heraklion, Greece
 European Union Agency for Fundamental Rights:
+  SPVDN_id: SPVDN0060446
   Wikidata_code: Q48790
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -767,6 +809,7 @@ European Union Agency for Fundamental Rights:
   Year_established: 2007
   Headquarters: Vienna, Austria
 European Union Agency for Law Enforcement Training:
+  SPVDN_id: SPVDN0714158
   Wikidata_code: Q1377490
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -791,6 +834,7 @@ European Union Agency for Law Enforcement Training:
   LEI_hq_address: Üllői út 114-116, Budapest, 1101, HU
   LEI_bic: null
 European Union Agency for Railways:
+  SPVDN_id: SPVDN0479129
   Wikidata_code: Q369273
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -827,6 +871,7 @@ European Union Agency for Railways:
   Year_established: 2011
   Headquarters: Tallinn, Estonia
 European Union Agency for the Space Programme:
+  SPVDN_id: SPVDN0026608
   Wikidata_code: Q55610347
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -851,6 +896,7 @@ European Union Agency for the Space Programme:
   LEI_hq_address: Janovského 438/2, Praha 7, 170 00, CZ
   LEI_bic: null
 European Union Aviation Safety Agency:
+  SPVDN_id: SPVDN0310190
   Wikidata_code: Q276255
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -868,6 +914,7 @@ European Union Aviation Safety Agency:
   Year_established: 2003
   Headquarters: Cologne, Germany
 European Union Drugs Agency:
+  SPVDN_id: SPVDN0511024
   Wikidata_code: Q1377256
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -884,6 +931,7 @@ European Union Drugs Agency:
   Year_established: 1993
   Headquarters: Lisbon, Portugal
 European Union Intellectual Property Office:
+  SPVDN_id: SPVDN0058651
   Wikidata_code: Q792534
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -901,6 +949,7 @@ European Union Intellectual Property Office:
   Year_established: 1994
   Headquarters: Alicante, Spain
 Europol:
+  SPVDN_id: SPVDN0488415
   Wikidata_code: Q207203
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -918,6 +967,7 @@ Europol:
   Year_established: 1998
   Headquarters: The Hague, Netherlands
 European Border and Coast Guard Agency:
+  SPVDN_id: SPVDN0871590
   Wikidata_code: Q21786841
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -934,6 +984,7 @@ European Border and Coast Guard Agency:
   Year_established: 2016
   Headquarters: Warsaw Spire, Poland
 Single Resolution Board:
+  SPVDN_id: SPVDN0546430
   Wikidata_code: Q19516507
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -949,6 +1000,7 @@ Single Resolution Board:
   Year_established: 2015
   Headquarters: City of Brussels, Belgium
 European Securities and Markets Authority:
+  SPVDN_id: SPVDN0472640
   Wikidata_code: Q769112
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -965,6 +1017,7 @@ European Securities and Markets Authority:
   Year_established: 2011
   Headquarters: Paris, France
 Translation Centre for the Bodies of the European Union:
+  SPVDN_id: SPVDN0984645
   Wikidata_code: Q333743
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -980,6 +1033,7 @@ Translation Centre for the Bodies of the European Union:
   Year_established: 1994
   Headquarters: Luxembourg, Luxembourg
 European Committee of the Regions:
+  SPVDN_id: SPVDN0227656
   Wikidata_code: Q205203
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -996,6 +1050,7 @@ European Committee of the Regions:
   Year_established: 1994
   Headquarters: Delors building, Belgium
 European Cybersecurity Competence Centre:
+  SPVDN_id: SPVDN0677281
   Wikidata_code: Q107658626
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -1011,6 +1066,7 @@ European Cybersecurity Competence Centre:
   Year_established: 2021
   Headquarters: Bucharest, Romania
 European Data Protection Supervisor:
+  SPVDN_id: SPVDN0805538
   Wikidata_code: Q1377705
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -1028,6 +1084,7 @@ European Data Protection Supervisor:
   Year_established: 2004
   Headquarters: City of Brussels, Belgium
 European Economic and Social Committee:
+  SPVDN_id: SPVDN0371493
   Wikidata_code: Q331024
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -1045,6 +1102,7 @@ European Economic and Social Committee:
   Year_established: 1957
   Headquarters: City of Brussels, Belgium
 European External Action Service:
+  SPVDN_id: SPVDN0927946
   Wikidata_code: Q672941
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -1061,6 +1119,7 @@ European External Action Service:
   Year_established: 2010
   Headquarters: Triangle building, Belgium
 European Ombudsman:
+  SPVDN_id: SPVDN0142621
   Wikidata_code: Q220893
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -1077,6 +1136,7 @@ European Ombudsman:
   Year_established: 1995
   Headquarters: Strasbourg, France
 European Public Prosecutor’s Office:
+  SPVDN_id: SPVDN0997308
   Wikidata_code: Q5413070
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -1093,6 +1153,7 @@ European Public Prosecutor’s Office:
   Year_established: 2017
   Headquarters: Luxembourg, Luxembourg
 European Data Protection Board:
+  SPVDN_id: SPVDN0898577
   Wikidata_code: Q26877724
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -1110,6 +1171,7 @@ European Data Protection Board:
   Year_established: 2018
   Headquarters: City of Brussels, Belgium
 European Defence Agency:
+  SPVDN_id: SPVDN0585615
   Wikidata_code: Q1134173
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -1126,6 +1188,7 @@ European Defence Agency:
   Year_established: 2004
   Headquarters: Ixelles, Belgium
 European Union Satellite Centre:
+  SPVDN_id: SPVDN0791855
   Wikidata_code: Q1388519
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -1144,6 +1207,7 @@ European Union Satellite Centre:
   Year_established: 2002
   Headquarters: Torrejón de Ardoz, Spain
 Supply Agency of the European Atomic Energy Community:
+  SPVDN_id: SPVDN0903673
   Wikidata_code: Q1374308
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -1162,6 +1226,7 @@ Supply Agency of the European Atomic Energy Community:
   Year_established: 1960
   Headquarters: Luxembourg, Luxembourg
 Fusion for Energy Joint Undertaking:
+  SPVDN_id: SPVDN0244371
   Wikidata_code: Q5510278
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -1180,6 +1245,7 @@ Fusion for Energy Joint Undertaking:
   Year_established: 2007
   Headquarters: Barcelona, Spain
 Chips Joint Undertaking:
+  SPVDN_id: SPVDN0153106
   Wikidata_code: Q133884004
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -1195,6 +1261,7 @@ Chips Joint Undertaking:
   Year_established: 2023
   Headquarters: Saint-Gilles, Belgium
 Circular Bio-based Europe Joint Undertaking:
+  SPVDN_id: SPVDN0912367
   Wikidata_code: Q133884431
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -1210,6 +1277,7 @@ Circular Bio-based Europe Joint Undertaking:
   Year_established: 2021
   Headquarters: Saint-Gilles, Belgium
 Clean Aviation Joint Undertaking:
+  SPVDN_id: SPVDN0348163
   Wikidata_code: Q133884512
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -1225,6 +1293,7 @@ Clean Aviation Joint Undertaking:
   Year_established: 2021
   Headquarters: Saint-Gilles, Belgium
 Clean Hydrogen Joint Undertaking:
+  SPVDN_id: SPVDN0092740
   Wikidata_code: Q133884630
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -1240,6 +1309,7 @@ Clean Hydrogen Joint Undertaking:
   Year_established: 2021
   Headquarters: Saint-Gilles, Belgium
 Europe’s Rail Joint Undertaking:
+  SPVDN_id: SPVDN0135706
   Wikidata_code: Q133884985
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -1255,6 +1325,7 @@ Europe’s Rail Joint Undertaking:
   Year_established: 2021
   Headquarters: Saint-Gilles, Belgium
 Global Health EDCTP3 Joint Undertaking:
+  SPVDN_id: SPVDN0699252
   Wikidata_code: Q30296681
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -1269,6 +1340,7 @@ Global Health EDCTP3 Joint Undertaking:
   Basis_for_assessment: B24
   Year_established: 2003
 Innovative Health Initiative Joint Undertaking:
+  SPVDN_id: SPVDN0418020
   Wikidata_code: Q118695652
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -1284,6 +1356,7 @@ Innovative Health Initiative Joint Undertaking:
   Year_established: 2021
   Headquarters: Saint-Gilles, Belgium
 European High Performance Computing Joint Undertaking:
+  SPVDN_id: SPVDN0713848
   Wikidata_code: Q60983149
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -1301,6 +1374,7 @@ European High Performance Computing Joint Undertaking:
   Year_established: 2018
   Headquarters: Luxembourg, Luxembourg
 SESAR 3 Joint Undertaking:
+  SPVDN_id: SPVDN0835563
   Wikidata_code: Q3055255
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -1318,6 +1392,7 @@ SESAR 3 Joint Undertaking:
   Year_established: 2007
   Headquarters: City of Brussels, Belgium
 Smart Networks and Services Joint Undertaking:
+  SPVDN_id: SPVDN0789877
   Wikidata_code: Q133886014
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -1333,6 +1408,7 @@ Smart Networks and Services Joint Undertaking:
   Year_established: 2021
   Headquarters: Saint-Gilles, Belgium
 European Schools:
+  SPVDN_id: SPVDN0036362
   Wikidata_code: Q30104861
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -1345,6 +1421,7 @@ European Schools:
   Basis_for_assessment: B22
   Headquarters: City of Brussels, Belgium
 Council of Europe:
+  SPVDN_id: SPVDN0895807
   Wikidata_code: Q8908
   Entity_type: International organisation
   Org_family: Council of Europe entities
@@ -1361,6 +1438,7 @@ Council of Europe:
   Year_established: 1949
   Headquarters: Palace of Europe, France
 Benelux:
+  SPVDN_id: SPVDN0050066
   Wikidata_code: Q13116
   Entity_type: International organisation
   Org_family: Benelux entities
@@ -1377,6 +1455,7 @@ Benelux:
   Year_established: 1944
   Headquarters: City of Brussels, Belgium
 Andean Community:
+  SPVDN_id: SPVDN0096684
   Wikidata_code: Q471690
   Entity_type: International organisation
   Org_family: Andean Community entities
@@ -1393,6 +1472,7 @@ Andean Community:
   Year_established: 1969
   Headquarters: Lima, Peru
 Court of Justice of the Andean Community:
+  SPVDN_id: SPVDN0454239
   Wikidata_code: Q5789480
   Entity_type: International organisation
   Org_family: Andean Community entities
@@ -1408,6 +1488,7 @@ Court of Justice of the Andean Community:
   Year_established: 1979
   Headquarters: Quito, Ecuador
 Union State:
+  SPVDN_id: SPVDN0380314
   Wikidata_code: Q166110
   Entity_type: International organisation
   Org_family: none
@@ -1423,6 +1504,7 @@ Union State:
   Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%202121/v2121.pdf
   Year_established: 1996
 Commonwealth of Independent States:
+  SPVDN_id: SPVDN0514636
   Wikidata_code: Q7779
   Entity_type: International organisation
   Org_family: none
@@ -1438,6 +1520,7 @@ Commonwealth of Independent States:
   Year_established: 1991
   Headquarters: Minsk, Belarus
 Organisation of Eastern Caribbean States:
+  SPVDN_id: SPVDN0742814
   Wikidata_code: Q392770
   Entity_type: International organisation
   Org_family: Caribbean Community entities
@@ -1454,6 +1537,7 @@ Organisation of Eastern Caribbean States:
   Year_established: 1981
   Headquarters: Castries, Saint Lucia
 Eastern Caribbean Central Bank:
+  SPVDN_id: SPVDN0276299
   Wikidata_code: Q1210260
   Entity_type: International organisation
   Org_family: Caribbean Community entities
@@ -1478,6 +1562,7 @@ Eastern Caribbean Central Bank:
   LEI_bic:
   - ECCBKNSKXXX
 Organization of American States:
+  SPVDN_id: SPVDN0844597
   Wikidata_code: Q123759
   Entity_type: International organisation
   Org_family: OAS institutions and bodies
@@ -1497,6 +1582,7 @@ Organization of American States:
   Year_established: 1948
   Headquarters: United States, United States
 Pan‐American Institute of Geography and History:
+  SPVDN_id: SPVDN0171971
   Wikidata_code: Q7129603
   Entity_type: International organisation
   Org_family: OAS institutions and bodies
@@ -1514,6 +1600,7 @@ Pan‐American Institute of Geography and History:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B30
 Inter‐American Institute for Cooperation on Agriculture:
+  SPVDN_id: SPVDN0619589
   Wikidata_code: Q3152323
   Entity_type: International organisation
   Org_family: OAS institutions and bodies
@@ -1532,6 +1619,7 @@ Inter‐American Institute for Cooperation on Agriculture:
   Year_established: 1942
   Headquarters: San José, Costa Rica
 Pan American Health Organization:
+  SPVDN_id: SPVDN0870531
   Wikidata_code: Q1856835
   Entity_type: International organisation
   Org_family: OAS institutions and bodies
@@ -1559,6 +1647,7 @@ Pan American Health Organization:
   LEI_bic:
   - PAABUS33XXX
 Inter‐American Children’s Institute:
+  SPVDN_id: SPVDN0221307
   Wikidata_code: '[No code found]'
   Entity_type: International organisation
   Org_family: OAS institutions and bodies
@@ -1575,6 +1664,7 @@ Inter‐American Children’s Institute:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B30
 Inter‐American Commission of Women:
+  SPVDN_id: SPVDN0781340
   Wikidata_code: Q5779117
   Entity_type: International organisation
   Org_family: OAS institutions and bodies
@@ -1592,6 +1682,7 @@ Inter‐American Commission of Women:
   Basis_for_assessment: B30
   Year_established: 1948
 Justice Studies Center for the Americas:
+  SPVDN_id: SPVDN0326363
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: OAS institutions and bodies
@@ -1608,6 +1699,7 @@ Justice Studies Center for the Americas:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B30
 Administrative Tribunal of the Organization of American States:
+  SPVDN_id: SPVDN0417196
   Wikidata_code: '[No code found.]'
   Org_family: OAS institutions and bodies
   Country: zz
@@ -1617,6 +1709,7 @@ Administrative Tribunal of the Organization of American States:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B30
 Inter-American Development Bank:
+  SPVDN_id: SPVDN0961933
   Wikidata_code: Q1153087
   Entity_type: International organisation
   Org_family: OAS institutions and bodies
@@ -1641,6 +1734,7 @@ Inter-American Development Bank:
   LEI_bic:
   - IADBUS3WXXX
 Inter-American Court of Human Rights:
+  SPVDN_id: SPVDN0819910
   Wikidata_code: Q1547804
   Entity_type: International organisation
   Org_family: OAS institutions and bodies
@@ -1659,6 +1753,7 @@ Inter-American Court of Human Rights:
   Year_established: 1979
   Headquarters: San José, Costa Rica
 Inter-American Commission on Human Rights:
+  SPVDN_id: SPVDN0332934
   Wikidata_code: Q1589444
   Entity_type: International organisation
   Org_family: OAS institutions and bodies
@@ -1675,6 +1770,7 @@ Inter-American Commission on Human Rights:
   Year_established: 1959
   Headquarters: Washington, D.C., United States
 Inter-American Defense Board:
+  SPVDN_id: SPVDN0151735
   Wikidata_code: Q1665759
   Entity_type: International organisation
   Org_family: OAS institutions and bodies
@@ -1691,6 +1787,7 @@ Inter-American Defense Board:
   Year_established: 1942
   Headquarters: Washington, D.C., United States
 Organization for Security and Co-operation in Europe:
+  SPVDN_id: SPVDN0939651
   Wikidata_code: Q81299
   Entity_type: International organisation
   Org_family: OSCE entities
@@ -1706,6 +1803,7 @@ Organization for Security and Co-operation in Europe:
   Year_established: 1975
   Headquarters: Vienna, Austria
 North Atlantic Treaty Organisation:
+  SPVDN_id: SPVDN0232360
   Wikidata_code: Q7184
   Entity_type: International organisation
   Org_family: none
@@ -1721,6 +1819,7 @@ North Atlantic Treaty Organisation:
   Year_established: 1949
   Headquarters: City of Brussels, Belgium
 Caribbean Community:
+  SPVDN_id: SPVDN0393511
   Wikidata_code: Q205995
   Entity_type: International organisation
   Org_family: Caribbean Community entities
@@ -1743,6 +1842,7 @@ Caribbean Community:
   LEI_hq_address: Caricom Secretariat Turkeyen, Georgetown, GY
   LEI_bic: null
 Caribbean Examinations Council:
+  SPVDN_id: SPVDN0226857
   Wikidata_code: Q5039378
   Entity_type: International organisation
   Org_family: Caribbean Community entities
@@ -1755,6 +1855,7 @@ Caribbean Examinations Council:
   Basis_for_assessment: B22
   Headquarters: Bridgetown, Barbados
 Caribbean Community Implementation Agency for Crime and Security:
+  SPVDN_id: SPVDN0155555
   Wikidata_code: Q117197891
   Entity_type: International organisation
   Org_family: Caribbean Community entities
@@ -1768,6 +1869,7 @@ Caribbean Community Implementation Agency for Crime and Security:
   Year_established: 2006
   Headquarters: Port of Spain, Trinidad and Tobago
 Association of Southeast Asian Nations:
+  SPVDN_id: SPVDN0049525
   Wikidata_code: Q7768
   Entity_type: International organisation
   Org_family: Association of Southeast Asian Nations entities
@@ -1783,6 +1885,7 @@ Association of Southeast Asian Nations:
   Year_established: 1967
   Headquarters: South Jakarta, Indonesia
 Mercosur:
+  SPVDN_id: SPVDN0985886
   Wikidata_code: Q4264
   Entity_type: International organisation
   Org_family: Mercosur entities
@@ -1798,6 +1901,7 @@ Mercosur:
   Year_established: 1991
   Headquarters: Montevideo, Uruguay
 Mercosur Parliament:
+  SPVDN_id: SPVDN0173693
   Wikidata_code: Q2723083
   Entity_type: International organisation
   Org_family: Mercosur entities
@@ -1813,6 +1917,7 @@ Mercosur Parliament:
   Immunity_url: https://www.parlamentomercosur.org/innovaportal/file/7308/1/protocolo_es.pdf
   Headquarters: Montevideo, Uruguay
 Permanent Review Tribunal of Mercosur:
+  SPVDN_id: SPVDN0736492
   Wikidata_code: Q2452542
   Entity_type: International organisation
   Org_family: Mercosur entities
@@ -1829,6 +1934,7 @@ Permanent Review Tribunal of Mercosur:
   Immunity_url: https://www.tprmercosur.org/es/docum/adm/DEC_01_05_es_Acuerdo_Sede_TPR.pdf
   Year_established: 2002
 African Union:
+  SPVDN_id: SPVDN0760190
   Wikidata_code: Q7159
   Entity_type: International organisation
   Org_family: African Union entities
@@ -1852,6 +1958,7 @@ African Union:
   LEI_bic:
   - AFUNETAAXXX
 Africa Centres for Disease Control and Prevention:
+  SPVDN_id: SPVDN0401230
   Wikidata_code: Q88234914
   Entity_type: International organisation
   Org_family: African Union entities
@@ -1867,6 +1974,7 @@ Africa Centres for Disease Control and Prevention:
   Year_established: 2016
   Headquarters: Addis Ababa, Ethiopia
 African Civil Aviation Commission:
+  SPVDN_id: SPVDN0802084
   Wikidata_code: Q88402135
   Entity_type: International organisation
   Org_family: African Union entities
@@ -1880,6 +1988,7 @@ African Civil Aviation Commission:
   Basis_for_assessment: B22
   Headquarters: Dakar, Senegal
 African Medicines Agency:
+  SPVDN_id: SPVDN0853032
   Wikidata_code: Q97167520
   Entity_type: International organisation
   Org_family: African Union entities
@@ -1893,6 +2002,7 @@ African Medicines Agency:
   Basis_for_assessment: B22
   Name_fr: Agence africaine du médicament
 Arctic Council:
+  SPVDN_id: SPVDN0814551
   Wikidata_code: Q674182
   Entity_type: International organisation
   Org_family: none
@@ -1909,6 +2019,7 @@ Arctic Council:
   Year_established: 1996
   Headquarters: Fram Centre, Norway
 Eurasian Economic Union:
+  SPVDN_id: SPVDN0755691
   Wikidata_code: Q4173083
   Entity_type: International organisation
   Org_family: Eurasian Economic Union entities
@@ -1925,6 +2036,7 @@ Eurasian Economic Union:
   Year_established: 2015
   Headquarters: Moscow, Russia
 Organization of Arab Petroleum Exporting Countries:
+  SPVDN_id: SPVDN0173999
   Wikidata_code: Q1052077
   Entity_type: International organisation
   Org_family: none
@@ -1941,6 +2053,7 @@ Organization of Arab Petroleum Exporting Countries:
   Year_established: 1968
   Headquarters: Kuwait, Kuwait
 Organization of the Petroleum Exporting Countries:
+  SPVDN_id: SPVDN0342007
   Wikidata_code: Q7795
   Entity_type: International organisation
   Org_family: Organization of the Petroleum Exporting Countries
@@ -1963,6 +2076,7 @@ Organization of the Petroleum Exporting Countries:
   LEI_hq_address: Helferstorferstrasse 17, Wien, 1010, AT
   LEI_bic: null
 Financial Action Task Force:
+  SPVDN_id: SPVDN0807023
   Wikidata_code: Q681487
   Entity_type: International organisation
   Org_family: Organisation for Economic Co-operation and Development entities
@@ -1978,6 +2092,7 @@ Financial Action Task Force:
   Year_established: 1989
   Headquarters: Paris, France
 European Court of Human Rights:
+  SPVDN_id: SPVDN0734861
   Wikidata_code: Q122880
   Entity_type: International organisation
   Org_family: Council of Europe entities
@@ -1993,6 +2108,7 @@ European Court of Human Rights:
   Year_established: 1959
   Headquarters: Strasbourg, France
 International Hydrographic Organisation:
+  SPVDN_id: SPVDN0935693
   Wikidata_code: Q233611
   Entity_type: International organisation
   Org_family: none
@@ -2009,6 +2125,7 @@ International Hydrographic Organisation:
   Year_established: 1921
   Headquarters: Monaco, Monaco
 European Free Trade Association:
+  SPVDN_id: SPVDN0133302
   Wikidata_code: Q166546
   Entity_type: International organisation
   Org_family: EFTA entities
@@ -2024,6 +2141,7 @@ European Free Trade Association:
   Year_established: 1960
   Headquarters: Geneva, Switzerland
 European Centre for Medium-Range Weather Forecasts:
+  SPVDN_id: SPVDN0089203
   Wikidata_code: Q1274195
   Entity_type: International organisation
   Org_family: none
@@ -2047,6 +2165,7 @@ European Centre for Medium-Range Weather Forecasts:
   LEI_hq_address: SHINFIELD PARK SHINFIELD ROAD, READING, RG2 9AX, GB
   LEI_bic: null
 International Grains Council:
+  SPVDN_id: SPVDN0984350
   Wikidata_code: Q6050768
   Entity_type: International organisation
   Org_family: none
@@ -2063,6 +2182,7 @@ International Grains Council:
   Year_established: 1949
   Headquarters: London, United Kingdom
 International Coffee Organisation:
+  SPVDN_id: SPVDN0125622
   Wikidata_code: Q48192
   Entity_type: International organisation
   Org_family: none
@@ -2078,6 +2198,7 @@ International Coffee Organisation:
   Year_established: 1963
   Headquarters: London, United Kingdom
 International Sugar Organisation:
+  SPVDN_id: SPVDN0121448
   Wikidata_code: Q691632
   Entity_type: International organisation
   Org_family: none
@@ -2094,6 +2215,7 @@ International Sugar Organisation:
   Year_established: 1968
   Headquarters: London, United Kingdom
 International Cocoa Organization:
+  SPVDN_id: SPVDN0475321
   Wikidata_code: Q1667326
   Entity_type: International organisation
   Org_family: none
@@ -2110,6 +2232,7 @@ International Cocoa Organization:
   Year_established: 1973
   Headquarters: Abidjan, Ivory Coast
 International Whaling Commission:
+  SPVDN_id: SPVDN0780789
   Wikidata_code: Q1053889
   Entity_type: International organisation
   Org_family: none
@@ -2125,6 +2248,7 @@ International Whaling Commission:
   Year_established: 1946
   Headquarters: Histon and Impington, United Kingdom
 International Rubber Study Group:
+  SPVDN_id: SPVDN0081016
   Wikidata_code: Q131542072
   Entity_type: International organisation
   Org_family: none
@@ -2139,6 +2263,7 @@ International Rubber Study Group:
   Basis_for_assessment: B22
   Immunity_url: https://www.rubberstudy.org/storage/uploads/contentfile/18902/yVf21ESEis.pdf
 International Lead and Zinc Study Group:
+  SPVDN_id: SPVDN0296913
   Wikidata_code: Q12131043
   Entity_type: International organisation
   Org_family: none
@@ -2150,6 +2275,7 @@ International Lead and Zinc Study Group:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 International Telecommunications Satellite Organisation:
+  SPVDN_id: SPVDN0020019
   Wikidata_code: Q15546770
   Entity_type: International organisation
   Org_family: none
@@ -2165,6 +2291,7 @@ International Telecommunications Satellite Organisation:
   Year_established: 1964
   Headquarters: Washington, D.C., United States
 Oslo and Paris Commissions:
+  SPVDN_id: SPVDN0322963
   Wikidata_code: Q125870138
   Entity_type: International organisation
   Org_family: none
@@ -2176,6 +2303,7 @@ Oslo and Paris Commissions:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 International Oil Pollution Compensation Fund:
+  SPVDN_id: SPVDN0519244
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
@@ -2187,6 +2315,7 @@ International Oil Pollution Compensation Fund:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 International Oil Pollution Compensation Fund 1992:
+  SPVDN_id: SPVDN0063070
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
@@ -2206,6 +2335,7 @@ International Oil Pollution Compensation Fund 1992:
   LEI_hq_address: 4 ALBERT EMBANKMENT, LONDON, SE1 7SR, GB
   LEI_bic: null
 European Telecommunications Satellite Organization:
+  SPVDN_id: SPVDN0002482
   Wikidata_code: Q47537350
   Entity_type: International organisation
   Org_family: none
@@ -2221,6 +2351,7 @@ European Telecommunications Satellite Organization:
   Year_established: 1977
   Headquarters: Paris, France
 North-East Atlantic Fisheries Commission:
+  SPVDN_id: SPVDN0334156
   Wikidata_code: Q15106130
   Entity_type: International organisation
   Org_family: none
@@ -2234,6 +2365,7 @@ North-East Atlantic Fisheries Commission:
   Basis_for_assessment: B22
   Year_established: 1980
 International Mobile Satellite Organization:
+  SPVDN_id: SPVDN0667414
   Wikidata_code: Q1666759
   Entity_type: International organisation
   Org_family: none
@@ -2248,6 +2380,7 @@ International Mobile Satellite Organization:
   Immunity_url: https://imso.org/wp-content/uploads/2025/03/IMSO-C-1976-A-5-Resolution-A.529-E-F-S-R-1.pdf
   Year_established: 1999
 North Atlantic Salmon Conservation Organization:
+  SPVDN_id: SPVDN0963280
   Wikidata_code: Q7053997
   Entity_type: International organisation
   Org_family: none
@@ -2263,6 +2396,7 @@ North Atlantic Salmon Conservation Organization:
   Year_established: 1983
   Headquarters: Edinburgh, United Kingdom
 European Organization for Astronomical Research in the Southern Hemisphere:
+  SPVDN_id: SPVDN0073278
   Wikidata_code: Q151991
   Entity_type: International organisation
   Org_family: none
@@ -2279,6 +2413,7 @@ European Organization for Astronomical Research in the Southern Hemisphere:
   Year_established: 1962
   Headquarters: Garching bei München, Germany
 European Space Agency:
+  SPVDN_id: SPVDN0922361
   Wikidata_code: Q42262
   Entity_type: International organisation
   Org_family: none
@@ -2295,6 +2430,7 @@ European Space Agency:
   Year_established: 1975
   Headquarters: Paris, France
 European Forest Institute:
+  SPVDN_id: SPVDN0491714
   Wikidata_code: Q580400
   Entity_type: International organisation
   Org_family: none
@@ -2311,6 +2447,7 @@ European Forest Institute:
   Year_established: 1993
   Headquarters: Joensuu, Finland
 Global Combat Air Programme International Government Organisation:
+  SPVDN_id: SPVDN0034957
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
@@ -2323,6 +2460,7 @@ Global Combat Air Programme International Government Organisation:
   Basis_for_assessment: B22
   Immunity_url: https://assets.publishing.service.gov.uk/media/6762c109e6ff7c8a1fde9ab4/TS_98.2024_Convention_Establishment_GCAP_International_Government_Organisation.pdf
 Square Kilometre Array Observatory:
+  SPVDN_id: SPVDN0674782
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
@@ -2343,6 +2481,7 @@ Square Kilometre Array Observatory:
     9FT, GB
   LEI_bic: null
 International Criminal Police Organization:
+  SPVDN_id: SPVDN0346601
   Wikidata_code: Q8475
   Entity_type: International organisation
   Org_family: none
@@ -2358,6 +2497,7 @@ International Criminal Police Organization:
   Year_established: 1923
   Headquarters: Lyon, France
 European Committee for Prevention of Torture:
+  SPVDN_id: SPVDN0081970
   Wikidata_code: Q1378135
   Entity_type: International organisation
   Org_family: Council of Europe entities
@@ -2374,6 +2514,7 @@ European Committee for Prevention of Torture:
   Immunity_url: https://rm.coe.int/16806dbaa3
   Year_established: 1989
 Common Fund for Commodities:
+  SPVDN_id: SPVDN0523499
   Wikidata_code: Q604488
   Entity_type: International organisation
   Org_family: none
@@ -2394,6 +2535,7 @@ Common Fund for Commodities:
   LEI_hq_address: 6TH FLOOR RIETLANDPARK 301, AMSTERDAM, 1019 DW, NL
   LEI_bic: null
 African Development Bank:
+  SPVDN_id: SPVDN0141300
   Wikidata_code: Q340195
   Entity_type: International organisation
   Org_family: African Union entities
@@ -2421,6 +2563,7 @@ African Development Bank:
   - AFDBCIABXXX
   - AFDBKEN1XXX
 African Development Fund:
+  SPVDN_id: SPVDN0529908
   Wikidata_code: Q100411453
   Entity_type: International organisation
   Org_family: African Union entities
@@ -2442,6 +2585,7 @@ African Development Fund:
     01 BOITE POSTALE 1387, ABIDJAN 01, ABIDJAN, CI
   LEI_bic: null
 Asian Development Bank:
+  SPVDN_id: SPVDN0982718
   Wikidata_code: Q188822
   Entity_type: International organisation
   Org_family: none
@@ -2465,6 +2609,7 @@ Asian Development Bank:
   LEI_bic:
   - ASDBPHMMXXX
 Asian Infrastructure Investment Bank:
+  SPVDN_id: SPVDN0412077
   Wikidata_code: Q18109843
   Entity_type: International organisation
   Org_family: none
@@ -2489,6 +2634,7 @@ Asian Infrastructure Investment Bank:
   LEI_bic:
   - AINFCNBJXXX
 Commonwealth Secretariat:
+  SPVDN_id: SPVDN0840324
   Wikidata_code: Q3954348
   Entity_type: International organisation
   Org_family: Commonwealth of Nations entities
@@ -2507,6 +2653,7 @@ Commonwealth Secretariat:
   Year_established: 1965
   Headquarters: Marlborough House, United Kingdom
 Commonwealth Secretariat Aribtral Tribunal:
+  SPVDN_id: SPVDN0230217
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: Commonwealth of Nations entities
@@ -2520,6 +2667,7 @@ Commonwealth Secretariat Aribtral Tribunal:
   Basis_for_assessment: B22
   Immunity_url: https://production-new-commonwealth-files.s3.eu-west-2.amazonaws.com/s3fs-public/2022-02/Tribunal%20(amended)%20Statute%20adopted%2028%20May%202015.pdf?VersionId=HtqpX3_CbRLaeLjziV6JrsAQv71Z1eba
 Commonwealth Telecommunications Organisation:
+  SPVDN_id: SPVDN0573911
   Wikidata_code: Q5153868
   Entity_type: International organisation
   Org_family: Commonwealth of Nations entities
@@ -2534,6 +2682,7 @@ Commonwealth Telecommunications Organisation:
   Basis_for_assessment: B22
   Headquarters: London, United Kingdom
 CAB International:
+  SPVDN_id: SPVDN0398050
   Wikidata_code: Q5008528
   Entity_type: International organisation
   Org_family: Commonwealth of Nations entities
@@ -2557,6 +2706,7 @@ CAB International:
   LEI_hq_address: NOSWORTHY WAY, WALLINGFORD, OX10 8DE, GB
   LEI_bic: null
 European Organisation for the Safety of Air Navigation:
+  SPVDN_id: SPVDN0175553
   Wikidata_code: Q663492
   Entity_type: International organisation
   Org_family: none
@@ -2572,6 +2722,7 @@ European Organisation for the Safety of Air Navigation:
   Year_established: 1960
   Headquarters: City of Brussels, Belgium
 European Bank for Reconstruction and Development:
+  SPVDN_id: SPVDN0789399
   Wikidata_code: Q488981
   Entity_type: International organisation
   Org_family: none
@@ -2597,6 +2748,7 @@ European Bank for Reconstruction and Development:
   - EBRDGB2LXXX
   - ERDCITM1XXX
 Caribbean Development Bank:
+  SPVDN_id: SPVDN0359444
   Wikidata_code: Q3772571
   Entity_type: International organisation
   Org_family: Caribbean Community entities
@@ -2621,6 +2773,7 @@ Caribbean Development Bank:
   LEI_bic:
   - CDEVBBBBXXX
 Cooperation Council for the Arab States of the Gulf:
+  SPVDN_id: SPVDN0787848
   Wikidata_code: Q217172
   Entity_type: International organisation
   Org_family: none
@@ -2638,6 +2791,7 @@ Cooperation Council for the Arab States of the Gulf:
   Year_established: 1981
   Headquarters: Riyadh, Saudi Arabia
 Economic Cooperation Organization:
+  SPVDN_id: SPVDN0623381
   Wikidata_code: Q225950
   Entity_type: International organisation
   Org_family: none
@@ -2653,6 +2807,7 @@ Economic Cooperation Organization:
   Year_established: 1985
   Headquarters: Tehran, Iran
 Organization of Ibero-American States:
+  SPVDN_id: SPVDN0958178
   Wikidata_code: Q421023
   Entity_type: International organisation
   Org_family: none
@@ -2670,6 +2825,7 @@ Organization of Ibero-American States:
   Year_established: 1949
   Headquarters: calle de Bravo Murillo, Spain
 Organization of the Black Sea Economic Cooperation:
+  SPVDN_id: SPVDN0977219
   Wikidata_code: Q380340
   Entity_type: International organisation
   Org_family: Organization of the Black Sea Economic Cooperation
@@ -2686,6 +2842,7 @@ Organization of the Black Sea Economic Cooperation:
   Year_established: 1992
   Headquarters: Istanbul, Turkey
 Pacific Alliance:
+  SPVDN_id: SPVDN0008593
   Wikidata_code: Q7122288
   Entity_type: International organisation
   Org_family: Pacific Alliance
@@ -2701,6 +2858,7 @@ Pacific Alliance:
   Basis_for_assessment: B22
   Year_established: 2011
 South Asian Association for Regional Cooperation:
+  SPVDN_id: SPVDN0173284
   Wikidata_code: Q145700
   Entity_type: International organisation
   Org_family: none
@@ -2716,6 +2874,7 @@ South Asian Association for Regional Cooperation:
   Year_established: 1985
   Headquarters: Kathmandu, Nepal
 Union of South American Nations:
+  SPVDN_id: SPVDN0479196
   Wikidata_code: Q4230
   Entity_type: International organisation
   Org_family: Union of South American Nations entities
@@ -2732,6 +2891,7 @@ Union of South American Nations:
   Year_established: 2008
   Headquarters: Quito, Ecuador
 Pacific Islands Forum:
+  SPVDN_id: SPVDN0210026
   Wikidata_code: Q757276
   Entity_type: International organisation
   Org_family: Pacific Islands Forum
@@ -2755,6 +2915,7 @@ Pacific Islands Forum:
   LEI_hq_address: Ratu Sukuna Rd, Suva, FJ
   LEI_bic: null
 East African Community:
+  SPVDN_id: SPVDN0944310
   Wikidata_code: Q337456
   Entity_type: International organisation
   Org_family: East African Community
@@ -2771,6 +2932,7 @@ East African Community:
   Year_established: 2000
   Headquarters: Arusha, Tanzania
 Economic Community of Central African States:
+  SPVDN_id: SPVDN0523897
   Wikidata_code: Q189966
   Entity_type: International organisation
   Org_family: none
@@ -2787,6 +2949,7 @@ Economic Community of Central African States:
   Year_established: 1983
   Headquarters: Malabo, Equatorial Guinea
 Economic Community of West African States:
+  SPVDN_id: SPVDN0876335
   Wikidata_code: Q193272
   Entity_type: International organisation
   Org_family: ECOWAS entities
@@ -2803,6 +2966,7 @@ Economic Community of West African States:
   Year_established: 1975
   Headquarters: Abuja, Nigeria
 Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation:
+  SPVDN_id: SPVDN0226222
   Wikidata_code: Q795985
   Entity_type: International organisation
   Org_family: none
@@ -2818,6 +2982,7 @@ Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation:
   Basis_for_assessment: B22
   Year_established: 1997
 Union for the Mediterranean:
+  SPVDN_id: SPVDN0863252
   Wikidata_code: Q192177
   Entity_type: International organisation
   Org_family: none
@@ -2833,6 +2998,7 @@ Union for the Mediterranean:
   Year_established: 2008
   Headquarters: Barcelona, Spain
 Council of Europe Development Bank:
+  SPVDN_id: SPVDN0283476
   Wikidata_code: Q611107
   Entity_type: International organisation
   Org_family: Council of Europe entities
@@ -2857,6 +3023,7 @@ Council of Europe Development Bank:
   LEI_bic:
   - CEFPFRPPXXX
 World Customs Organisation:
+  SPVDN_id: SPVDN0014006
   Wikidata_code: Q605326
   Entity_type: International organisation
   Org_family: none
@@ -2873,6 +3040,7 @@ World Customs Organisation:
   Year_established: 1953
   Headquarters: Brussels metropolitan area, Belgium
 Organisation for Economic Co-operation and Development:
+  SPVDN_id: SPVDN0039543
   Wikidata_code: Q41550
   Entity_type: International organisation
   Org_family: Organisation for Economic Co-operation and Development entities
@@ -2888,6 +3056,7 @@ Organisation for Economic Co-operation and Development:
   Year_established: 1948
   Headquarters: Paris, France
 Indian Ocean Rim Association:
+  SPVDN_id: SPVDN0992676
   Wikidata_code: Q2297691
   Entity_type: International organisation
   Org_family: none
@@ -2902,6 +3071,7 @@ Indian Ocean Rim Association:
   Basis_for_assessment: B22
   Year_established: 1997
 European Organisation for the Exploitation of Meteorological Satellites:
+  SPVDN_id: SPVDN0957835
   Wikidata_code: Q692163
   Entity_type: International organisation
   Org_family: none
@@ -2918,6 +3088,7 @@ European Organisation for the Exploitation of Meteorological Satellites:
   Year_established: 1986
   Headquarters: Darmstadt, Germany
 International Copper Study Group:
+  SPVDN_id: SPVDN0205107
   Wikidata_code: Q17084551
   Entity_type: International organisation
   Org_family: none
@@ -2931,6 +3102,7 @@ International Copper Study Group:
   Basis_for_assessment: B22
   Year_established: 1992
 International Pepper Community:
+  SPVDN_id: SPVDN0992289
   Wikidata_code: Q17022497
   Entity_type: International organisation
   Org_family: none
@@ -2943,6 +3115,7 @@ International Pepper Community:
   Basis_for_assessment: B22
   Year_established: 1972
 International Organisation of Vine and Wine:
+  SPVDN_id: SPVDN0691601
   Wikidata_code: Q1317185
   Entity_type: International organisation
   Org_family: none
@@ -2958,6 +3131,7 @@ International Organisation of Vine and Wine:
   Year_established: 2001
   Headquarters: Hôtel d'Esterno, France
 International Olive Council:
+  SPVDN_id: SPVDN0317022
   Wikidata_code: Q13516775
   Entity_type: International organisation
   Org_family: none
@@ -2975,6 +3149,7 @@ International Olive Council:
   Year_established: 1956
   Headquarters: Madrid, Spain
 Asian and Pacific Coconut Community:
+  SPVDN_id: SPVDN0810946
   Wikidata_code: Q16962216
   Entity_type: International organisation
   Org_family: none
@@ -2987,6 +3162,7 @@ Asian and Pacific Coconut Community:
   Basis_for_assessment: B22
   Year_established: 1969
 International Nickel Study Group:
+  SPVDN_id: SPVDN0377548
   Wikidata_code: Q111552234
   Entity_type: International organisation
   Org_family: none
@@ -2998,6 +3174,7 @@ International Nickel Study Group:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 Permanent Court of Arbitration:
+  SPVDN_id: SPVDN0332263
   Wikidata_code: Q1045198
   Entity_type: International organisation
   Org_family: none
@@ -3021,6 +3198,7 @@ Permanent Court of Arbitration:
   LEI_hq_address: Peace Palace, Carnegieplein 2, Den Haag, 2517 KJ, NL
   LEI_bic: null
 Nordic Council:
+  SPVDN_id: SPVDN0602971
   Wikidata_code: Q146165
   Entity_type: International organisation
   Org_family: Nordic Council entities
@@ -3036,6 +3214,7 @@ Nordic Council:
   Year_established: 1952
   Headquarters: Copenhagen, Denmark
 Nordic Council of Ministers:
+  SPVDN_id: SPVDN0658048
   Wikidata_code: Q182379
   Entity_type: International organisation
   Org_family: Nordic Council entities
@@ -3051,6 +3230,7 @@ Nordic Council of Ministers:
   Year_established: 1971
   Headquarters: Ved Stranden 18, Denmark
 Advisory Centre on World Trade Organization Law:
+  SPVDN_id: SPVDN0903219
   Wikidata_code: Q3664799
   Entity_type: International organisation
   Org_family: none
@@ -3064,6 +3244,7 @@ Advisory Centre on World Trade Organization Law:
   Basis_for_assessment: B22
   Year_established: 2001
 African Court of Justice and Human Rights:
+  SPVDN_id: SPVDN0938125
   Wikidata_code: Q24963791
   Entity_type: International organisation
   Org_family: African Union entities
@@ -3078,6 +3259,7 @@ African Court of Justice and Human Rights:
   Basis_for_assessment: B22
   Immunity_url: https://www.peaceau.org/uploads/protocol-statute-african-court-justice-and-human-rights-en.pdf
 International Bureau of Weights and Measures:
+  SPVDN_id: SPVDN0969697
   Wikidata_code: Q229478
   Entity_type: International organisation
   Org_family: none
@@ -3094,6 +3276,7 @@ International Bureau of Weights and Measures:
   Year_established: 1875
   Headquarters: Sèvres, France
 International Commission on Civil Status:
+  SPVDN_id: SPVDN0779895
   Wikidata_code: Q677893
   Entity_type: International organisation
   Org_family: none
@@ -3109,6 +3292,7 @@ International Commission on Civil Status:
   Year_established: 1949
   Headquarters: Strasbourg, France
 International Vaccine Institute:
+  SPVDN_id: SPVDN0686384
   Wikidata_code: Q6054186
   Entity_type: International organisation
   Org_family: none
@@ -3125,6 +3309,7 @@ International Vaccine Institute:
   Year_established: 1997
   Headquarters: Seoul, South Korea
 Pacific Aviation Safety Office:
+  SPVDN_id: SPVDN0485278
   Wikidata_code: Q16962397
   Entity_type: International organisation
   Org_family: Pacific Islands Forum
@@ -3138,6 +3323,7 @@ Pacific Aviation Safety Office:
   Immunity_url: https://forumsec.org/sites/default/files/2024-03/Pacific-Islands-Civil-Aviation-Safety-and-Security-Treaty-PICASST-1.pdf
   Year_established: 2002
 International Institute for the Unification of Private Law:
+  SPVDN_id: SPVDN0904176
   Wikidata_code: Q1192641
   Entity_type: International organisation
   Org_family: none
@@ -3154,6 +3340,7 @@ International Institute for the Unification of Private Law:
   Year_established: 1926
   Headquarters: Rome, Italy
 Regional Cooperation Agreement on Combating Piracy and Armed Robbery against Ships in Asia:
+  SPVDN_id: SPVDN0151133
   Wikidata_code: Q7309031
   Entity_type: International organisation
   Org_family: none
@@ -3170,6 +3357,7 @@ Regional Cooperation Agreement on Combating Piracy and Armed Robbery against Shi
   Immunity_url: https://www.mofa.go.jp/mofaj/gaiko/kaiyo/pdfs/kyotei_s.pdf
   Headquarters: Singapore, Singapore
 Intergovernmental Council of Copper Exporting Countries:
+  SPVDN_id: SPVDN0684935
   Wikidata_code: Q1023742
   Entity_type: International organisation
   Org_family: none
@@ -3184,6 +3372,7 @@ Intergovernmental Council of Copper Exporting Countries:
   Basis_for_assessment: B22
   Year_established: 1967
 East Mediterranean Gas Forum:
+  SPVDN_id: SPVDN0772247
   Wikidata_code: Q97163711
   Entity_type: International organisation
   Org_family: none
@@ -3197,6 +3386,7 @@ East Mediterranean Gas Forum:
   Year_established: 2020
   Headquarters: Cairo, Egypt
 Gas Exporting Countries Forum:
+  SPVDN_id: SPVDN0985240
   Wikidata_code: Q1031255
   Entity_type: International organisation
   Org_family: none
@@ -3212,6 +3402,7 @@ Gas Exporting Countries Forum:
   Year_established: 2001
   Headquarters: Doha, Qatar
 International Pacific Halibut Commission:
+  SPVDN_id: SPVDN0638700
   Wikidata_code: Q6052294
   Entity_type: International organisation
   Org_family: none
@@ -3226,6 +3417,7 @@ International Pacific Halibut Commission:
   Year_established: 1923
   Headquarters: Seattle, United States
 Salzburg Forum:
+  SPVDN_id: SPVDN0741140
   Wikidata_code: Q7406988
   Entity_type: International organisation
   Org_family: none
@@ -3238,6 +3430,7 @@ Salzburg Forum:
   Basis_for_assessment: B29
   Year_established: 2000
 Tuvalu Trust Fund:
+  SPVDN_id: SPVDN0497187
   Wikidata_code: Q7857109
   Entity_type: International organisation
   Org_family: none
@@ -3251,6 +3444,7 @@ Tuvalu Trust Fund:
   Basis_for_assessment: B22
   Year_established: 1987
 Southern African Customs Union:
+  SPVDN_id: SPVDN0030671
   Wikidata_code: Q1344350
   Entity_type: International organisation
   Org_family: none
@@ -3267,6 +3461,7 @@ Southern African Customs Union:
   Year_established: 1910
   Headquarters: Windhoek, Namibia
 International Commission for the Protection of the Danube River:
+  SPVDN_id: SPVDN0741913
   Wikidata_code: Q699466
   Entity_type: International organisation
   Org_family: none
@@ -3282,6 +3477,7 @@ International Commission for the Protection of the Danube River:
   Basis_for_assessment: B22
   Year_established: 1998
 Danube Commission:
+  SPVDN_id: SPVDN0184827
   Wikidata_code: Q911204
   Entity_type: International organisation
   Org_family: none
@@ -3299,6 +3495,7 @@ Danube Commission:
   Year_established: 1949
   Headquarters: Budapest, Hungary
 International Boundary and Water Commission:
+  SPVDN_id: SPVDN0587655
   Wikidata_code: Q8348493
   Entity_type: International organisation
   Org_family: none
@@ -3313,6 +3510,7 @@ International Boundary and Water Commission:
   Basis_for_assessment: B22
   Year_established: 1889
 Great Lakes Fishery Commission:
+  SPVDN_id: SPVDN0279947
   Wikidata_code: Q2986576
   Entity_type: International organisation
   Org_family: none
@@ -3327,6 +3525,7 @@ Great Lakes Fishery Commission:
   Basis_for_assessment: B22
   Year_established: 1954
 European Patent Organisation:
+  SPVDN_id: SPVDN0707426
   Wikidata_code: Q685547
   Entity_type: International organisation
   Org_family: none
@@ -3343,6 +3542,7 @@ European Patent Organisation:
   Year_established: 1977
   Headquarters: Munich, Germany
 Inter-American Investment Corporation:
+  SPVDN_id: SPVDN0708087
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
@@ -3363,6 +3563,7 @@ Inter-American Investment Corporation:
   LEI_bic:
   - IAICUS3WXXX
 Organisation of Islamic Cooperation:
+  SPVDN_id: SPVDN0502523
   Wikidata_code: Q47543
   Entity_type: International organisation
   Org_family: none
@@ -3380,6 +3581,7 @@ Organisation of Islamic Cooperation:
   Year_established: 1969
   Headquarters: Jeddah, Saudi Arabia
 International Investment Bank:
+  SPVDN_id: SPVDN0706354
   Wikidata_code: Q1824234
   Entity_type: International organisation
   Org_family: none
@@ -3403,6 +3605,7 @@ International Investment Bank:
   LEI_bic:
   - IIBBBSNSXXX
 Indian Ocean Commission:
+  SPVDN_id: SPVDN0815645
   Wikidata_code: Q1115631
   Entity_type: International organisation
   Org_family: none
@@ -3418,6 +3621,7 @@ Indian Ocean Commission:
   Immunity_url: https://www.assemblee-nationale.fr/dyn/16/textes/l16b0150_accord-international.pdf
   Year_established: 1982
 Central American Integration System:
+  SPVDN_id: SPVDN0108214
   Wikidata_code: Q190028
   Entity_type: International organisation
   Org_family: Central American Integration System entities
@@ -3433,6 +3637,7 @@ Central American Integration System:
   Year_established: 1991
   Headquarters: San Salvador, El Salvador
 Multilateral Investment Guarantee Agency:
+  SPVDN_id: SPVDN0412997
   Wikidata_code: Q1043527
   Entity_type: International organisation
   Org_family: World Bank Group entities
@@ -3457,6 +3662,7 @@ Multilateral Investment Guarantee Agency:
   LEI_bic:
   - MIGAUS33XXX
 Pacific Tourism Organisation:
+  SPVDN_id: SPVDN0511046
   Wikidata_code: Q7568120
   Entity_type: International organisation
   Org_family: Pacific Islands Forum
@@ -3470,6 +3676,7 @@ Pacific Tourism Organisation:
   Immunity_url: http://www.paclii.org/pits/en/treaty_database/1999/1.html
   Year_established: 1999
 Amazon Cooperation Treaty Organization:
+  SPVDN_id: SPVDN0672537
   Wikidata_code: Q602399
   Entity_type: International organisation
   Org_family: none
@@ -3486,6 +3693,7 @@ Amazon Cooperation Treaty Organization:
   Year_established: 1995
   Headquarters: Brasília, Brazil
 Nordic Investment Bank:
+  SPVDN_id: SPVDN0368810
   Wikidata_code: Q2020649
   Entity_type: International organisation
   Org_family: Nordic Council entities
@@ -3509,6 +3717,7 @@ Nordic Investment Bank:
   LEI_hq_address: PO Box 249 Fabianinkatu 34, Helsinki, 00171, FI
   LEI_bic: null
 Niger Basin Authority:
+  SPVDN_id: SPVDN0556296
   Wikidata_code: Q1162546
   Entity_type: International organisation
   Org_family: none
@@ -3525,6 +3734,7 @@ Niger Basin Authority:
   Year_established: 1980
   Headquarters: Niamey, Niger
 Organization of Turkic States:
+  SPVDN_id: SPVDN0889918
   Wikidata_code: Q596850
   Entity_type: International organisation
   Org_family: Organization of Turkic States entities
@@ -3540,6 +3750,7 @@ Organization of Turkic States:
   Year_established: 2009
   Headquarters: Fatih, Turkey
 Common Market for Eastern and Southern Africa:
+  SPVDN_id: SPVDN0128290
   Wikidata_code: Q1165797
   Entity_type: International organisation
   Org_family: Common Market for Eastern and Southern Africa entities
@@ -3555,6 +3766,7 @@ Common Market for Eastern and Southern Africa:
   Immunity_url: https://www.comesa.int/wp-content/uploads/2019/02/comesa-treaty-revised-20092012_with-zaire_final.pdf
   Year_established: 1994
 COMESA Court of Justice:
+  SPVDN_id: SPVDN0142507
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: Common Market for Eastern and Southern Africa entities
@@ -3567,6 +3779,7 @@ COMESA Court of Justice:
   Basis_for_assessment: B22
   Immunity_url: https://www.comesa.int/wp-content/uploads/2019/02/comesa-treaty-revised-20092012_with-zaire_final.pdf
 Community of Portuguese Language Countries:
+  SPVDN_id: SPVDN0736016
   Wikidata_code: Q182500
   Entity_type: International organisation
   Org_family: none
@@ -3584,6 +3797,7 @@ Community of Portuguese Language Countries:
   Year_established: 1996
   Headquarters: Penafiel Palace, Portugal
 Collective Security Treaty Organization:
+  SPVDN_id: SPVDN0012340
   Wikidata_code: Q318693
   Entity_type: International organisation
   Org_family: none
@@ -3599,6 +3813,7 @@ Collective Security Treaty Organization:
   Year_established: 1992
   Headquarters: Moscow, Russia
 Agency for Aerial Navigation Safety in Africa and Madagascar:
+  SPVDN_id: SPVDN0455641
   Wikidata_code: Q2826699
   Entity_type: International organisation
   Org_family: none
@@ -3614,6 +3829,7 @@ Agency for Aerial Navigation Safety in Africa and Madagascar:
   Year_established: 1959
   Headquarters: Dakar, Senegal
 Shanghai Cooperation Organisation:
+  SPVDN_id: SPVDN0197080
   Wikidata_code: Q485207
   Entity_type: International organisation
   Org_family: none
@@ -3630,6 +3846,7 @@ Shanghai Cooperation Organisation:
   Year_established: 2001
   Headquarters: Beijing, People's Republic of China
 Northwest Atlantic Fisheries Organization:
+  SPVDN_id: SPVDN0331748
   Wikidata_code: Q580933
   Entity_type: International organisation
   Org_family: none
@@ -3645,6 +3862,7 @@ Northwest Atlantic Fisheries Organization:
   Year_established: 1979
   Headquarters: Halifax, Canada
 Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organisation:
+  SPVDN_id: SPVDN0865214
   Wikidata_code: Q15211422
   Entity_type: International organisation
   Org_family: none
@@ -3660,6 +3878,7 @@ Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organisatio
   Year_established: 1996
   Headquarters: Vienna International Centre, Austria
 Association of Caribbean States:
+  SPVDN_id: SPVDN0767624
   Wikidata_code: Q1147937
   Entity_type: International organisation
   Org_family: none
@@ -3676,6 +3895,7 @@ Association of Caribbean States:
   Year_established: 1994
   Headquarters: Port of Spain, Trinidad and Tobago
 Dutch Language Union:
+  SPVDN_id: SPVDN0077009
   Wikidata_code: Q152299
   Entity_type: International organisation
   Org_family: none
@@ -3692,6 +3912,7 @@ Dutch Language Union:
   Year_established: 1980
   Headquarters: The Hague, Netherlands
 Science and Technology Center in Ukraine:
+  SPVDN_id: SPVDN0345653
   Wikidata_code: Q7433636
   Entity_type: International organisation
   Org_family: none
@@ -3705,6 +3926,7 @@ Science and Technology Center in Ukraine:
   Immunity_url: https://www.evropskyvyzkum.cz/cs/storage/ddd411519c219953947dede0914eee69f0c355c6?uid=ddd411519c219953947dede0914eee69f0c355c6
   Year_established: 1993
 Arab Maghreb Union:
+  SPVDN_id: SPVDN0337871
   Wikidata_code: Q370862
   Entity_type: International organisation
   Org_family: none
@@ -3719,6 +3941,7 @@ Arab Maghreb Union:
   Basis_for_assessment: B22
   Year_established: 1989
 South Centre:
+  SPVDN_id: SPVDN0988987
   Wikidata_code: Q498517
   Entity_type: International organisation
   Org_family: none
@@ -3733,6 +3956,7 @@ South Centre:
   Year_established: 1995
   Headquarters: Geneva, Switzerland
 Commission for the Conservation of Southern Bluefin Tuna:
+  SPVDN_id: SPVDN0272059
   Wikidata_code: Q22032253
   Entity_type: International organisation
   Org_family: none
@@ -3747,6 +3971,7 @@ Commission for the Conservation of Southern Bluefin Tuna:
   Year_established: 1994
   Headquarters: Canberra, Australia
 North East Atlantic Fisheries Commission:
+  SPVDN_id: SPVDN0719755
   Wikidata_code: Q15106130
   Entity_type: International organisation
   Org_family: none
@@ -3760,6 +3985,7 @@ North East Atlantic Fisheries Commission:
   Basis_for_assessment: B22
   Year_established: 1980
 North Atlantic Marine Mammal Commission:
+  SPVDN_id: SPVDN0973353
   Wikidata_code: Q3076178
   Entity_type: International organisation
   Org_family: none
@@ -3774,6 +4000,7 @@ North Atlantic Marine Mammal Commission:
   Basis_for_assessment: B22
   Headquarters: Tromsø Municipality, Norway
 South East Atlantic Fisheries Organisation:
+  SPVDN_id: SPVDN0256848
   Wikidata_code: Q3492244
   Entity_type: International organisation
   Org_family: none
@@ -3788,6 +4015,7 @@ South East Atlantic Fisheries Organisation:
   Immunity_url: http://www.seafo.org/About/Convention-Text
   Year_established: 2003
 Baltic Marine Environment Protection Commission:
+  SPVDN_id: SPVDN0931022
   Wikidata_code: Q1563503
   Entity_type: International organisation
   Org_family: none
@@ -3803,6 +4031,7 @@ Baltic Marine Environment Protection Commission:
   Year_established: 1992
   Headquarters: Helsinki, Finland
 Organisation of African, Caribbean and Pacific States:
+  SPVDN_id: SPVDN0446059
   Wikidata_code: Q294278
   Entity_type: International organisation
   Org_family: none
@@ -3818,6 +4047,7 @@ Organisation of African, Caribbean and Pacific States:
   Year_established: 1975
   Headquarters: City of Brussels, Belgium
 New Development Bank:
+  SPVDN_id: SPVDN0856553
   Wikidata_code: Q8579145
   Entity_type: International organisation
   Org_family: BRICS entities
@@ -3842,6 +4072,7 @@ New Development Bank:
   LEI_bic:
   - NEDVCNSHXXX
 North Pacific Marine Science Organization:
+  SPVDN_id: SPVDN0283067
   Wikidata_code: Q21015877
   Entity_type: International organisation
   Org_family: none
@@ -3855,6 +4086,7 @@ North Pacific Marine Science Organization:
   Immunity_url: https://meetings.pices.int/about/convention
   Year_established: 1992
 Pacific Community:
+  SPVDN_id: SPVDN0037398
   Wikidata_code: Q871511
   Entity_type: International organisation
   Org_family: Pacific Islands Forum
@@ -3871,6 +4103,7 @@ Pacific Community:
   Year_established: 1947
   Headquarters: Nouméa, France
 Nigeria–São Tomé and Príncipe Joint Development Authority:
+  SPVDN_id: SPVDN0464506
   Wikidata_code: Q7033072
   Entity_type: International organisation
   Org_family: none
@@ -3884,6 +4117,7 @@ Nigeria–São Tomé and Príncipe Joint Development Authority:
   Immunity_url: https://web.archive.org/web/20100202064636/http://www.nigeriasaotomejda.com/PDFs/treaty.pdf
   Year_established: 2001
 South Pacific Regional Fisheries Management Organisation:
+  SPVDN_id: SPVDN0425398
   Wikidata_code: Q21663305
   Entity_type: International organisation
   Org_family: none
@@ -3898,6 +4132,7 @@ South Pacific Regional Fisheries Management Organisation:
   Year_established: 2006
   Headquarters: Wellington, New Zealand
 Commission for Environmental Cooperation:
+  SPVDN_id: SPVDN0011109
   Wikidata_code: Q2986468
   Entity_type: International organisation
   Org_family: none
@@ -3913,6 +4148,7 @@ Commission for Environmental Cooperation:
   Immunity_url: https://ustr.gov/sites/default/files/naaec.pdf
   Year_established: 1994
 Inter-American Tropical Tuna Commission:
+  SPVDN_id: SPVDN0595288
   Wikidata_code: Q3153044
   Entity_type: International organisation
   Org_family: none
@@ -3928,6 +4164,7 @@ Inter-American Tropical Tuna Commission:
   Basis_for_assessment: B22
   Year_established: 1950
 Intergovernmental Organisation for International Carriage by Rail:
+  SPVDN_id: SPVDN0228988
   Wikidata_code: Q2333216
   Entity_type: International organisation
   Org_family: none
@@ -3944,6 +4181,7 @@ Intergovernmental Organisation for International Carriage by Rail:
   Year_established: 1985
   Headquarters: Bern, Switzerland
 Organization for the Prohibition of Chemical Weapons:
+  SPVDN_id: SPVDN0449990
   Wikidata_code: Q842490
   Entity_type: International organisation
   Org_family: none
@@ -3959,6 +4197,7 @@ Organization for the Prohibition of Chemical Weapons:
   Year_established: 1997
   Headquarters: The Hague, Netherlands
 International Union for the Protection of New Varieties of Plants:
+  SPVDN_id: SPVDN0525440
   Wikidata_code: Q690318
   Entity_type: International organisation
   Org_family: none
@@ -3974,6 +4213,7 @@ International Union for the Protection of New Varieties of Plants:
   Year_established: 1998
   Headquarters: Geneva, Switzerland
 EUCLID University:
+  SPVDN_id: SPVDN0641703
   Wikidata_code: Q3046238
   Entity_type: International organisation
   Org_family: none
@@ -3988,6 +4228,7 @@ EUCLID University:
   Year_established: 2008
   Headquarters: Banjul, The Gambia
 International Joint Commission:
+  SPVDN_id: SPVDN0999724
   Wikidata_code: Q6051258
   Entity_type: International organisation
   Org_family: none
@@ -4001,6 +4242,7 @@ International Joint Commission:
   Basis_for_assessment: B22
   Year_established: 1909
 International Energy Agency:
+  SPVDN_id: SPVDN0189377
   Wikidata_code: Q826700
   Entity_type: International organisation
   Org_family: Organisation for Economic Co-operation and Development entities
@@ -4016,6 +4258,7 @@ International Energy Agency:
   Year_established: 1974
   Headquarters: Paris, France
 International Renewable Energy Agency:
+  SPVDN_id: SPVDN0945879
   Wikidata_code: Q392739
   Entity_type: International organisation
   Org_family: none
@@ -4039,6 +4282,7 @@ International Renewable Energy Agency:
   LEI_hq_address: IRENA HQ MAsdar CIty Masdar City, Abu Dhabi Municipality, AE
   LEI_bic: null
 Agreement on the Conservation of Albatrosses and Petrels:
+  SPVDN_id: SPVDN0451876
   Wikidata_code: Q331541
   Entity_type: International organisation
   Org_family: none
@@ -4051,6 +4295,7 @@ Agreement on the Conservation of Albatrosses and Petrels:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 Comprehensive Nuclear-Test-Ban Treaty Organisation:
+  SPVDN_id: SPVDN0733879
   Wikidata_code: Q356694
   Entity_type: International organisation
   Org_family: none
@@ -4067,6 +4312,7 @@ Comprehensive Nuclear-Test-Ban Treaty Organisation:
   Year_established: 1996
   Headquarters: Vienna, Austria
 Energy Community:
+  SPVDN_id: SPVDN0346792
   Wikidata_code: Q2989312
   Entity_type: International organisation
   Org_family: none
@@ -4081,6 +4327,7 @@ Energy Community:
   Year_established: 2006
   Headquarters: Vienna, Austria
 Collaborative Inter-Governmental Scientific Research Institute:
+  SPVDN_id: SPVDN0547728
   Wikidata_code: Q15991224
   Entity_type: International organisation
   Org_family: none
@@ -4093,6 +4340,7 @@ Collaborative Inter-Governmental Scientific Research Institute:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 International Cospas-Sarsat Programme:
+  SPVDN_id: SPVDN0844688
   Wikidata_code: Q605177
   Entity_type: International organisation
   Org_family: none
@@ -4116,6 +4364,7 @@ International Cospas-Sarsat Programme:
   LEI_hq_address: 4215-1250 boul. Rene-Levesque O, Montreal, H3B 4W8, CA
   LEI_bic: null
 International Centre for Genetic Engineering and Biotechnology:
+  SPVDN_id: SPVDN0252777
   Wikidata_code: Q6049095
   Entity_type: International organisation
   Org_family: none
@@ -4129,6 +4378,7 @@ International Centre for Genetic Engineering and Biotechnology:
   Immunity_url: https://treaties.un.org/doc/source/docs/ICGEB_BG.3_21-E.pdf
   Year_established: 1994
 Mano River Union:
+  SPVDN_id: SPVDN0533040
   Wikidata_code: Q1505172
   Entity_type: International organisation
   Org_family: none
@@ -4145,6 +4395,7 @@ Mano River Union:
   Year_established: 1973
   Headquarters: Freetown, Sierra Leone
 Association of Iron Ore Exporting Countries:
+  SPVDN_id: SPVDN0550630
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
@@ -4156,6 +4407,7 @@ Association of Iron Ore Exporting Countries:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 African Groundnut Council:
+  SPVDN_id: SPVDN0071692
   Wikidata_code: Q4689777
   Entity_type: International organisation
   Org_family: none
@@ -4170,6 +4422,7 @@ African Groundnut Council:
   Year_established: 1964
   Headquarters: Kano, Nigeria
 International Anti-Corruption Academy:
+  SPVDN_id: SPVDN0259701
   Wikidata_code: Q876957
   Entity_type: International organisation
   Org_family: none
@@ -4186,6 +4439,7 @@ International Anti-Corruption Academy:
   Year_established: 2011
   Headquarters: Palais Kaunitz-Wittgenstein, Austria
 Conseil de l'Entente:
+  SPVDN_id: SPVDN0384963
   Wikidata_code: Q945574
   Entity_type: International organisation
   Org_family: none
@@ -4202,6 +4456,7 @@ Conseil de l'Entente:
   Year_established: 1959
   Headquarters: Abidjan, Ivory Coast
 Desert Locust Control Organisation for Eastern Africa:
+  SPVDN_id: SPVDN0211154
   Wikidata_code: Q30596094
   Entity_type: International organisation
   Org_family: none
@@ -4216,6 +4471,7 @@ Desert Locust Control Organisation for Eastern Africa:
   Year_established: 1962
   Headquarters: Addis Ababa, Ethiopia
 International Science and Technology Center:
+  SPVDN_id: SPVDN0106069
   Wikidata_code: Q13415305
   Entity_type: International organisation
   Org_family: none
@@ -4238,6 +4494,7 @@ International Science and Technology Center:
   LEI_hq_address: 46/1 Turan Avenue, Nur-Sultan, 010000, KZ
   LEI_bic: null
 International Commission for the Conservation of Atlantic Tunas:
+  SPVDN_id: SPVDN0644666
   Wikidata_code: Q840267
   Entity_type: International organisation
   Org_family: none
@@ -4252,6 +4509,7 @@ International Commission for the Conservation of Atlantic Tunas:
   Basis_for_assessment: B22
   Headquarters: Madrid, Spain
 Economic Community of the Great Lakes Countries:
+  SPVDN_id: SPVDN0518332
   Wikidata_code: Q1331783
   Entity_type: International organisation
   Org_family: none
@@ -4267,6 +4525,7 @@ Economic Community of the Great Lakes Countries:
   Year_established: 1976
   Headquarters: Gisenyi, Rwanda
 International Boundary Commission:
+  SPVDN_id: SPVDN0829549
   Wikidata_code: Q29467091
   Entity_type: International organisation
   Org_family: none
@@ -4280,6 +4539,7 @@ International Boundary Commission:
   Basis_for_assessment: B31
   Year_established: 1908
 African Trade and Investment Development Insurance:
+  SPVDN_id: SPVDN0559557
   Wikidata_code: Q60742417
   Entity_type: International organisation
   Org_family: Common Market for Eastern and Southern Africa entities
@@ -4293,6 +4553,7 @@ African Trade and Investment Development Insurance:
   Immunity_url: https://www.atidi.africa/wp-content/uploads/2023/10/ATI-Treaty-2022-001-Certified-091023-Stamped.pdf
   Year_established: 2001
 Inter-American Institute for Global Change Research:
+  SPVDN_id: SPVDN0167408
   Wikidata_code: Q6044567
   Entity_type: International organisation
   Org_family: none
@@ -4306,6 +4567,7 @@ Inter-American Institute for Global Change Research:
   Immunity_url: https://www.iai.int/pdf/en/agreement_establishing_the_IAI_en.pdf
   Year_established: 2004
 European Molecular Biology Laboratory:
+  SPVDN_id: SPVDN0095750
   Wikidata_code: Q695267
   Entity_type: International organisation
   Org_family: none
@@ -4322,6 +4584,7 @@ European Molecular Biology Laboratory:
   Year_established: 1974
   Headquarters: Heidelberg, Germany
 International Centre for Settlement of Investment Disputes:
+  SPVDN_id: SPVDN0149702
   Wikidata_code: Q899770
   Entity_type: International organisation
   Org_family: World Bank Group entities
@@ -4337,6 +4600,7 @@ International Centre for Settlement of Investment Disputes:
   Immunity_url: https://icsid.worldbank.org/sites/default/files/documents/ICSID_Convention.pdf
   Year_established: 1965
 Center for International Forestry Research and World Agroforestry:
+  SPVDN_id: SPVDN0379328
   Wikidata_code: Q121461382
   Entity_type: International organisation
   Org_family: CGIAR entities
@@ -4351,6 +4615,7 @@ Center for International Forestry Research and World Agroforestry:
   Year_established: 2019
   Headquarters: Nairobi, Kenya
 Africa Rice Center:
+  SPVDN_id: SPVDN0601810
   Wikidata_code: Q383924
   Entity_type: International organisation
   Org_family: CGIAR entities
@@ -4370,6 +4635,7 @@ Africa Rice Center:
   Year_established: 1971
   Headquarters: Bouaké, Ivory Coast
 International Livestock Research Institute:
+  SPVDN_id: SPVDN0340512
   Wikidata_code: Q1666743
   Entity_type: International organisation
   Org_family: CGIAR entities
@@ -4387,6 +4653,7 @@ International Livestock Research Institute:
   Year_established: 1994
   Headquarters: Nairobi, Kenya
 Association of Natural Rubber Producing Countries:
+  SPVDN_id: SPVDN0392927
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
@@ -4399,6 +4666,7 @@ Association of Natural Rubber Producing Countries:
   Basis_for_assessment: B22
   Immunity_url: https://treaties.fcdo.gov.uk/data/Library2/pdf/1993-TS0036.pdf
 West African Economic and Monetary Union:
+  SPVDN_id: SPVDN0682882
   Wikidata_code: Q1929699
   Entity_type: International organisation
   Org_family: West African Economic and Monetary Union
@@ -4415,6 +4683,7 @@ West African Economic and Monetary Union:
   Year_established: 1994
   Headquarters: Ouagadougou, Burkina Faso
 African Regional Intellectual Property Organization:
+  SPVDN_id: SPVDN0910781
   Wikidata_code: Q384434
   Entity_type: International organisation
   Org_family: none
@@ -4430,6 +4699,7 @@ African Regional Intellectual Property Organization:
   Year_established: 1976
   Headquarters: Harare, Zimbabwe
 African Intellectual Property organisation:
+  SPVDN_id: SPVDN0930007
   Wikidata_code: Q1476775
   Entity_type: International organisation
   Org_family: none
@@ -4447,6 +4717,7 @@ African Intellectual Property organisation:
   Year_established: 1962
   Headquarters: Yaoundé, Cameroon
 Convention for the Conservation of Antarctic Marine Living Resources:
+  SPVDN_id: SPVDN0052120
   Wikidata_code: Q97382426
   Entity_type: International organisation
   Org_family: Antarctic Treaty System entities
@@ -4460,6 +4731,7 @@ Convention for the Conservation of Antarctic Marine Living Resources:
   Immunity_url: https://www.ccamlr.org/en/organisation/camlr-convention-text
   Headquarters: Hobart, Australia
 Residual Special Court for Sierra Leone:
+  SPVDN_id: SPVDN0272593
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
@@ -4472,6 +4744,7 @@ Residual Special Court for Sierra Leone:
   Basis_for_assessment: B22
   Immunity_url: https://rscsl.org/the-rscsl/
 GUAM Organization for Democracy and Economic Development:
+  SPVDN_id: SPVDN0924867
   Wikidata_code: Q326816
   Entity_type: International organisation
   Org_family: none
@@ -4488,6 +4761,7 @@ GUAM Organization for Democracy and Economic Development:
   Year_established: 1997
   Headquarters: Kyiv, Ukraine
 SAARC Development Fund:
+  SPVDN_id: SPVDN0746587
   Wikidata_code: Q120512563
   Entity_type: International organisation
   Org_family: none
@@ -4499,6 +4773,7 @@ SAARC Development Fund:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 Asian Productivity Organisation:
+  SPVDN_id: SPVDN0043403
   Wikidata_code: Q16166565
   Entity_type: International organisation
   Org_family: none
@@ -4512,6 +4787,7 @@ Asian Productivity Organisation:
   Basis_for_assessment: B22
   Immunity_url: https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/35/11124
 Caribbean Meteorological Organisation:
+  SPVDN_id: SPVDN0618122
   Wikidata_code: Q5039400
   Entity_type: International organisation
   Org_family: Caribbean Community entities
@@ -4524,6 +4800,7 @@ Caribbean Meteorological Organisation:
   Basis_for_assessment: B22
   Immunity_url: http://www.cmo.org.tt/docs/AGREEMENT.pdf
 Financial Fund for the Development of the River Plate Basin:
+  SPVDN_id: SPVDN0590238
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
@@ -4536,6 +4813,7 @@ Financial Fund for the Development of the River Plate Basin:
   Basis_for_assessment: B22
   Immunity_url: https://www.fonplata.org/sites/default/files/paginas-fonplata/archivos/EN%20-%20Constitutive%20Agreement%20%28Update%202018%29.pdf
 International Committee of Military Medicine:
+  SPVDN_id: SPVDN0197897
   Wikidata_code: Q1257637
   Entity_type: International organisation
   Org_family: none
@@ -4550,6 +4828,7 @@ International Committee of Military Medicine:
   Year_established: 1921
   Headquarters: Brussels-Capital Region, Belgium
 International Council for Exploration of the Sea:
+  SPVDN_id: SPVDN0104961
   Wikidata_code: Q1613859
   Entity_type: International organisation
   Org_family: none
@@ -4573,6 +4852,7 @@ International Council for Exploration of the Sea:
   LEI_hq_address: H.C. Andersens Boulevard 44-46, København V, 1553, DK
   LEI_bic: null
 International Development Law Organization:
+  SPVDN_id: SPVDN0161706
   Wikidata_code: Q11977461
   Entity_type: International organisation
   Org_family: none
@@ -4589,6 +4869,7 @@ International Development Law Organization:
   Year_established: 1983
   Headquarters: Rome, Italy
 International Commission on Missing Persons:
+  SPVDN_id: SPVDN0794707
   Wikidata_code: Q676812
   Entity_type: International organisation
   Org_family: none
@@ -4604,6 +4885,7 @@ International Commission on Missing Persons:
   Year_established: 1996
   Headquarters: The Hague, Netherlands
 International Institute of Refrigeration:
+  SPVDN_id: SPVDN0288313
   Wikidata_code: Q3152339
   Entity_type: International organisation
   Org_family: none
@@ -4618,6 +4900,7 @@ International Institute of Refrigeration:
   Year_established: 1908
   Headquarters: Paris, France
 Latin American Integration Association:
+  SPVDN_id: SPVDN0665689
   Wikidata_code: Q607301
   Entity_type: International organisation
   Org_family: none
@@ -4633,6 +4916,7 @@ Latin American Integration Association:
   Year_established: 1980
   Headquarters: Montevideo, Uruguay
 Hague Conference on Private International Law:
+  SPVDN_id: SPVDN0140921
   Wikidata_code: Q4130823
   Entity_type: International organisation
   Org_family: none
@@ -4648,6 +4932,7 @@ Hague Conference on Private International Law:
   Year_established: 1893
   Headquarters: The Hague, Netherlands
 Group of Latin American and Caribbean Sugar Exporting Countries:
+  SPVDN_id: SPVDN0939457
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
@@ -4660,6 +4945,7 @@ Group of Latin American and Caribbean Sugar Exporting Countries:
   Basis_for_assessment: B22
   Immunity_url: https://www.bacn.gov.py/leyes-paraguayas/907/ley-n-1321-aprueba-el-estatuto-del-grupo-de-paises-latinoamericanos-y-del-caribe-exportadores-de-azucar-geplacea
 Inter-American Center for Tax Administrations:
+  SPVDN_id: SPVDN0909331
   Wikidata_code: Q2585529
   Entity_type: International organisation
   Org_family: none
@@ -4675,6 +4961,7 @@ Inter-American Center for Tax Administrations:
   Year_established: 1967
   Headquarters: Panama City, Panama
 Global Crop Diversity Trust:
+  SPVDN_id: SPVDN0497325
   Wikidata_code: Q2004478
   Entity_type: International organisation
   Org_family: none
@@ -4689,6 +4976,7 @@ Global Crop Diversity Trust:
   Year_established: 2005
   Headquarters: Bonn, Germany
 Joint Institute for Nuclear Research:
+  SPVDN_id: SPVDN0432597
   Wikidata_code: Q259517
   Entity_type: International organisation
   Org_family: none
@@ -4704,6 +4992,7 @@ Joint Institute for Nuclear Research:
   Year_established: 1956
   Headquarters: Dubna, Russia
 Joint Vienna Institute:
+  SPVDN_id: SPVDN0368558
   Wikidata_code: Q128996047
   Entity_type: International organisation
   Org_family: none
@@ -4715,6 +5004,7 @@ Joint Vienna Institute:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 International Tropical Timber Organisation:
+  SPVDN_id: SPVDN0636726
   Wikidata_code: Q869610
   Entity_type: International organisation
   Org_family: none
@@ -4731,6 +5021,7 @@ International Tropical Timber Organisation:
   Year_established: 1985
   Headquarters: Yokohama, Japan
 Lake Chad Basin Commission:
+  SPVDN_id: SPVDN0869534
   Wikidata_code: Q2986599
   Entity_type: International organisation
   Org_family: none
@@ -4746,6 +5037,7 @@ Lake Chad Basin Commission:
   Year_established: 1964
   Headquarters: N'Djamena, Chad
 International Tea Promotion Association:
+  SPVDN_id: SPVDN0916789
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
@@ -4758,6 +5050,7 @@ International Tea Promotion Association:
   Basis_for_assessment: B22
   Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201128/volume-1128-I-17582-English.pdf
 World Organisation for Animal Health:
+  SPVDN_id: SPVDN0492842
   Wikidata_code: Q1058594
   Entity_type: International organisation
   Org_family: none
@@ -4773,6 +5066,7 @@ World Organisation for Animal Health:
   Year_established: 1924
   Headquarters: 17th arrondissement of Paris, France
 North Pacific Anadromous Fish Commission:
+  SPVDN_id: SPVDN0945653
   Wikidata_code: Q12599115
   Entity_type: International organisation
   Org_family: none
@@ -4785,6 +5079,7 @@ North Pacific Anadromous Fish Commission:
   Basis_for_assessment: B22
   Immunity_url: https://www.npafc.org/wp-content/uploads/Public-Documents/Handbook/Handbook-3rd-E-Convention-Only-English.pdf
 Organisation for the Development of the Senegal River:
+  SPVDN_id: SPVDN0992256
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
@@ -4796,6 +5091,7 @@ Organisation for the Development of the Senegal River:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 Parliamentary Assembly of the Mediterranean:
+  SPVDN_id: SPVDN0182183
   Wikidata_code: Q3369689
   Entity_type: International organisation
   Org_family: none
@@ -4810,6 +5106,7 @@ Parliamentary Assembly of the Mediterranean:
   Basis_for_assessment: B22
   Year_established: 2005
 Secretariat of the Convention on Biological Diversity:
+  SPVDN_id: SPVDN0745891
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: UN Environment Programme entities
@@ -4821,6 +5118,7 @@ Secretariat of the Convention on Biological Diversity:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 European and Mediterranean Plant Protection Organization:
+  SPVDN_id: SPVDN0555511
   Wikidata_code: Q1967903
   Entity_type: International organisation
   Org_family: none
@@ -4836,6 +5134,7 @@ European and Mediterranean Plant Protection Organization:
   Year_established: 1955
   Headquarters: Paris, France
 Energy Charter Conference:
+  SPVDN_id: SPVDN0040777
   Wikidata_code: Q121286812
   Entity_type: International organisation
   Org_family: none
@@ -4847,6 +5146,7 @@ Energy Charter Conference:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 EU-LAC International Foundation:
+  SPVDN_id: SPVDN0141695
   Wikidata_code: Q821623
   Entity_type: International organisation
   Org_family: none
@@ -4863,6 +5163,7 @@ EU-LAC International Foundation:
   Year_established: 2010
   Headquarters: Hamburg, Germany
 Secreriat of the Antarctic Treaty:
+  SPVDN_id: SPVDN0904870
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: Antarctic Treaty System entities
@@ -4875,6 +5176,7 @@ Secreriat of the Antarctic Treaty:
   Basis_for_assessment: B22
   Immunity_url: https://documents.ats.aq/atcm40/ww/ATCM40_ww014_e.pdf
 Central African Economic and Monetary Community:
+  SPVDN_id: SPVDN0805878
   Wikidata_code: Q1940250
   Entity_type: International organisation
   Org_family: Economic and Monetary Community of Central Africa
@@ -4890,6 +5192,7 @@ Central African Economic and Monetary Community:
   Year_established: 1999
   Headquarters: Bangui, Central African Republic
 Central Africa Forests Commission:
+  SPVDN_id: SPVDN0269216
   Wikidata_code: Q5060269
   Entity_type: International organisation
   Org_family: none
@@ -4903,6 +5206,7 @@ Central Africa Forests Commission:
   Basis_for_assessment: B22
   Year_established: 1999
 Caribbean Court of Justice:
+  SPVDN_id: SPVDN0213456
   Wikidata_code: Q775029
   Entity_type: International organisation
   Org_family: Caribbean Community entities
@@ -4919,6 +5223,7 @@ Caribbean Court of Justice:
   Year_established: 2005
   Headquarters: Port of Spain, Trinidad and Tobago
 Brazilian-Argentine Agency for Accounting and Control of Nuclear Materials:
+  SPVDN_id: SPVDN0618348
   Wikidata_code: Q290585
   Entity_type: International organisation
   Org_family: none
@@ -4934,6 +5239,7 @@ Brazilian-Argentine Agency for Accounting and Control of Nuclear Materials:
   Year_established: 1991
   Headquarters: Rio de Janeiro, Brazil
 Central Commission for the Navigation of the Rhine:
+  SPVDN_id: SPVDN0429925
   Wikidata_code: Q190650
   Entity_type: International organisation
   Org_family: none
@@ -4949,6 +5255,7 @@ Central Commission for the Navigation of the Rhine:
   Year_established: 1815
   Headquarters: Strasbourg, France
 Bank of the Central African States:
+  SPVDN_id: SPVDN0575826
   Wikidata_code: Q189972
   Entity_type: International organisation
   Org_family: Economic and Monetary Community of Central Africa
@@ -4964,6 +5271,7 @@ Bank of the Central African States:
   Year_established: 1972
   Headquarters: Yaoundé, Cameroon
 West African Monetary Union:
+  SPVDN_id: SPVDN0939662
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: West African Economic and Monetary Union
@@ -4976,6 +5284,7 @@ West African Monetary Union:
   Basis_for_assessment: B22
   Immunity_url: https://www.bceao.int/sites/default/files/inline-files/TraiteUMOA2010_tr_Eng.pdf
 Secretariat of the Basel Convention:
+  SPVDN_id: SPVDN0416160
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: UN Environment Programme entities
@@ -4987,6 +5296,7 @@ Secretariat of the Basel Convention:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 Southern African Development Community:
+  SPVDN_id: SPVDN0780723
   Wikidata_code: Q816706
   Entity_type: International organisation
   Org_family: Southern African Development Community
@@ -5002,6 +5312,7 @@ Southern African Development Community:
   Year_established: 1980
   Headquarters: Gaborone, Botswana
 Southeast Asian Ministers of Education Organisation:
+  SPVDN_id: SPVDN0208786
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
@@ -5014,6 +5325,7 @@ Southeast Asian Ministers of Education Organisation:
   Basis_for_assessment: B22
   Immunity_url: https://www.seameo.org/img/SEAMEO_General/About_SEAMEO/SEAMEO_Charter/charter2013.pdf
 Nordic Development Fund:
+  SPVDN_id: SPVDN0871749
   Wikidata_code: Q7050687
   Entity_type: International organisation
   Org_family: Nordic Council entities
@@ -5028,6 +5340,7 @@ Nordic Development Fund:
   Year_established: 1989
   Headquarters: Helsinki, Finland
 Organisation for the Harmonization of Business Laws in Africa:
+  SPVDN_id: SPVDN0004819
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
@@ -5040,6 +5353,7 @@ Organisation for the Harmonization of Business Laws in Africa:
   Basis_for_assessment: B22
   Immunity_url: https://www.ohada.org/en/treaty-amending-the-treaty-on-the-harmonization-of-business-law-in-africa/
 International Organisation of Legal Metrology:
+  SPVDN_id: SPVDN0875105
   Wikidata_code: Q1667416
   Entity_type: International organisation
   Org_family: none
@@ -5056,6 +5370,7 @@ International Organisation of Legal Metrology:
   Year_established: 1955
   Headquarters: Paris, France
 King Abdullah Bin Abdulaziz International Centre for Interreligious and Intercultural Dialogue:
+  SPVDN_id: SPVDN0912925
   Wikidata_code: Q6324948
   Entity_type: International organisation
   Org_family: none
@@ -5072,6 +5387,7 @@ King Abdullah Bin Abdulaziz International Centre for Interreligious and Intercul
   Year_established: 2011
   Headquarters: Lisbon, Portugal
 Organisation for Joint Armament Co-operation:
+  SPVDN_id: SPVDN0612657
   Name_en: Organisation for Joint Armament Co-operation
   Name_other_en: Organisation for Joint Armament Cooperation
   Abbreviation_en: OCCAR
@@ -5089,6 +5405,7 @@ Organisation for Joint Armament Co-operation:
   Year_established: 1996
   Headquarters: Bonn, Germany
 International Centre for Food Micro-Algae Against Malnutrition:
+  SPVDN_id: SPVDN0619012
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
@@ -5101,6 +5418,7 @@ International Centre for Food Micro-Algae Against Malnutrition:
   Basis_for_assessment: B22
   Immunity_url: https://treaties.un.org/doc/publication/unts/volume%202151/v2151.pdf
 Robusta Coffee Agency of Africa and Madagascar:
+  SPVDN_id: SPVDN0437989
   Wikidata_code: '[No specific code.]'
   Entity_type: International organisation
   Org_family: none
@@ -5112,6 +5430,7 @@ Robusta Coffee Agency of Africa and Madagascar:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 Benelux Organisation for Intellectual Property:
+  SPVDN_id: SPVDN0227247
   Wikidata_code: Q1910702
   Entity_type: International organisation
   Org_family: Benelux entities
@@ -5126,6 +5445,7 @@ Benelux Organisation for Intellectual Property:
   Year_established: 2005
   Headquarters: Benelux Office for Intellectual Property building, Netherlands
 European Public Law Organization:
+  SPVDN_id: SPVDN0714750
   Wikidata_code: Q119789715
   Entity_type: International organisation
   Org_family: none
@@ -5138,6 +5458,7 @@ European Public Law Organization:
   Basis_for_assessment: B22
   Year_established: 2007
 African, Caribbean and Pacific Group of States:
+  SPVDN_id: SPVDN0577968
   Wikidata_code: '[No specific code.]'
   Entity_type: International organisation
   Org_family: none
@@ -5149,6 +5470,7 @@ African, Caribbean and Pacific Group of States:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 Surveillance Authority of the European Free Trade Association:
+  SPVDN_id: SPVDN0836920
   Wikidata_code: Q3775266
   Entity_type: International organisation
   Org_family: EFTA entities
@@ -5162,6 +5484,7 @@ Surveillance Authority of the European Free Trade Association:
   Year_established: 1994
   Headquarters: City of Brussels, Belgium
 Central American Bank for Economic Integration:
+  SPVDN_id: SPVDN0623143
   Wikidata_code: Q190008
   Entity_type: International organisation
   Org_family: Central American Integration System entities
@@ -5186,6 +5509,7 @@ Central American Bank for Economic Integration:
   - BCIENIM1XXX
   - BCIESVS1XXX
 European Organization for Nuclear Research:
+  SPVDN_id: SPVDN0766847
   Wikidata_code: Q42944
   Entity_type: International organisation
   Org_family: none
@@ -5209,6 +5533,7 @@ European Organization for Nuclear Research:
   LEI_hq_address: Esplanade des Particules 1, Meyrin, 1217, CH
   LEI_bic: null
 Intergovernmental Authority on Development:
+  SPVDN_id: SPVDN0957426
   Wikidata_code: Q499039
   Entity_type: International organisation
   Org_family: none
@@ -5224,6 +5549,7 @@ Intergovernmental Authority on Development:
   Year_established: 1986
   Headquarters: Djibouti City, Djibouti
 International Centre for Migration Policy Development:
+  SPVDN_id: SPVDN0884399
   Wikidata_code: Q498496
   Entity_type: International organisation
   Org_family: none
@@ -5247,6 +5573,7 @@ International Centre for Migration Policy Development:
   LEI_hq_address: Rothschildplatz 4, Wien, 1020, AT
   LEI_bic: null
 Organisation for the Prohibition of Nuclear Weapons in Latin America and the Caribbean:
+  SPVDN_id: SPVDN0442046
   Wikidata_code: Q3369762
   Entity_type: International organisation
   Org_family: none
@@ -5263,6 +5590,7 @@ Organisation for the Prohibition of Nuclear Weapons in Latin America and the Car
   Year_established: 1967
   Headquarters: Mexico City, Mexico
 Andrés Bello convention for the educational, scientific and cultural integration of Latin America and Spain:
+  SPVDN_id: SPVDN0726852
   Wikidata_code: '[No specific code.]'
   Entity_type: International organisation
   Org_family: none
@@ -5275,6 +5603,7 @@ Andrés Bello convention for the educational, scientific and cultural integratio
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 International Organisation for the Development of Fisheries in Eastern and Central Europe:
+  SPVDN_id: SPVDN0466660
   Wikidata_code: '[No specific code.]'
   Entity_type: International organisation
   Org_family: none
@@ -5288,6 +5617,7 @@ International Organisation for the Development of Fisheries in Eastern and Centr
   Basis_for_assessment: B22
   Immunity_url: https://faolex.fao.org/treaty/docs/tre000049E.pdf
 International Visegrad Fund:
+  SPVDN_id: SPVDN0295330
   Wikidata_code: Q11783874
   Entity_type: International organisation
   Org_family: none
@@ -5300,6 +5630,7 @@ International Visegrad Fund:
   Basis_for_assessment: B22
   Year_established: 2000
 International Road Transport Union:
+  SPVDN_id: SPVDN0044871
   Wikidata_code: Q2662574
   Entity_type: International organisation
   Org_family: none
@@ -5316,6 +5647,7 @@ International Road Transport Union:
   Year_established: 1948
   Headquarters: Geneva, Switzerland
 Iran-United States Claims Tribunal:
+  SPVDN_id: SPVDN0486635
   Wikidata_code: Q501576
   Entity_type: International organisation
   Org_family: none
@@ -5330,6 +5662,7 @@ Iran-United States Claims Tribunal:
   Year_established: 1981
   Headquarters: Netherlands, Kingdom of the Netherlands
 Intersputnik International Organization of Space Communications:
+  SPVDN_id: SPVDN0999519
   Wikidata_code: Q1548793
   Entity_type: International organisation
   Org_family: none
@@ -5346,6 +5679,7 @@ Intersputnik International Organization of Space Communications:
   Year_established: 1971
   Headquarters: Moscow, Russia
 International Organisation of La Francophonie:
+  SPVDN_id: SPVDN0674464
   Wikidata_code: Q134102
   Entity_type: International organisation
   Org_family: none
@@ -5361,6 +5695,7 @@ International Organisation of La Francophonie:
   Year_established: 1970
   Headquarters: Paris, France
 International Centre for Advanced Mediterranean Agronomic Studies:
+  SPVDN_id: SPVDN0530427
   Wikidata_code: Q30255657
   Entity_type: International organisation
   Org_family: none
@@ -5374,6 +5709,7 @@ International Centre for Advanced Mediterranean Agronomic Studies:
   Immunity_url: https://www.ciheam.org/wp-content/uploads/2021/12/CIHEAM_-_Textes_constitutifs__1_-1.pdf
   Year_established: 1962
 International Institute of Administrative Sciences:
+  SPVDN_id: SPVDN0282951
   Wikidata_code: Q2373849
   Entity_type: International organisation
   Org_family: none
@@ -5388,6 +5724,7 @@ International Institute of Administrative Sciences:
   Year_established: 1930
   Headquarters: Brussels metropolitan area, Belgium
 International Civil Defence Organization:
+  SPVDN_id: SPVDN0825401
   Wikidata_code: Q162656
   Entity_type: International organisation
   Org_family: none
@@ -5411,6 +5748,7 @@ International Civil Defence Organization:
   LEI_hq_address: 10 - 12 CHEMIN DE SURVILLE PETIT-LANCY, GENEVA, 1213, CH
   LEI_bic: null
 International Bank for Economic Co-operation:
+  SPVDN_id: SPVDN0675263
   Wikidata_code: Q1520558
   Entity_type: International organisation
   Org_family: none
@@ -5425,6 +5763,7 @@ International Bank for Economic Co-operation:
   Year_established: 1964
   Headquarters: Moscow, Russia
 Islamic Development Bank:
+  SPVDN_id: SPVDN0264846
   Wikidata_code: Q41230
   Entity_type: International organisation
   Org_family: Organisation of Islamic Cooperation
@@ -5449,6 +5788,7 @@ Islamic Development Bank:
   LEI_bic:
   - ISLDSAJEXXX
 International Institute for Democracy and Electoral Assistance:
+  SPVDN_id: SPVDN0550107
   Wikidata_code: Q46340424
   Entity_type: International organisation
   Org_family: none
@@ -5464,6 +5804,7 @@ International Institute for Democracy and Electoral Assistance:
   Immunity_url: https://www.idea.int/sites/default/files/media_resources/International-IDEA-statutes-EN-2023.pdf
   Year_established: 1995
 Latin American Civil Aviation Commission:
+  SPVDN_id: SPVDN0740772
   Wikidata_code: Q131103399
   Entity_type: International organisation
   Org_family: none
@@ -5475,6 +5816,7 @@ Latin American Civil Aviation Commission:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 Permanent Inter-State Committee for Drought Control in the Sahel:
+  SPVDN_id: SPVDN0860220
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
@@ -5487,6 +5829,7 @@ Permanent Inter-State Committee for Drought Control in the Sahel:
   Basis_for_assessment: B22
   Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201985/v1985.pdf
 Mekong River Commission:
+  SPVDN_id: SPVDN0865781
   Wikidata_code: Q935878
   Entity_type: International organisation
   Org_family: none
@@ -5501,6 +5844,7 @@ Mekong River Commission:
   Year_established: 1995
   Headquarters: Vientiane, Laos
 Caribbean Telecommunications Union:
+  SPVDN_id: SPVDN0246048
   Wikidata_code: Q115803554
   Entity_type: International organisation
   Org_family: Caribbean Community entities
@@ -5514,6 +5858,7 @@ Caribbean Telecommunications Union:
   Year_established: 1990
   Headquarters: Port of Spain, Trinidad and Tobago
 Eastern and Southern African Trade and Development Bank:
+  SPVDN_id: SPVDN0930336
   Wikidata_code: Q13657031
   Entity_type: International organisation
   Org_family: Common Market for Eastern and Southern Africa entities
@@ -5536,6 +5881,7 @@ Eastern and Southern African Trade and Development Bank:
     72201, MU
   LEI_bic: null
 East African Development Bank:
+  SPVDN_id: SPVDN0906116
   Wikidata_code: Q5327655
   Entity_type: International organisation
   Org_family: East African Community
@@ -5561,6 +5907,7 @@ East African Development Bank:
   - AFDEUGKAXXX
   - EADBKEN1XXX
 Latin-American Centre for Physics:
+  SPVDN_id: SPVDN0740692
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
@@ -5573,6 +5920,7 @@ Latin-American Centre for Physics:
   Basis_for_assessment: B22
   Immunity_url: http://legislacion.asamblea.gob.ni/Instrumentos.nsf/d9e9b7b996023769062578b80075d821/57af7b6e3cde7228062575430061e0ed?OpenDocument&ExpandSection=1#_Section1
 Nordic Environment Finance Corporation:
+  SPVDN_id: SPVDN0112163
   Wikidata_code: Q3736769
   Entity_type: International organisation
   Org_family: Nordic Council entities
@@ -5594,6 +5942,7 @@ Nordic Environment Finance Corporation:
   LEI_hq_address: Fabianinkatu 34 00170 HELSINKI, HELSINKI, FI-00170, FI
   LEI_bic: null
 Fund for the Development of the Indigenous Peoples of Latin America and the Caribbean:
+  SPVDN_id: SPVDN0902954
   Wikidata_code: Q125689468
   Entity_type: International organisation
   Org_family: none
@@ -5608,6 +5957,7 @@ Fund for the Development of the Indigenous Peoples of Latin America and the Cari
   Basis_for_assessment: B22
   Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%201728/volume-1728-I-30177-English.pdf
 Black Sea Trade and Development Bank:
+  SPVDN_id: SPVDN0428171
   Wikidata_code: Q2061083
   Entity_type: International organisation
   Org_family: Organization of the Black Sea Economic Cooperation
@@ -5632,6 +5982,7 @@ Black Sea Trade and Development Bank:
   LEI_bic:
   - BSTDGR2TXXX
 European Company for the Financing of Railroad Rolling Stock:
+  SPVDN_id: SPVDN0408866
   Wikidata_code: Q1374986
   Entity_type: International organisation
   Org_family: none
@@ -5656,6 +6007,7 @@ European Company for the Financing of Railroad Rolling Stock:
   LEI_bic:
   - EURACHBBXXX
 Asian Clearing Union:
+  SPVDN_id: SPVDN0658515
   Wikidata_code: Q2150936
   Entity_type: International organisation
   Org_family: none
@@ -5668,6 +6020,7 @@ Asian Clearing Union:
   Basis_for_assessment: B22
   Year_established: 1974
 Latin American Energy Organization:
+  SPVDN_id: SPVDN0935626
   Wikidata_code: Q3356053
   Entity_type: International organisation
   Org_family: none
@@ -5683,6 +6036,7 @@ Latin American Energy Organization:
   Immunity_url: https://biblioteca.olade.org/opac-tmpl/Documentos/old0058.pdf
   Year_established: 1973
 Africa Finance Corporation:
+  SPVDN_id: SPVDN0494086
   Wikidata_code: Q23578910
   Entity_type: International organisation
   Org_family: none
@@ -5704,6 +6058,7 @@ Africa Finance Corporation:
   LEI_bic:
   - AFFCNGLAXXX
 African Export-Import Bank:
+  SPVDN_id: SPVDN0092933
   Wikidata_code: Q4689766
   Entity_type: International organisation
   Org_family: none
@@ -5730,6 +6085,7 @@ African Export-Import Bank:
   - AFXMEGCAXXX
   - PASSNGLAXXX
 Latin American Reserve Fund:
+  SPVDN_id: SPVDN0997784
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: Andean Community entities
@@ -5743,6 +6099,7 @@ Latin American Reserve Fund:
   Basis_for_assessment: B22
   Immunity_url: https://flar.com/wp-content/uploads/2023/10/FLAR-ESP-ConvenioConstitutivo2023-V03.pdf
 Latin American and the Caribbean Economic System:
+  SPVDN_id: SPVDN0756365
   Wikidata_code: Q605595
   Entity_type: International organisation
   Org_family: none
@@ -5759,6 +6116,7 @@ Latin American and the Caribbean Economic System:
   Year_established: 1975
   Headquarters: Caracas, Venezuela
 International Center for Promotion of Enterprises:
+  SPVDN_id: SPVDN0734703
   Wikidata_code: Q6049045
   Entity_type: International organisation
   Org_family: none
@@ -5771,6 +6129,7 @@ International Center for Promotion of Enterprises:
   Basis_for_assessment: B22
   Headquarters: Ljubljana, Slovenia
 OPEC Fund for International Development:
+  SPVDN_id: SPVDN0979737
   Wikidata_code: Q392787
   Entity_type: International organisation
   Org_family: Organization of the Petroleum Exporting Countries
@@ -5792,6 +6151,7 @@ OPEC Fund for International Development:
   LEI_bic:
   - OFIDATWWXXX
 Eurasian Development Bank:
+  SPVDN_id: SPVDN0761751
   Wikidata_code: Q498991
   Entity_type: International organisation
   Org_family: Eurasian Economic Union entities
@@ -5808,6 +6168,7 @@ Eurasian Development Bank:
   Year_established: 2006
   Headquarters: Almaty, Kazakhstan
 Central Bank of West African States:
+  SPVDN_id: SPVDN0658617
   Wikidata_code: Q620942
   Entity_type: International organisation
   Org_family: West African Economic and Monetary Union
@@ -5823,6 +6184,7 @@ Central Bank of West African States:
   Year_established: 1959
   Headquarters: Dakar, Senegal
 West African Development Bank:
+  SPVDN_id: SPVDN0839996
   Wikidata_code: Q2883427
   Entity_type: International organisation
   Org_family: West African Economic and Monetary Union
@@ -5846,6 +6208,7 @@ West African Development Bank:
   LEI_bic:
   - BOADTGTGXXX
 Liptako-Gourma Region Integrated Development Authority:
+  SPVDN_id: SPVDN0486384
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
@@ -5857,6 +6220,7 @@ Liptako-Gourma Region Integrated Development Authority:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 CAF - Development Bank of Latin America and the Caribbean:
+  SPVDN_id: SPVDN0486544
   Wikidata_code: Q2614129
   Entity_type: International organisation
   Org_family: Andean Community entities
@@ -5873,6 +6237,7 @@ CAF - Development Bank of Latin America and the Caribbean:
   Year_established: 1970
   Headquarters: Caracas, Venezuela
 International Iberian Nanotechnology Laboratory:
+  SPVDN_id: SPVDN0229812
   Wikidata_code: Q6051048
   Entity_type: International organisation
   Org_family: none
@@ -5885,6 +6250,7 @@ International Iberian Nanotechnology Laboratory:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 Latin American Faculty of Social Sciences:
+  SPVDN_id: SPVDN0336301
   Wikidata_code: Q255898
   Entity_type: International organisation
   Org_family: none
@@ -5900,6 +6266,7 @@ Latin American Faculty of Social Sciences:
   Immunity_url: http://www.worldlii.org/int/other/treaties/UNTSer/1976/165.pdf
   Year_established: 1957
 Pacific Salmon Commission:
+  SPVDN_id: SPVDN0587417
   Wikidata_code: Q7122672
   Entity_type: International organisation
   Org_family: none
@@ -5915,6 +6282,7 @@ Pacific Salmon Commission:
   Year_established: 1937
   Headquarters: Vancouver, Canada
 International Exhibition Bureau:
+  SPVDN_id: SPVDN0668804
   Wikidata_code: Q1010514
   Entity_type: International organisation
   Org_family: none
@@ -5932,6 +6300,7 @@ International Exhibition Bureau:
   Year_established: 1928
   Headquarters: Paris, France
 International Centre for the Study of the Preservation and the Restoration of Cultural Property:
+  SPVDN_id: SPVDN0320434
   Wikidata_code: Q590182
   Entity_type: International organisation
   Org_family: none
@@ -5950,6 +6319,7 @@ International Centre for the Study of the Preservation and the Restoration of Cu
   Year_established: 1956
   Headquarters: Rome, Italy
 CGIAR System Organization:
+  SPVDN_id: SPVDN0565899
   Wikidata_code: Q1128401
   Entity_type: International organisation
   Org_family: CGIAR entities
@@ -5966,6 +6336,7 @@ CGIAR System Organization:
   Year_established: 1971
   Headquarters: Montpellier, France
 International Centre for Agriculture Research in the Dry Areas:
+  SPVDN_id: SPVDN0140647
   Wikidata_code: Q601277
   Entity_type: International organisation
   Org_family: CGIAR entities
@@ -5980,6 +6351,7 @@ International Centre for Agriculture Research in the Dry Areas:
   Immunity_url: https://icarda.org/sites/default/files/2020-09/ICARDA%20Charter.pdf
   Year_established: 1975
 Secretariat of the BBNJ Agreement:
+  SPVDN_id: SPVDN0090608
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
@@ -5992,6 +6364,7 @@ Secretariat of the BBNJ Agreement:
   Basis_for_assessment: B22
   Immunity_url: https://www.un.org/bbnjagreement/sites/default/files/2024-08/Text%20of%20the%20Agreement%20in%20English.pdf
 Central African States Development Bank:
+  SPVDN_id: SPVDN0287821
   Wikidata_code: Q16531299
   Entity_type: International organisation
   Org_family: Economic and Monetary Community of Central Africa
@@ -6007,6 +6380,7 @@ Central African States Development Bank:
   Year_established: 1975
   Headquarters: Brazzaville, Republic of the Congo
 Benelux Court of Justice:
+  SPVDN_id: SPVDN0127673
   Wikidata_code: Q2613970
   Entity_type: International organisation
   Org_family: Benelux entities
@@ -6023,6 +6397,7 @@ Benelux Court of Justice:
   Year_established: 1974
   Headquarters: Luxembourg, Luxembourg
 Eastern Caribbean Supreme Court:
+  SPVDN_id: SPVDN0049478
   Wikidata_code: Q3001122
   Entity_type: International organisation
   Org_family: none
@@ -6043,6 +6418,7 @@ Eastern Caribbean Supreme Court:
   Year_established: 1967
   Headquarters: Castries, Saint Lucia
 Zambezi Watercourse Commission:
+  SPVDN_id: SPVDN0929362
   Wikidata_code: Q8065663
   Entity_type: International organisation
   Org_family: none
@@ -6058,6 +6434,7 @@ Zambezi Watercourse Commission:
   Year_established: 2004
   Headquarters: Gaborone, Botswana
 East African Court of Justice:
+  SPVDN_id: SPVDN0249956
   Wikidata_code: Q5327654
   Entity_type: International organisation
   Org_family: none
@@ -6072,6 +6449,7 @@ East African Court of Justice:
   Immunity_url: https://www.eacj.org//wp-content/uploads/2012/08/EACJ-Treaty.pdf
   Year_established: 2001
 Global Green Growth Institute:
+  SPVDN_id: SPVDN0328289
   Wikidata_code: Q12586353
   Entity_type: International organisation
   Org_family: none
@@ -6089,6 +6467,7 @@ Global Green Growth Institute:
   Year_established: 2010
   Headquarters: Seoul, South Korea
 International Bamboo and Rattan Organization:
+  SPVDN_id: SPVDN0820622
   Wikidata_code: Q6052145
   Entity_type: International organisation
   Org_family: none
@@ -6105,6 +6484,7 @@ International Bamboo and Rattan Organization:
   Year_established: 1997
   Headquarters: Beijing, People's Republic of China
 Caribbean Agricultural Research and Development Institute:
+  SPVDN_id: SPVDN0512549
   Wikidata_code: Q25339749
   Entity_type: International organisation
   Org_family: Caribbean Community entities
@@ -6119,6 +6499,7 @@ Caribbean Agricultural Research and Development Institute:
   Immunity_url: https://faolex.fao.org/docs/pdf/jam70785.pdf
   Year_established: 1975
 Visegrad Patent Institute:
+  SPVDN_id: SPVDN0342665
   Wikidata_code: Q21187824
   Entity_type: International organisation
   Org_family: none
@@ -6132,6 +6513,7 @@ Visegrad Patent Institute:
   Basis_for_assessment: B22
   Year_established: 2015
 Pan African Postal Union:
+  SPVDN_id: SPVDN0172021
   Wikidata_code: '[No code found].'
   Entity_type: International organisation
   Org_family: none
@@ -6145,6 +6527,7 @@ Pan African Postal Union:
   Basis_for_assessment: B22
   Immunity_url: https://www.jus.uio.no/english/services/library/treaties/07/7-05/oau_postal_union.html
 African and Malagasy Council for Higher Education:
+  SPVDN_id: SPVDN0179942
   Wikidata_code: Q2993667
   Entity_type: International organisation
   Org_family: none
@@ -6159,6 +6542,7 @@ African and Malagasy Council for Higher Education:
   Basis_for_assessment: B22
   Year_established: 1968
 International Commission for the Protection of the Elbe River:
+  SPVDN_id: SPVDN0872377
   Wikidata_code: Q998153
   Entity_type: International organisation
   Org_family: none
@@ -6175,6 +6559,7 @@ International Commission for the Protection of the Elbe River:
   Year_established: 1990
   Headquarters: Magdeburg, Germany
 International Meuse Commission:
+  SPVDN_id: SPVDN0174969
   Wikidata_code: Q124290267
   Entity_type: International organisation
   Org_family: none
@@ -6190,6 +6575,7 @@ International Meuse Commission:
   Year_established: 2002
   Headquarters: Liège, Belgium
 African Telecommunications Union:
+  SPVDN_id: SPVDN0207501
   Wikidata_code: Q4689935
   Entity_type: International organisation
   Org_family: none
@@ -6203,6 +6589,7 @@ African Telecommunications Union:
   Basis_for_assessment: B22
   Immunity_url: https://atuuat.africa/wp-content/uploads/2019/11/ATU-Constitution-and-Convention-Cape-Town-1999-Rev.-Harare-2014.pdf
 Permanent Joint Technical Commission for Nile Waters:
+  SPVDN_id: SPVDN0670008
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
@@ -6215,6 +6602,7 @@ Permanent Joint Technical Commission for Nile Waters:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 International Sericultural Commission:
+  SPVDN_id: SPVDN0566723
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
@@ -6227,6 +6615,7 @@ International Sericultural Commission:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 Arab Authority for Agricultural Investment and Development:
+  SPVDN_id: SPVDN0827554
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
@@ -6239,6 +6628,7 @@ Arab Authority for Agricultural Investment and Development:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 Council of the Baltic Sea States:
+  SPVDN_id: SPVDN0261143
   Wikidata_code: Q789769
   Entity_type: International organisation
   Org_family: none
@@ -6256,6 +6646,7 @@ Council of the Baltic Sea States:
   Year_established: 1992
   Headquarters: Stockholm, Sweden
 Secretariat of the Central European Free Trade Agreement:
+  SPVDN_id: SPVDN0717102
   Wikidata_code: '[No code.]'
   Entity_type: International organisation
   Org_family: none
@@ -6268,6 +6659,7 @@ Secretariat of the Central European Free Trade Agreement:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 Andean Parliament:
+  SPVDN_id: SPVDN0211698
   Wikidata_code: Q490447
   Entity_type: International organisation
   Org_family: Andean Community entities
@@ -6284,6 +6676,7 @@ Andean Parliament:
   Year_established: 1979
   Headquarters: Bogotá, Colombia
 Eurasian Patent Organization:
+  SPVDN_id: SPVDN0467685
   Wikidata_code: Q1374303
   Entity_type: International organisation
   Org_family: none
@@ -6299,6 +6692,7 @@ Eurasian Patent Organization:
   Immunity_url: https://www.eapo.org/en/documents-2/legal-protection-of-inventions/eurasian-patent-convention/
   Year_established: 1994
 African Civil Service Observatory:
+  SPVDN_id: SPVDN0233669
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
@@ -6313,6 +6707,7 @@ African Civil Service Observatory:
   Basis_for_assessment: B22
   Immunity_url: https://www.ofpa.net/wp-content/uploads/2017/10/nvostatuts.pdf
 ECOWAS Court of Justice:
+  SPVDN_id: SPVDN0590807
   Wikidata_code: Q30324003
   Entity_type: International organisation
   Org_family: ECOWAS entities
@@ -6328,6 +6723,7 @@ ECOWAS Court of Justice:
   Immunity_url: https://africanlii.org/en/akn/aa-ecowas/act/treaty/1993/revised-treaty/eng%401993-07-24/source.pdf
   Year_established: 2001
 ECOWAS Parliament:
+  SPVDN_id: SPVDN0225387
   Wikidata_code: Q97374162
   Entity_type: International organisation
   Org_family: ECOWAS entities
@@ -6344,6 +6740,7 @@ ECOWAS Parliament:
   Immunity_url: https://edit.wti.org/document/show/c3b73b1c-4f51-423a-be13-f57244f4b058
   Headquarters: Abuja, Nigeria
 Caribbean Disaster Emergency Management Agency:
+  SPVDN_id: SPVDN0279709
   Wikidata_code: Q5039374
   Entity_type: International organisation
   Org_family: none
@@ -6359,6 +6756,7 @@ Caribbean Disaster Emergency Management Agency:
   Basis_for_assessment: B22
   Year_established: 1991
 EFTA Court:
+  SPVDN_id: SPVDN0755248
   Wikidata_code: Q610886
   Entity_type: International organisation
   Org_family: EFTA entities
@@ -6384,6 +6782,7 @@ EFTA Court:
   LEI_hq_address: 1, RUE DU FORT THÜNGEN, LUXEMBOURG, L-1499, LU
   LEI_bic: null
 Economic Court of the Commonwealth of Independent States:
+  SPVDN_id: SPVDN0429721
   Wikidata_code: Q4306397
   Entity_type: International organisation
   Org_family: none
@@ -6398,6 +6797,7 @@ Economic Court of the Commonwealth of Independent States:
   Year_established: 1992
   Headquarters: Minsk, Belarus
 European Nuclear Energy Tribunal:
+  SPVDN_id: SPVDN0843878
   Wikidata_code: Q5412873
   Entity_type: International organisation
   Org_family: none
@@ -6411,6 +6811,7 @@ European Nuclear Energy Tribunal:
   Basis_for_assessment: B22
   Year_established: 1957
 Central American Court of Justice:
+  SPVDN_id: SPVDN0366825
   Wikidata_code: Q190017
   Entity_type: International organisation
   Org_family: none
@@ -6427,6 +6828,7 @@ Central American Court of Justice:
   Year_established: 1994
   Headquarters: Managua, Nicaragua
 Judicial Committee of the Privy Council:
+  SPVDN_id: SPVDN0080104
   Wikidata_code: Q1710982
   Entity_type: International organisation
   Org_family: none
@@ -6444,6 +6846,7 @@ Judicial Committee of the Privy Council:
   Year_established: 1833
   Headquarters: Middlesex Guildhall, United Kingdom
 Inter-American Statistical Institute:
+  SPVDN_id: SPVDN0433114
   Wikidata_code: Q55725862
   Entity_type: International organisation
   Org_family: none
@@ -6459,6 +6862,7 @@ Inter-American Statistical Institute:
   Basis_for_assessment: B22
   Year_established: 1940
 International Solar Alliance:
+  SPVDN_id: SPVDN0097698
   Wikidata_code: Q21594952
   Entity_type: International organisation
   Org_family: none
@@ -6483,6 +6887,7 @@ International Solar Alliance:
     GURUGRAM, HARYANA, GURUGRAM, GURUGRAM, 122003, IN
   LEI_bic: null
 Limpopo Watercourse Commission:
+  SPVDN_id: SPVDN0084388
   Wikidata_code: '[No code.]'
   Entity_type: International organisation
   Org_family: none
@@ -6495,6 +6900,7 @@ Limpopo Watercourse Commission:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 International Sava River Basin Commission:
+  SPVDN_id: SPVDN0557028
   Wikidata_code: Q3297537
   Entity_type: International organisation
   Org_family: none
@@ -6510,6 +6916,7 @@ International Sava River Basin Commission:
   Year_established: 2006
   Headquarters: Zagreb, Croatia
 International Plant Genetic Resources Institute:
+  SPVDN_id: SPVDN0610800
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
@@ -6523,6 +6930,7 @@ International Plant Genetic Resources Institute:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 Permanent Okavango River Basin Water Commission:
+  SPVDN_id: SPVDN0985057
   Wikidata_code: Q96097566
   Entity_type: International organisation
   Org_family: none
@@ -6538,6 +6946,7 @@ Permanent Okavango River Basin Water Commission:
   Year_established: 1994
   Headquarters: Gaborone, Botswana
 Orange-Senqu River Commission:
+  SPVDN_id: SPVDN0062771
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
@@ -6551,6 +6960,7 @@ Orange-Senqu River Commission:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 Asia-Pacific Economic Cooperation Secretariat:
+  SPVDN_id: SPVDN0595777
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
@@ -6564,6 +6974,7 @@ Asia-Pacific Economic Cooperation Secretariat:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 Asian Reinsurance Corporation:
+  SPVDN_id: SPVDN0033465
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
@@ -6577,6 +6988,7 @@ Asian Reinsurance Corporation:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 International Commission for the Protection of the Rhine:
+  SPVDN_id: SPVDN0909580
   Wikidata_code: Q1667341
   Entity_type: International organisation
   Org_family: none
@@ -6594,6 +7006,7 @@ International Commission for the Protection of the Rhine:
   Year_established: 1994
   Headquarters: Koblenz, Germany
 Caribbean Council of Legal Education:
+  SPVDN_id: SPVDN0860060
   Wikidata_code: Q117210367
   Entity_type: International organisation
   Org_family: Caribbean Community entities
@@ -6608,6 +7021,7 @@ Caribbean Council of Legal Education:
   Basis_for_assessment: B22
   Immunity_url: https://drupal.caricom.org/sites/default/files/2021-06/Agreement-Establishing-The-Council-of-Legal-Education.pdf
 Melanesian Spearhead Group:
+  SPVDN_id: SPVDN0334963
   Wikidata_code: Q1918937
   Entity_type: International organisation
   Org_family: none
@@ -6623,6 +7037,7 @@ Melanesian Spearhead Group:
   Basis_for_assessment: B22
   Year_established: 1983
 Arms Trade Treaty Secretariat:
+  SPVDN_id: SPVDN0710601
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
@@ -6637,6 +7052,7 @@ Arms Trade Treaty Secretariat:
   Basis_for_assessment: B22
   Immunity_url: https://www.fedlex.admin.ch/eli/cc/2016/477/fr
 International Rice Research Institute:
+  SPVDN_id: SPVDN0407670
   Wikidata_code: Q1204921
   Entity_type: International organisation
   Org_family: CGIAR entities
@@ -6655,6 +7071,7 @@ International Rice Research Institute:
   Year_established: 1960
   Headquarters: Los Baños, Philippines
 International Union for Conservation of Nature and Natural Resources:
+  SPVDN_id: SPVDN0508338
   Wikidata_code: Q48268
   Entity_type: International organisation
   Org_family: none
@@ -6679,6 +7096,7 @@ International Union for Conservation of Nature and Natural Resources:
   LEI_hq_address: Rue Mauverney 28, Gland, 1196, CH
   LEI_bic: null
 International Potato Center:
+  SPVDN_id: SPVDN0273109
   Wikidata_code: Q1054322
   Entity_type: International organisation
   Org_family: CGIAR entities
@@ -6696,6 +7114,7 @@ International Potato Center:
   Year_established: 1971
   Headquarters: Lima, Peru
 International Center for Tropical Agriculture:
+  SPVDN_id: SPVDN0868111
   Wikidata_code: Q1054314
   Entity_type: International organisation
   Org_family: CGIAR entities
@@ -6713,6 +7132,7 @@ International Center for Tropical Agriculture:
   Year_established: 1967
   Headquarters: Rome, Italy
 Court of Conciliation and Arbitration:
+  SPVDN_id: SPVDN0145119
   Wikidata_code: Q3001076
   Entity_type: International organisation
   Org_family: OSCE entities
@@ -6728,6 +7148,7 @@ Court of Conciliation and Arbitration:
   Basis_for_assessment: B22
   Immunity_url: https://cdn.osce.org/sites/default/files/f/documents/a/0/111409_2.pdf
 Asia-Pacific Telecommunity:
+  SPVDN_id: SPVDN0105204
   Wikidata_code: Q4806261
   Entity_type: International organisation
   Org_family: none
@@ -6743,6 +7164,7 @@ Asia-Pacific Telecommunity:
   Immunity_url: https://apt.int/pdfs/Constitution.pdf
   Year_established: 1979
 Central American Maritime Transport Commission:
+  SPVDN_id: SPVDN0791639
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
@@ -6757,6 +7179,7 @@ Central American Maritime Transport Commission:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 Central American Educational and Cultural Coordination:
+  SPVDN_id: SPVDN0381033
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
@@ -6770,6 +7193,7 @@ Central American Educational and Cultural Coordination:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 Moselle Commission:
+  SPVDN_id: SPVDN0834902
   Wikidata_code: Q114056411
   Entity_type: International organisation
   Org_family: none
@@ -6787,6 +7211,7 @@ Moselle Commission:
   Year_established: 1962
   Headquarters: Trier, Germany
 Parliamentary Assembly of Turkic States:
+  SPVDN_id: SPVDN0525520
   Wikidata_code: Q4345435
   Entity_type: International organisation
   Org_family: Organization of Turkic States entities
@@ -6801,6 +7226,7 @@ Parliamentary Assembly of Turkic States:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 Turkic Academy:
+  SPVDN_id: SPVDN0691350
   Wikidata_code: Q18508934
   Entity_type: International organisation
   Org_family: Organization of Turkic States entities
@@ -6817,6 +7243,7 @@ Turkic Academy:
   Year_established: 2009
   Headquarters: Astana, Kazakhstan
 Court of the Eurasian Economic Union:
+  SPVDN_id: SPVDN0874704
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: Eurasian Economic Union entities
@@ -6830,6 +7257,7 @@ Court of the Eurasian Economic Union:
   Basis_for_assessment: B22
   Immunity_url: https://www.un.org/en/ga/sixth/70/docs/treaty_on_eeu.pdf
 African Energy Commission:
+  SPVDN_id: SPVDN0797397
   Wikidata_code: Q4689761
   Entity_type: International organisation
   Org_family: African Union entities
@@ -6842,6 +7270,7 @@ African Energy Commission:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 Caribbean Regional Fisheries Mechanism:
+  SPVDN_id: SPVDN0772974
   Wikidata_code: Q117198149
   Entity_type: International organisation
   Org_family: Caribbean Community entities
@@ -6857,6 +7286,7 @@ Caribbean Regional Fisheries Mechanism:
   Year_established: 2003
   Headquarters: Belize City, Belize
 International Commission for the Protection of the Scheldt:
+  SPVDN_id: SPVDN0182401
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
@@ -6870,6 +7300,7 @@ International Commission for the Protection of the Scheldt:
   Basis_for_assessment: B22
   Immunity_url: https://www.isc-cie.org/wp-content/uploads/ACC-GENT_Accord-Escaut.pdf
 Lake Tanganyika Authority:
+  SPVDN_id: SPVDN0619307
   Wikidata_code: Q30261886
   Entity_type: International organisation
   Org_family: none
@@ -6885,6 +7316,7 @@ Lake Tanganyika Authority:
   Immunity_url: http://lta.iwlearn.org/documents/the-convention-on-the-sustainable-management-of-lake-tanganyika-eng.pdf
   Year_established: 2008
 Caribbean Centre for Development Administration:
+  SPVDN_id: SPVDN0488642
   Wikidata_code: Q117193380
   Entity_type: International organisation
   Org_family: Caribbean Community entities
@@ -6900,6 +7332,7 @@ Caribbean Centre for Development Administration:
   Year_established: 1975
   Headquarters: Saint Michael, Barbados
 Caribbean Community Climate Change Centre:
+  SPVDN_id: SPVDN0469772
   Wikidata_code: Q117286619
   Entity_type: International organisation
   Org_family: Caribbean Community entities
@@ -6917,6 +7350,7 @@ Caribbean Community Climate Change Centre:
   Year_established: 2001
   Headquarters: Belmopan, Belize
 African Risk Capacity Agency:
+  SPVDN_id: SPVDN0677690
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: African Union entities
@@ -6930,6 +7364,7 @@ African Risk Capacity Agency:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 British-Irish Council:
+  SPVDN_id: SPVDN0829276
   Wikidata_code: Q2655795
   Org_family: North South bodies
   Country: zz
@@ -6945,6 +7380,7 @@ British-Irish Council:
   Year_established: 1999
   Headquarters: Edinburgh, United Kingdom
 Foyle, Carlingford and Irish Lights Commission:
+  SPVDN_id: SPVDN0244713
   Wikidata_code: Q98139786
   Org_family: North South bodies
   Type: all-Ireland implementation body
@@ -6955,6 +7391,7 @@ Foyle, Carlingford and Irish Lights Commission:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B26
 InterTradeIreland:
+  SPVDN_id: SPVDN0486328
   Wikidata_code: Q13157417
   Org_family: North South bodies
   Type: all-Ireland implementation body
@@ -6965,6 +7402,7 @@ InterTradeIreland:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B26
 North/South Language Body:
+  SPVDN_id: SPVDN0101917
   Wikidata_code: Q7754333
   Org_family: North South bodies
   Type: all-Ireland implementation body
@@ -6976,6 +7414,7 @@ North/South Language Body:
   Basis_for_assessment: B26
   Year_established: 1999
 Safefood:
+  SPVDN_id: SPVDN0014904
   Wikidata_code: Q7398561
   Org_family: North South bodies
   Type: all-Ireland implementation body
@@ -6989,6 +7428,7 @@ Safefood:
   Year_established: 1999
   Headquarters: Cork, Ireland
 Special EU Programmes Body:
+  SPVDN_id: SPVDN0950492
   Wikidata_code: Q7574528
   Org_family: North South bodies
   Type: all-Ireland implementation body
@@ -7000,6 +7440,7 @@ Special EU Programmes Body:
   Basis_for_assessment: B26
   Year_established: 1999
 Tourism Ireland:
+  SPVDN_id: SPVDN0249901
   Wikidata_code: Q7829093
   Org_family: North South bodies
   Country: zz
@@ -7011,6 +7452,7 @@ Tourism Ireland:
   Basis_for_assessment: B26
   Year_established: 1999
 Waterways Ireland:
+  SPVDN_id: SPVDN0738421
   Wikidata_code: Q1734583
   Org_family: North South bodies
   Type: all-Ireland implementation body
@@ -7024,6 +7466,7 @@ Waterways Ireland:
   Year_established: 1999
   Headquarters: Enniskillen, United Kingdom
 North/South Ministerial Council:
+  SPVDN_id: SPVDN0827418
   Wikidata_code: Q1800594
   Org_family: North South bodies
   Country: zz
@@ -7036,6 +7479,7 @@ North/South Ministerial Council:
   Year_established: 1999
   Headquarters: Armagh, United Kingdom
 Coalition for Disaster Resilient Infrastructure:
+  SPVDN_id: SPVDN0194741
   Wikidata_code: Q85753142
   Org_family: none
   Country: zz
@@ -7054,6 +7498,7 @@ Coalition for Disaster Resilient Infrastructure:
     (IIPA) INDRAPRASTHA ESTATE, MAHATMA GANDHI ROAD, NEW DELHI, 110002, IN
   LEI_bic: null
 Arab League:
+  SPVDN_id: SPVDN0441736
   Wikidata_code: Q7172
   Entity_type: International organisation
   Org_family: Arab League entities
@@ -7070,6 +7515,7 @@ Arab League:
   Year_established: 1945
   Headquarters: Headquarters of the Arab League, Egypt
 Arab Industrial Development Standardization and Mining Organization:
+  SPVDN_id: SPVDN0402551
   Wikidata_code: Q4783189
   Entity_type: International organisation
   Org_family: Arab League entities
@@ -7089,6 +7535,7 @@ Arab Industrial Development Standardization and Mining Organization:
   LEI_hq_address: France Avenue, Agdal, Rabat, 10000, MA
   LEI_bic: null
 Arab States Broadcasting Union:
+  SPVDN_id: SPVDN0852062
   Wikidata_code: Q4783249
   Entity_type: International organisation
   Org_family: Arab League entities
@@ -7111,6 +7558,7 @@ Arab States Broadcasting Union:
   LEI_hq_address: RUE SOFIENE CHAARI CENTRE URBAIN NORD, Tunis, 1001, TN
   LEI_bic: null
 Arab Center for the Studies of Arid Zones and Dry Lands:
+  SPVDN_id: SPVDN0692842
   Wikidata_code: Q30289729
   Entity_type: International organisation
   Org_family: Arab League entities
@@ -7123,6 +7571,7 @@ Arab Center for the Studies of Arid Zones and Dry Lands:
   Basis_for_assessment: B22
   Year_established: 1968
 Arab Fund for Economic and Social Development:
+  SPVDN_id: SPVDN0505191
   Wikidata_code: Q1137381
   Entity_type: International organisation
   Org_family: Arab League entities
@@ -7138,6 +7587,7 @@ Arab Fund for Economic and Social Development:
   Year_established: 1968
   Headquarters: Kuwait City, Kuwait
 Arab Bank for Economic Development in Africa:
+  SPVDN_id: SPVDN0711660
   Wikidata_code: Q4783148
   Entity_type: International organisation
   Org_family: Arab League entities
@@ -7162,6 +7612,7 @@ Arab Bank for Economic Development in Africa:
   LEI_bic:
   - AEDCSARIXXX
 Arab Civil Aviation Organization:
+  SPVDN_id: SPVDN0327719
   Wikidata_code: Q22686285
   Entity_type: International organisation
   Org_family: Arab League entities
@@ -7181,6 +7632,7 @@ Arab Civil Aviation Organization:
   LEI_hq_address: 20 Ait Ba'amran Street Mohammed VI Street, Rabat-Suezy, 10001, MA
   LEI_bic: null
 Arab Women Organization:
+  SPVDN_id: SPVDN0552567
   Wikidata_code: Q12245743
   Entity_type: International organisation
   Org_family: Arab League entities
@@ -7194,6 +7646,7 @@ Arab Women Organization:
   Immunity_url: https://www.lloc.gov.bh/FullEn/L2402.docx
   Headquarters: Egypt, Egypt
 Arab Atomic Energy Agency:
+  SPVDN_id: SPVDN0660979
   Wikidata_code: Q56376750
   Entity_type: International organisation
   Org_family: Arab League entities
@@ -7209,6 +7662,7 @@ Arab Atomic Energy Agency:
   Year_established: 1989
   Headquarters: Tunis, Tunisia
 Arab Labor Organization:
+  SPVDN_id: SPVDN0024895
   Wikidata_code: Q35586998
   Entity_type: International organisation
   Org_family: Arab League entities
@@ -7221,6 +7675,7 @@ Arab Labor Organization:
   Basis_for_assessment: B22
   Headquarters: Giza, Egypt
 Arab Monetary Fund:
+  SPVDN_id: SPVDN0690200
   Wikidata_code: Q624307
   Entity_type: International organisation
   Org_family: Arab League entities
@@ -7244,6 +7699,7 @@ Arab Monetary Fund:
   LEI_bic:
   - ARMFAEAAXXX
 Arab Satellite Communications Organisation:
+  SPVDN_id: SPVDN0065929
   Wikidata_code: Q624426
   Entity_type: International organisation
   Org_family: Arab League entities
@@ -7259,6 +7715,7 @@ Arab Satellite Communications Organisation:
   Year_established: 1976
   Headquarters: Riyadh, Saudi Arabia
 Arab Organization for Agricultural Development:
+  SPVDN_id: SPVDN0953220
   Wikidata_code: Q30082921
   Entity_type: International organisation
   Org_family: Arab League entities
@@ -7274,6 +7731,7 @@ Arab Organization for Agricultural Development:
   Immunity_url: https://www.lloc.gov.bh/Legislation/HTM/D0475
   Headquarters: Khartoum, Sudan
 Arab Organization for Communication and Information Technologies:
+  SPVDN_id: SPVDN0449741
   Wikidata_code: Q4783192
   Entity_type: International organisation
   Org_family: Arab League entities
@@ -7288,6 +7746,7 @@ Arab Organization for Communication and Information Technologies:
   Basis_for_assessment: B22
   Headquarters: Tunis, Tunisia
 Simón Bolívar Andean University:
+  SPVDN_id: SPVDN0004524
   Wikidata_code: Q136663772
   Entity_type: International organisation
   Org_family: Andean Community entities
@@ -7301,6 +7760,7 @@ Simón Bolívar Andean University:
   Immunity_url: https://www.uasb.edu.ec/wp-content/uploads/2021/03/ESTATUTO.pdf
   Year_established: 1992
 Asian-African Legal Consultative Organisation:
+  SPVDN_id: SPVDN0343828
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
   Org_family: none
@@ -7314,6 +7774,7 @@ Asian-African Legal Consultative Organisation:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 East African Legislative Assembly:
+  SPVDN_id: SPVDN0588125
   Wikidata_code: Q5327657
   Entity_type: International organisation
   Org_family: East African Community
@@ -7329,6 +7790,7 @@ East African Legislative Assembly:
   Year_established: 2001
   Headquarters: Arusha, Tanzania
 Board of Peace:
+  SPVDN_id: SPVDN0638879
   Wikidata_code: Q136402081
   Entity_type: International organisation
   Org_family: none
@@ -7346,6 +7808,7 @@ Board of Peace:
   Year_established: 2026
   Headquarters: Washington, D.C., United States
 North Pacific Fisheries Commission:
+  SPVDN_id: SPVDN0397284
   Wikidata_code: Q24834021
   Entity_type: International organisation
   Org_family: none
@@ -7360,6 +7823,7 @@ North Pacific Fisheries Commission:
   Immunity_url: https://www.npfc.int/system/files/2017-01/Convention%20Text.pdf
   Year_established: 2015
 Centre on Integrated Rural Development for Asia and the Pacific:
+  SPVDN_id: SPVDN0829174
   Wikidata_code: Q5011840
   Entity_type: International organisation
   Org_family: none
@@ -7374,6 +7838,7 @@ Centre on Integrated Rural Development for Asia and the Pacific:
   Immunity_url: https://faolex.fao.org/docs/pdf/mal33937.pdf
   Year_established: 1979
 United Nations:
+  SPVDN_id: SPVDN0567566
   Wikidata_code: Q1065
   Org_family: UN and affiliates
   Country: zz
@@ -7399,6 +7864,7 @@ United Nations:
   LEI_bic:
   - UNATUS33XXX
 United Nations Security Council:
+  SPVDN_id: SPVDN0310496
   Wikidata_code: Q37470
   Org_family: UN and affiliates
   Country: zz
@@ -7415,6 +7881,7 @@ United Nations Security Council:
   Year_established: 1945
   Headquarters: New York City, United States
 United Nations Economic and Social Council:
+  SPVDN_id: SPVDN0894702
   Wikidata_code: Q170075
   Org_family: UN and affiliates
   Country: zz
@@ -7431,6 +7898,7 @@ United Nations Economic and Social Council:
   Year_established: 1945
   Headquarters: New York City, United States
 United Nations General Assembly:
+  SPVDN_id: SPVDN0997193
   Wikidata_code: Q47423
   Org_family: UN and affiliates
   Country: zz
@@ -7447,6 +7915,7 @@ United Nations General Assembly:
   Year_established: 1945
   Headquarters: Headquarters of the United Nations, United States
 United Nations Trusteeship Council:
+  SPVDN_id: SPVDN0551280
   Wikidata_code: Q219693
   Org_family: UN and affiliates
   Country: zz
@@ -7463,6 +7932,7 @@ United Nations Trusteeship Council:
   Year_established: 1945
   Headquarters: New York City, United States
 United Nations Secretariat:
+  SPVDN_id: SPVDN0118149
   Wikidata_code: Q220563
   Org_family: UN and affiliates
   Country: zz
@@ -7479,6 +7949,7 @@ United Nations Secretariat:
   Year_established: 1945
   Headquarters: Vienna, Austria
 International Court of Justice:
+  SPVDN_id: SPVDN0106934
   Wikidata_code: Q7801
   Org_family: UN and affiliates
   Country: zz
@@ -7495,6 +7966,7 @@ International Court of Justice:
   Year_established: 1945
   Headquarters: Peace Palace, Netherlands
 Food and Agriculture Organization:
+  SPVDN_id: SPVDN0646093
   Wikidata_code: Q82151
   Org_family: UN and affiliates
   Country: zz
@@ -7521,6 +7993,7 @@ Food and Agriculture Organization:
   LEI_bic:
   - FAORITRRXXX
 International Bank for Reconstruction and Development:
+  SPVDN_id: SPVDN0614040
   Wikidata_code: Q191384
   Org_family: UN and affiliates
   Country: zz
@@ -7547,6 +8020,7 @@ International Bank for Reconstruction and Development:
   LEI_bic:
   - IBRDUS33XXX
 International Civil Aviation Organization:
+  SPVDN_id: SPVDN0508474
   Wikidata_code: Q125761
   Org_family: UN and affiliates
   Country: zz
@@ -7572,6 +8046,7 @@ International Civil Aviation Organization:
   LEI_hq_address: 999 Blvd Robert-Bourassa, Montreal, H3C 5H7, CA
   LEI_bic: null
 International Fund for Agricultural Development:
+  SPVDN_id: SPVDN0394070
   Wikidata_code: Q689859
   Org_family: UN and affiliates
   Country: zz
@@ -7598,6 +8073,7 @@ International Fund for Agricultural Development:
   LEI_bic:
   - IFADITRRXXX
 International Telecommunication Union:
+  SPVDN_id: SPVDN0692400
   Wikidata_code: Q376150
   Org_family: UN and affiliates
   Country: zz
@@ -7616,6 +8092,7 @@ International Telecommunication Union:
   Year_established: 1865
   Headquarters: Geneva, Switzerland
 United Nations Children’s Fund:
+  SPVDN_id: SPVDN0550889
   Wikidata_code: Q740308
   Org_family: UN and affiliates
   Country: zz
@@ -7641,6 +8118,7 @@ United Nations Children’s Fund:
   LEI_bic:
   - UNCFUS33XXX
 United Nations Development Programme:
+  SPVDN_id: SPVDN0502943
   Wikidata_code: Q161718
   Org_family: UN and affiliates
   Country: zz
@@ -7665,6 +8143,7 @@ United Nations Development Programme:
   LEI_bic:
   - UNDPUS33XXX
 United Nations Environment Programme:
+  SPVDN_id: SPVDN0840426
   Wikidata_code: Q182016
   Org_family: UN and affiliates
   Country: zz
@@ -7681,6 +8160,7 @@ United Nations Environment Programme:
   Year_established: 1972
   Headquarters: Nairobi, Kenya
 Office of the United Nations High Commissioner for Refugees:
+  SPVDN_id: SPVDN0237365
   Wikidata_code: Q28606331
   Org_family: UN and affiliates
   Country: zz
@@ -7694,6 +8174,7 @@ Office of the United Nations High Commissioner for Refugees:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
 United Nations Office for Project Services:
+  SPVDN_id: SPVDN0417903
   Wikidata_code: Q2531088
   Org_family: UN and affiliates
   Country: zz
@@ -7718,6 +8199,7 @@ United Nations Office for Project Services:
   LEI_bic:
   - UNOPDKKKXXX
 United Nations Population Fund:
+  SPVDN_id: SPVDN0906207
   Wikidata_code: Q623036
   Org_family: UN and affiliates
   Country: zz
@@ -7741,6 +8223,7 @@ United Nations Population Fund:
   LEI_hq_address: 605 THIRD AVENUE, NEW YORK, 10158, US
   LEI_bic: null
 United Nations World Food Programme:
+  SPVDN_id: SPVDN0465703
   Wikidata_code: Q204344
   Org_family: UN and affiliates
   Country: zz
@@ -7765,6 +8248,7 @@ United Nations World Food Programme:
   LEI_bic:
   - WFPRITRRXXX
 World Bank:
+  SPVDN_id: SPVDN0917339
   Wikidata_code: Q7164
   Org_family: UN and affiliates
   Country: zz
@@ -7786,6 +8270,7 @@ World Bank:
   Year_established: 1945
   Headquarters: World Bank Headquarters, United States
 World Bank Group:
+  SPVDN_id: SPVDN0513348
   Wikidata_code: Q320863
   Org_family: UN and affiliates
   Country: zz
@@ -7801,6 +8286,7 @@ World Bank Group:
   Year_established: 1944
   Headquarters: Washington, D.C., United States
 World Health Organization:
+  SPVDN_id: SPVDN0589231
   Wikidata_code: Q7817
   Org_family: UN and affiliates
   Country: zz
@@ -7826,6 +8312,7 @@ World Health Organization:
   LEI_hq_address: AVENUE APPIA 20, GENEVA, 1211, CH
   LEI_bic: null
 World Intellectual Property Organization:
+  SPVDN_id: SPVDN0361104
   Wikidata_code: Q177773
   Org_family: UN and affiliates
   Country: zz
@@ -7844,6 +8331,7 @@ World Intellectual Property Organization:
   Year_established: 1967
   Headquarters: Geneva, Switzerland
 International Maritime Organization:
+  SPVDN_id: SPVDN0581259
   Wikidata_code: Q201054
   Org_family: UN and affiliates
   Country: zz
@@ -7869,6 +8357,7 @@ International Maritime Organization:
   LEI_hq_address: 4 Albert Embankment, London, SE1 7SR, GB
   LEI_bic: null
 United Nations Educational, Scientific and Cultural Organization:
+  SPVDN_id: SPVDN0870199
   Wikidata_code: Q7809
   Org_family: UN and affiliates
   Country: zz
@@ -7895,6 +8384,7 @@ United Nations Educational, Scientific and Cultural Organization:
   LEI_bic:
   - UNESFRP2XXX
 International Labour Organization:
+  SPVDN_id: SPVDN0372703
   Wikidata_code: Q54129
   Org_family: UN and affiliates
   Country: zz
@@ -7913,6 +8403,7 @@ International Labour Organization:
   Year_established: 1919
   Headquarters: Geneva, Switzerland
 Universal Postal Union:
+  SPVDN_id: SPVDN0484140
   Wikidata_code: Q17495
   Org_family: UN and affiliates
   Country: zz
@@ -7931,6 +8422,7 @@ Universal Postal Union:
   Year_established: 1874
   Headquarters: Bern, Switzerland
 International Monetary Fund:
+  SPVDN_id: SPVDN0760327
   Wikidata_code: Q7804
   Org_family: UN and affiliates
   Country: zz
@@ -7957,6 +8449,7 @@ International Monetary Fund:
   LEI_bic:
   - IMFDUS3WXXX
 International Atomic Energy Agency:
+  SPVDN_id: SPVDN0243685
   Wikidata_code: Q41984
   Org_family: UN and affiliates
   Country: zz
@@ -7981,6 +8474,7 @@ International Atomic Energy Agency:
   LEI_bic:
   - IAEAATWWXXX
 World Meteorological Organization:
+  SPVDN_id: SPVDN0295954
   Wikidata_code: Q170424
   Org_family: UN and affiliates
   Country: zz
@@ -7999,6 +8493,7 @@ World Meteorological Organization:
   Year_established: 1950
   Headquarters: Geneva, Switzerland
 International Organization for Migration:
+  SPVDN_id: SPVDN0069114
   Wikidata_code: Q472311
   Org_family: UN and affiliates
   Country: zz
@@ -8023,6 +8518,7 @@ International Organization for Migration:
   LEI_bic:
   - IOMICHGGXXX
 International Criminal Court:
+  SPVDN_id: SPVDN0627009
   Wikidata_code: Q47488
   Org_family: UN and affiliates
   Country: zz
@@ -8039,6 +8535,7 @@ International Criminal Court:
   Year_established: 2002
   Headquarters: The Hague, Netherlands
 Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organization:
+  SPVDN_id: SPVDN0350812
   Wikidata_code: Q15211422
   Org_family: UN and affiliates
   Country: zz
@@ -8065,6 +8562,7 @@ Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organizatio
   LEI_bic:
   - CTBTATWWXXX
 International Seabed Authority:
+  SPVDN_id: SPVDN0469976
   Wikidata_code: Q333727
   Org_family: UN and affiliates
   Country: zz
@@ -8081,6 +8579,7 @@ International Seabed Authority:
   Year_established: 1994
   Headquarters: Kingston, Jamaica
 International Tribunal for the Law of the Sea:
+  SPVDN_id: SPVDN0171799
   Wikidata_code: Q639118
   Org_family: UN and affiliates
   Country: zz
@@ -8097,6 +8596,7 @@ International Tribunal for the Law of the Sea:
   Year_established: 1996
   Headquarters: building of the International Tribunal for the Law of the Sea, Germany
 United Nations Tourism:
+  SPVDN_id: SPVDN0252299
   Wikidata_code: Q61923
   Org_family: UN and affiliates
   Country: zz
@@ -8116,6 +8616,7 @@ United Nations Tourism:
   Year_established: 1975
   Headquarters: Madrid, Spain
 United Nations Industrial Development Organization:
+  SPVDN_id: SPVDN0985502
   Wikidata_code: Q386120
   Org_family: UN and affiliates
   Country: zz
@@ -8141,6 +8642,7 @@ United Nations Industrial Development Organization:
   LEI_hq_address: Wagramer Strasse 5, Vienna, 1220, AT
   LEI_bic: null
 International Law Commission:
+  SPVDN_id: SPVDN0499092
   Wikidata_code: Q684656
   Org_family: UN and affiliates
   Country: zz
@@ -8155,6 +8657,7 @@ International Law Commission:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
 International Finance Corporation:
+  SPVDN_id: SPVDN0067323
   Wikidata_code: Q656801
   Org_family: UN and affiliates
   Country: zz
@@ -8179,6 +8682,7 @@ International Finance Corporation:
   LEI_bic:
   - IFCWUS33XXX
 International Development Association:
+  SPVDN_id: SPVDN0478013
   Wikidata_code: '[No code found.]'
   Org_family: UN and affiliates
   Country: zz
@@ -8200,6 +8704,7 @@ International Development Association:
   LEI_bic:
   - IDAWUS33XXX
 Fishery Committee for the Eastern Central Atlantic:
+  SPVDN_id: SPVDN0277407
   Wikidata_code: Q12617572
   Org_family: UN and affiliates
   Type: FAO statutory body
@@ -8214,6 +8719,7 @@ Fishery Committee for the Eastern Central Atlantic:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B16
 South West Indian Ocean Fisheries Commission:
+  SPVDN_id: SPVDN0465601
   Wikidata_code: Q134724816
   Org_family: UN and affiliates
   Type: FAO statutory body
@@ -8228,6 +8734,7 @@ South West Indian Ocean Fisheries Commission:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B16
 Committee for Inland Fisheries and Aquaculture of Africa:
+  SPVDN_id: SPVDN0027747
   Wikidata_code: Q134723795
   Org_family: UN and affiliates
   Type: FAO statutory body
@@ -8242,6 +8749,7 @@ Committee for Inland Fisheries and Aquaculture of Africa:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B16
 Commission for Inland Fisheries and Aquaculture of Latin America and the Caribbean:
+  SPVDN_id: SPVDN0463398
   Wikidata_code: '[No code found.]'
   Org_family: UN and affiliates
   Type: FAO statutory body
@@ -8257,6 +8765,7 @@ Commission for Inland Fisheries and Aquaculture of Latin America and the Caribbe
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B16
 European Inland Fisheries and Aquaculture Advisory Commission:
+  SPVDN_id: SPVDN0464277
   Wikidata_code: Q114965341
   Org_family: UN and affiliates
   Type: FAO statutory body
@@ -8272,6 +8781,7 @@ European Inland Fisheries and Aquaculture Advisory Commission:
   Basis_for_assessment: B16
   Headquarters: Rome, Italy
 Western Central Atlantic Fishery Commission:
+  SPVDN_id: SPVDN0993259
   Wikidata_code: Q134724817
   Org_family: UN and affiliates
   Type: FAO statutory body
@@ -8286,6 +8796,7 @@ Western Central Atlantic Fishery Commission:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B16
 International Trade Centre:
+  SPVDN_id: SPVDN0713779
   Wikidata_code: Q1184878
   Org_family: UN and affiliates
   Country: zz
@@ -8302,6 +8813,7 @@ International Trade Centre:
   Year_established: 1964
   Headquarters: Geneva, Switzerland
 Organisation for the Prohibition of Chemical Weapons:
+  SPVDN_id: SPVDN0222877
   Wikidata_code: Q842490
   Org_family: UN and affiliates
   Country: zz
@@ -8325,6 +8837,7 @@ Organisation for the Prohibition of Chemical Weapons:
   LEI_hq_address: Johan de Wittlaan 32, The Hague, 2517JR, NL
   LEI_bic: null
 United Nations Interregional Crime and Justice Research Institute:
+  SPVDN_id: SPVDN0258162
   Wikidata_code: Q1427752
   Org_family: UN and affiliates
   Country: zz
@@ -8342,6 +8855,7 @@ United Nations Interregional Crime and Justice Research Institute:
   Basis_for_assessment: B11
   Year_established: 1968
 United Nations Research Institute For Social Development:
+  SPVDN_id: SPVDN0078693
   Wikidata_code: Q962612
   Org_family: UN and affiliates
   Country: zz
@@ -8358,6 +8872,7 @@ United Nations Research Institute For Social Development:
   Year_established: 1963
   Headquarters: Geneva, Switzerland
 United Nations Institute for Disarmament Research:
+  SPVDN_id: SPVDN0318661
   Wikidata_code: Q3152150
   Org_family: UN and affiliates
   Country: zz
@@ -8372,6 +8887,7 @@ United Nations Institute for Disarmament Research:
   Basis_for_assessment: B11
   Year_established: 1980
 United Nations Human Settlements Programme:
+  SPVDN_id: SPVDN0122792
   Wikidata_code: Q487883
   Org_family: UN and affiliates
   Country: zz
@@ -8388,6 +8904,7 @@ United Nations Human Settlements Programme:
   Year_established: 1978
   Headquarters: Nairobi, Kenya
 United Nations Human Rights Council:
+  SPVDN_id: SPVDN0361988
   Wikidata_code: Q205650
   Org_family: UN and affiliates
   Country: zz
@@ -8404,6 +8921,7 @@ United Nations Human Rights Council:
   Year_established: 2006
   Headquarters: Geneva, Switzerland
 Joint Inspection Unit of the United Nations System:
+  SPVDN_id: SPVDN0619614
   Wikidata_code: Q1500903
   Org_family: UN and affiliates
   Country: zz
@@ -8418,6 +8936,7 @@ Joint Inspection Unit of the United Nations System:
   Basis_for_assessment: B11
   Year_established: 1976
 United Nations Volunteers:
+  SPVDN_id: SPVDN0704472
   Wikidata_code: Q488065
   Org_family: UN and affiliates
   Country: zz
@@ -8434,6 +8953,7 @@ United Nations Volunteers:
   Year_established: 1970
   Headquarters: Bonn, Germany
 United Nations Disarmament Commission:
+  SPVDN_id: SPVDN0889383
   Wikidata_code: Q4229685
   Org_family: UN and affiliates
   Country: zz
@@ -8447,6 +8967,7 @@ United Nations Disarmament Commission:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
 UN Women:
+  SPVDN_id: SPVDN0362287
   Wikidata_code: Q641576
   Org_family: UN and affiliates
   Country: zz
@@ -8463,6 +8984,7 @@ UN Women:
   Year_established: 2010
   Headquarters: Manhattan, United States
 United Nations Commission on International Trade Law:
+  SPVDN_id: SPVDN0154074
   Wikidata_code: Q698232
   Org_family: UN and affiliates
   Country: zz
@@ -8479,6 +9001,7 @@ United Nations Commission on International Trade Law:
   Year_established: 1966
   Headquarters: Vienna International Centre, Austria
 United Nations Relief and Works Agency for Palestine Refugees in the Near East:
+  SPVDN_id: SPVDN0125826
   Wikidata_code: Q846656
   Org_family: UN and affiliates
   Country: zz
@@ -8506,6 +9029,7 @@ United Nations Relief and Works Agency for Palestine Refugees in the Near East:
     JO
   LEI_bic: null
 World Trade Organization:
+  SPVDN_id: SPVDN0393191
   Wikidata_code: Q7825
   Org_family: UN and affiliates
   Country: zz
@@ -8522,6 +9046,7 @@ World Trade Organization:
   Year_established: 1995
   Headquarters: Centre William Rappard, Switzerland
 United Nations Institute for Training and Research:
+  SPVDN_id: SPVDN0100345
   Wikidata_code: Q131878
   Org_family: UN and affiliates
   Country: zz
@@ -8538,6 +9063,7 @@ United Nations Institute for Training and Research:
   Year_established: 1963
   Headquarters: Geneva, Switzerland
 United Nations System Staff College:
+  SPVDN_id: SPVDN0238562
   Wikidata_code: Q16959083
   Org_family: UN and affiliates
   Country: zz
@@ -8554,6 +9080,7 @@ United Nations System Staff College:
   Year_established: 2002
   Headquarters: Turin, Italy
 International Residual Mechanism for Criminal Tribunals:
+  SPVDN_id: SPVDN0330405
   Wikidata_code: Q1667632
   Org_family: UN and affiliates
   Country: zz
@@ -8571,6 +9098,7 @@ International Residual Mechanism for Criminal Tribunals:
   Year_established: 2010
   Headquarters: The Hague, Netherlands
 United Nations Capital Development Fund:
+  SPVDN_id: SPVDN0497289
   Wikidata_code: Q356037
   Org_family: UN and affiliates
   Country: zz
@@ -8595,6 +9123,7 @@ United Nations Capital Development Fund:
     New York, 10017, US
   LEI_bic: null
 United Nations University:
+  SPVDN_id: SPVDN0959455
   Wikidata_code: Q492442
   Org_family: UN and affiliates
   Country: zz
@@ -8611,6 +9140,7 @@ United Nations University:
   Year_established: 1972
   Headquarters: Jingūmae, Japan
 Economic and Social Commission for Western Asia:
+  SPVDN_id: SPVDN0405925
   Wikidata_code: Q1355485
   Org_family: UN and affiliates
   Country: zz
@@ -8626,6 +9156,7 @@ Economic and Social Commission for Western Asia:
   Year_established: 1973
   Headquarters: Beirut, Lebanon
 Economic Commission for Africa:
+  SPVDN_id: SPVDN0670155
   Wikidata_code: Q1144508
   Org_family: UN and affiliates
   Country: zz
@@ -8642,6 +9173,7 @@ Economic Commission for Africa:
   Year_established: 1958
   Headquarters: Addis Ababa, Ethiopia
 Economic Commission for Europe:
+  SPVDN_id: SPVDN0413296
   Wikidata_code: Q659012
   Org_family: UN and affiliates
   Country: zz
@@ -8658,6 +9190,7 @@ Economic Commission for Europe:
   Year_established: 1947
   Headquarters: Geneva, Switzerland
 Economic Commission for Latin America and the Caribbean:
+  SPVDN_id: SPVDN0696935
   Wikidata_code: Q32874
   Org_family: UN and affiliates
   Country: zz
@@ -8674,6 +9207,7 @@ Economic Commission for Latin America and the Caribbean:
   Year_established: 1948
   Headquarters: Santiago, Chile
 Economic and Social Commission for Asia and the Pacific:
+  SPVDN_id: SPVDN0235994
   Wikidata_code: Q1142901
   Org_family: UN and affiliates
   Country: zz
@@ -8689,6 +9223,7 @@ Economic and Social Commission for Asia and the Pacific:
   Year_established: 1947
   Headquarters: Bangkok, Rattanakosin Kingdom
 Statistical Commission:
+  SPVDN_id: SPVDN0420757
   Wikidata_code: Q15042419
   Org_family: UN and affiliates
   Country: zz
@@ -8702,6 +9237,7 @@ Statistical Commission:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
 Commission on Population and Development:
+  SPVDN_id: SPVDN0894939
   Wikidata_code: Q5152731
   Org_family: UN and affiliates
   Country: zz
@@ -8716,6 +9252,7 @@ Commission on Population and Development:
   Basis_for_assessment: B11
   Year_established: 1946
 Commission for Social Development:
+  SPVDN_id: SPVDN0201821
   Wikidata_code: Q3684758
   Org_family: UN and affiliates
   Country: zz
@@ -8730,6 +9267,7 @@ Commission for Social Development:
   Basis_for_assessment: B11
   Year_established: 1946
 Commission on the Status of Women:
+  SPVDN_id: SPVDN0048395
   Wikidata_code: Q2614097
   Org_family: UN and affiliates
   Country: zz
@@ -8746,6 +9284,7 @@ Commission on the Status of Women:
   Year_established: 1946
   Headquarters: New York City, United States
 Commission on Narcotic Drugs:
+  SPVDN_id: SPVDN0542938
   Wikidata_code: Q469618
   Org_family: UN and affiliates
   Country: zz
@@ -8761,6 +9300,7 @@ Commission on Narcotic Drugs:
   Basis_for_assessment: B11
   Year_established: 1946
 Commission on Crime Prevention and Criminal Justice:
+  SPVDN_id: SPVDN0372098
   Wikidata_code: Q104842946
   Org_family: UN and affiliates
   Country: zz
@@ -8774,6 +9314,7 @@ Commission on Crime Prevention and Criminal Justice:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
 Commission on Science and Technology for Development:
+  SPVDN_id: SPVDN0056008
   Wikidata_code: Q5152737
   Org_family: UN and affiliates
   Country: zz
@@ -8788,6 +9329,7 @@ Commission on Science and Technology for Development:
   Basis_for_assessment: B11
   Year_established: 1993
 United Nations Forum on Forests:
+  SPVDN_id: SPVDN0170398
   Wikidata_code: Q1433762
   Org_family: UN and affiliates
   Country: zz
@@ -8804,6 +9346,7 @@ United Nations Forum on Forests:
   Year_established: 2000
   Headquarters: New York, United States
 High-Level Political Forum on Sustainable Development:
+  SPVDN_id: SPVDN0691065
   Wikidata_code: Q17078095
   Org_family: UN and affiliates
   Country: zz
@@ -8819,6 +9362,7 @@ High-Level Political Forum on Sustainable Development:
   Basis_for_assessment: B11
   Year_established: 1946
 United Nations Peacebuilding Commission:
+  SPVDN_id: SPVDN0528449
   Wikidata_code: Q1534084
   Org_family: UN and affiliates
   Country: zz
@@ -8833,6 +9377,7 @@ United Nations Peacebuilding Commission:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
 International Narcotics Control Board:
+  SPVDN_id: SPVDN0749053
   Wikidata_code: Q667217
   Org_family: UN and affiliates
   Country: zz
@@ -8848,6 +9393,7 @@ International Narcotics Control Board:
   Basis_for_assessment: B14
   Year_established: 1961
 UNAIDS Programme Coordinating Board:
+  SPVDN_id: SPVDN0135400
   Wikidata_code: Q588982
   Org_family: UN and affiliates
   Country: zz
@@ -8864,6 +9410,7 @@ UNAIDS Programme Coordinating Board:
   Year_established: 1996
   Headquarters: Geneva, Switzerland
 United Nations Joint Staff Pension Fund:
+  SPVDN_id: SPVDN0335728
   Wikidata_code: Q28455859
   Org_family: UN and affiliates
   Country: zz
@@ -8878,6 +9425,7 @@ United Nations Joint Staff Pension Fund:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B15
 Indian Ocean Tuna Commission:
+  SPVDN_id: SPVDN0140034
   Wikidata_code: Q12613354
   Org_family: UN and affiliates
   Type: FAO statutory body
@@ -8894,6 +9442,7 @@ Indian Ocean Tuna Commission:
   Year_established: 1996
   Headquarters: Victoria, Seychelles
 Asia-Pacific Fishery Commission:
+  SPVDN_id: SPVDN0996407
   Wikidata_code: Q4806252
   Org_family: UN and affiliates
   Type: FAO statutory body
@@ -8910,6 +9459,7 @@ Asia-Pacific Fishery Commission:
   Year_established: 1948
   Headquarters: Bangkok, Rattanakosin Kingdom
 Western and Central Pacific Fisheries Commission:
+  SPVDN_id: SPVDN0997148
   Wikidata_code: Q2565027
   Org_family: UN and affiliates
   Type: FAO statutory body
@@ -8927,6 +9477,7 @@ Western and Central Pacific Fisheries Commission:
   Year_established: 2005
   Headquarters: Kolonia, Federated States of Micronesia
 General Fisheries Commission for the Mediterranean:
+  SPVDN_id: SPVDN0205027
   Wikidata_code: Q134724326
   Org_family: UN and affiliates
   Type: FAO statutory body
@@ -8941,6 +9492,7 @@ General Fisheries Commission for the Mediterranean:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B16
 Central Asian and Caucasus Regional Fisheries and Aquaculture Commission:
+  SPVDN_id: SPVDN0855301
   Wikidata_code: Q134723600
   Org_family: UN and affiliates
   Type: FAO statutory body
@@ -8956,6 +9508,7 @@ Central Asian and Caucasus Regional Fisheries and Aquaculture Commission:
   Basis_for_assessment: B16
   Year_established: 2009
 Coordinating Working Party on Fishery Statistics:
+  SPVDN_id: SPVDN0460800
   Wikidata_code: Q5168022
   Org_family: UN and affiliates
   Type: FAO statutory body
@@ -8970,6 +9523,7 @@ Coordinating Working Party on Fishery Statistics:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B16
 Regional Commission for Fisheries:
+  SPVDN_id: SPVDN0907620
   Wikidata_code: Q134724812
   Org_family: UN and affiliates
   Type: FAO statutory body
