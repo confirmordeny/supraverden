@@ -35,7 +35,7 @@ _record_policy:
   source_required_for: [Type]
 
 _variant_policy:
-  language_suffixes: [en, fr, es, pt]
+  language_suffixes: [en, fr, es, de, pt, ru, uk, zh]
   index_suffixes: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
   variant_usage: "Variant fields may use language suffixes and index numbers together, e.g. Name_other_1_en."
   applies_to: [Name, Abbreviation, Abbreviation_former, Abbreviation_other, Name_former, Name_other, Notes]
@@ -353,6 +353,21 @@ Wikidata_code:
     pattern: ^Q\d+$
     allow_values: ["[No code found.]"]
   Validation_summary: starts with "Q"; remaining characters are digits 0-9, except [No code found.].
+
+Website:
+  Property: Website
+  Title: Website
+  Data_type: url
+  Minimum_length: 12
+  Maximum_length: 2048
+  Requirement: optional
+  Description: Official website URL sourced from Wikidata (property P856), where available.
+  Examples: https://www.un.org/
+  Validation_rules:
+  - rule: starts_with
+    value: http
+  - rule: no_spaces
+  Validation_summary: must begin with "http" and contain no spaces.
 
 Year_established:
   Property: Year_established

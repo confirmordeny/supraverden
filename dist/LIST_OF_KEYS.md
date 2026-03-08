@@ -23,6 +23,7 @@
   * en
   * es
   * fr
+  * pt
 * Name_former
   * en
 * Name_other
@@ -30,16 +31,15 @@
 * Name_other_2
   * en
 * Name_other_en_2
-* Name_pt
 * Notes
   * en
 * OpenSanctions_id
 * Org_family
 * SPRVD_id
 * Source
-* Source_1
-* Source_2
-* Source_3
+  * 1
+  * 2
+  * 3
 * Treaty_url
 * Type
 * Wikidata_code

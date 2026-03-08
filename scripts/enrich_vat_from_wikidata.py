@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Enrich VAT_number values from Wikidata (P3608) using Wikidata_code (Qxxx)."""
+"""Enrich VAT_number (P3608) and Website (P856) from Wikidata using Wikidata_code (Qxxx)."""
 
 from __future__ import annotations
 
@@ -18,14 +18,15 @@ except ImportError as exc:  # pragma: no cover
 
 
 WIKIDATA_API = "https://www.wikidata.org/w/api.php"
-USER_AGENT = "supraverden-vat-enricher/1.0 (github.com/confirmordeny/supraverden)"
+USER_AGENT = "supraverden-wikidata-enricher/1.0 (github.com/confirmordeny/supraverden)"
 QCODE_PREFIX = "Q"
 VAT_PROPERTY = "P3608"  # EU VAT number
+WEBSITE_PROPERTY = "P856"  # official website
 
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Populate VAT_number from Wikidata P3608 using Wikidata_code."
+        description="Populate VAT_number and Website from Wikidata using Wikidata_code."
     )
     parser.add_argument(
         "--input-file",
@@ -81,11 +82,11 @@ def normalize_qcode(value: Any) -> str | None:
     return text
 
 
-def extract_vat_numbers(entity: dict[str, Any]) -> list[str]:
+def extract_claim_string_values(entity: dict[str, Any], property_code: str) -> list[str]:
     claims = entity.get("claims")
     if not isinstance(claims, dict):
         return []
-    raw = claims.get(VAT_PROPERTY)
+    raw = claims.get(property_code)
     if not isinstance(raw, list):
         return []
 
@@ -101,9 +102,12 @@ def extract_vat_numbers(entity: dict[str, Any]) -> list[str]:
         if not isinstance(datavalue, dict):
             continue
         value = datavalue.get("value")
-        if not isinstance(value, str):
+        if isinstance(value, str):
+            val = value.strip()
+        elif isinstance(value, dict):
+            val = str(value.get("text", "")).strip()
+        else:
             continue
-        val = value.strip()
         if not val or val in seen:
             continue
         seen.add(val)
@@ -111,7 +115,7 @@ def extract_vat_numbers(entity: dict[str, Any]) -> list[str]:
     return values
 
 
-def get_vat_numbers(qcode: str) -> list[str]:
+def get_claim_values(qcode: str) -> dict[str, list[str]]:
     params = {
         "action": "wbgetentities",
         "ids": qcode,
@@ -131,8 +135,11 @@ def get_vat_numbers(qcode: str) -> list[str]:
         return []
     entity = entities.get(qcode)
     if not isinstance(entity, dict):
-        return []
-    return extract_vat_numbers(entity)
+        return {"vat_numbers": [], "websites": []}
+    return {
+        "vat_numbers": extract_claim_string_values(entity, VAT_PROPERTY),
+        "websites": extract_claim_string_values(entity, WEBSITE_PROPERTY),
+    }
 
 
 def should_skip_existing(value: Any, overwrite: bool) -> bool:
@@ -166,7 +173,8 @@ def main() -> int:
 
     records = 0
     with_qcode = 0
-    updated = 0
+    updated_vat = 0
+    updated_website = 0
     failed = 0
 
     for org_name, record in data.items():
@@ -179,33 +187,40 @@ def main() -> int:
             continue
         with_qcode += 1
 
-        if should_skip_existing(record.get("VAT_number"), args.overwrite):
+        needs_vat = not should_skip_existing(record.get("VAT_number"), args.overwrite)
+        needs_website = not should_skip_existing(record.get("Website"), args.overwrite)
+        if not needs_vat and not needs_website:
             continue
 
         try:
-            vats = get_vat_numbers(qcode)
+            remote = get_claim_values(qcode)
             time.sleep(max(args.sleep_seconds, 0.0))
         except requests.RequestException as exc:
             failed += 1
             print(f"warn: {org_name}: failed to fetch {qcode}: {exc}", file=sys.stderr)
             continue
 
-        if not vats:
-            continue
+        vats = remote.get("vat_numbers") if isinstance(remote, dict) else []
+        websites = remote.get("websites") if isinstance(remote, dict) else []
 
-        record["VAT_number"] = vats if len(vats) > 1 else vats[0]
-        updated += 1
+        if needs_vat and isinstance(vats, list) and vats:
+            record["VAT_number"] = vats if len(vats) > 1 else vats[0]
+            updated_vat += 1
+        if needs_website and isinstance(websites, list) and websites:
+            record["Website"] = websites[0]
+            updated_website += 1
 
     print(f"records: {records}")
     print(f"records with Wikidata_code: {with_qcode}")
-    print(f"updated VAT_number: {updated}")
+    print(f"updated VAT_number: {updated_vat}")
+    print(f"updated Website: {updated_website}")
     print(f"fetch failures: {failed}")
 
     if args.dry_run:
         print("dry-run: no file written")
         return 0
 
-    if updated > 0:
+    if updated_vat > 0 or updated_website > 0:
         save_yaml(input_path, data)
         print(f"saved: {input_path}")
     else:

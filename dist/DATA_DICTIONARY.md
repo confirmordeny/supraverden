@@ -30,6 +30,7 @@
 - [`Type`](#field-type)
 - [`VAT_number`](#field-vat_number)
 - [`Wikidata_code`](#field-wikidata_code)
+- [`Website`](#field-website)
 - [`Year_established`](#field-year_established)
 
 ## Record Policy
@@ -43,7 +44,7 @@
 
 | Key | Value |
 | --- | --- |
-| `language_suffixes` | en, fr, es, pt |
+| `language_suffixes` | en, fr, es, de, pt, ru, uk, zh |
 | `index_suffixes` | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 |
 | `variant_usage` | Variant fields may use language suffixes and index numbers together, e.g. Name_other_1_en. |
 | `applies_to` | Name, Abbreviation, Abbreviation_former, Abbreviation_other, Name_former, Name_other, Notes |
@@ -444,6 +445,22 @@
 | `Examples` | Q674182, [No code found.] |
 | `Property` | Wikidata_code |
 | `Validation_rules` | `- rule: regex   pattern: ^Q\d+$   allow_values:   - '[No code found.]'` |
+
+<a id="field-website"></a>
+## `Website`
+
+| Attribute | Value |
+| --- | --- |
+| `Title` | Website |
+| `Data_type` | url |
+| `Minimum_length` | 12 |
+| `Maximum_length` | 2048 |
+| `Requirement` | optional |
+| `Description` | Official website URL sourced from Wikidata (property P856), where available. |
+| `Validation_summary` | must begin with "http" and contain no spaces. |
+| `Examples` | https://www.un.org/ |
+| `Property` | Website |
+| `Validation_rules` | `- rule: starts_with   value: http - rule: no_spaces` |
 
 <a id="field-year_established"></a>
 ## `Year_established`
