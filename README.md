@@ -6,7 +6,7 @@
 # What is it?
 **SupraVerden** is a curated lists of international organisations with privileges and immunities. This repo is in the early stages of development. Its aims to create a robust data set that can be used for practical purposes.
 
-The data can be viewed on a website here: [supraverden.pages.dev](https://supraverden.pages.dev/)
+The data can be viewed on a website here: [supraverden.com](https://www.supraverden.com)
 
 ## Main outputs
 * [All bodies](dist/ALL_BODIES.md)
