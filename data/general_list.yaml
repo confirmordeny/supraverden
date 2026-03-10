@@ -535,6 +535,7 @@ European Banking Authority:
   Name_es: Autoridad Bancaria Europea
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010R1093
   Year_established: 2011
   Headquarters: Paris, France
   LEI: 636700O2DJI483DM8O80
@@ -560,6 +561,7 @@ European Centre for Disease Prevention and Control:
   Name_es: Centro Europeo para la Prevención y Control de Enfermedades
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32004R0851
   Year_established: 2004
   Headquarters: Solna Municipality, Sweden
 European Centre for the Development of Vocational Training:
@@ -577,6 +579,7 @@ European Centre for the Development of Vocational Training:
   Name_es: Centro Europeo para el Desarrollo de la Formación Profesional
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0128
   Year_established: 1975
   Headquarters: Thessaloniki, Greece
 European Chemicals Agency:
