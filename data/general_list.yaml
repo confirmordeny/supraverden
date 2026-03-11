@@ -9642,3 +9642,21 @@ Regional Commission for Fisheries:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B16
+Bank for International Settlements:
+  SPRVD_id: SPRVD0990523
+  Entity_type: International organisation
+  Wikidata_code: Q309195
+  Org_family: none
+  Type:
+  Country: ZZ
+  Name_en: Bank for International Settlements
+  Name_fr:
+  Abbreviation_en: BIS
+  Abbreviation_fr:
+  Name_other_en:
+  Treaty_url: https://www.bis.org/about/convention-en.pdf
+  Immunity_url: https://treaties.fcdo.gov.uk/data/Library2/pdf/1937-TS0025.pdf
+  Source: 
+  OpenSanctions_id: NK-h27oC229Q7ioTGyxiomjVH
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B37
