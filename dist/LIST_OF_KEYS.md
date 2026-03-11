@@ -20,10 +20,14 @@
 * LEI_legal_form
 * LEI_status
 * Name
+  * de
   * en
   * es
   * fr
   * pt
+  * ru
+  * uk
+  * zh
 * Name_former
   * en
 * Name_other
@@ -42,5 +46,7 @@
   * 3
 * Treaty_url
 * Type
+* VAT_number
+* Website
 * Wikidata_code
 * Year_established
