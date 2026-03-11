@@ -651,6 +651,7 @@ European Banking Authority:
   Name_es: Autoridad Bancaria Europea
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010R1093
   Year_established: 2011
   Headquarters: Paris, France
   LEI: 636700O2DJI483DM8O80
@@ -679,6 +680,7 @@ European Centre for Disease Prevention and Control:
   Name_es: Centro Europeo para la Prevención y Control de Enfermedades
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32004R0851
   Year_established: 2004
   Headquarters: Solna Municipality, Sweden
   Name_de: Europäisches Zentrum für die Prävention und die Kontrolle von Krankheiten
@@ -702,6 +704,7 @@ European Centre for the Development of Vocational Training:
   Name_es: Centro Europeo para el Desarrollo de la Formación Profesional
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0128
   Year_established: 1975
   Headquarters: Thessaloniki, Greece
   Name_de: Europäisches Zentrum für die Förderung der Berufsbildung
@@ -11561,3 +11564,21 @@ Regional Commission for Fisheries:
   Basis_for_assessment: B16
   Name_zh: 区域渔业委员会
   Website: https://www.fao.org/fishery/en/organization/recofi
+Bank for International Settlements:
+  SPRVD_id: SPRVD0990523
+  Entity_type: International organisation
+  Wikidata_code: Q309195
+  Org_family: none
+  Type:
+  Country: ZZ
+  Name_en: Bank for International Settlements
+  Name_fr:
+  Abbreviation_en: BIS
+  Abbreviation_fr:
+  Name_other_en:
+  Treaty_url: https://www.bis.org/about/convention-en.pdf
+  Immunity_url: https://treaties.fcdo.gov.uk/data/Library2/pdf/1937-TS0025.pdf
+  Source: 
+  OpenSanctions_id: NK-h27oC229Q7ioTGyxiomjVH
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B37

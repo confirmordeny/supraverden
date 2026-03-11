@@ -76,6 +76,7 @@
 ## B
 
 - Baltic Marine Environment Protection Commission
+- Bank for International Settlements
 - Bank of the Central African States
 - Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation
 - Benelux

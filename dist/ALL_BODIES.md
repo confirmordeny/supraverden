@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 555 international organisations in the table.
+There are currently 556 international organisations in the table.
 
 | English Name | Wikidata Code | OpenSanctions | Family | Source |
 |---|---|---|---|---|
@@ -67,6 +67,7 @@ There are currently 555 international organisations in the table.
 | Association of Natural Rubber Producing Countries | N/A | [No code found.] | none | [Treaty](https://treaties.fcdo.gov.uk/data/Library2/pdf/1993-TS0036.pdf) |
 | Association of Southeast Asian Nations | [Q7768](https://www.wikidata.org/wiki/Q7768) | [No code found.] | Association of Southeast Asian Nations entities | [Treaty](https://assets.publishing.service.gov.uk/media/5a7c072ee5274a7318b9097a/8472.pdf) |
 | Baltic Marine Environment Protection Commission | [Q1563503](https://www.wikidata.org/wiki/Q1563503) | [No code found.] | none | [Treaty](https://helcom.fi/wp-content/uploads/2019/06/Helsinki-Convention_July-2014.pdf) |
+| Bank for International Settlements | [Q309195](https://www.wikidata.org/wiki/Q309195) | [NK-h27oC229Q7ioTGyxiomjVH](https://www.opensanctions.org/entities/NK-h27oC229Q7ioTGyxiomjVH/) | none | [Treaty](https://www.bis.org/about/convention-en.pdf) |
 | Bank of the Central African States | [Q189972](https://www.wikidata.org/wiki/Q189972) | [NK-C6ZmfUo4anjGfu8L8ZotNC](https://www.opensanctions.org/entities/NK-C6ZmfUo4anjGfu8L8ZotNC/) | Economic and Monetary Community of Central Africa | [Treaty](https://www.beac.int/wp-content/uploads/2016/11/TrCemac-rev.pdf) |
 | Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation | [Q795985](https://www.wikidata.org/wiki/Q795985) | [No code found.] | none | [Treaty](https://bimstec.org/images/content_page_pdf/1696679710_BIMSTEC%20Charter.pdf) |
 | Benelux | [Q13116](https://www.wikidata.org/wiki/Q13116) | [No code found.] | Benelux entities | [Treaty](https://www.benelux.int/wp-content/uploads/2023/02/BeneluxVerdrag_2008.pdf) |
