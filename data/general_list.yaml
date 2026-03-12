@@ -11582,3 +11582,21 @@ Bank for International Settlements:
   OpenSanctions_id: NK-h27oC229Q7ioTGyxiomjVH
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B37
+International Maize and Wheat Improvement Center:
+  SPRVD_id: SPRVD0038324
+  Entity_type: International organisation
+  Wikidata_code: Q1666745
+  Org_family: CGIAR
+  Type:
+  Country: ZZ
+  Name_en: International Maize and Wheat Improvement Center
+  Name_fr:
+  Abbreviation_en: CIMMYT
+  Abbreviation_fr:
+  Name_other_en:
+  Treaty_url:
+  Immunity_url: https://cja.sre.gob.mx/tratadosmexico/ver/archivo/eyJpdiI6IndtV2ZFTzNibVJKWFpSYzFtbzJkS0E9PSIsInZhbHVlIjoiNmJqa29xcmhnUGU3XC9YUDdDMDVyVGc9PSIsIm1hYyI6IjZhMjk2NTFmOTUxNGUwMzkwNzY2ZDliYmRlYzEwMjgxMDEwOWE1YzU4MGVjNjFmNWMzOTAzNGY4ODQzZWNiMjcifQ==
+  Source_2: https://cgspace.cgiar.org/server/api/core/bitstreams/1e1b1297-fdbe-44c7-94cd-ee1d62ea233d/content
+  OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B38
