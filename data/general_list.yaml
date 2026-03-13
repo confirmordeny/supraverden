@@ -736,6 +736,7 @@ European Chemicals Agency:
   Name_uk: Європейське агентство хімічних речовин
   Name_zh: 歐洲化學品管理局
   Website: https://echa.europa.eu/
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32006R1907
 European Environment Agency:
   SPRVD_id: SPRVD0391888
   Wikidata_code: Q632988
@@ -759,6 +760,7 @@ European Environment Agency:
   Name_uk: Європейська агенція довкілля
   Name_zh: 歐洲環境署
   Website: https://www.eea.europa.eu/
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32009R0401
 European Fisheries Control Agency:
   SPRVD_id: SPRVD0693414
   Wikidata_code: Q201372
@@ -779,6 +781,7 @@ European Fisheries Control Agency:
   Name_de: Europäische Fischereiaufsichtsagentur
   Name_pt: Agência Comunitária de Controlo das Pescas
   Website: https://www.efca.europa.eu/
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0473
 European Food Safety Authority:
   SPRVD_id: SPRVD0637354
   Wikidata_code: Q516521
@@ -802,6 +805,7 @@ European Food Safety Authority:
   Name_uk: Європейське агентство з безпечності харчових продуктів
   Name_zh: 歐洲食品安全管理局
   Website: https://efsa.europa.eu/
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32002R0178
 European Institute for Gender Equality:
   SPRVD_id: SPRVD0329908
   Wikidata_code: Q48718
@@ -824,6 +828,7 @@ European Institute for Gender Equality:
   Name_uk: Європейський інститут із гендерної рівності
   Name_zh: 歐洲性別平等研究所
   Website: https://eige.europa.eu/
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32006R1922
 European Insurance and Occupational Pensions Authority:
   SPRVD_id: SPRVD0855129
   Wikidata_code: Q2116004
@@ -844,6 +849,7 @@ European Insurance and Occupational Pensions Authority:
   Name_de: Europäische Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung
   Name_zh: 欧洲保险和职业养老金管理局
   Website: https://eiopa.europa.eu/
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010R1094
 European Labour Authority:
   SPRVD_id: SPRVD0133573
   Wikidata_code: Q56296301
@@ -1869,6 +1875,7 @@ Commonwealth of Independent States:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://cis.minsk.by/reestrv2/doc/1384#text
   Year_established: 1991
   Headquarters: Minsk, Belarus
   Name_de: Gemeinschaft Unabhängiger Staaten
@@ -1948,6 +1955,7 @@ Organization of American States:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B4
+  Immunity_url: https://www.oas.org/en/sla/dil/docs/inter_american_treaties_A-41_charter_OAS.pdf
   Year_established: 1948
   Headquarters: United States, United States
   Name_de: Organisation Amerikanischer Staaten
@@ -1971,6 +1979,7 @@ Pan‐American Institute of Geography and History:
   Type: OAS specialised organisations
   Source: https://www.govinfo.gov/content/pkg/SERIALSET-09927_00_00-037-0107-0000/pdf/SERIALSET-09927_00_00-037-0107-0000.pdf
   Source_2: https://www.ipgh.org/mx/wp-content/uploads/2022/10/PAIGH-ORGANIC_ESTATUTE-FINAL_-PROPOSAL-06_24_2021.pdf
+  Immunity_url: https://cja.sre.gob.mx/tratadosmexico/ver/archivo/eyJpdiI6IjZBUnBvVXVIQkFWWXQrM2VkMFwvekJ3PT0iLCJ2YWx1ZSI6IlU2ZjlPelRpYWw4c3lqaWxwOFRwbkE9PSIsIm1hYyI6IjgzYmI5ZmQxNzA5ZTVkNTlhZDc4MjA1NmU4OTYyMTU5MDdhNmRmYTI3OTM2MmU2YTdlOGE4NDE5MGJmMWJjMGYifQ%3D%3D
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B30
@@ -1990,6 +1999,7 @@ Inter‐American Institute for Cooperation on Agriculture:
   Abbreviation_fr: null
   Type: OAS specialised organisations
   Source: https://www.oas.org/en/sla/dil/inter_american_treaties_C-17_Convention_Inter-American_Institute_Cooperation_Agriculture.asp
+  Immunity_url: https://www.oas.org/en/sla/dil/inter_american_treaties_C-17_Convention_Inter-American_Institute_Cooperation_Agriculture.asp
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B30
@@ -2251,6 +2261,7 @@ Caribbean Community:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://caricom.org/wp-content/uploads/Protocol-on-The-Privileges-and-Immunites-of-The-Caribbean-Community-and-The-Caribbean-Common-Market.pdf
   Year_established: 1973
   Headquarters: Georgetown, Guyana
   LEI: 254900V4OO00FLAXK271
@@ -2275,6 +2286,7 @@ Caribbean Examinations Council:
   Name_en: Caribbean Examinations Council
   Abbreviation_en: CXC
   Treaty_url: https://caricom.org/wp-content/uploads/Revised-Agreement-Establishing-the-Caribbean-Examinations-Council-CXC.pdf
+  Immunity_url: https://caricom.org/wp-content/uploads/Revised-Agreement-Establishing-the-Caribbean-Examinations-Council-CXC.pdf
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
@@ -2289,6 +2301,7 @@ Caribbean Community Implementation Agency for Crime and Security:
   Name_en: Caribbean Community Implementation Agency for Crime and Security
   Abbreviation_en: CARICOM IMPACS
   Treaty_url: http://www.commonlii.org/caribbean/other/treaties/CaricomTSer/2006/9.pdf
+  Immunity_url: http://www.commonlii.org/caribbean/other/treaties/CaricomTSer/2006/9.pdf
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
@@ -2326,6 +2339,7 @@ Mercosur:
   Name_en: Mercosur
   Name_other_en: Southern Common Market
   Treaty_url: https://www.worldtradelaw.net/document.php?id=fta/agreements/mercosurfta.pdf
+  Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%202886/v2886.pdf
   Name_fr: Marché commun du Sud
   Name_es: Mercosur
   OpenSanctions_id: '[No code found.]'
@@ -11596,6 +11610,7 @@ International Maize and Wheat Improvement Center:
   Name_other_en:
   Treaty_url:
   Immunity_url: https://cja.sre.gob.mx/tratadosmexico/ver/archivo/eyJpdiI6IndtV2ZFTzNibVJKWFpSYzFtbzJkS0E9PSIsInZhbHVlIjoiNmJqa29xcmhnUGU3XC9YUDdDMDVyVGc9PSIsIm1hYyI6IjZhMjk2NTFmOTUxNGUwMzkwNzY2ZDliYmRlYzEwMjgxMDEwOWE1YzU4MGVjNjFmNWMzOTAzNGY4ODQzZWNiMjcifQ==
+  Source: https://cgspace.cgiar.org/items/f1c0898d-5fe0-4b5c-b694-abacbc9545b7
   Source_2: https://cgspace.cgiar.org/server/api/core/bitstreams/1e1b1297-fdbe-44c7-94cd-ee1d62ea233d/content
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
