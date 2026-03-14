@@ -11651,6 +11651,25 @@ Southeast Asian Fisheries Development Center:
   Treaty_url: https://www.fao.org/fishery/docs/DOCUMENT/seafdec/AgreementEstablishingSEAFDEC.pdf
   Immunity_url: https://jur.ph/jurisprudence/summary/southeast-asian-fisheries-development-center-v-acosta
   Source:
-  OpenSanctions_id: [No code found.]'
+  OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
+International Centre for Synchrotron-Light for Experimental Science Applications in the Middle East:
+  SPRVD_id:
+  Entity_type: International organisation
+  Wikidata_code: Q749440
+  Org_family: none
+  Type:
+  Country: ZZ
+  Name_en: International Centre for Synchrotron-Light for Experimental Science Applications in the Middle East
+  Name_other_en: Synchrotron-Light for Experimental Science Applications in the Middle East
+  Name_fr:
+  Abbreviation_en: SESAME
+  Abbreviation_other_en:
+  Abbreviation_fr:
+  Treaty_url: https://www.sesame.org.jo/about-us/governing-document
+  Immunity_url: https://www.sesame.org.jo/about-us/sesames-structure/sesame-council/rules-of-procedure
+  Source: https://www.wayforlight.eu/facility/20995
+  OpenSanctions_id:
+  Assessment_against_FATF_definition:
   Basis_for_assessment: B22

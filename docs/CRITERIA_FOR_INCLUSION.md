@@ -56,6 +56,12 @@ Often countries enter into formal agreements to co-operate but no new organisati
 ## Entities established by informal agreements
 Organisations that are established through informal agreements such as memoranda of understanding (MOU) are not included. For example, the [Eastern Africa Power Pool](https://eappool.org/) is a regional institution set up through a memorandum of understanding between members (and another between utility operators). MOUs are not legally binding.
 
+## Research companies formed under civil law
+The following scientific reseach companies were set up as a result of international agreements but established as companies under the civil law of France/Germany as opposed to internatinal organisations.
+* European Synchrotron Radiation Facility (ESRF)
+* European X-ray Free Electron Laser (European XFEL)
+* Institut Laue-Langevin (ILL)
+
 # See also
 * [Research](RESEARCH.md)
 * [Read me](../README.md)
