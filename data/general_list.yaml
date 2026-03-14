@@ -2552,6 +2552,7 @@ Organization of the Petroleum Exporting Countries:
   Name_en: Organization of the Petroleum Exporting Countries
   Abbreviation_en: OPEC
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%20443/volume-443-I-6363-English.pdf
+  Immunity_url: https://www.ris.bka.gv.at/Dokumente/RegV/REGV_COO_2026_100_2_548560/COO_2026_100_2_561058.pdf
   Name_fr: Organisation des pays exportateurs de pétrole
   Name_es: Organización de Países Exportadores de Petróleo
   OpenSanctions_id: '[No code found.]'
@@ -11615,3 +11616,22 @@ International Maize and Wheat Improvement Center:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B38
+International Organization of Turkic Culture:
+  SPRVD_id:
+  Entity_type: International organisation
+  Wikidata_code: Q1993710
+  Org_family: Organization of Turkic States entities
+  Type:
+  Country: ZZ
+  Name_en: International Organization of Turkic Culture
+  Name_fr:
+  Abbreviation_en: TÜRKSOY
+  Abbreviation_other_en: TÜRKSOY
+  Abbreviation_fr:
+  Name_other_en:
+  Treaty_url:
+  Immunity_url: https://www.resmigazete.gov.tr/eskiler/2011/08/20110827-2.htm
+  Source: https://www.lex.uz/en/docs/6907310
+  OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
