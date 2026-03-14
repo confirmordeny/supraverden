@@ -22,6 +22,8 @@ USER_AGENT = "supraverden-wikidata-enricher/1.0 (github.com/confirmordeny/suprav
 QCODE_PREFIX = "Q"
 VAT_PROPERTY = "P3608"  # EU VAT number
 WEBSITE_PROPERTY = "P856"  # official website
+DEFAULT_BATCH_SIZE = 50
+DEFAULT_MAX_RETRIES = 3
 
 
 def parse_args() -> argparse.Namespace:
@@ -48,6 +50,18 @@ def parse_args() -> argparse.Namespace:
         type=float,
         default=0.2,
         help="delay between API requests",
+    )
+    parser.add_argument(
+        "--batch-size",
+        type=int,
+        default=DEFAULT_BATCH_SIZE,
+        help="number of Wikidata Q-codes to fetch per API request",
+    )
+    parser.add_argument(
+        "--max-retries",
+        type=int,
+        default=DEFAULT_MAX_RETRIES,
+        help="number of retries for recoverable API failures",
     )
     return parser.parse_args()
 
@@ -115,31 +129,64 @@ def extract_claim_string_values(entity: dict[str, Any], property_code: str) -> l
     return values
 
 
-def get_claim_values(qcode: str) -> dict[str, list[str]]:
+def chunked(values: list[str], size: int) -> list[list[str]]:
+    if size < 1:
+        raise ValueError("batch-size must be >= 1")
+    return [values[i : i + size] for i in range(0, len(values), size)]
+
+
+def get_claim_values_batch(
+    qcodes: list[str], max_retries: int
+) -> tuple[dict[str, dict[str, list[str]]], set[str]]:
+    if not qcodes:
+        return {}, set()
+
     params = {
         "action": "wbgetentities",
-        "ids": qcode,
+        "ids": "|".join(qcodes),
         "props": "claims",
         "format": "json",
     }
-    response = requests.get(
-        WIKIDATA_API,
-        params=params,
-        headers={"User-Agent": USER_AGENT},
-        timeout=30,
-    )
-    response.raise_for_status()
-    payload = response.json()
-    entities = payload.get("entities")
-    if not isinstance(entities, dict):
-        return []
-    entity = entities.get(qcode)
-    if not isinstance(entity, dict):
-        return {"vat_numbers": [], "websites": []}
-    return {
-        "vat_numbers": extract_claim_string_values(entity, VAT_PROPERTY),
-        "websites": extract_claim_string_values(entity, WEBSITE_PROPERTY),
-    }
+    last_exc: Exception | None = None
+    for attempt in range(1, max(max_retries, 1) + 1):
+        try:
+            response = requests.get(
+                WIKIDATA_API,
+                params=params,
+                headers={"User-Agent": USER_AGENT},
+                timeout=30,
+            )
+            if response.status_code in (429, 500, 502, 503, 504):
+                raise requests.HTTPError(
+                    f"HTTP {response.status_code}", response=response
+                )
+            response.raise_for_status()
+            payload = response.json()
+            entities = payload.get("entities")
+            if not isinstance(entities, dict):
+                return {}, set()
+
+            out: dict[str, dict[str, list[str]]] = {}
+            for qcode in qcodes:
+                entity = entities.get(qcode)
+                if not isinstance(entity, dict):
+                    out[qcode] = {"vat_numbers": [], "websites": []}
+                    continue
+                out[qcode] = {
+                    "vat_numbers": extract_claim_string_values(entity, VAT_PROPERTY),
+                    "websites": extract_claim_string_values(entity, WEBSITE_PROPERTY),
+                }
+            return out, set()
+        except (requests.RequestException, ValueError) as exc:
+            last_exc = exc
+            if attempt < max(max_retries, 1):
+                time.sleep(float(attempt))
+    if last_exc is not None:
+        print(
+            f"warn: failed to fetch batch of {len(qcodes)} Q-codes: {last_exc}",
+            file=sys.stderr,
+        )
+    return {}, set(qcodes)
 
 
 def should_skip_existing(value: Any, overwrite: bool) -> bool:
@@ -177,6 +224,7 @@ def main() -> int:
     updated_website = 0
     failed = 0
 
+    pending: list[tuple[str, dict[str, Any], str, bool, bool]] = []
     for org_name, record in data.items():
         records += 1
         if not isinstance(record, dict):
@@ -192,23 +240,34 @@ def main() -> int:
         if not needs_vat and not needs_website:
             continue
 
-        try:
-            remote = get_claim_values(qcode)
+        pending.append((org_name, record, qcode, needs_vat, needs_website))
+
+    if pending:
+        qcodes = sorted({qcode for _, _, qcode, _, _ in pending})
+        remote_by_qcode: dict[str, dict[str, list[str]]] = {}
+        failed_qcodes: set[str] = set()
+        for batch in chunked(qcodes, args.batch_size):
+            remote, failed_batch = get_claim_values_batch(batch, args.max_retries)
+            remote_by_qcode.update(remote)
+            failed_qcodes.update(failed_batch)
             time.sleep(max(args.sleep_seconds, 0.0))
-        except requests.RequestException as exc:
-            failed += 1
-            print(f"warn: {org_name}: failed to fetch {qcode}: {exc}", file=sys.stderr)
-            continue
 
-        vats = remote.get("vat_numbers") if isinstance(remote, dict) else []
-        websites = remote.get("websites") if isinstance(remote, dict) else []
+        for org_name, record, qcode, needs_vat, needs_website in pending:
+            if qcode in failed_qcodes:
+                failed += 1
+                print(f"warn: {org_name}: failed to fetch {qcode}", file=sys.stderr)
+                continue
 
-        if needs_vat and isinstance(vats, list) and vats:
-            record["VAT_number"] = vats if len(vats) > 1 else vats[0]
-            updated_vat += 1
-        if needs_website and isinstance(websites, list) and websites:
-            record["Website"] = websites[0]
-            updated_website += 1
+            remote = remote_by_qcode.get(qcode, {})
+            vats = remote.get("vat_numbers") if isinstance(remote, dict) else []
+            websites = remote.get("websites") if isinstance(remote, dict) else []
+
+            if needs_vat and isinstance(vats, list) and vats:
+                record["VAT_number"] = vats if len(vats) > 1 else vats[0]
+                updated_vat += 1
+            if needs_website and isinstance(websites, list) and websites:
+                record["Website"] = websites[0]
+                updated_website += 1
 
     print(f"records: {records}")
     print(f"records with Wikidata_code: {with_qcode}")
