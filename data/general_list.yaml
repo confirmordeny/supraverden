@@ -11617,7 +11617,7 @@ International Maize and Wheat Improvement Center:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B38
 International Organization of Turkic Culture:
-  SPRVD_id:
+  SPRVD_id: SPRVD0191979
   Entity_type: International organisation
   Wikidata_code: Q1993710
   Org_family: Organization of Turkic States entities
@@ -11633,5 +11633,24 @@ International Organization of Turkic Culture:
   Immunity_url: https://www.resmigazete.gov.tr/eskiler/2011/08/20110827-2.htm
   Source: https://www.lex.uz/en/docs/6907310
   OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
+Southeast Asian Fisheries Development Center:
+  SPRVD_id: SPRVD0843812
+  Entity_type: International organisation
+  Wikidata_code: Q6632254
+  Org_family: none
+  Type:
+  Country: ZZ
+  Name_en: Southeast Asian Fisheries Development Center
+  Name_fr:
+  Abbreviation_en: SEAFDEC
+  Abbreviation_other_en:
+  Abbreviation_fr:
+  Name_other_en:
+  Treaty_url: https://www.fao.org/fishery/docs/DOCUMENT/seafdec/AgreementEstablishingSEAFDEC.pdf
+  Immunity_url: https://jur.ph/jurisprudence/summary/southeast-asian-fisheries-development-center-v-acosta
+  Source:
+  OpenSanctions_id: [No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
