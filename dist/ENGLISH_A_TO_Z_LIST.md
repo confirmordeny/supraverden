@@ -348,6 +348,7 @@
 - International Centre for Genetic Engineering and Biotechnology
 - International Centre for Migration Policy Development
 - International Centre for Settlement of Investment Disputes
+- International Centre for Synchrotron-Light for Experimental Science Applications in the Middle East
 - International Centre for the Study of the Preservation and the Restoration of Cultural Property
 - International Civil Aviation Organization
 - International Civil Defence Organization
@@ -386,6 +387,7 @@
 - International Law Commission
 - International Lead and Zinc Study Group
 - International Livestock Research Institute
+- International Maize and Wheat Improvement Center
 - International Maritime Organization
 - International Meuse Commission
 - International Mobile Satellite Organization
@@ -400,6 +402,7 @@
 - International Organisation of Legal Metrology
 - International Organisation of Vine and Wine
 - International Organization for Migration
+- International Organization of Turkic Culture
 - International Pacific Halibut Commission
 - International Pepper Community
 - International Plant Genetic Resources Institute
@@ -583,6 +586,7 @@
 - South East Atlantic Fisheries Organisation
 - South Pacific Regional Fisheries Management Organisation
 - South West Indian Ocean Fisheries Commission
+- Southeast Asian Fisheries Development Center
 - Southeast Asian Ministers of Education Organisation
 - Southern African Customs Union
 - Southern African Development Community

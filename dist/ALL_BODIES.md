@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 556 international organisations in the table.
+There are currently 560 international organisations in the table.
 
 | English Name | Wikidata Code | OpenSanctions | Family | Source |
 |---|---|---|---|---|
@@ -304,6 +304,7 @@ There are currently 556 international organisations in the table.
 | International Centre for Genetic Engineering and Biotechnology | [Q6049095](https://www.wikidata.org/wiki/Q6049095) | [No code found.] | none | [Treaty](https://treaties.un.org/doc/source/docs/ICGEB_BG.3_21-E.pdf) |
 | International Centre for Migration Policy Development | [Q498496](https://www.wikidata.org/wiki/Q498496) | [No code found.] | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%203132/v3132.pdf) |
 | International Centre for Settlement of Investment Disputes | [Q899770](https://www.wikidata.org/wiki/Q899770) | [No code found.] | World Bank Group entities | [Treaty](https://icsid.worldbank.org/sites/default/files/documents/ICSID_Convention.pdf) |
+| International Centre for Synchrotron-Light for Experimental Science Applications in the Middle East | [Q749440](https://www.wikidata.org/wiki/Q749440) | [None](https://www.opensanctions.org/entities/None/) | none | [Treaty](https://www.sesame.org.jo/about-us/governing-document) |
 | International Centre for the Study of the Preservation and the Restoration of Cultural Property | [Q590182](https://www.wikidata.org/wiki/Q590182) | [No code found.] | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201321/volume-1321-I-22032-English.pdf) |
 | International Civil Aviation Organization | [Q125761](https://www.wikidata.org/wiki/Q125761) | [No code found.] | UN and affiliates | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
 | International Civil Defence Organization | [Q162656](https://www.wikidata.org/wiki/Q162656) | [No code found.] | none | [Treaty](https://icdo.org/files/documents/constitution/icdo_constitution_en.pdf) |
@@ -342,6 +343,7 @@ There are currently 556 international organisations in the table.
 | International Law Commission | [Q684656](https://www.wikidata.org/wiki/Q684656) | [No code found.] | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | International Lead and Zinc Study Group | [Q12131043](https://www.wikidata.org/wiki/Q12131043) | [No code found.] | none | [Treaty](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A32001D0221) |
 | International Livestock Research Institute | [Q1666743](https://www.wikidata.org/wiki/Q1666743) | [No code found.] | CGIAR entities | [Treaty](https://hdl.handle.net/10568/67391) |
+| International Maize and Wheat Improvement Center | [Q1666745](https://www.wikidata.org/wiki/Q1666745) | [No code found.] | CGIAR | [cgspace.cgiar.org](https://cgspace.cgiar.org/items/f1c0898d-5fe0-4b5c-b694-abacbc9545b7) |
 | International Maritime Organization | [Q201054](https://www.wikidata.org/wiki/Q201054) | [No code found.] | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | International Meuse Commission | [Q124290267](https://www.wikidata.org/wiki/Q124290267) | [No code found.] | none | [Treaty](https://web.archive.org/web/20220523160539/http://environnement.wallonie.be/legis/international/accord004.htm) |
 | International Mobile Satellite Organization | [Q1666759](https://www.wikidata.org/wiki/Q1666759) | [No code found.] | none | [Treaty](https://imso.org/wp-content/uploads/2025/03/IMSO-C-1976-A-5-Resolution-A.529-E-F-S-R-1.pdf) |
@@ -356,6 +358,7 @@ There are currently 556 international organisations in the table.
 | International Organisation of Legal Metrology | [Q1667416](https://www.wikidata.org/wiki/Q1667416) | [No code found.] | none | [Treaty](https://www.oiml.org/en/files/pdf_b/b001-e68.pdf) |
 | International Organisation of Vine and Wine | [Q1317185](https://www.wikidata.org/wiki/Q1317185) | [No code found.] | none | [Treaty](https://www.oiv.int/sites/default/files/documents/en-oiv-accord-20010403.pdf) |
 | International Organization for Migration | [Q472311](https://www.wikidata.org/wiki/Q472311) | [NK-behW9iF6wk8trvEFcHVZYe](https://www.opensanctions.org/entities/NK-behW9iF6wk8trvEFcHVZYe/) | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
+| International Organization of Turkic Culture | [Q1993710](https://www.wikidata.org/wiki/Q1993710) | [No code found.] | Organization of Turkic States entities | [www.lex.uz](https://www.lex.uz/en/docs/6907310) |
 | International Pacific Halibut Commission | [Q6052294](https://www.wikidata.org/wiki/Q6052294) | [No code found.] | none | [Treaty](https://www.iphc.int/uploads/pdf/basic-texts/iphc-1979-pacific-halibut-convention.pdf) |
 | International Pepper Community | [Q17022497](https://www.wikidata.org/wiki/Q17022497) | [No code found.] | none | [Treaty](https://treaties.un.org/doc/Treaties/1972/03/19720329%2002-42%20AM/Ch_XIX_8p.pdf) |
 | International Plant Genetic Resources Institute | N/A | [No code found.] | none | [Treaty](https://cgspace.cgiar.org/server/api/core/bitstreams/00e346a8-faa4-4e7e-a5ae-89f66b66cb92/content) |
@@ -494,6 +497,7 @@ There are currently 556 international organisations in the table.
 | South East Atlantic Fisheries Organisation | [Q3492244](https://www.wikidata.org/wiki/Q3492244) | [No code found.] | none | [Treaty](http://www.seafo.org/About/Convention-Text) |
 | South Pacific Regional Fisheries Management Organisation | [Q21663305](https://www.wikidata.org/wiki/Q21663305) | [No code found.] | none | [Treaty](https://www.austlii.edu.au/au/other/dfat/treaties/ATS/2012/28.html) |
 | South West Indian Ocean Fisheries Commission | [Q134724816](https://www.wikidata.org/wiki/Q134724816) | [No code found.] | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
+| Southeast Asian Fisheries Development Center | [Q6632254](https://www.wikidata.org/wiki/Q6632254) | [No code found.] | none | [Treaty](https://www.fao.org/fishery/docs/DOCUMENT/seafdec/AgreementEstablishingSEAFDEC.pdf) |
 | Southeast Asian Ministers of Education Organisation | N/A | [No code found.] | none | [Treaty](https://www.seameo.org/img/SEAMEO_General/About_SEAMEO/SEAMEO_Charter/charter2013.pdf) |
 | Southern African Customs Union | [Q1344350](https://www.wikidata.org/wiki/Q1344350) | [No code found.] | none | [Treaty](https://www.sacu.int/uploads/documents/6a7ae39b41cba945b083e93a2e1a103d7cee629c.pdf) |
 | Southern African Development Community | [Q816706](https://www.wikidata.org/wiki/Q816706) | [No code found.] | Southern African Development Community | [Treaty](https://www.sadc.int/sites/default/files/2021-11/Declaration__Treaty_of_SADC_0.pdf) |
