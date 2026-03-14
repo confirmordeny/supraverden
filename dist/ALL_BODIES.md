@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 560 international organisations in the table.
+There are currently 561 international organisations in the table.
 
 | English Name | Wikidata Code | OpenSanctions | Family | Source |
 |---|---|---|---|---|
@@ -101,6 +101,7 @@ There are currently 560 international organisations in the table.
 | Central American Educational and Cultural Coordination | N/A | [No code found.] | none | [Treaty](https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?param1=NRTC&nValor1=1&nValor2=72651&nValor3=88737&strTipM=TC) |
 | Central American Integration System | [Q190028](https://www.wikidata.org/wiki/Q190028) | [No code found.] | Central American Integration System entities | [Treaty](https://www.sica.int/busqueda/busqueda_archivo.aspx?Archivo=prot_320_1_04052005.htm) |
 | Central American Maritime Transport Commission | N/A | [No code found.] | none | [Treaty](https://drive.google.com/file/d/1i-BFO17qOcxZYT0mH5qrGFMmIsaFtuHJ/view?usp=share_link) |
+| Central American Parliament | [Q190023](https://www.wikidata.org/wiki/Q190023) | [No code found.] | Central American Integration System entities | [Treaty](https://parlacen.int/assets/pdf/Parlacen-Tratado%20Constitutivo.pdf) |
 | Central Asian and Caucasus Regional Fisheries and Aquaculture Commission | [Q134723600](https://www.wikidata.org/wiki/Q134723600) | [No code found.] | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Central Bank of West African States | [Q620942](https://www.wikidata.org/wiki/Q620942) | [NK-mxyB8RdssqTPhWAWwS9dyb](https://www.opensanctions.org/entities/NK-mxyB8RdssqTPhWAWwS9dyb/) | West African Economic and Monetary Union | [Treaty](https://edit.wti.org/document/show/pdf/57ce5bd9-ef38-4a1d-abd5-ed07f1f155bf) |
 | Central Commission for the Navigation of the Rhine | [Q190650](https://www.wikidata.org/wiki/Q190650) | [No code found.] | none | [Treaty](https://www.ccr-zkr.org/files/conventions/convrev_e.pdf) |
@@ -304,7 +305,7 @@ There are currently 560 international organisations in the table.
 | International Centre for Genetic Engineering and Biotechnology | [Q6049095](https://www.wikidata.org/wiki/Q6049095) | [No code found.] | none | [Treaty](https://treaties.un.org/doc/source/docs/ICGEB_BG.3_21-E.pdf) |
 | International Centre for Migration Policy Development | [Q498496](https://www.wikidata.org/wiki/Q498496) | [No code found.] | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%203132/v3132.pdf) |
 | International Centre for Settlement of Investment Disputes | [Q899770](https://www.wikidata.org/wiki/Q899770) | [No code found.] | World Bank Group entities | [Treaty](https://icsid.worldbank.org/sites/default/files/documents/ICSID_Convention.pdf) |
-| International Centre for Synchrotron-Light for Experimental Science Applications in the Middle East | [Q749440](https://www.wikidata.org/wiki/Q749440) | [None](https://www.opensanctions.org/entities/None/) | none | [Treaty](https://www.sesame.org.jo/about-us/governing-document) |
+| International Centre for Synchrotron-Light for Experimental Science Applications in the Middle East | [Q749440](https://www.wikidata.org/wiki/Q749440) | [No code found.] | none | [Treaty](https://www.sesame.org.jo/about-us/governing-document) |
 | International Centre for the Study of the Preservation and the Restoration of Cultural Property | [Q590182](https://www.wikidata.org/wiki/Q590182) | [No code found.] | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201321/volume-1321-I-22032-English.pdf) |
 | International Civil Aviation Organization | [Q125761](https://www.wikidata.org/wiki/Q125761) | [No code found.] | UN and affiliates | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
 | International Civil Defence Organization | [Q162656](https://www.wikidata.org/wiki/Q162656) | [No code found.] | none | [Treaty](https://icdo.org/files/documents/constitution/icdo_constitution_en.pdf) |

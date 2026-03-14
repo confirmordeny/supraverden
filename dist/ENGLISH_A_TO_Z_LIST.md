@@ -115,6 +115,7 @@
 - Central American Educational and Cultural Coordination
 - Central American Integration System
 - Central American Maritime Transport Commission
+- Central American Parliament
 - Central Asian and Caucasus Regional Fisheries and Aquaculture Commission
 - Central Bank of West African States
 - Central Commission for the Navigation of the Rhine
