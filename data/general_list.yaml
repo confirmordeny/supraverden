@@ -1159,6 +1159,7 @@ European Union Drugs Agency:
   Name_ru: Европейский центр мониторинга наркотиков и наркозависимости
   Name_zh: 歐洲藥物和成癮監測中心
   Website: https://www.euda.europa.eu/
+  Name_es: Agencia Europea de Drogas
 European Union Intellectual Property Office:
   SPRVD_id: SPRVD0058651
   Wikidata_code: Q792534
@@ -3497,6 +3498,7 @@ Organization of the Black Sea Economic Cooperation:
   Name_uk: Організація чорноморського економічного співробітництва
   Name_zh: 黑海经济合作组织
   Website: https://www.bsec-organization.org/
+  VAT_number: TR5090025968
 Pacific Alliance:
   SPRVD_id: SPRVD0008593
   Wikidata_code: Q7122288
@@ -8344,6 +8346,7 @@ International Sava River Basin Commission:
   Name_de: Savakommission
   Name_uk: Міжнародна комісія з питань річки Сава
   Website: https://www.savacommission.org/
+  VAT_number: HR82576916840
 International Plant Genetic Resources Institute:
   SPRVD_id: SPRVD0610800
   Wikidata_code: '[No code found.]'
@@ -10611,6 +10614,7 @@ Western Central Atlantic Fishery Commission:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B16
+  Website: https://www.fao.org/wecafc/en/
 International Trade Centre:
   SPRVD_id: SPRVD0713779
   Entity_type: International organisation
@@ -11584,92 +11588,117 @@ Bank for International Settlements:
   Entity_type: International organisation
   Wikidata_code: Q309195
   Org_family: none
-  Type:
+  Type: null
   Country: ZZ
   Name_en: Bank for International Settlements
-  Name_fr:
+  Name_fr: null
   Abbreviation_en: BIS
-  Abbreviation_fr:
-  Name_other_en:
+  Abbreviation_fr: null
+  Name_other_en: null
   Treaty_url: https://www.bis.org/about/convention-en.pdf
   Immunity_url: https://treaties.fcdo.gov.uk/data/Library2/pdf/1937-TS0025.pdf
-  Source: 
+  Source: null
   OpenSanctions_id: NK-h27oC229Q7ioTGyxiomjVH
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B37
+  Name_es: Banco de Pagos Internacionales
+  Name_de: Bank für Internationalen Zahlungsausgleich
+  Name_pt: Banco de Compensações Internacionais
+  Name_ru: Банк международных расчётов
+  Name_uk: Банк міжнародних розрахунків
+  Name_zh: 國際清算銀行
+  Website: https://www.bis.org/
 International Maize and Wheat Improvement Center:
   SPRVD_id: SPRVD0038324
   Entity_type: International organisation
   Wikidata_code: Q1666745
   Org_family: CGIAR
-  Type:
+  Type: null
   Country: ZZ
   Name_en: International Maize and Wheat Improvement Center
-  Name_fr:
+  Name_fr: null
   Abbreviation_en: CIMMYT
-  Abbreviation_fr:
-  Name_other_en:
-  Treaty_url:
+  Abbreviation_fr: null
+  Name_other_en: null
+  Treaty_url: null
   Immunity_url: https://cja.sre.gob.mx/tratadosmexico/ver/archivo/eyJpdiI6IndtV2ZFTzNibVJKWFpSYzFtbzJkS0E9PSIsInZhbHVlIjoiNmJqa29xcmhnUGU3XC9YUDdDMDVyVGc9PSIsIm1hYyI6IjZhMjk2NTFmOTUxNGUwMzkwNzY2ZDliYmRlYzEwMjgxMDEwOWE1YzU4MGVjNjFmNWMzOTAzNGY4ODQzZWNiMjcifQ==
   Source: https://cgspace.cgiar.org/items/f1c0898d-5fe0-4b5c-b694-abacbc9545b7
   Source_2: https://cgspace.cgiar.org/server/api/core/bitstreams/1e1b1297-fdbe-44c7-94cd-ee1d62ea233d/content
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B38
+  Name_es: Centro Internacional de Mejoramiento de Maíz y Trigo
+  Name_de: International Maize and Wheat Improvement Center
+  Name_ru: Международный центр улучшения кукурузы и пшеницы
+  Name_zh: 國際玉米和小麥改良中心
+  Website: http://www.cimmyt.org
 International Organization of Turkic Culture:
   SPRVD_id: SPRVD0191979
   Entity_type: International organisation
   Wikidata_code: Q1993710
   Org_family: Organization of Turkic States entities
-  Type:
+  Type: null
   Country: ZZ
   Name_en: International Organization of Turkic Culture
-  Name_fr:
+  Name_fr: null
   Abbreviation_en: TÜRKSOY
   Abbreviation_other_en: TÜRKSOY
-  Abbreviation_fr:
-  Name_other_en:
-  Treaty_url:
+  Abbreviation_fr: null
+  Name_other_en: null
+  Treaty_url: null
   Immunity_url: https://www.resmigazete.gov.tr/eskiler/2011/08/20110827-2.htm
   Source: https://www.lex.uz/en/docs/6907310
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Name_es: Organización Internacional de la Cultura Túrquica
+  Name_de: Türksoy
+  Name_pt: Administração Conjunta das Artes e da Cultura Túrquica
+  Name_ru: Международная организация тюркской культуры
+  Name_uk: Міжнародна організація тюркської культури
+  Name_zh: 突厥文化国际组织
+  Website: https://www.turksoy.org/
 Southeast Asian Fisheries Development Center:
   SPRVD_id: SPRVD0843812
   Entity_type: International organisation
   Wikidata_code: Q6632254
   Org_family: none
-  Type:
+  Type: null
   Country: ZZ
   Name_en: Southeast Asian Fisheries Development Center
-  Name_fr:
+  Name_fr: null
   Abbreviation_en: SEAFDEC
-  Abbreviation_other_en:
-  Abbreviation_fr:
-  Name_other_en:
+  Abbreviation_other_en: null
+  Abbreviation_fr: null
+  Name_other_en: null
   Treaty_url: https://www.fao.org/fishery/docs/DOCUMENT/seafdec/AgreementEstablishingSEAFDEC.pdf
   Immunity_url: https://jur.ph/jurisprudence/summary/southeast-asian-fisheries-development-center-v-acosta
-  Source:
+  Source: null
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Name_zh: 东南亚渔业发展中心
+  Website: http://www.seafdec.org/
 International Centre for Synchrotron-Light for Experimental Science Applications in the Middle East:
-  SPRVD_id:
+  SPRVD_id: null
   Entity_type: International organisation
   Wikidata_code: Q749440
   Org_family: none
-  Type:
+  Type: null
   Country: ZZ
   Name_en: International Centre for Synchrotron-Light for Experimental Science Applications in the Middle East
   Name_other_en: Synchrotron-Light for Experimental Science Applications in the Middle East
-  Name_fr:
+  Name_fr: null
   Abbreviation_en: SESAME
-  Abbreviation_other_en:
-  Abbreviation_fr:
+  Abbreviation_other_en: null
+  Abbreviation_fr: null
   Treaty_url: https://www.sesame.org.jo/about-us/governing-document
   Immunity_url: https://www.sesame.org.jo/about-us/sesames-structure/sesame-council/rules-of-procedure
   Source: https://www.wayforlight.eu/facility/20995
-  OpenSanctions_id:
+  OpenSanctions_id: null
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Name_es: SESAME
+  Name_de: SESAME
+  Name_ru: SESAME
+  Website: http://www.sesame.org.jo/
