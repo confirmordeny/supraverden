@@ -27,7 +27,6 @@ jobs:
         run: |
           import yaml
           import requests
-          import sys
           import re
           import os
           import time
@@ -35,12 +34,30 @@ jobs:
           TARGET_FILES = ['data/general_list.yaml', 'data/united_nations.yaml']
           WIKIDATA_ENDPOINT = "https://query.wikidata.org/sparql"
           USER_AGENT = "SupraverdenBot/1.0 (github.com/confirmordeny/supraverden)"
+          QCODE_RE = re.compile(r'^Q\d+$')
+          BATCH_SIZE = 150
+          MAX_RETRIES = 3
+          BATCH_DELAY_SECONDS = 0.2
 
-          def get_wikidata_data(q_code):
-              time.sleep(1.0)
+          def batched(values, size):
+              for i in range(0, len(values), size):
+                  yield values[i:i + size]
+
+          def fetch_wikidata_batch(q_codes):
+              values_clause = " ".join(f"wd:{code}" for code in q_codes)
               query = f"""
-              SELECT ?id ?name_fr ?name_es ?name_de ?name_pt ?name_ru ?name_uk ?name_zh ?website WHERE {{
-                BIND(wd:{q_code} AS ?item)
+              SELECT ?item
+                     (SAMPLE(?id) AS ?id)
+                     (SAMPLE(?name_fr) AS ?name_fr)
+                     (SAMPLE(?name_es) AS ?name_es)
+                     (SAMPLE(?name_de) AS ?name_de)
+                     (SAMPLE(?name_pt) AS ?name_pt)
+                     (SAMPLE(?name_ru) AS ?name_ru)
+                     (SAMPLE(?name_uk) AS ?name_uk)
+                     (SAMPLE(?name_zh) AS ?name_zh)
+                     (SAMPLE(?website) AS ?website)
+              WHERE {{
+                VALUES ?item {{ {values_clause} }}
                 OPTIONAL {{ ?item wdt:P10632 ?id . }}
                 OPTIONAL {{ ?item rdfs:label ?name_fr . FILTER(LANG(?name_fr) = "fr") }}
                 OPTIONAL {{ ?item rdfs:label ?name_es . FILTER(LANG(?name_es) = "es") }}
@@ -51,34 +68,43 @@ jobs:
                 OPTIONAL {{ ?item rdfs:label ?name_zh . FILTER(LANG(?name_zh) = "zh") }}
                 OPTIONAL {{ ?item wdt:P856 ?website . }}
               }}
-              LIMIT 1
+              GROUP BY ?item
               """
-              try:
-                  response = requests.get(
-                      WIKIDATA_ENDPOINT, 
-                      params={'format': 'json', 'query': query}, 
-                      headers={'User-Agent': USER_AGENT},
-                      timeout=30
-                  )
-                  if response.status_code == 200:
-                      data = response.json()
-                      bindings = data.get('results', {}).get('bindings', [])
-                      if bindings:
-                          result_row = bindings[0]
-                          return {
-                              'os_id': result_row.get('id', {}).get('value'),
-                              'name_fr': result_row.get('name_fr', {}).get('value'),
-                              'name_es': result_row.get('name_es', {}).get('value'),
-                              'name_de': result_row.get('name_de', {}).get('value'),
-                              'name_pt': result_row.get('name_pt', {}).get('value'),
-                              'name_ru': result_row.get('name_ru', {}).get('value'),
-                              'name_uk': result_row.get('name_uk', {}).get('value'),
-                              'name_zh': result_row.get('name_zh', {}).get('value'),
-                              'website': result_row.get('website', {}).get('value')
-                          }
-                  return {}
-              except:
-                  return {}
+              for attempt in range(1, MAX_RETRIES + 1):
+                  try:
+                      response = requests.get(
+                          WIKIDATA_ENDPOINT,
+                          params={'format': 'json', 'query': query},
+                          headers={'User-Agent': USER_AGENT},
+                          timeout=60
+                      )
+                      if response.status_code == 200:
+                          rows = response.json().get('results', {}).get('bindings', [])
+                          out = {}
+                          for row in rows:
+                              item_uri = row.get('item', {}).get('value', '')
+                              q_code = item_uri.rsplit('/', 1)[-1]
+                              if not QCODE_RE.match(q_code):
+                                  continue
+                              out[q_code] = {
+                                  'os_id': row.get('id', {}).get('value'),
+                                  'name_fr': row.get('name_fr', {}).get('value'),
+                                  'name_es': row.get('name_es', {}).get('value'),
+                                  'name_de': row.get('name_de', {}).get('value'),
+                                  'name_pt': row.get('name_pt', {}).get('value'),
+                                  'name_ru': row.get('name_ru', {}).get('value'),
+                                  'name_uk': row.get('name_uk', {}).get('value'),
+                                  'name_zh': row.get('name_zh', {}).get('value'),
+                                  'website': row.get('website', {}).get('value')
+                              }
+                          return out
+                      if response.status_code in (429, 500, 502, 503, 504):
+                          time.sleep(attempt * 2.0)
+                          continue
+                      return {}
+                  except requests.RequestException:
+                      time.sleep(attempt * 2.0)
+              return {}
 
           def process_single_file(file_path):
               print(f"Checking {file_path}...")
@@ -98,12 +124,13 @@ jobs:
                   return False
 
               updates_count = 0
+              pending = []
               for org_name, info in data.items():
                   if not isinstance(info, dict) or 'Wikidata_code' not in info:
                       continue
                   
                   w_code = str(info['Wikidata_code']).replace('[', '').replace(']', '').strip()
-                  if not w_code.startswith('Q'):
+                  if not QCODE_RE.match(w_code):
                       continue
                   
                   needs_os = 'OpenSanctions_id' not in info
@@ -117,10 +144,21 @@ jobs:
                   needs_website = 'Website' not in info
                   
                   if needs_os or needs_fr or needs_es or needs_de or needs_pt or needs_ru or needs_uk or needs_zh or needs_website:
-                      remote = get_wikidata_data(w_code)
+                      pending.append((org_name, info, w_code, needs_os, needs_fr, needs_es, needs_de, needs_pt, needs_ru, needs_uk, needs_zh, needs_website))
+
+              if pending:
+                  q_codes = sorted({entry[2] for entry in pending})
+                  remote_by_qcode = {}
+                  for batch in batched(q_codes, BATCH_SIZE):
+                      remote_by_qcode.update(fetch_wikidata_batch(batch))
+                      time.sleep(BATCH_DELAY_SECONDS)
+
+                  for entry in pending:
+                      org_name, info, w_code, needs_os, needs_fr, needs_es, needs_de, needs_pt, needs_ru, needs_uk, needs_zh, needs_website = entry
+                      remote = remote_by_qcode.get(w_code, {})
                       if not remote:
                           continue
-                      
+
                       changed = False
                       if needs_os and remote.get('os_id'):
                           info['OpenSanctions_id'] = remote['os_id']
@@ -149,7 +187,6 @@ jobs:
                       if needs_website and remote.get('website'):
                           info['Website'] = remote['website']
                           changed = True
-                      
                       if changed:
                           updates_count += 1
 

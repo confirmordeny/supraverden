@@ -11680,7 +11680,7 @@ Southeast Asian Fisheries Development Center:
   Name_zh: 东南亚渔业发展中心
   Website: http://www.seafdec.org/
 International Centre for Synchrotron-Light for Experimental Science Applications in the Middle East:
-  SPRVD_id: null
+  SPRVD_id: SPRVD0183426
   Entity_type: International organisation
   Wikidata_code: Q749440
   Org_family: none
@@ -11695,7 +11695,26 @@ International Centre for Synchrotron-Light for Experimental Science Applications
   Treaty_url: https://www.sesame.org.jo/about-us/governing-document
   Immunity_url: https://www.sesame.org.jo/about-us/sesames-structure/sesame-council/rules-of-procedure
   Source: https://www.wayforlight.eu/facility/20995
-  OpenSanctions_id: null
+  OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
+Central American Parliament:
+  SPRVD_id: SPRVD0122656
+  Entity_type: International organisation
+  Wikidata_code: Q190023
+  Org_family: Central American Integration System entities
+  Type:
+  Country: ZZ
+  Name_en: Central American Parliament
+  Name_other_en:
+  Name_fr:
+  Abbreviation_en: PARLACEN
+  Abbreviation_other_en:
+  Abbreviation_fr:
+  Treaty_url: https://parlacen.int/assets/pdf/Parlacen-Tratado%20Constitutivo.pdf
+  Immunity_url: https://parlacen.int/assets/pdf/Parlacen-Tratado%20Constitutivo.pdf
+  Source:
+  OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Name_es: SESAME
