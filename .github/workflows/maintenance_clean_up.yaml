@@ -3,17 +3,35 @@ name: Cleanup old runs
 on: 
   workflow_dispatch: # This allows you to click a button to run it manually
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   delete-runs:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     permissions:
       actions: write
       contents: read
     steps:
-      - name: Delete workflow runs
-        uses: Mattraks/delete-workflow-runs@v2
-        with:
-          token: ${{ github.token }}
-          repository: ${{ github.repository }}
-          retain_days: 5 # Deletes everything older than 5 days
-          keep_minimum_runs: 0 # Be careful, this allows deleting ALL old runs
+      - name: Delete old completed workflow runs
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          RETAIN_DAYS: "5"
+        run: |
+          set -euo pipefail
+          cutoff_epoch=$(python3 -c 'from datetime import datetime, timedelta, timezone; import os; days=int(os.environ.get("RETAIN_DAYS","5")); print(int((datetime.now(timezone.utc)-timedelta(days=days)).timestamp()))')
+          deleted=0
+          gh api --paginate "repos/${REPO}/actions/runs?per_page=100" \
+            --jq '.workflow_runs[] | select(.status=="completed") | [.id, .created_at] | @tsv' \
+          | while IFS=$'\t' read -r run_id created_at; do
+              run_epoch=$(python3 -c 'from datetime import datetime; import sys; print(int(datetime.strptime(sys.argv[1], "%Y-%m-%dT%H:%M:%SZ").timestamp()))' "${created_at}")
+              if [ "${run_epoch}" -lt "${cutoff_epoch}" ]; then
+                echo "Deleting run ${run_id} (${created_at})"
+                gh api -X DELETE "repos/${REPO}/actions/runs/${run_id}" >/dev/null
+                deleted=$((deleted+1))
+              fi
+            done
+          echo "Cleanup complete."

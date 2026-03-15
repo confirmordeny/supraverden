@@ -1,0 +1,49 @@
+name: Generate SPRVD IDs
+
+on:
+  workflow_dispatch:
+    inputs:
+      count:
+        description: Number of IDs to generate
+        required: false
+        default: '10'
+      exclude_file:
+        description: File used to avoid already-used IDs
+        required: false
+        default: data/general_list.yaml
+      key:
+        description: YAML key to scan in exclude file
+        required: false
+        default: SPRVD_id
+      seed:
+        description: Optional random seed
+        required: false
+        default: ''
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+
+      - name: Generate IDs
+        run: |
+          args=(--count "${{ github.event.inputs.count }}" --exclude-file "${{ github.event.inputs.exclude_file }}" --key "${{ github.event.inputs.key }}")
+          if [ -n "${{ github.event.inputs.seed }}" ]; then
+            args+=(--seed "${{ github.event.inputs.seed }}")
+          fi
+          python scripts/generate_sprvd_id.py "${args[@]}"

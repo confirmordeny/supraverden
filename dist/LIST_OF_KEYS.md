@@ -34,7 +34,6 @@
   * en
 * Name_other_2
   * en
-* Name_other_en_2
 * Notes
   * en
 * OpenSanctions_id
