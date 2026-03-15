@@ -1,0 +1,55 @@
+name: Validate Data Integrity
+
+on:
+  pull_request:
+    paths:
+      - 'data/**'
+      - 'scripts/validate_*.py'
+      - 'scripts/find_b22_missing_immunity_url.py'
+      - '.github/workflows/validate_data_integrity.yaml'
+  push:
+    branches:
+      - main
+    paths:
+      - 'data/**'
+      - 'scripts/validate_*.py'
+      - 'scripts/find_b22_missing_immunity_url.py'
+      - '.github/workflows/validate_data_integrity.yaml'
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Validate general list against dictionary
+        run: python scripts/validate_general_list_yaml.py
+
+      - name: Validate SPRVD IDs
+        run: python scripts/validate_sprvd_ids.py
+
+      - name: Report B22 entities missing Immunity_url
+        run: |
+          count=$(python scripts/find_b22_missing_immunity_url.py --show-count-only)
+          echo "B22 missing Immunity_url count: ${count}"
+          python scripts/find_b22_missing_immunity_url.py > /tmp/b22_missing_immunity_url.txt
+          echo "Top 40 entries:"
+          head -40 /tmp/b22_missing_immunity_url.txt

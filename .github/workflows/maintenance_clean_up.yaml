@@ -3,9 +3,14 @@ name: Cleanup old runs
 on: 
   workflow_dispatch: # This allows you to click a button to run it manually
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   delete-runs:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     permissions:
       actions: write
       contents: read

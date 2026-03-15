@@ -58,7 +58,7 @@ R4:
   Reference_archive_date: null
   Reference_publication_date: null
 R5:
- Reference_code: R5
+  Reference_code: R5
   Reference_text_en: British-Irish Agreement Act, 1999
   Reference_url: https://www.irishstatutebook.ie/eli/1999/act/1/enacted/en/html
   Reference_url_archive:
@@ -72,7 +72,7 @@ R5:
   Reference_publication_date: null
   Reference_element_1: section 52
 R6:
- Reference_code: R6
+  Reference_code: R6
   Reference_text_en: Salzburg Forum Agenda 2030
   Reference_url: https://mv.gov.cz/soubor/salzburg-forum-agenda-2030.aspx
   Reference_url_archive:
@@ -85,7 +85,8 @@ R6:
   Reference_archive_date: null
   Reference_publication_date: null
   Reference_element_1: page 1
- Reference_code: R7
+R7:
+  Reference_code: R7
   Reference_text_en: The Commission
   Reference_url: https://www.internationalboundarycommission.org/en/about/commission.php
   Reference_url_archive:
@@ -98,7 +99,8 @@ R6:
   Reference_archive_date: null
   Reference_publication_date: null
   Reference_element_1: third paragraph
- Reference_code: R8
+R8:
+  Reference_code: R8
   Reference_text_en: FATF Frequently Asked Questions
   Reference_url: https://www.fatf-gafi.org/en/pages/frequently-asked-questions.html
   Reference_url_archive:
@@ -111,7 +113,8 @@ R6:
   Reference_archive_date: null
   Reference_publication_date: null
   Reference_element_1:
-Reference_code: R9
+R9:
+  Reference_code: R9
   Reference_text_en: Financial Action Task Force Mandate
   Reference_url: https://www.fatf-gafi.org/content/dam/fatf-gafi/images/brochures-other/FATF-Ministerial-Declaration-Mandate.pdf
   Reference_url_archive:
@@ -124,7 +127,8 @@ Reference_code: R9
   Reference_archive_date: null
   Reference_publication_date: 2019-04-12
   Reference_element_1: pages 1-4
-Reference_code: R10
+R10:
+  Reference_code: R10
   Reference_text_en: Commonwealth Secretariat Act 1966
   Reference_url: https://www.legislation.gov.uk/ukpga/1966/10
   Reference_url_archive: null
@@ -137,7 +141,6 @@ Reference_code: R10
   Reference_archive_date: null
   Reference_publication_date: 1966-03-10
   Reference_element_1: section 1
-
 
 
 

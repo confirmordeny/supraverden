@@ -10,9 +10,14 @@ on:
       
   workflow_dispatch:
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   extract-keys:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     permissions:
       contents: write
 
@@ -23,108 +28,13 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: '3.11'
 
       - name: Install dependencies
         run: pip install pyyaml
 
       - name: Extract Keys and Generate List
-        run: |
-          python3 - <<'EOF'
-          import os
-          import yaml
-          
-          # Input files configuration
-          input_files = [
-              'data/general_list.yaml',
-              'data/united_nations.yaml'
-          ]
-          output_file = 'dist/LIST_OF_KEYS.md'
-
-          unique_keys = set()
-          print("Scanning files for keys...")
-
-          for filepath in input_files:
-              if not os.path.exists(filepath):
-                  print(f"Skipping missing file: {filepath}")
-                  continue
-
-              with open(filepath, 'r', encoding='utf-8') as f:
-                  data = yaml.safe_load(f) or {}
-              if not isinstance(data, dict):
-                  print(f"Skipping non-mapping YAML root in: {filepath}")
-                  continue
-              for _, record in data.items():
-                  if isinstance(record, dict):
-                      unique_keys.update(record.keys())
-
-          # --- RECURSIVE GROUPING LOGIC ---
-
-          # Helper to create nested dictionaries
-          def attach_to_tree(tree, parts):
-              head = parts[0]
-              if head not in tree:
-                  tree[head] = {'_children': {}}
-              
-              if len(parts) > 1:
-                  attach_to_tree(tree[head]['_children'], parts[1:])
-              else:
-                  # Mark that this node is a valid key itself
-                  tree[head]['_is_key'] = True
-
-          key_tree = {}
-          exceptions = {'Abbreviation_other', 'Assessment_against_FATF_definition', 'Basis_for_assessment', 'Legal_type', 'Entity_type', 'Immunity_url', 'Name_former', 'Name_other', 'Name_other_2', 'Org_family', 'OpenSanctions_id', 'Treaty_url', 'Wikidata_code'}
-          language_suffixes = {'en', 'fr', 'es', 'de', 'pt', 'ru', 'uk', 'zh'}
-          source_index_suffixes = {'1', '2', '3'}
-
-          for key in unique_keys:
-              if key in exceptions:
-                  # Treat exceptions as a single chunk (no splitting)
-                  attach_to_tree(key_tree, [key])
-              else:
-                  # Only split language suffixes to avoid unnecessary breaks
-                  # e.g. Name_other_en -> ['Name_other', 'en']
-                  # e.g. Year_established -> ['Year_established']
-                  if '_' in key:
-                      stem, suffix = key.rsplit('_', 1)
-                      if stem == 'Source' and suffix in source_index_suffixes:
-                          parts = [stem, suffix]
-                      elif suffix in language_suffixes and stem:
-                          parts = [stem, suffix]
-                      else:
-                          parts = [key]
-                  else:
-                      parts = [key]
-                  attach_to_tree(key_tree, parts)
-
-          # Recursive function to generate markdown
-          def generate_lines(tree, depth=0):
-              lines = []
-              # Sort keys alphabetically
-              for node_name in sorted(tree.keys()):
-                  node = tree[node_name]
-                  
-                  # Create the bullet point
-                  indent = "  " * depth
-                  lines.append(f"{indent}* {node_name}")
-                  
-                  # Process children if they exist
-                  if '_children' in node and node['_children']:
-                      lines.extend(generate_lines(node['_children'], depth + 1))
-                      
-              return lines
-
-          output_lines = generate_lines(key_tree)
-          formatted_output = "\n".join(output_lines)
-          
-          # --------------------------
-
-          os.makedirs(os.path.dirname(output_file), exist_ok=True)
-          with open(output_file, 'w', encoding='utf-8') as f:
-              f.write(formatted_output)
-
-          print(f"Successfully wrote {len(unique_keys)} keys to {output_file}")
-          EOF
+        run: python scripts/generate_list_of_keys_md.py
 
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5

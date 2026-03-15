@@ -8,9 +8,14 @@ on:
       - 'data/**.yaml' # Watch all yaml files in data
   workflow_dispatch:
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     permissions:
       contents: write # REQUIRED for committing back to the repo
 
@@ -21,99 +26,14 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: '3.11'
 
       - name: Install dependencies
         run: pip install pyyaml
 
-      # Step 1: Write the Python script to a temporary file
-      # This is safer than running it inline and avoids EOF warnings.
-      - name: Create Generator Script
-        run: |
-          cat << 'PY_SCRIPT' > generate_families.py
-          import os
-          import yaml
-          from collections import Counter
-
-          # CONFIGURATION
-          input_files = [
-              'data/general_list.yaml',
-              'data/united_nations.yaml'
-          ]
-          output_file = 'dist/ORG_FAMILIES.md'
-
-          def parse_file(filepath):
-              if not os.path.exists(filepath):
-                  print(f'Warning: File not found: {filepath}')
-                  return []
-
-              with open(filepath, 'r', encoding='utf-8') as f:
-                  data = yaml.safe_load(f) or {}
-
-              if not isinstance(data, dict):
-                  print(f'Warning: YAML root is not a mapping in {filepath}')
-                  return []
-
-              organizations = []
-              for org_name, props in data.items():
-                  row = {'_main_name': str(org_name)}
-                  if isinstance(props, dict):
-                      row.update(props)
-                  organizations.append(row)
-              return organizations
-
-          def generate_markdown(organizations):
-              families = []
-              for org in organizations:
-                  fam = org.get('Org_family')
-                  # robust check for null/None/'null' string
-                  if fam and fam.strip() and str(fam).lower() != 'null':
-                      families.append(fam.strip())
-                  else:
-                      families.append('Unspecified')
-
-              counts = Counter(families)
-              sorted_families = sorted(counts.keys(), key=str.casefold)
-
-              lines = []
-              for family in sorted_families:
-                  count = counts[family]
-                  suffix = "entity" if count == 1 else "entities"
-                  lines.append(f"* {family} ({count} {suffix})")
-              
-              return '\n'.join(lines)
-
-          # --- Main Execution ---
-          print("Starting processing...")
-          all_orgs = []
-          for f in input_files:
-              data = parse_file(f)
-              all_orgs.extend(data)
-              print(f"Loaded {len(data)} items from {f}")
-
-          content = generate_markdown(all_orgs)
-          
-          # Ensure directory exists
-          os.makedirs(os.path.dirname(output_file), exist_ok=True)
-          
-          with open(output_file, 'w', encoding='utf-8') as f:
-              f.write('# Organization Families Summary\n\n')
-              f.write(content)
-              
-          print(f"SUCCESS: Generated {output_file}")
-          PY_SCRIPT
-
-      # Step 2: Run the script
       - name: Run Generator
-        run: python3 generate_families.py
+        run: python scripts/generate_org_families_md.py
 
-      # Step 3: Debugging - Verify the file exists
-      - name: Verify Output
-        run: |
-          echo "Checking contents of dist folder:"
-          ls -la dist/ || echo "Dist folder not found!"
-
-      # Step 4: Commit and Push
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:

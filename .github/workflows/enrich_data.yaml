@@ -3,12 +3,17 @@ name: Enrich data with data from Wikidata
 on:
   workflow_dispatch: 
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 permissions:
   contents: write 
 
 jobs:
   enrich-data:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -16,195 +21,14 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.11'
 
       - name: Install dependencies
           # We need pyyaml and requests for the script to function
         run: pip install pyyaml requests
 
       - name: Run Enrichment Script
-        shell: python
-        run: |
-          import yaml
-          import requests
-          import re
-          import os
-          import time
-
-          TARGET_FILES = ['data/general_list.yaml', 'data/united_nations.yaml']
-          WIKIDATA_ENDPOINT = "https://query.wikidata.org/sparql"
-          USER_AGENT = "SupraverdenBot/1.0 (github.com/confirmordeny/supraverden)"
-          QCODE_RE = re.compile(r'^Q\d+$')
-          BATCH_SIZE = 150
-          MAX_RETRIES = 3
-          BATCH_DELAY_SECONDS = 0.2
-
-          def batched(values, size):
-              for i in range(0, len(values), size):
-                  yield values[i:i + size]
-
-          def fetch_wikidata_batch(q_codes):
-              values_clause = " ".join(f"wd:{code}" for code in q_codes)
-              query = f"""
-              SELECT ?item
-                     (SAMPLE(?id) AS ?id)
-                     (SAMPLE(?name_fr) AS ?name_fr)
-                     (SAMPLE(?name_es) AS ?name_es)
-                     (SAMPLE(?name_de) AS ?name_de)
-                     (SAMPLE(?name_pt) AS ?name_pt)
-                     (SAMPLE(?name_ru) AS ?name_ru)
-                     (SAMPLE(?name_uk) AS ?name_uk)
-                     (SAMPLE(?name_zh) AS ?name_zh)
-                     (SAMPLE(?website) AS ?website)
-              WHERE {{
-                VALUES ?item {{ {values_clause} }}
-                OPTIONAL {{ ?item wdt:P10632 ?id . }}
-                OPTIONAL {{ ?item rdfs:label ?name_fr . FILTER(LANG(?name_fr) = "fr") }}
-                OPTIONAL {{ ?item rdfs:label ?name_es . FILTER(LANG(?name_es) = "es") }}
-                OPTIONAL {{ ?item rdfs:label ?name_de . FILTER(LANG(?name_de) = "de") }}
-                OPTIONAL {{ ?item rdfs:label ?name_pt . FILTER(LANG(?name_pt) = "pt") }}
-                OPTIONAL {{ ?item rdfs:label ?name_ru . FILTER(LANG(?name_ru) = "ru") }}
-                OPTIONAL {{ ?item rdfs:label ?name_uk . FILTER(LANG(?name_uk) = "uk") }}
-                OPTIONAL {{ ?item rdfs:label ?name_zh . FILTER(LANG(?name_zh) = "zh") }}
-                OPTIONAL {{ ?item wdt:P856 ?website . }}
-              }}
-              GROUP BY ?item
-              """
-              for attempt in range(1, MAX_RETRIES + 1):
-                  try:
-                      response = requests.get(
-                          WIKIDATA_ENDPOINT,
-                          params={'format': 'json', 'query': query},
-                          headers={'User-Agent': USER_AGENT},
-                          timeout=60
-                      )
-                      if response.status_code == 200:
-                          rows = response.json().get('results', {}).get('bindings', [])
-                          out = {}
-                          for row in rows:
-                              item_uri = row.get('item', {}).get('value', '')
-                              q_code = item_uri.rsplit('/', 1)[-1]
-                              if not QCODE_RE.match(q_code):
-                                  continue
-                              out[q_code] = {
-                                  'os_id': row.get('id', {}).get('value'),
-                                  'name_fr': row.get('name_fr', {}).get('value'),
-                                  'name_es': row.get('name_es', {}).get('value'),
-                                  'name_de': row.get('name_de', {}).get('value'),
-                                  'name_pt': row.get('name_pt', {}).get('value'),
-                                  'name_ru': row.get('name_ru', {}).get('value'),
-                                  'name_uk': row.get('name_uk', {}).get('value'),
-                                  'name_zh': row.get('name_zh', {}).get('value'),
-                                  'website': row.get('website', {}).get('value')
-                              }
-                          return out
-                      if response.status_code in (429, 500, 502, 503, 504):
-                          time.sleep(attempt * 2.0)
-                          continue
-                      return {}
-                  except requests.RequestException:
-                      time.sleep(attempt * 2.0)
-              return {}
-
-          def process_single_file(file_path):
-              print(f"Checking {file_path}...")
-              if not os.path.exists(file_path):
-                  return False
-              with open(file_path, 'r', encoding='utf-8') as f:
-                  original_content = f.read()
-              
-              header_match = re.match(r'^(\s*#.*|\s*\n)*', original_content)
-              header_block = header_match.group(0) if header_match else ""
-              
-              try:
-                  data = yaml.safe_load(original_content)
-              except:
-                  return False
-              if not data:
-                  return False
-
-              updates_count = 0
-              pending = []
-              for org_name, info in data.items():
-                  if not isinstance(info, dict) or 'Wikidata_code' not in info:
-                      continue
-                  
-                  w_code = str(info['Wikidata_code']).replace('[', '').replace(']', '').strip()
-                  if not QCODE_RE.match(w_code):
-                      continue
-                  
-                  needs_os = 'OpenSanctions_id' not in info
-                  needs_fr = 'Name_fr' not in info
-                  needs_es = 'Name_es' not in info
-                  needs_de = 'Name_de' not in info
-                  needs_pt = 'Name_pt' not in info
-                  needs_ru = 'Name_ru' not in info
-                  needs_uk = 'Name_uk' not in info
-                  needs_zh = 'Name_zh' not in info
-                  needs_website = 'Website' not in info
-                  
-                  if needs_os or needs_fr or needs_es or needs_de or needs_pt or needs_ru or needs_uk or needs_zh or needs_website:
-                      pending.append((org_name, info, w_code, needs_os, needs_fr, needs_es, needs_de, needs_pt, needs_ru, needs_uk, needs_zh, needs_website))
-
-              if pending:
-                  q_codes = sorted({entry[2] for entry in pending})
-                  remote_by_qcode = {}
-                  for batch in batched(q_codes, BATCH_SIZE):
-                      remote_by_qcode.update(fetch_wikidata_batch(batch))
-                      time.sleep(BATCH_DELAY_SECONDS)
-
-                  for entry in pending:
-                      org_name, info, w_code, needs_os, needs_fr, needs_es, needs_de, needs_pt, needs_ru, needs_uk, needs_zh, needs_website = entry
-                      remote = remote_by_qcode.get(w_code, {})
-                      if not remote:
-                          continue
-
-                      changed = False
-                      if needs_os and remote.get('os_id'):
-                          info['OpenSanctions_id'] = remote['os_id']
-                          changed = True
-                      if needs_fr and remote.get('name_fr'):
-                          info['Name_fr'] = remote['name_fr']
-                          changed = True
-                      if needs_es and remote.get('name_es'):
-                          info['Name_es'] = remote['name_es']
-                          changed = True
-                      if needs_de and remote.get('name_de'):
-                          info['Name_de'] = remote['name_de']
-                          changed = True
-                      if needs_pt and remote.get('name_pt'):
-                          info['Name_pt'] = remote['name_pt']
-                          changed = True
-                      if needs_ru and remote.get('name_ru'):
-                          info['Name_ru'] = remote['name_ru']
-                          changed = True
-                      if needs_uk and remote.get('name_uk'):
-                          info['Name_uk'] = remote['name_uk']
-                          changed = True
-                      if needs_zh and remote.get('name_zh'):
-                          info['Name_zh'] = remote['name_zh']
-                          changed = True
-                      if needs_website and remote.get('website'):
-                          info['Website'] = remote['website']
-                          changed = True
-                      if changed:
-                          updates_count += 1
-
-              if updates_count > 0:
-                  print(f"Saving {updates_count} updates...")
-                  with open(file_path, 'w', encoding='utf-8') as f:
-                      f.write(header_block)
-                      yaml.dump(data, f, default_flow_style=False, sort_keys=False, allow_unicode=True, width=1000)
-                  return True
-              return False
-
-          any_updated = False
-          for path in TARGET_FILES:
-              if process_single_file(path):
-                  any_updated = True
-          
-          if not any_updated:
-              print("No changes found.")
+        run: python scripts/enrich_wikidata_fields.py
 
       - name: Enrich VAT numbers and websites from Wikidata
         run: |

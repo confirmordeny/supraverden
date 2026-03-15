@@ -227,6 +227,15 @@ Name:
   Description: The full formal name of the organisation in the language indicated by suffix.
   Examples: European Union, United Nations
 
+Name_zh:
+  Title: Name (Chinese)
+  Data_type: text
+  Minimum_length: 2
+  Maximum_length: 200
+  Requirement: optional
+  Description: Chinese-script full name of the organisation; shorter lengths are valid for logographic names.
+  Examples: 联合国
+
 Name_former:
   Title: Former name
   Data_type: text
