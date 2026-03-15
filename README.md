@@ -1,6 +1,6 @@
 
-[![Create A to Z](https://github.com/confirmordeny/supraverden/actions/workflows/create_a_to_z_of_en_names.yaml/badge.svg)](https://github.com/confirmordeny/supraverden/actions/workflows/create_a_to_z_of_en_names.yaml)
-[![Combined bodies table](https://github.com/confirmordeny/supraverden/actions/workflows/generate_all_bodies.yaml/badge.svg)](https://github.com/confirmordeny/supraverden/actions/workflows/generate_all_bodies.yaml)
+[![Generate Dist Outputs](https://github.com/confirmordeny/supraverden/actions/workflows/generate_dist_outputs.yaml/badge.svg)](https://github.com/confirmordeny/supraverden/actions/workflows/generate_dist_outputs.yaml)
+[![Validate Data Integrity](https://github.com/confirmordeny/supraverden/actions/workflows/validate_data_integrity.yaml/badge.svg)](https://github.com/confirmordeny/supraverden/actions/workflows/validate_data_integrity.yaml)
 [![Org families list](https://github.com/confirmordeny/supraverden/actions/workflows/generate_list_of_org_families.yaml/badge.svg)](https://github.com/confirmordeny/supraverden/actions/workflows/generate_list_of_org_families.yaml)
 
 # What is it?
