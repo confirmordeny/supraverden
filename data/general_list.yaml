@@ -3289,6 +3289,7 @@ Commonwealth Telecommunications Organisation:
   Name_en: Commonwealth Telecommunications Organisation
   Abbreviation_en: null
   Treaty_url: https://www.austlii.edu.au/cgi-bin/viewdoc/au/other/dfat/treaties/1957/21.html
+  Immunity_url: https://www.legislation.gov.uk/uksi/1983/144/made
   Source: https://assets.publishing.service.gov.uk/media/5a82bacf40f0b62305b940a4/TS_20_2017_CM_9512_WEB.pdf
   Name_fr: Commonwealth Telecommunications Organisation
   OpenSanctions_id: '[No code found.]'
@@ -3694,6 +3695,7 @@ Union for the Mediterranean:
   Name_en: Union for the Mediterranean
   Abbreviation_en: null
   Treaty_url: https://ufmsecretariat.org/wp-content/uploads/2012/09/Statutes-UfMS.pdf
+  Immunity_url: https://ufmsecretariat.org/wp-content/uploads/2018/12/HeadquartersAgreement.pdf
   Name_fr: Union pour la Méditerranée
   Name_es: Unión para el Mediterráneo
   OpenSanctions_id: '[No code found.]'
@@ -3790,6 +3792,7 @@ Indian Ocean Rim Association:
   Name_en: Indian Ocean Rim Association
   Abbreviation_en: null
   Treaty_url: https://www.un.org/en/ga/sixth/70/docs/iora_charter.pdf
+  Immunity_url: https://www.iora.int/sites/default/files/2025-12/IORA%20Charter.pdf
   Name_fr: Association des États riverains de l'océan Indien
   Name_es: Cooperación Regional del Océano Índico
   OpenSanctions_id: '[No code found.]'
@@ -3845,9 +3848,10 @@ International Pepper Community:
   Name_en: International Pepper Community
   Abbreviation_en: null
   Treaty_url: https://treaties.un.org/doc/Treaties/1972/03/19720329%2002-42%20AM/Ch_XIX_8p.pdf
+  Source: https://www.ipcnet.org/ipc-in-brief-2/
   OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B22
+  Assessment_against_FATF_definition: Excluded
+  Basis_for_assessment: B39
   Year_established: 1972
 International Organisation of Vine and Wine:
   SPRVD_id: SPRVD0691601
@@ -3956,6 +3960,7 @@ Nordic Council:
   Name_en: Nordic Council
   Abbreviation_en: null
   Treaty_url: https://norden.diva-portal.org/smash/get/diva2:1250815/FULLTEXT01.pdf
+  Immunity_url: https://www.norden.org/en/node/40247
   Name_fr: Conseil nordique
   Name_es: Consejo Nórdico
   OpenSanctions_id: '[No code found.]'
@@ -3978,6 +3983,7 @@ Nordic Council of Ministers:
   Name_en: Nordic Council of Ministers
   Abbreviation_en: null
   Treaty_url: https://www.norden.org/en/node/40247
+  Immunity_url: https://www.norden.org/en/node/40247
   Name_fr: Conseil nordique des ministres
   Name_es: Consejo Nórdico de Ministros
   OpenSanctions_id: '[No code found.]'
@@ -4055,6 +4061,7 @@ International Commission on Civil Status:
   Name_en: International Commission on Civil Status
   Abbreviation_en: CIEC
   Treaty_url: https://ciec1.org/wp-content/uploads/2025/03/Rules_of_the_ICCS.pdf
+  Immunity_url: https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000417461
   Name_fr: Commission internationale de l'état civil
   Name_es: Comisión Internacional del Estado Civil
   OpenSanctions_id: '[No code found.]'
