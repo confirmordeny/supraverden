@@ -2610,6 +2610,7 @@ European Court of Human Rights:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.legislation.gov.uk/uksi/1970/1941/made
   Year_established: 1959
   Headquarters: Strasbourg, France
   Name_de: Europäischer Gerichtshof für Menschenrechte
@@ -2724,6 +2725,7 @@ International Coffee Organisation:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.legislation.gov.uk/uksi/1969/733/made
   Year_established: 1963
   Headquarters: London, United Kingdom
   Name_de: Internationale Kaffeeorganisation
@@ -2786,6 +2788,7 @@ International Whaling Commission:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.legislation.gov.uk/uksi/1975/1210/made
   Year_established: 1946
   Headquarters: Histon and Impington, United Kingdom
   Name_pt: Comissão Baleeira Internacional
@@ -2823,6 +2826,7 @@ International Lead and Zinc Study Group:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.legislation.gov.uk/uksi/1978/1893/made
   Name_uk: Міжнародна група з вивчення свинцю і цинку
   Website: http://www.ilzsg.org
 International Telecommunications Satellite Organisation:
@@ -2858,6 +2862,7 @@ Oslo and Paris Commissions:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.legislation.gov.uk/uksi/1979/914/made
 International Oil Pollution Compensation Fund:
   SPRVD_id: SPRVD0519244
   Wikidata_code: '[No code found.]'
@@ -2920,6 +2925,7 @@ North-East Atlantic Fisheries Commission:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.legislation.gov.uk/uksi/1999/278/made
   Year_established: 1980
   Name_de: North East Atlantic Fishery Commission
   Name_zh: 东北大西洋渔业委员会
@@ -2977,6 +2983,7 @@ European Organization for Astronomical Research in the Southern Hemisphere:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Immunity_url: https://www.legislation.gov.uk/uksi/2018/787/made
   Year_established: 1962
   Headquarters: Garching bei München, Germany
   Name_de: Europäische Südsternwarte
@@ -4007,6 +4014,8 @@ Advisory Centre on World Trade Organization Law:
   Name_other_en: Advisory Centre on WTO Law
   Abbreviation_en: null
   Treaty_url: https://web.archive.org/web/20140224004105/http://www.minbuza.nl/en/key-topics/treaties/search-the-treaty-database/1999/11/009244.html
+  Immunity_url: https://www.fedlex.admin.ch/eli/cc/2004/793/fr
+  Source: https://www.legislation.gov.uk/uksi/2001/1868/article/2/made
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
@@ -10207,6 +10216,7 @@ International Atomic Energy Agency:
   Name_es: Organismo Internacional de Energía Atómica
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Immunity_url: https://www.legislation.gov.uk/uksi/1974/1256/made
   Year_established: 1957
   Headquarters: Vienna, Austria
   LEI: 254900LA8J6AFBG2V690
@@ -10265,6 +10275,7 @@ International Organization for Migration:
   Name_es: Organización Internacional para las Migraciones
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Immunity_url: https://www.legislation.gov.uk/uksi/2008/3124/made
   Year_established: 1951
   Headquarters: Geneva, Switzerland
   LEI: 213800ZOADXV69DW8Z91
@@ -10297,6 +10308,7 @@ International Criminal Court:
   Name_es: Corte Penal Internacional
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Immunity_url: https://www.legislation.gov.uk/uksi/2006/1908/made
   Year_established: 2002
   Headquarters: The Hague, Netherlands
   Name_de: Internationaler Strafgerichtshof
@@ -10511,6 +10523,7 @@ International Development Association:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B11
+  Immunity_url: https://www.legislation.gov.uk/uksi/1960/1383/made
   LEI: P41R60HC414IWQA1XW02
   LEI_jurisdiction: XX
   LEI_category: INTERNATIONAL_ORGANIZATION
