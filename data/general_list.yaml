@@ -2650,6 +2650,7 @@ European Free Trade Association:
   Country: ZZ
   Name_en: European Free Trade Association
   Abbreviation_en: EFTA
+  Immunity_url: https://www.legislation.gov.uk/uksi/1961/1000/contents/made
   Treaty_url: https://www.efta.int/sites/default/files/uploads/2024-04/Vaduz_Convention_Agreement_Updated_1_November_2021.pdf
   Name_fr: Association européenne de libre-échange
   Name_es: Asociación Europea de Libre Comercio
@@ -3078,6 +3079,7 @@ International Criminal Police Organization:
   Name_en: International Criminal Police Organization
   Abbreviation_en: INTERPOL
   Treaty_url: https://web.archive.org/web/20160222055903/https://www.interpol.int/content/download/9429/69209/version/9/file/Constitution.pdf
+  Immunity_url: https://www.interpol.int/content/download/23852/file/General%20agreement%20on%20the%20privileges%20and%20immunities%20of%20the%20International%20Criminal%20Police%20Organization%20%E2%80%93%20INTERPOL_EN.pdf
   Name_fr: Interpol
   Name_es: Interpol
   OpenSanctions_id: '[No code found.]'
@@ -3681,6 +3683,7 @@ Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation:
   Country: ZZ
   Name_en: Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation
   Abbreviation_en: BIMSTEC
+  Immunity_url: https://bimstec.org/images/content_page_pdf/1696679340_Signed%20MOA%20on%20BIMSTEC%20Permanent%20Secretariat.pdf
   Treaty_url: https://bimstec.org/images/content_page_pdf/1696679710_BIMSTEC%20Charter.pdf
   Name_fr: Bay of Bengal Initiative for MultiSectoral Technical and Economic Cooperation
   Name_es: Iniciativa de la Bahía de Bengala para la Cooperación Técnica y Económica Multisectorial
@@ -3778,6 +3781,7 @@ Organisation for Economic Co-operation and Development:
   Name_en: Organisation for Economic Co-operation and Development
   Abbreviation_en: OECD
   Treaty_url: https://www.oecd.org/en/about/legal/text-of-the-convention-on-the-organisation-for-economic-co-operation-and-development.html
+  Immunity_url: https://www.oecd.org/en/about/legal/supplementary-protocol-no-1-to-the-convention-for-european-economic-co-operation-on-the-legal-capacity-privileges-and-immunities-of-the-organisation.html
   OpenSanctions_id: NK-HfnndSjpSFjgYwPw2RpFpt
   Name_fr: Organisation de coopération et de développement économiques
   Name_es: Organización para la Cooperación y el Desarrollo Económico
@@ -4428,6 +4432,7 @@ International Investment Bank:
   Country: ZZ
   Name_en: International Investment Bank
   Abbreviation_en: null
+  Immunity_url: https://iib.int/files/agreement_establishing_iib_with_its_charter.pdf
   Treaty_url: https://iib.int/files/agreement_establishing_iib_with_its_charter.pdf
   Name_fr: Banque internationale d'investissement
   Name_es: Banco Internacional de Inversiones
@@ -4677,6 +4682,7 @@ Community of Portuguese Language Countries:
   Name_other_en: Community of Portuguese-Speaking Countries
   Abbreviation_en: null
   Treaty_url: http://www.worldlii.org/int/other/treaties/UNTSer/2003/692.pdf
+  Immunity_url: https://dcjri.ministeriopublico.pt//sites/default/files/documentos/instrumentos/rar23-1999.pdf
   Name_fr: communauté des pays de langue portugaise
   Name_es: Comunidad de Países de Lengua Portuguesa
   OpenSanctions_id: '[No code found.]'
