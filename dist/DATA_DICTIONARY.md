@@ -19,6 +19,7 @@
 - [`LEI_legal_form`](#field-lei_legal_form)
 - [`LEI_status`](#field-lei_status)
 - [`Name`](#field-name)
+- [`Name_zh`](#field-name_zh)
 - [`Name_former`](#field-name_former)
 - [`Name_other`](#field-name_other)
 - [`Notes`](#field-notes)
@@ -286,6 +287,19 @@
 | `Requirement` | mandatory |
 | `Description` | The full formal name of the organisation in the language indicated by suffix. |
 | `Examples` | European Union, United Nations |
+
+<a id="field-name_zh"></a>
+## `Name_zh`
+
+| Attribute | Value |
+| --- | --- |
+| `Title` | Name (Chinese) |
+| `Data_type` | text |
+| `Minimum_length` | 2 |
+| `Maximum_length` | 200 |
+| `Requirement` | optional |
+| `Description` | Chinese-script full name of the organisation; shorter lengths are valid for logographic names. |
+| `Examples` | 联合国 |
 
 <a id="field-name_former"></a>
 ## `Name_former`

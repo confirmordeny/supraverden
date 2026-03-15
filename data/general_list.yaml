@@ -3333,6 +3333,7 @@ CAB International:
   Name_uk: CABI
   Name_zh: 国际农业与生物科学中心
   Website: https://www.cabi.org/
+  VAT_number: GB208864642
 European Organisation for the Safety of Air Navigation:
   SPRVD_id: SPRVD0175553
   Wikidata_code: Q663492
@@ -7607,6 +7608,7 @@ International Iberian Nanotechnology Laboratory:
   Name_pt: Laboratório Ibérico Internacional de Nanotecnologia
   Name_zh: 国际伊比利亚纳米技术实验室
   Website: http://inl.int/
+  VAT_number: PT508633346
 Latin American Faculty of Social Sciences:
   SPRVD_id: SPRVD0336301
   Wikidata_code: Q255898
@@ -7693,6 +7695,7 @@ International Centre for the Study of the Preservation and the Restoration of Cu
   Name_uk: Міжнародний центр вивчення питань збереження та відновлення культурних цінностей
   Name_zh: 文化資產保存修復研究國際中心
   Website: http://www.iccrom.org/
+  VAT_number: IT80417950583
 CGIAR System Organization:
   SPRVD_id: SPRVD0565899
   Wikidata_code: Q1128401
@@ -11718,22 +11721,26 @@ International Centre for Synchrotron-Light for Experimental Science Applications
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Name_es: SESAME
+  Name_de: SESAME
+  Name_ru: SESAME
+  Website: http://www.sesame.org.jo/
 Central American Parliament:
   SPRVD_id: SPRVD0122656
   Entity_type: International organisation
   Wikidata_code: Q190023
   Org_family: Central American Integration System entities
-  Type:
+  Type: null
   Country: ZZ
   Name_en: Central American Parliament
-  Name_other_en:
-  Name_fr:
+  Name_other_en: null
+  Name_fr: null
   Abbreviation_en: PARLACEN
-  Abbreviation_other_en:
-  Abbreviation_fr:
+  Abbreviation_other_en: null
+  Abbreviation_fr: null
   Treaty_url: https://parlacen.int/assets/pdf/Parlacen-Tratado%20Constitutivo.pdf
   Immunity_url: https://parlacen.int/assets/pdf/Parlacen-Tratado%20Constitutivo.pdf
-  Source:
+  Source: null
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
@@ -11741,3 +11748,6 @@ Central American Parliament:
   Name_de: SESAME
   Name_ru: SESAME
   Website: http://www.sesame.org.jo/
+  Name_pt: Parlamento Centro-Americano
+  Name_uk: Центральноамериканський парламент
+  Name_zh: 中美洲议会
