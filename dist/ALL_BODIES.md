@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 562 international organisations in the table.
+There are currently 563 international organisations in the table.
 
 | English Name | Wikidata Code | OpenSanctions | Family | Source |
 |---|---|---|---|---|
@@ -286,6 +286,7 @@ There are currently 562 international organisations in the table.
 | Inter-American Investment Corporation | N/A | [InNK-ad2outEGmesjZo22gqUzci](https://www.opensanctions.org/entities/InNK-ad2outEGmesjZo22gqUzci/) | none | [Treaty](https://assets.publishing.service.gov.uk/media/640b3cdc8fa8f5560820da5b/TS_11.2023_Agreement_Establishing_InterAmerican_Investment_Corporation.pdf) |
 | Inter-American Statistical Institute | [Q55725862](https://www.wikidata.org/wiki/Q55725862) | [No code found.] | none | [Treaty](https://www.inec.gob.pa/iasi/docs/ingles/CONSTITUTION.doc) |
 | Inter-American Tropical Tuna Commission | [Q3153044](https://www.wikidata.org/wiki/Q3153044) | [No code found.] | none | [Treaty](https://web.archive.org/web/20160513131225/http://www.iattc.org/PDFFiles/IATTC_convention_1949.pdf) |
+| Inter-Arab Investment Guarantee Corporation | N/A | [No code found.] | Arab League entities | [Treaty](https://investmentpolicy.unctad.org/international-investment-agreements/treaty-files/2803/download) |
 | Intergovernmental Authority on Development | [Q499039](https://www.wikidata.org/wiki/Q499039) | [No code found.] | none | [Treaty](https://igad.int/download/agreement-establishing-the-intergovernmental-authority-on-development-igad/#) |
 | Intergovernmental Council of Copper Exporting Countries | [Q1023742](https://www.wikidata.org/wiki/Q1023742) | [No code found.] | none | [Treaty](https://www.austlii.edu.au/au/other/dfat/treaties/ATS/1975/43.html) |
 | Intergovernmental Organisation for International Carriage by Rail | [Q2333216](https://www.wikidata.org/wiki/Q2333216) | [No code found.] | none | [Treaty](https://otif.org/fileadmin/user_upload/otif_verlinkte_files/07_veroeff/01_COTIF_80/cotif-1980-e.pdf) |

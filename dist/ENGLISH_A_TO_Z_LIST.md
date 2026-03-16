@@ -330,6 +330,7 @@
 - Inter-American Investment Corporation
 - Inter-American Statistical Institute
 - Inter-American Tropical Tuna Commission
+- Inter-Arab Investment Guarantee Corporation
 - Intergovernmental Authority on Development
 - Intergovernmental Council of Copper Exporting Countries
 - Intergovernmental Organisation for International Carriage by Rail
