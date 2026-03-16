@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 561 international organisations in the table.
+There are currently 562 international organisations in the table.
 
 | English Name | Wikidata Code | OpenSanctions | Family | Source |
 |---|---|---|---|---|
@@ -425,6 +425,7 @@ There are currently 561 international organisations in the table.
 | Nordic Development Fund | [Q7050687](https://www.wikidata.org/wiki/Q7050687) | [No code found.] | Nordic Council entities | [Treaty](https://www.ndf.int/media/files/constituent-documents/ndf-agreement-and-statutes-october-2020.pdf) |
 | Nordic Environment Finance Corporation | [Q3736769](https://www.wikidata.org/wiki/Q3736769) | [No code found.] | Nordic Council entities | [Treaty](https://www.nefco.int/wp-content/uploads/2019/04/NEFCO_Constituent-Documents_2017.pdf) |
 | Nordic Investment Bank | [Q2020649](https://www.wikidata.org/wiki/Q2020649) | [NK-4cYrxXVbBphW2KPazgEuLt](https://www.opensanctions.org/entities/NK-4cYrxXVbBphW2KPazgEuLt/) | Nordic Council entities | [Treaty](https://web.archive.org/web/20240613035236/https://www.jus.uio.no/english/services/library/treaties/09/9-02/nordic-investment-bank.html) |
+| Nordic Patent Institute | [Q7050720](https://www.wikidata.org/wiki/Q7050720) | [No code found.] | none | [Treaty](https://npi.int/media/0dncrrkc/agreement-on-the-establishing-of-nordic-patent-institute.pdf) |
 | North Atlantic Marine Mammal Commission | [Q3076178](https://www.wikidata.org/wiki/Q3076178) | [No code found.] | none | [Treaty](https://nammco.wpengine.com/wp-content/uploads/2016/10/nammco-agreement-with-signatures-and-logo.pdf) |
 | North Atlantic Salmon Conservation Organization | [Q7053997](https://www.wikidata.org/wiki/Q7053997) | [No code found.] | none | [Treaty](https://nasco.int/wp-content/uploads/2020/05/NASCO_Handbook.pdf) |
 | North Atlantic Treaty Organisation | [Q7184](https://www.wikidata.org/wiki/Q7184) | [No code found.] | none | [Treaty](https://www.nato.int/cps/en/natohq/official_texts_17120.htm) |

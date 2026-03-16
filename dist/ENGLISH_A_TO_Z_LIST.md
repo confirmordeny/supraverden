@@ -494,6 +494,7 @@
 - Nordic Development Fund
 - Nordic Environment Finance Corporation
 - Nordic Investment Bank
+- Nordic Patent Institute
 - North Atlantic Marine Mammal Commission
 - North Atlantic Salmon Conservation Organization
 - North Atlantic Treaty Organisation
