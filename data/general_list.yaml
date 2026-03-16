@@ -11781,4 +11781,22 @@ Nordic Patent Institute:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
-
+Inter-Arab Investment Guarantee Corporation:
+  SPRVD_id: SPRVD0353924
+  Entity_type: International organisation
+  Wikidata_code: '[No code found.]'
+  Org_family: Arab League entities
+  Type:
+  Country: ZZ
+  Name_en: Inter-Arab Investment Guarantee Corporation
+  Name_other_en: Dhaman
+  Name_fr:
+  Abbreviation_en:
+  Abbreviation_other_en:
+  Abbreviation_fr:
+  Treaty_url: https://investmentpolicy.unctad.org/international-investment-agreements/treaty-files/2803/download
+  Immunity_url: https://investmentpolicy.unctad.org/international-investment-agreements/treaty-files/2803/download
+  Source: null
+  OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
