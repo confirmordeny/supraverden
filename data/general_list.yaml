@@ -3199,6 +3199,7 @@ Asian Development Bank:
   Name_en: Asian Development Bank
   Abbreviation_en: null
   Treaty_url: https://www.adb.org/sites/default/files/institutional-document/32120/charter.pdf
+  Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%20615/volume-615-I-8887-English.pdf
   Name_fr: Banque asiatique de développement
   Name_es: Banco Asiático de Desarrollo
   OpenSanctions_id: NK-hCyerPpXgxTfWxm5NETuAK
@@ -3345,6 +3346,7 @@ European Organisation for the Safety of Air Navigation:
   Name_en: European Organisation for the Safety of Air Navigation
   Abbreviation_en: EUROCONTROL
   Treaty_url: https://www.interlex-portal.eu/FindLaw/Login/Index?returnUrl=%2FFindLaw%2FExport%2FExportMultiDocs%3Ftype%3Dpdf%26idsString%3D6742981
+  Immunity_url: https://www.legislation.gov.uk/uksi/1970/1940/contents/made
   Name_fr: Eurocontrol
   Name_es: Eurocontrol
   OpenSanctions_id: '[No code found.]'
@@ -3430,6 +3432,7 @@ Cooperation Council for the Arab States of the Gulf:
   Name_other_2_en: Cooperation Council for the Arab States of the Persian Gulf
   Abbreviation_en: GCC
   Treaty_url: https://www.wipo.int/wipolex/en/text/590122
+  Immunity_url: https://www.gcc-sg.org/en/MediaCenter/DigitalLibrary/Documents/1274260830.pdf
   Name_fr: Conseil de coopération du Golfe
   Name_es: Consejo de Cooperación para los Estados Árabes del Golfo
   OpenSanctions_id: '[No code found.]'
@@ -5180,6 +5183,7 @@ Organization for the Prohibition of Chemical Weapons:
   Name_en: Organization for the Prohibition of Chemical Weapons
   Abbreviation_en: null
   Treaty_url: https://www.opcw.org/sites/default/files/documents/CWC/CWC_en.pdf
+  Immunity_url: https://www.opcw.org/sites/default/files/documents/CSP/C-I/en/C-I_DEC.59-EN.pdf
   Name_fr: Organisation pour l'interdiction des armes chimiques
   Name_es: Organización para la Prohibición de Armas Químicas
   OpenSanctions_id: '[No code found.]'
@@ -5242,6 +5246,7 @@ International Joint Commission:
   Name_en: International Joint Commission
   Abbreviation_en: null
   Treaty_url: https://www.ijc.org/sites/default/files/2018-07/Boundary%20Waters%20Treaty%20of%201909.pdf
+  Immunity_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1315/page-1.html
   Name_fr: Commission mixte internationale
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
@@ -11757,3 +11762,23 @@ Central American Parliament:
   Name_pt: Parlamento Centro-Americano
   Name_uk: Центральноамериканський парламент
   Name_zh: 中美洲议会
+Nordic Patent Institute:
+  SPRVD_id:
+  Entity_type: International organisation
+  Wikidata_code: Q7050720
+  Org_family: none
+  Type:
+  Country: ZZ
+  Name_en: Nordic Patent Institute
+  Name_other_en:
+  Name_fr:
+  Abbreviation_en: NPI
+  Abbreviation_other_en:
+  Abbreviation_fr:
+  Treaty_url: https://npi.int/media/0dncrrkc/agreement-on-the-establishing-of-nordic-patent-institute.pdf
+  Immunity_url: https://npi.int/media/0dncrrkc/agreement-on-the-establishing-of-nordic-patent-institute.pdf
+  Source: null
+  OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
+
