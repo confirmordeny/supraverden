@@ -11800,3 +11800,22 @@ Inter-Arab Investment Guarantee Corporation:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+Fund for responding to Loss and Damage:
+  SPRVD_id:
+  Entity_type: International organisation
+  Wikidata_code: Q131196928
+  Org_family: UN and affiliates
+  Type:
+  Country: ZZ
+  Name_en: Fund for responding to Loss and Damage
+  Name_other_en: Loss and Damahe Fund
+  Name_fr:
+  Abbreviation_en: FRLD
+  Abbreviation_other_en:
+  Abbreviation_fr:
+  Treaty_url: https://www.frld.org/sites/default/files/FRLD%20Governing%20Instrument.pdf
+  Immunity_url: https://www.frld.org/sites/default/files/FRLD%20Governing%20Instrument.pdf
+  Source: null
+  OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
