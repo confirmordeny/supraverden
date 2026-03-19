@@ -11819,3 +11819,41 @@ Fund for responding to Loss and Damage:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+Gambia River Development Organization:
+  SPRVD_id:
+  Entity_type: International organisation
+  Wikidata_code: Q31341020
+  Org_family: none
+  Type:
+  Country: ZZ
+  Name_en:  Gambia River Development Organization
+  Name_other_en: Organisation for the Development of the Gambia River
+  Name_fr:
+  Abbreviation_en: OMVG
+  Abbreviation_other_en:
+  Abbreviation_fr:
+  Treaty_url: https://faolex.fao.org/docs/pdf/gam15879.pdf
+  Immunity_url: https://cda-omvs.org/wp-content/uploads/2017/07/14535-Receuil-textes-juridiques-OMVG.pdf
+  Source: null
+  OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
+Institute of Nutrition of Central America and Panama:
+  SPRVD_id:
+  Entity_type: International organisation
+  Wikidata_code: Q19588331
+  Org_family: Central American Integration System entities
+  Type:
+  Country: ZZ
+  Name_en: Institute of Nutrition of Central America and Panama
+  Name_other_en:
+  Name_fr:
+  Abbreviation_en: INCAP
+  Abbreviation_other_en:
+  Abbreviation_fr:
+  Treaty_url: https://www.oas.org/juridico/spanish/tratados/f-104.html
+  Immunity_url: https://www.oas.org/juridico/spanish/tratados/f-104.html
+  Source: null
+  OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
