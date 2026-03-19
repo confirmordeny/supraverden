@@ -11857,3 +11857,22 @@ Institute of Nutrition of Central America and Panama:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+ASEAN Coordinating Centre for Humanitarian Assistance:
+  SPRVD_id:
+  Entity_type: International organisation
+  Wikidata_code: Q114434380
+  Org_family: Association of Southeast Asian Nations entities
+  Type:
+  Country: ZZ
+  Name_en: ASEAN Coordinating Centre for Humanitarian Assistance
+  Name_other_en:
+  Name_fr:
+  Abbreviation_en: AHA Centre
+  Abbreviation_other_en:
+  Abbreviation_fr:
+  Treaty_url: https://agreement.asean.org/media/download/20220330063452.pdf
+  Immunity_url: https://agreement.asean.org/media/download/20220330063452.pdf
+  Source: null
+  OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
