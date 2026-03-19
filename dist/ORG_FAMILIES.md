@@ -4,7 +4,7 @@
 * Andean Community entities (6 entities)
 * Antarctic Treaty System entities (2 entities)
 * Arab League entities (15 entities)
-* Association of Southeast Asian Nations entities (1 entity)
+* Association of Southeast Asian Nations entities (2 entities)
 * Benelux entities (3 entities)
 * BRICS entities (1 entity)
 * Caribbean Community entities (14 entities)
