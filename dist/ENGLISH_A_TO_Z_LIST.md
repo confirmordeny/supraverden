@@ -56,6 +56,7 @@
 - Arab Women Organization
 - Arctic Council
 - Arms Trade Treaty Secretariat
+- ASEAN Coordinating Centre for Humanitarian Assistance
 - Asia-Pacific Economic Cooperation Secretariat
 - Asia-Pacific Fishery Commission
 - Asia-Pacific Telecommunity

@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 566 international organisations in the table.
+There are currently 567 international organisations in the table.
 
 | English Name | Wikidata Code | OpenSanctions | Family | Source |
 |---|---|---|---|---|
@@ -52,6 +52,7 @@ There are currently 566 international organisations in the table.
 | Arab Women Organization | [Q12245743](https://www.wikidata.org/wiki/Q12245743) | [No code found.] | Arab League entities | [Treaty](https://www.lloc.gov.bh/FullEn/L2402.docx) |
 | Arctic Council | [Q674182](https://www.wikidata.org/wiki/Q674182) | [No code found.] | none | [Treaty](https://oaarchive.arctic-council.org/server/api/core/bitstreams/bdc15f51-fb91-4e0d-9037-3e8618e7b98f/content) |
 | Arms Trade Treaty Secretariat | N/A | [No code found.] | none | [Treaty](https://www.fedlex.admin.ch/eli/cc/2016/477/fr) |
+| ASEAN Coordinating Centre for Humanitarian Assistance | [Q114434380](https://www.wikidata.org/wiki/Q114434380) | [No code found.] | Association of Southeast Asian Nations entities | [Treaty](https://agreement.asean.org/media/download/20220330063452.pdf) |
 | Asia-Pacific Economic Cooperation Secretariat | N/A | [No code found.] | none | [Treaty](https://www.apec.org/meeting-papers/annual-ministerial-meetings/1992/1992_amm/annex3) |
 | Asia-Pacific Fishery Commission | [Q4806252](https://www.wikidata.org/wiki/Q4806252) | [No code found.] | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Asia-Pacific Telecommunity | [Q4806261](https://www.wikidata.org/wiki/Q4806261) | [No code found.] | none | [Treaty](https://apt.int/pdfs/Constitution.pdf) |
