@@ -289,6 +289,7 @@
 - Fishery Committee for the Eastern Central Atlantic
 - Food and Agriculture Organization
 - Foyle, Carlingford and Irish Lights Commission
+- Fund for responding to Loss and Damage
 - Fund for the Development of the Indigenous Peoples of Latin America and the Caribbean
 - Fusion for Energy Joint Undertaking
 
@@ -296,6 +297,7 @@
 
 ## G
 
+- Gambia River Development Organization
 - Gas Exporting Countries Forum
 - General Fisheries Commission for the Mediterranean
 - Global Combat Air Programme International Government Organisation
@@ -321,6 +323,7 @@
 - Indian Ocean Rim Association
 - Indian Ocean Tuna Commission
 - Innovative Health Initiative Joint Undertaking
+- Institute of Nutrition of Central America and Panama
 - Inter-American Center for Tax Administrations
 - Inter-American Commission on Human Rights
 - Inter-American Court of Human Rights

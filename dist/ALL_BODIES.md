@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 563 international organisations in the table.
+There are currently 566 international organisations in the table.
 
 | English Name | Wikidata Code | OpenSanctions | Family | Source |
 |---|---|---|---|---|
@@ -260,8 +260,10 @@ There are currently 563 international organisations in the table.
 | Fishery Committee for the Eastern Central Atlantic | [Q12617572](https://www.wikidata.org/wiki/Q12617572) | [No code found.] | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Food and Agriculture Organization | [Q82151](https://www.wikidata.org/wiki/Q82151) | [NK-NuGLAXMYwi7QnLjQKKoByS](https://www.opensanctions.org/entities/NK-NuGLAXMYwi7QnLjQKKoByS/) | UN and affiliates | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
 | Foyle, Carlingford and Irish Lights Commission | [Q98139786](https://www.wikidata.org/wiki/Q98139786) | [No code found.] | North South bodies | [www.northsouthministerialcouncil.org](https://www.northsouthministerialcouncil.org/north-south-implementation-bodies) |
+| Fund for responding to Loss and Damage | [Q131196928](https://www.wikidata.org/wiki/Q131196928) | [No code found.] | UN and affiliates | [Treaty](https://www.frld.org/sites/default/files/FRLD%20Governing%20Instrument.pdf) |
 | Fund for the Development of the Indigenous Peoples of Latin America and the Caribbean | [Q125689468](https://www.wikidata.org/wiki/Q125689468) | [No code found.] | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201728/volume-1728-I-30177-English.pdf) |
 | Fusion for Energy Joint Undertaking | [Q5510278](https://www.wikidata.org/wiki/Q5510278) | [No code found.] | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20240305173612/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32007D0198) |
+| Gambia River Development Organization | [Q31341020](https://www.wikidata.org/wiki/Q31341020) | [No code found.] | none | [Treaty](https://faolex.fao.org/docs/pdf/gam15879.pdf) |
 | Gas Exporting Countries Forum | [Q1031255](https://www.wikidata.org/wiki/Q1031255) | [No code found.] | none | [Treaty](https://www.gecf.org/Portals/0/PDF/GECF%20Agreement%20and%20Statute.pdf) |
 | General Fisheries Commission for the Mediterranean | [Q134724326](https://www.wikidata.org/wiki/Q134724326) | [No code found.] | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Global Combat Air Programme International Government Organisation | N/A | [No code found.] | none | [Treaty](https://assets.publishing.service.gov.uk/media/6762c109e6ff7c8a1fde9ab4/TS_98.2024_Convention_Establishment_GCAP_International_Government_Organisation.pdf) |
@@ -277,6 +279,7 @@ There are currently 563 international organisations in the table.
 | Indian Ocean Rim Association | [Q2297691](https://www.wikidata.org/wiki/Q2297691) | [No code found.] | none | [Treaty](https://www.un.org/en/ga/sixth/70/docs/iora_charter.pdf) |
 | Indian Ocean Tuna Commission | [Q12613354](https://www.wikidata.org/wiki/Q12613354) | [No code found.] | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Innovative Health Initiative Joint Undertaking | [Q118695652](https://www.wikidata.org/wiki/Q118695652) | [No code found.] | EU institutions and bodies | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085) |
+| Institute of Nutrition of Central America and Panama | [Q19588331](https://www.wikidata.org/wiki/Q19588331) | [No code found.] | Central American Integration System entities | [Treaty](https://www.oas.org/juridico/spanish/tratados/f-104.html) |
 | Inter-American Center for Tax Administrations | [Q2585529](https://www.wikidata.org/wiki/Q2585529) | [No code found.] | none | [Treaty](https://ciatorg.sharepoint.com/sites/cds/Conocimientos/Gerencia_Ejecutiva_Operaciones/GestionInstitucional/LinieamientosEstrategicos/EstatutosyReglamentos/pdf/bylaws_regulatios_en.pdf?ga=1) |
 | Inter-American Commission on Human Rights | [Q1589444](https://www.wikidata.org/wiki/Q1589444) | [No code found.] | OAS institutions and bodies | [Treaty](https://www.oas.org/dil/treaties_b-32_american_convention_on_human_rights.pdf) |
 | Inter-American Court of Human Rights | [Q1547804](https://www.wikidata.org/wiki/Q1547804) | [No code found.] | OAS institutions and bodies | [Treaty](https://www.oas.org/dil/treaties_b-32_american_convention_on_human_rights.pdf) |
