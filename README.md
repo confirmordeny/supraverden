@@ -28,16 +28,23 @@ We welcome contributions.
 ## Code of conduct
 See [Code of conduct](CODE_OF_CONDUCT.md)
 
+## Not endorsed by anyone
+This repo is not endorsed by any international organisation, government or public authority anywhere in the world. In fact, this repo is not currently endorsed by anyone.
+
 ## Copyright and license
 Copyright © Confirmordeny 2025–⁠2026 released under a [Creative Commons Attribution Share Alike 4.0 International](LICENSE.md)
 
 The author of this repository respects intellectual property rights. If you believe any content here infringes your copyright, please [raise an issue](https://github.com/confirmordeny/supraverden/issues/new?title=Copyright%20Query) on the repo.
 
-In some cases, it may be possible to make contributions available under other licences. Please get in touch if this is something you would like to explore.
+Short quotes from publications in this repo are published under the principles of [fair dealing](https://www.gov.uk/guidance/exceptions-to-copyright#:~:text=%E2%80%98Fair%20dealing%E2%80%99%20is,with%20the%20work%3F) for the UK and [fair use](https://www.copyright.gov/fair-use/) for the USA. 
+
+Identification codes created by other organisations are included in the repo to enable matching of data across systems where appropriate. Such codes are considered to be statements of fact and not creative works that can be copyrighted.
+
+In some cases, it may be possible to make contributions to this repo available under other licences. Please get in touch if this is something you would like to explore.
 
 See also the Acknowledgements section below.
 
-## Acknowledgements
+## Acknowledgements and attributions
 We gratefully acknowledge data made publicly available by a number of organisations that has made this repository possible.
 
 Data taken from UK Central Government websites is reproduced under the [Open Government Licence v3](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
@@ -46,7 +53,9 @@ This repo include Q codes sourced from [Wikidata](https://www.wikidata.org/wiki/
 
 This repo includes Legal Entity Identifier (LEI) data provided by the Global Legal Entity Identifier Foundation (GLEIF) under the CC0 Public Domain Dedication license. 
 
-Quotes from FATF publications are published in this repo under the principles of [fair dealing](https://www.gov.uk/guidance/exceptions-to-copyright#:~:text=%E2%80%98Fair%20dealing%E2%80%99%20is,with%20the%20work%3F) for the UK and [fair use](https://www.copyright.gov/fair-use/) for the USA. 
+This repo includes short quotes from FATF publications.
+
+[AnaCredit](https://www.ecb.europa.eu/stats/ecb_statistics/anacredit/html/index.en.html) identifier codes (e.g., E$0ECBM00262 for the European Chemicals Agency [ECHA]) are taken from the European Central Bank's [list of international organisations](https://www.ecb.europa.eu/stats/money/aggregates/anacredit/shared/pdf/List_of_international_organisations.xlsx). These codes are reproduced in line with [Policy regarding the reuse of ESCB statistics](https://www.ecb.europa.eu/stats/ecb_statistics/governance_and_quality_framework/html/usage_policy.en.html) and in line with the principles of the [Open Data Directive](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1561563110433&uri=CELEX:32019L1024).
 
 ## The name of the Repo
 The name Supraverden was created by mixing European languages:

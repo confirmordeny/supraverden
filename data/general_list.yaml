@@ -595,6 +595,7 @@ European Union Agency for Criminal Justice Cooperation:
   Country: EU
   Name_en: European Union Agency for Criminal Justice Cooperation
   Name_other_en: Eurojust
+  Name_former_en: European Union's Judicial Cooperation Unit
   Type: EU decentralised agency
   Treaty_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1727
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
@@ -1018,6 +1019,7 @@ European Union Agency for Law Enforcement Training:
   Name_en: European Union Agency for Law Enforcement Training
   Abbreviation_en: CEPOL
   Name_other_en: EU Agency for Law Enforcement Training
+  Name_former_en: European Police College
   Type: EU decentralised agency
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
   OpenSanctions_id: '[No code found.]'
@@ -1049,6 +1051,7 @@ European Union Agency for Railways:
   Name_en: European Union Agency for Railways
   Abbreviation_en: ERA
   Name_other_en: EU Agency for Railways
+  Name_former_en: European Railway Agency
   Type: EU decentralised agency
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
   OpenSanctions_id: '[No code found.]'
@@ -2938,6 +2941,7 @@ International Mobile Satellite Organization:
   Org_family: none
   Country: ZZ
   Name_en: International Mobile Satellite Organization
+  Name_former_en: International Maritime Satellite Organization
   Abbreviation_en: IMSO
   Treaty_url: https://imso.org/wp-content/uploads/2025/03/IMSO-C-1976-A-5-Resolution-A.529-E-F-S-R-1.pdf
   Name_fr: International Mobile Satellite Organization
@@ -7588,6 +7592,7 @@ CAF - Development Bank of Latin America and the Caribbean:
   Org_family: Andean Community entities
   Country: ZZ
   Name_en: CAF - Development Bank of Latin America and the Caribbean
+  Name_former_en: Andean Development Corporation
   Abbreviation_en: null
   Treaty_url: http://www.commonlii.org/jm/legis/consol_act/adcaa1999386.pdf
   Name_fr: Corporación Andina de Fomento
@@ -8203,6 +8208,7 @@ EFTA Court:
   Country: ZZ
   Name_en: EFTA Court
   Name_other_en: Court of justice of the EFTA States
+  Name_other_2_en: European Free Trade Association Court
   Abbreviation_en: null
   Treaty_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:E1994A1231(01)
   Source: https://www.efta.int/sites/default/files/documents/legal-texts/the-surveillance-and-court-agreement/agreement-annexes-and-protocols/Surveillance-and-Court-Agreement-consolidated.pdf
