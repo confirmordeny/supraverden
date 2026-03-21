@@ -1,10 +1,6 @@
-Source landing page: https://www.ecb.europa.eu/stats/ecb_statistics/anacredit/html/index.en.html,,,,,
-Source file: https://www.ecb.europa.eu/stats/money/aggregates/anacredit/shared/pdf/List_of_international_organisations.xlsx,,,,,
-Reuse policy: https://www.ecb.europa.eu/stats/ecb_statistics/governance_and_quality_framework/html/usage_policy.en.html
-"List of International Organisations for which a simplified reporting of AnaCredit counterparty reference data applies, unless otherwise decided by the relevant NCB",,,,,
-Source landing page: https://www.ecb.europa.eu/stats/ecb_statistics/anacredit/html/index.en.html,,,,,
-Source file: https://www.ecb.europa.eu/stats/money/aggregates/anacredit/shared/pdf/List_of_international_organisations.xlsx,,,,,
-Reuse policy: https://www.ecb.europa.eu/stats/ecb_statistics/governance_and_quality_framework/html/usage_policy.en.html,,,,,
+Source landing page: https://www.ecb.europa.eu/stats/ecb_statistics/anacredit/html/index.en.html,,
+Source file: https://www.ecb.europa.eu/stats/money/aggregates/anacredit/shared/pdf/List_of_international_organisations.xlsx,,
+Reuse policy: https://www.ecb.europa.eu/stats/ecb_statistics/governance_and_quality_framework/html/usage_policy.en.html,,
 International organisation,Counterparty identifier (unless otherwise decided by the NCB),International Organisation Code
 Agency for the Cooperation of Energy Regulators [ACER],E$0ECBM00023,4J81
 Body of European Regulators for Electronic Communications [BEREC],E$0ECBM00049,4J82
