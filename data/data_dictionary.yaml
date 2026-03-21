@@ -287,6 +287,20 @@ Org_family:
   Description: The family of organisations to which the organisation belongs.
   Examples: African Union entities
 
+RIAD_code:
+  Title: RIAD code
+  Data_type: text
+  Minimum_length: 6
+  Maximum_length: 20
+  Requirement: optional
+  Description: AnaCredit/RIAD counterparty identifier used for organisations in ECB reference datasets.
+  Examples: E$0ECBM00593, N$0ECBM00420
+  Validation_rules:
+  - rule: regex
+    pattern: ^[EN]\$0?ECBM\d{5,7}$
+  - rule: no_spaces
+  Validation_summary: starts with E$ or N$, followed by ECBM and digits; no spaces.
+
 SPRVD_id:
   Title: SPRVD_id
   Data_type: text
