@@ -12047,3 +12047,22 @@ West African Health Organisation:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+International Cotton Advisory Committee:
+  SPRVD_id: SPRVD0101688
+  Entity_type: International organisation
+  Wikidata_code: Q6049865
+  Org_family: none
+  Type:
+  Country: ZZ
+  Name_en: International Cotton Advisory Committee
+  Name_other_en:
+  Name_fr:
+  Abbreviation_en:
+  Abbreviation_other_en:
+  Abbreviation_fr:
+  Treaty_url: https://icac.org/wp-content/uploads/2025/09/E_RulesRegs_15oct2020.pdf
+  Immunity_url: https://www.presidency.ucsb.edu/documents/executive-order-9911-designating-the-international-cotton-advisory-committee-public#:~:text=States%3A%201945%20%E2%80%90%201953-,Executive%20Order%209911%E2%80%94Designating%20the%20International%20Cotton%20Advisory%20Committee%20as,Certain%20Privileges%2C%20Exemptions%2C%20and%20Immunities
+  Source:
+  OpenSanctions_id:  '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
