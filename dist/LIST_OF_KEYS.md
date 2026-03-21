@@ -38,6 +38,7 @@
   * en
 * OpenSanctions_id
 * Org_family
+* RIAD_code
 * SPRVD_id
 * Source
   * 1
