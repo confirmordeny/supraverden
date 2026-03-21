@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 567 international organisations in the table.
+There are currently 568 international organisations in the table.
 
 | English Name | Wikidata Code | OpenSanctions | Family | Source |
 |---|---|---|---|---|
@@ -559,6 +559,7 @@ There are currently 567 international organisations in the table.
 | Waterways Ireland | [Q1734583](https://www.wikidata.org/wiki/Q1734583) | [No code found.] | North South bodies | [www.northsouthministerialcouncil.org](https://www.northsouthministerialcouncil.org/north-south-implementation-bodies) |
 | West African Development Bank | [Q2883427](https://www.wikidata.org/wiki/Q2883427) | [bic-BOADTGTG](https://www.opensanctions.org/entities/bic-BOADTGTG/) | West African Economic and Monetary Union | [Treaty](https://edit.wti.org/document/show/pdf/57ce5bd9-ef38-4a1d-abd5-ed07f1f155bf) |
 | West African Economic and Monetary Union | [Q1929699](https://www.wikidata.org/wiki/Q1929699) | [No code found.] | West African Economic and Monetary Union | [Treaty](https://www.bceao.int/sites/default/files/inline-files/TraiteUMOA2010_tr_Eng.pdf) |
+| West African Health Organisation | [Q30262804](https://www.wikidata.org/wiki/Q30262804) | [No code found.] | ECOWAS entities | [Treaty](https://www.ecodob.ecowas.int/legal_texts/journal_en/Vol.%2011.pdf) |
 | West African Monetary Union | N/A | [No code found.] | West African Economic and Monetary Union | [Treaty](https://www.bceao.int/sites/default/files/inline-files/TraiteUMOA2010_tr_Eng.pdf) |
 | Western and Central Pacific Fisheries Commission | [Q2565027](https://www.wikidata.org/wiki/Q2565027) | [No code found.] | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Western Central Atlantic Fishery Commission | [Q134724817](https://www.wikidata.org/wiki/Q134724817) | [No code found.] | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |

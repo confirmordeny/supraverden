@@ -668,6 +668,7 @@
 - Waterways Ireland
 - West African Development Bank
 - West African Economic and Monetary Union
+- West African Health Organisation
 - West African Monetary Union
 - Western and Central Pacific Fisheries Commission
 - Western Central Atlantic Fishery Commission

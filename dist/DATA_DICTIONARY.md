@@ -25,6 +25,7 @@
 - [`Notes`](#field-notes)
 - [`OpenSanctions_id`](#field-opensanctions_id)
 - [`Org_family`](#field-org_family)
+- [`RIAD_code`](#field-riad_code)
 - [`SPRVD_id`](#field-sprvd_id)
 - [`Source`](#field-source)
 - [`Treaty_url`](#field-treaty_url)
@@ -369,6 +370,21 @@
 | `Description` | The family of organisations to which the organisation belongs. |
 | `Examples` | African Union entities |
 | `Property` | Org_family |
+
+<a id="field-riad_code"></a>
+## `RIAD_code`
+
+| Attribute | Value |
+| --- | --- |
+| `Title` | RIAD code |
+| `Data_type` | text |
+| `Minimum_length` | 6 |
+| `Maximum_length` | 20 |
+| `Requirement` | optional |
+| `Description` | AnaCredit/RIAD counterparty identifier used for organisations in ECB reference datasets. |
+| `Validation_summary` | starts with E$ or N$, followed by ECBM and digits; no spaces. |
+| `Examples` | E$0ECBM00593, N$0ECBM00420 |
+| `Validation_rules` | `- rule: regex   pattern: ^[EN]\$0?ECBM\d{5,7}$ - rule: no_spaces` |
 
 <a id="field-sprvd_id"></a>
 ## `SPRVD_id`
