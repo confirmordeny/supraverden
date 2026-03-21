@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 568 international organisations in the table.
+There are currently 569 international organisations in the table.
 
 | English Name | Wikidata Code | OpenSanctions | Family | Source |
 |---|---|---|---|---|
@@ -326,6 +326,7 @@ There are currently 568 international organisations in the table.
 | International Committee of Military Medicine | [Q1257637](https://www.wikidata.org/wiki/Q1257637) | [No code found.] | none | [Treaty](https://cimm-icmm.org/wp-content/uploads/2025/03/241008-ENG-Statutes-of-the-ICMM.pdf) |
 | International Copper Study Group | [Q17084551](https://www.wikidata.org/wiki/Q17084551) | [No code found.] | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201662/v1662.pdf) |
 | International Cospas-Sarsat Programme | [Q605177](https://www.wikidata.org/wiki/Q605177) | [No code found.] | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201518/v1518.pdf) |
+| International Cotton Advisory Committee | [Q6049865](https://www.wikidata.org/wiki/Q6049865) | [No code found.] | none | [Treaty](https://icac.org/wp-content/uploads/2025/09/E_RulesRegs_15oct2020.pdf) |
 | International Council for Exploration of the Sea | [Q1613859](https://www.wikidata.org/wiki/Q1613859) | [No code found.] | none | [Treaty](https://www.ices.dk/about-ICES/who-we-are/Documents/ICES_Convention_1964.pdf) |
 | International Court of Justice | [Q7801](https://www.wikidata.org/wiki/Q7801) | [No code found.] | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/main-bodies) |
 | International Criminal Court | [Q47488](https://www.wikidata.org/wiki/Q47488) | [No code found.] | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
