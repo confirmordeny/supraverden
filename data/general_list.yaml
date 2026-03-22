@@ -12146,3 +12146,35 @@ European Union Institute for Security Studies:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B25
+European Institute of Innovation and Technology:
+  SPRVD_id: SPRVD0868495
+  Entity_type: International organisation
+  Wikidata_code: Q993120
+  Org_family: EU institutions and bodies
+  Type: EU decentralised agency
+  Country: ZZ
+  Name_en: European Institute of Innovation and Technology
+  Name_other_en:
+  Abbreviation_en: ETI
+  Treaty_url: 
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0819
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0819
+  OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B17
+Latin American Association of Development Financing Institutions:
+  SPRVD_id: SPRVD0226017
+  Entity_type: International organisation
+  Wikidata_code: '[No code found.]'
+  Org_family: none
+  Type:
+  Country: ZZ
+  Name_en: Latin American Association of Development Financing Institutions
+  Name_other_en:
+  Abbreviation_en:
+  Treaty_url: 
+  Immunity_url: https://apps.rree.gob.pe/portal/webtratados.nsf/xsp/.ibmmodres/domino/OpenAttachment/VICUS/MREPERU!!portal/tratados.nsf/E11CA7B3456A08A605256E8300675316/TRAAdjunto/B-1059.pdf
+  Source: https://www.google.co.uk/books/edition/Sistema_financiero_Colombiano_3ra_edici/ttXzEAAAQBAJ
+  OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
