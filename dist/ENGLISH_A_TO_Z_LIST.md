@@ -128,6 +128,8 @@
 - Coalition for Disaster Resilient Infrastructure
 - Collaborative Inter-Governmental Scientific Research Institute
 - Collective Security Treaty Organization
+- Colombo Plan
+- Colombo Plan Staff College for Technician Education
 - COMESA Court of Justice
 - Commission for Environmental Cooperation
 - Commission for Inland Fisheries and Aquaculture of Latin America and the Caribbean
@@ -192,6 +194,7 @@
 - Economic Community of West African States
 - Economic Cooperation Organization
 - Economic Court of the Commonwealth of Independent States
+- ECOWAS Bank for Investment and Development
 - ECOWAS Court of Justice
 - ECOWAS Parliament
 - EFTA Court
@@ -275,6 +278,7 @@
 - European Union Agency for the Space Programme
 - European Union Aviation Safety Agency
 - European Union Drugs Agency
+- European Union Institute for Security Studies
 - European Union Intellectual Property Office
 - European Union Satellite Centre
 - European University Institute
@@ -501,6 +505,7 @@
 - Nordic Environment Finance Corporation
 - Nordic Investment Bank
 - Nordic Patent Institute
+- North American Development Bank
 - North Atlantic Marine Mammal Commission
 - North Atlantic Salmon Conservation Organization
 - North Atlantic Treaty Organisation
