@@ -12130,4 +12130,19 @@ North American Development Bank:
   OpenSanctions_id: NK-f8BnqYkTQx8r2dYbyWvYmL
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
- 
+European Union Institute for Security Studies:
+  SPRVD_id: SPRVD0330950
+  Entity_type: International organisation
+  Wikidata_code: Q289256
+  Org_family: EU institutions and bodies
+  Type: EU common foreign and security policy agency
+  Country: ZZ
+  Name_en: European Union Institute for Security Studies
+  Name_other_en:
+  Abbreviation_en: EUISS
+  Treaty_url:
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014D0075
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014D0075
+  OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B25
