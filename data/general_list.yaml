@@ -1099,8 +1099,8 @@ European Union Agency for Railways:
   Name_uk: Європейська залізнична агенція
   Name_zh: 歐洲鐵路機構
   Website: https://www.era.europa.eu/
-European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice:
-  Wikidata_code: Q4440501
+? European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice
+: Wikidata_code: Q4440501
   SPRVD_id: SPRVD0651456
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -1495,6 +1495,7 @@ European Public Prosecutor’s Office:
   Name_uk: Прокуратура Європейського Союзу
   Name_zh: 歐洲檢察官辦公室
   Website: https://www.eppo.europa.eu/
+  Name_ru: Европейская прокуратура
 European Data Protection Board:
   SPRVD_id: SPRVD0898577
   Wikidata_code: Q26877724
@@ -2821,6 +2822,7 @@ International Sugar Organisation:
   Headquarters: London, United Kingdom
   Name_de: Internationale Zucker-Organisation
   Website: http://www.isosugar.org/
+  Name_ru: Международная сахарная организация
 International Cocoa Organization:
   SPRVD_id: SPRVD0475321
   Wikidata_code: Q1667326
@@ -11919,33 +11921,35 @@ Nordic Patent Institute:
   Entity_type: International organisation
   Wikidata_code: Q7050720
   Org_family: none
-  Type:
+  Type: null
   Country: ZZ
   Name_en: Nordic Patent Institute
-  Name_other_en:
-  Name_fr:
+  Name_other_en: null
+  Name_fr: null
   Abbreviation_en: NPI
-  Abbreviation_other_en:
-  Abbreviation_fr:
+  Abbreviation_other_en: null
+  Abbreviation_fr: null
   Treaty_url: https://npi.int/media/0dncrrkc/agreement-on-the-establishing-of-nordic-patent-institute.pdf
   Immunity_url: https://npi.int/media/0dncrrkc/agreement-on-the-establishing-of-nordic-patent-institute.pdf
   Source: null
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Name_zh: 北欧专利局
+  Website: http://www.npi.int/
 Inter-Arab Investment Guarantee Corporation:
   SPRVD_id: SPRVD0353924
   Entity_type: International organisation
   Wikidata_code: '[No code found.]'
   Org_family: Arab League entities
-  Type:
+  Type: null
   Country: ZZ
   Name_en: Inter-Arab Investment Guarantee Corporation
   Name_other_en: Dhaman
-  Name_fr:
-  Abbreviation_en:
-  Abbreviation_other_en:
-  Abbreviation_fr:
+  Name_fr: null
+  Abbreviation_en: null
+  Abbreviation_other_en: null
+  Abbreviation_fr: null
   Treaty_url: https://investmentpolicy.unctad.org/international-investment-agreements/treaty-files/2803/download
   Immunity_url: https://investmentpolicy.unctad.org/international-investment-agreements/treaty-files/2803/download
   Source: null
@@ -11957,71 +11961,78 @@ Fund for responding to Loss and Damage:
   Entity_type: International organisation
   Wikidata_code: Q131196928
   Org_family: UN and affiliates
-  Type:
+  Type: null
   Country: ZZ
   Name_en: Fund for responding to Loss and Damage
   Name_other_en: Loss and Damahe Fund
-  Name_fr:
+  Name_fr: null
   Abbreviation_en: FRLD
-  Abbreviation_other_en:
-  Abbreviation_fr:
+  Abbreviation_other_en: null
+  Abbreviation_fr: null
   Treaty_url: https://www.frld.org/sites/default/files/FRLD%20Governing%20Instrument.pdf
   Immunity_url: https://www.frld.org/sites/default/files/FRLD%20Governing%20Instrument.pdf
   Source: null
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Name_es: Fondo de respuesta ante pérdidas y daños
+  Name_pt: Fundo de Perdas e Danos
 Gambia River Development Organization:
   SPRVD_id: SPRVD0047983
   Entity_type: International organisation
   Wikidata_code: Q31341020
   Org_family: none
-  Type:
+  Type: null
   Country: ZZ
-  Name_en:  Gambia River Development Organization
+  Name_en: Gambia River Development Organization
   Name_other_en: Organisation for the Development of the Gambia River
-  Name_fr:
+  Name_fr: null
   Abbreviation_en: OMVG
-  Abbreviation_other_en:
-  Abbreviation_fr:
+  Abbreviation_other_en: null
+  Abbreviation_fr: null
   Treaty_url: https://faolex.fao.org/docs/pdf/gam15879.pdf
   Immunity_url: https://cda-omvs.org/wp-content/uploads/2017/07/14535-Receuil-textes-juridiques-OMVG.pdf
   Source: null
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Name_de: Gambia River Development Organization
+  Website: https://www.pe-omvg.org/
 Institute of Nutrition of Central America and Panama:
   SPRVD_id: SPRVD0845885
   Entity_type: International organisation
   Wikidata_code: Q19588331
   Org_family: Central American Integration System entities
-  Type:
+  Type: null
   Country: ZZ
   Name_en: Institute of Nutrition of Central America and Panama
-  Name_other_en:
-  Name_fr:
+  Name_other_en: null
+  Name_fr: null
   Abbreviation_en: INCAP
-  Abbreviation_other_en:
-  Abbreviation_fr:
+  Abbreviation_other_en: null
+  Abbreviation_fr: null
   Treaty_url: https://www.oas.org/juridico/spanish/tratados/f-104.html
   Immunity_url: https://www.oas.org/juridico/spanish/tratados/f-104.html
   Source: null
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Name_es: Instituto de Nutrición de Centro América y Panamá
+  Name_pt: Instituto de Nutrição da América Central e Panamá
+  Website: http://www.incap.int/
 ASEAN Coordinating Centre for Humanitarian Assistance:
   SPRVD_id: SPRVD0058286
   Entity_type: International organisation
   Wikidata_code: Q114434380
   Org_family: Association of Southeast Asian Nations entities
-  Type:
+  Type: null
   Country: ZZ
   Name_en: ASEAN Coordinating Centre for Humanitarian Assistance
-  Name_other_en:
-  Name_fr:
+  Name_other_en: null
+  Name_fr: null
   Abbreviation_en: AHA Centre
-  Abbreviation_other_en:
-  Abbreviation_fr:
+  Abbreviation_other_en: null
+  Abbreviation_fr: null
   Treaty_url: https://agreement.asean.org/media/download/20220330063452.pdf
   Immunity_url: https://agreement.asean.org/media/download/20220330063452.pdf
   Source: null
@@ -12033,68 +12044,82 @@ West African Health Organisation:
   Entity_type: International organisation
   Wikidata_code: Q30262804
   Org_family: ECOWAS entities
-  Type:
+  Type: null
   Country: ZZ
   Name_en: West African Health Organisation
-  Name_other_en:
-  Name_fr:
+  Name_other_en: null
+  Name_fr: null
   Abbreviation_en: WAHO
-  Abbreviation_other_en:
-  Abbreviation_fr:
+  Abbreviation_other_en: null
+  Abbreviation_fr: null
   Treaty_url: https://www.ecodob.ecowas.int/legal_texts/journal_en/Vol.%2011.pdf
   Immunity_url: https://www.ecodob.ecowas.int/legal_texts/journal_en/Vol.%2011.pdf
   Source: null
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Name_de: Westafrikanische Gesundheitsorganisation
+  Name_zh: 西非健康组织
+  Website: https://www.wahooas.org/
 International Cotton Advisory Committee:
   SPRVD_id: SPRVD0101688
   Entity_type: International organisation
   Wikidata_code: Q6049865
   Org_family: none
-  Type:
+  Type: null
   Country: ZZ
   Name_en: International Cotton Advisory Committee
-  Name_other_en:
-  Name_fr:
-  Abbreviation_en:
-  Abbreviation_other_en:
-  Abbreviation_fr:
+  Name_other_en: null
+  Name_fr: null
+  Abbreviation_en: null
+  Abbreviation_other_en: null
+  Abbreviation_fr: null
   Treaty_url: https://icac.org/wp-content/uploads/2025/09/E_RulesRegs_15oct2020.pdf
   Immunity_url: https://www.presidency.ucsb.edu/documents/executive-order-9911-designating-the-international-cotton-advisory-committee-public#:~:text=States%3A%201945%20%E2%80%90%201953-,Executive%20Order%209911%E2%80%94Designating%20the%20International%20Cotton%20Advisory%20Committee%20as,Certain%20Privileges%2C%20Exemptions%2C%20and%20Immunities
-  Source:
-  OpenSanctions_id:  '[No code found.]'
+  Source: null
+  OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Name_es: Comité Consultivo Internacional del Algodón
+  Name_de: International Cotton Advisory Committee
+  Name_zh: 国际棉花咨询委员会
+  Website: https://www.icac.org
 Colombo Plan:
   SPRVD_id: SPRVD0230820
   Entity_type: International organisation
   Wikidata_code: Q1077459
   Org_family: Colombo Plan entities
-  Type:
+  Type: null
   Country: ZZ
   Name_en: Colombo Plan
   Name_other_en: Colombo Plan for Co-operative Economic and Social Development in Asia and the Pacific
-  Abbreviation_en:
+  Abbreviation_en: null
   Treaty_url: https://ruie.ucr.ac.cr/catalogo/Record/IIS-CIDCACS-CD-5119/UserComments?sid=66663&lng=nl
   Immunity_url: https://rcsc.gov.bt/wp-content/uploads/2015/06/The-Colombo-Plan.pdf
   Source: https://sso.agc.gov.sg/SL/IOIPA1948-OR13?DocDate=19920325&ValidDate=20071001
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Name_fr: Plan de Colombo
+  Name_es: Plan Colombo
+  Name_de: Colombo-Plan
+  Name_pt: Plano Colombo
+  Name_ru: План Коломбо
+  Name_zh: 科倫坡計劃
+  Website: http://www.colombo-plan.org/
 Colombo Plan Staff College for Technician Education:
   SPRVD_id: SPRVD0814788
   Entity_type: International organisation
   Wikidata_code: '[No code found.]'
-  Org_family:  Colombo Plan entities
-  Type:
+  Org_family: Colombo Plan entities
+  Type: null
   Country: ZZ
   Name_en: Colombo Plan Staff College for Technician Education
   Name_other_en: Colombo Plan Staff College
   Abbreviation_en: CPSC
   Treaty_url: https://www.nlb.gov.sg/main/book-detail?cmsuuid=bb44c9f8-8a6e-47f5-832b-5590d3c56930
   Immunity_url: https://sso.agc.gov.sg/SL/IOIPA1948-OR13?DocDate=19920325&ValidDate=20071001
-  Source:
+  Source: null
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
@@ -12103,33 +12128,36 @@ ECOWAS Bank for Investment and Development:
   Entity_type: International organisation
   Wikidata_code: Q107174592
   Org_family: ECOWAS entities
-  Type:
+  Type: null
   Country: ZZ
   Name_en: ECOWAS Bank for Investment and Development
-  Name_other_en:
+  Name_other_en: null
   Abbreviation_en: EBID
   Treaty_url: https://www.dge.gouv.ci/sites/default/files/tableau/TEXTES%20COMMUNAUTAIRES%20CLASSSIFIES/CEDEAO/PROTOCOLE%20ADDITIONNEL/Protocole%20A-P2.12-%202001%20relatif%20Banque%20Investissement%20et%20d%C3%A9veloppement%20CEDEAO.pdf
   Immunity_url: https://www.dge.gouv.ci/sites/default/files/tableau/TEXTES%20COMMUNAUTAIRES%20CLASSSIFIES/CEDEAO/PROTOCOLE%20ADDITIONNEL/Protocole%20A-P2.12-%202001%20relatif%20Banque%20Investissement%20et%20d%C3%A9veloppement%20CEDEAO.pdf
-  Source:
+  Source: null
   OpenSanctions_id: bic-EBIDTGTG
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Name_zh: 西共体投资与开发银行
+  Website: https://www.bidc-ebid.org/
 North American Development Bank:
   SPRVD_id: SPRVD0319040
   Entity_type: International organisation
   Wikidata_code: Q7053762
   Org_family: none
-  Type:
+  Type: null
   Country: ZZ
   Name_en: North American Development Bank
-  Name_other_en:
+  Name_other_en: null
   Abbreviation_en: NADBank
   Treaty_url: https://nadbank.org/hubfs/documents/amended-charter-2017.pdf?hsLang=en
   Immunity_url: https://nadbank.org/hubfs/documents/amended-charter-2017.pdf?hsLang=en
-  Source:
+  Source: null
   OpenSanctions_id: NK-f8BnqYkTQx8r2dYbyWvYmL
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Name_es: Banco de Desarrollo de América del Norte
 European Union Institute for Security Studies:
   SPRVD_id: SPRVD0330950
   Entity_type: International organisation
@@ -12138,14 +12166,20 @@ European Union Institute for Security Studies:
   Type: EU common foreign and security policy agency
   Country: ZZ
   Name_en: European Union Institute for Security Studies
-  Name_other_en:
+  Name_other_en: null
   Abbreviation_en: EUISS
-  Treaty_url:
+  Treaty_url: null
   Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014D0075
   Source: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014D0075
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B25
+  Name_fr: Institut d'études de sécurité de l'Union européenne
+  Name_es: Instituto de Estudios de Seguridad de la Unión Europea
+  Name_de: Institut der Europäischen Union für Sicherheitsstudien
+  Name_pt: Instituto de Estudos de Segurança da União Europeia
+  Name_zh: 欧洲安全保障研究所
+  Website: https://www.iss.europa.eu/
 European Institute of Innovation and Technology:
   SPRVD_id: SPRVD0868495
   Entity_type: International organisation
@@ -12154,25 +12188,31 @@ European Institute of Innovation and Technology:
   Type: EU decentralised agency
   Country: ZZ
   Name_en: European Institute of Innovation and Technology
-  Name_other_en:
+  Name_other_en: null
   Abbreviation_en: ETI
-  Treaty_url: 
+  Treaty_url: null
   Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0819
   Source: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0819
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
+  Name_fr: Institut européen d'innovation et de technologie
+  Name_es: Instituto europeo de Innovación y Tecnología
+  Name_de: Europäisches Institut für Innovation und Technologie
+  Name_pt: Instituto Europeu da Inovação e da Tecnologia
+  Name_zh: 歐洲創新及技術院
+  Website: https://www.eit.europa.eu/
 Latin American Association of Development Financing Institutions:
   SPRVD_id: SPRVD0226017
   Entity_type: International organisation
   Wikidata_code: '[No code found.]'
   Org_family: none
-  Type:
+  Type: null
   Country: ZZ
   Name_en: Latin American Association of Development Financing Institutions
-  Name_other_en:
-  Abbreviation_en:
-  Treaty_url: 
+  Name_other_en: null
+  Abbreviation_en: null
+  Treaty_url: null
   Immunity_url: https://apps.rree.gob.pe/portal/webtratados.nsf/xsp/.ibmmodres/domino/OpenAttachment/VICUS/MREPERU!!portal/tratados.nsf/E11CA7B3456A08A605256E8300675316/TRAAdjunto/B-1059.pdf
   Source: https://www.google.co.uk/books/edition/Sistema_financiero_Colombiano_3ra_edici/ttXzEAAAQBAJ
   OpenSanctions_id: '[No code found.]'

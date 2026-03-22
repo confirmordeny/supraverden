@@ -56,6 +56,7 @@
 - Arab Women Organization
 - Arctic Council
 - Arms Trade Treaty Secretariat
+- ASEAN Coordinating Centre for Humanitarian Assistance
 - Asia-Pacific Economic Cooperation Secretariat
 - Asia-Pacific Fishery Commission
 - Asia-Pacific Telecommunity
@@ -127,6 +128,8 @@
 - Coalition for Disaster Resilient Infrastructure
 - Collaborative Inter-Governmental Scientific Research Institute
 - Collective Security Treaty Organization
+- Colombo Plan
+- Colombo Plan Staff College for Technician Education
 - COMESA Court of Justice
 - Commission for Environmental Cooperation
 - Commission for Inland Fisheries and Aquaculture of Latin America and the Caribbean
@@ -191,6 +194,7 @@
 - Economic Community of West African States
 - Economic Cooperation Organization
 - Economic Court of the Commonwealth of Independent States
+- ECOWAS Bank for Investment and Development
 - ECOWAS Court of Justice
 - ECOWAS Parliament
 - EFTA Court
@@ -239,6 +243,7 @@
 - European Inland Fisheries and Aquaculture Advisory Commission
 - European Innovation Council and Small and Medium-sized Executive Agency
 - European Institute for Gender Equality
+- European Institute of Innovation and Technology
 - European Insurance and Occupational Pensions Authority
 - European Investment Bank
 - European Labour Authority
@@ -274,6 +279,7 @@
 - European Union Agency for the Space Programme
 - European Union Aviation Safety Agency
 - European Union Drugs Agency
+- European Union Institute for Security Studies
 - European Union Intellectual Property Office
 - European Union Satellite Centre
 - European University Institute
@@ -289,6 +295,7 @@
 - Fishery Committee for the Eastern Central Atlantic
 - Food and Agriculture Organization
 - Foyle, Carlingford and Irish Lights Commission
+- Fund for responding to Loss and Damage
 - Fund for the Development of the Indigenous Peoples of Latin America and the Caribbean
 - Fusion for Energy Joint Undertaking
 
@@ -296,6 +303,7 @@
 
 ## G
 
+- Gambia River Development Organization
 - Gas Exporting Countries Forum
 - General Fisheries Commission for the Mediterranean
 - Global Combat Air Programme International Government Organisation
@@ -321,6 +329,7 @@
 - Indian Ocean Rim Association
 - Indian Ocean Tuna Commission
 - Innovative Health Initiative Joint Undertaking
+- Institute of Nutrition of Central America and Panama
 - Inter-American Center for Tax Administrations
 - Inter-American Commission on Human Rights
 - Inter-American Court of Human Rights
@@ -330,6 +339,7 @@
 - Inter-American Investment Corporation
 - Inter-American Statistical Institute
 - Inter-American Tropical Tuna Commission
+- Inter-Arab Investment Guarantee Corporation
 - Intergovernmental Authority on Development
 - Intergovernmental Council of Copper Exporting Countries
 - Intergovernmental Organisation for International Carriage by Rail
@@ -365,6 +375,7 @@
 - International Committee of Military Medicine
 - International Copper Study Group
 - International Cospas-Sarsat Programme
+- International Cotton Advisory Committee
 - International Council for Exploration of the Sea
 - International Court of Justice
 - International Criminal Court
@@ -461,6 +472,7 @@
 - Lake Chad Basin Commission
 - Lake Tanganyika Authority
 - Latin American and the Caribbean Economic System
+- Latin American Association of Development Financing Institutions
 - Latin American Civil Aviation Commission
 - Latin American Energy Organization
 - Latin American Faculty of Social Sciences
@@ -494,6 +506,8 @@
 - Nordic Development Fund
 - Nordic Environment Finance Corporation
 - Nordic Investment Bank
+- Nordic Patent Institute
+- North American Development Bank
 - North Atlantic Marine Mammal Commission
 - North Atlantic Salmon Conservation Organization
 - North Atlantic Treaty Organisation
@@ -662,6 +676,7 @@
 - Waterways Ireland
 - West African Development Bank
 - West African Economic and Monetary Union
+- West African Health Organisation
 - West African Monetary Union
 - Western and Central Pacific Fisheries Commission
 - Western Central Atlantic Fishery Commission
