@@ -1005,6 +1005,7 @@ European Union Agency for Cybersecurity:
   Type: EU decentralised agency
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
   OpenSanctions_id: '[No code found.]'
+  RIAD_code: E$0ECBM00502
   Name_fr: Agence européenne chargée de la sécurité des réseaux et de l'information
   Name_es: Agencia de la Unión Europea para la Ciberseguridad
   Assessment_against_FATF_definition: Included
@@ -2319,6 +2320,7 @@ Caribbean Community:
   Name_fr: Communauté caribéenne
   Name_es: Comunidad del Caribe
   OpenSanctions_id: '[No code found.]'
+  RIAD_code: N$0ECBM00180
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://caricom.org/wp-content/uploads/Protocol-on-The-Privileges-and-Immunites-of-The-Caribbean-Community-and-The-Caribbean-Common-Market.pdf
@@ -6582,6 +6584,7 @@ Bank of the Central African States:
   Name_fr: Banque des États de l'Afrique centrale
   Name_es: Banco de los Estados de África Central
   OpenSanctions_id: NK-C6ZmfUo4anjGfu8L8ZotNC
+  RIAD_code: N$0ECBM00172
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Year_established: 1972
@@ -12098,6 +12101,7 @@ Colombo Plan:
   Immunity_url: https://rcsc.gov.bt/wp-content/uploads/2015/06/The-Colombo-Plan.pdf
   Source: https://sso.agc.gov.sg/SL/IOIPA1948-OR13?DocDate=19920325&ValidDate=20071001
   OpenSanctions_id: '[No code found.]'
+  RIAD_code: N$0ECBM00230
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Name_fr: Plan de Colombo
@@ -12137,6 +12141,7 @@ ECOWAS Bank for Investment and Development:
   Immunity_url: https://www.dge.gouv.ci/sites/default/files/tableau/TEXTES%20COMMUNAUTAIRES%20CLASSSIFIES/CEDEAO/PROTOCOLE%20ADDITIONNEL/Protocole%20A-P2.12-%202001%20relatif%20Banque%20Investissement%20et%20d%C3%A9veloppement%20CEDEAO.pdf
   Source: null
   OpenSanctions_id: bic-EBIDTGTG
+  RIAD_code: N$0ECBM00271
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Name_zh: 西共体投资与开发银行
@@ -12155,6 +12160,7 @@ North American Development Bank:
   Immunity_url: https://nadbank.org/hubfs/documents/amended-charter-2017.pdf?hsLang=en
   Source: null
   OpenSanctions_id: NK-f8BnqYkTQx8r2dYbyWvYmL
+  RIAD_code: N$0ECBM00586
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Name_es: Banco de Desarrollo de América del Norte
@@ -12172,6 +12178,7 @@ European Union Institute for Security Studies:
   Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014D0075
   Source: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014D0075
   OpenSanctions_id: '[No code found.]'
+  RIAD_code: E$0ECBM00676
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B25
   Name_fr: Institut d'études de sécurité de l'Union européenne
@@ -12194,6 +12201,7 @@ European Institute of Innovation and Technology:
   Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0819
   Source: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0819
   OpenSanctions_id: '[No code found.]'
+  RIAD_code: E$0ECBM00429
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B17
   Name_fr: Institut européen d'innovation et de technologie
@@ -12216,5 +12224,6 @@ Latin American Association of Development Financing Institutions:
   Immunity_url: https://apps.rree.gob.pe/portal/webtratados.nsf/xsp/.ibmmodres/domino/OpenAttachment/VICUS/MREPERU!!portal/tratados.nsf/E11CA7B3456A08A605256E8300675316/TRAAdjunto/B-1059.pdf
   Source: https://www.google.co.uk/books/edition/Sistema_financiero_Colombiano_3ra_edici/ttXzEAAAQBAJ
   OpenSanctions_id: '[No code found.]'
+  RIAD_code: N$0ECBM00529
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
