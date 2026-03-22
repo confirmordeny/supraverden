@@ -12114,4 +12114,20 @@ ECOWAS Bank for Investment and Development:
   OpenSanctions_id: bic-EBIDTGTG
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+North American Development Bank:
+  SPRVD_id: SPRVD0319040
+  Entity_type: International organisation
+  Wikidata_code: Q7053762
+  Org_family: none
+  Type:
+  Country: ZZ
+  Name_en: North American Development Bank
+  Name_other_en:
+  Abbreviation_en: NADBank
+  Treaty_url: https://nadbank.org/hubfs/documents/amended-charter-2017.pdf?hsLang=en
+  Immunity_url: https://nadbank.org/hubfs/documents/amended-charter-2017.pdf?hsLang=en
+  Source:
+  OpenSanctions_id: NK-f8BnqYkTQx8r2dYbyWvYmL
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
  
