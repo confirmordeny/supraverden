@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 574 international organisations in the table.
+There are currently 576 international organisations in the table.
 
 | English Name | Wikidata Code | OpenSanctions | Family | Source |
 |---|---|---|---|---|
@@ -219,6 +219,7 @@ There are currently 574 international organisations in the table.
 | European Inland Fisheries and Aquaculture Advisory Commission | [Q114965341](https://www.wikidata.org/wiki/Q114965341) | [No code found.] | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | European Innovation Council and Small and Medium-sized Executive Agency | [Q734374](https://www.wikidata.org/wiki/Q734374) | [No code found.] | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20221222153402/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=LEGISSUM:l10120) |
 | European Institute for Gender Equality | [Q48718](https://www.wikidata.org/wiki/Q48718) | [No code found.] | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
+| European Institute of Innovation and Technology | [Q993120](https://www.wikidata.org/wiki/Q993120) | [No code found.] | EU institutions and bodies | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0819) |
 | European Insurance and Occupational Pensions Authority | [Q2116004](https://www.wikidata.org/wiki/Q2116004) | [No code found.] | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | European Investment Bank | [Q192247](https://www.wikidata.org/wiki/Q192247) | [NK-7nAZcmSJNBZMqsstpfrtJB/](https://www.opensanctions.org/entities/NK-7nAZcmSJNBZMqsstpfrtJB//) | EU institutions and bodies | [Treaty](https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:11957E/TXT) |
 | European Labour Authority | [Q56296301](https://www.wikidata.org/wiki/Q56296301) | [No code found.] | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
@@ -412,6 +413,7 @@ There are currently 574 international organisations in the table.
 | Lake Chad Basin Commission | [Q2986599](https://www.wikidata.org/wiki/Q2986599) | [No code found.] | none | [Treaty](https://faolex.fao.org/docs/pdf/cmr1076.pdf) |
 | Lake Tanganyika Authority | [Q30261886](https://www.wikidata.org/wiki/Q30261886) | [No code found.] | none | [Treaty](http://lta.iwlearn.org/documents/the-convention-on-the-sustainable-management-of-lake-tanganyika-eng.pdf) |
 | Latin American and the Caribbean Economic System | [Q605595](https://www.wikidata.org/wiki/Q605595) | [No code found.] | none | [Treaty](https://sela.org/wp-content/uploads/2023/07/t023600000397-0-convenio_de_panama_-enero_2006.pdf) |
+| Latin American Association of Development Financing Institutions | N/A | [No code found.] | none | [www.google.co.uk](https://www.google.co.uk/books/edition/Sistema_financiero_Colombiano_3ra_edici/ttXzEAAAQBAJ) |
 | Latin American Civil Aviation Commission | [Q131103399](https://www.wikidata.org/wiki/Q131103399) | [No code found.] | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201241/volume-1241-I-20170-English.pdf) |
 | Latin American Energy Organization | [Q3356053](https://www.wikidata.org/wiki/Q3356053) | [No code found.] | none | [Treaty](https://biblioteca.olade.org/opac-tmpl/Documentos/old0058.pdf) |
 | Latin American Faculty of Social Sciences | [Q255898](https://www.wikidata.org/wiki/Q255898) | [No code found.] | none | [Treaty](http://www.worldlii.org/int/other/treaties/UNTSer/1976/165.pdf) |

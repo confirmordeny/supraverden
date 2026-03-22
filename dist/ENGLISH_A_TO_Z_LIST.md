@@ -243,6 +243,7 @@
 - European Inland Fisheries and Aquaculture Advisory Commission
 - European Innovation Council and Small and Medium-sized Executive Agency
 - European Institute for Gender Equality
+- European Institute of Innovation and Technology
 - European Insurance and Occupational Pensions Authority
 - European Investment Bank
 - European Labour Authority
@@ -471,6 +472,7 @@
 - Lake Chad Basin Commission
 - Lake Tanganyika Authority
 - Latin American and the Caribbean Economic System
+- Latin American Association of Development Financing Institutions
 - Latin American Civil Aviation Commission
 - Latin American Energy Organization
 - Latin American Faculty of Social Sciences
