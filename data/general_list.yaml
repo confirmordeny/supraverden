@@ -12066,3 +12066,83 @@ International Cotton Advisory Committee:
   OpenSanctions_id:  '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+Colombo Plan:
+  SPRVD_id: SPRVD0230820
+  Entity_type: International organisation
+  Wikidata_code: Q1077459
+  Org_family: Colombo Plan entities
+  Type:
+  Country: ZZ
+  Name_en: Colombo Plan
+  Name_other_en: Colombo Plan for Co-operative Economic and Social Development in Asia and the Pacific
+  Abbreviation_en:
+  Treaty_url: https://ruie.ucr.ac.cr/catalogo/Record/IIS-CIDCACS-CD-5119/UserComments?sid=66663&lng=nl
+  Immunity_url: https://rcsc.gov.bt/wp-content/uploads/2015/06/The-Colombo-Plan.pdf
+  Source: https://sso.agc.gov.sg/SL/IOIPA1948-OR13?DocDate=19920325&ValidDate=20071001
+  OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
+Colombo Plan Staff College for Technician Education:
+  SPRVD_id: SPRVD0814788
+  Entity_type: International organisation
+  Wikidata_code: '[No code found.]'
+  Org_family:  Colombo Plan entities
+  Type:
+  Country: ZZ
+  Name_en: Colombo Plan Staff College for Technician Education
+  Name_other_en: Colombo Plan Staff College
+  Abbreviation_en: CPSC
+  Treaty_url: https://www.nlb.gov.sg/main/book-detail?cmsuuid=bb44c9f8-8a6e-47f5-832b-5590d3c56930
+  Immunity_url: https://sso.agc.gov.sg/SL/IOIPA1948-OR13?DocDate=19920325&ValidDate=20071001
+  Source:
+  OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
+ECOWAS Bank for Investment and Development:
+  SPRVD_id: SPRVD0312345
+  Entity_type: International organisation
+  Wikidata_code: Q107174592
+  Org_family: ECOWAS entities
+  Type:
+  Country: ZZ
+  Name_en: ECOWAS Bank for Investment and Development
+  Name_other_en:
+  Abbreviation_en: EBID
+  Treaty_url: https://www.dge.gouv.ci/sites/default/files/tableau/TEXTES%20COMMUNAUTAIRES%20CLASSSIFIES/CEDEAO/PROTOCOLE%20ADDITIONNEL/Protocole%20A-P2.12-%202001%20relatif%20Banque%20Investissement%20et%20d%C3%A9veloppement%20CEDEAO.pdf
+  Immunity_url: https://www.dge.gouv.ci/sites/default/files/tableau/TEXTES%20COMMUNAUTAIRES%20CLASSSIFIES/CEDEAO/PROTOCOLE%20ADDITIONNEL/Protocole%20A-P2.12-%202001%20relatif%20Banque%20Investissement%20et%20d%C3%A9veloppement%20CEDEAO.pdf
+  Source:
+  OpenSanctions_id: bic-EBIDTGTG
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
+North American Development Bank:
+  SPRVD_id: SPRVD0319040
+  Entity_type: International organisation
+  Wikidata_code: Q7053762
+  Org_family: none
+  Type:
+  Country: ZZ
+  Name_en: North American Development Bank
+  Name_other_en:
+  Abbreviation_en: NADBank
+  Treaty_url: https://nadbank.org/hubfs/documents/amended-charter-2017.pdf?hsLang=en
+  Immunity_url: https://nadbank.org/hubfs/documents/amended-charter-2017.pdf?hsLang=en
+  Source:
+  OpenSanctions_id: NK-f8BnqYkTQx8r2dYbyWvYmL
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
+European Union Institute for Security Studies:
+  SPRVD_id: SPRVD0330950
+  Entity_type: International organisation
+  Wikidata_code: Q289256
+  Org_family: EU institutions and bodies
+  Type: EU common foreign and security policy agency
+  Country: ZZ
+  Name_en: European Union Institute for Security Studies
+  Name_other_en:
+  Abbreviation_en: EUISS
+  Treaty_url:
+  Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014D0075
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014D0075
+  OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B25
