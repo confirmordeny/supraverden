@@ -12098,3 +12098,20 @@ Colombo Plan Staff College for Technician Education:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+ECOWAS Bank for Investment and Development:
+  SPRVD_id:
+  Entity_type: International organisation
+  Wikidata_code: Q107174592
+  Org_family: ECOWAS entities
+  Type:
+  Country: ZZ
+  Name_en: ECOWAS Bank for Investment and Development
+  Name_other_en:
+  Abbreviation_en: EBID
+  Treaty_url: https://www.dge.gouv.ci/sites/default/files/tableau/TEXTES%20COMMUNAUTAIRES%20CLASSSIFIES/CEDEAO/PROTOCOLE%20ADDITIONNEL/Protocole%20A-P2.12-%202001%20relatif%20Banque%20Investissement%20et%20d%C3%A9veloppement%20CEDEAO.pdf
+  Immunity_url: https://www.dge.gouv.ci/sites/default/files/tableau/TEXTES%20COMMUNAUTAIRES%20CLASSSIFIES/CEDEAO/PROTOCOLE%20ADDITIONNEL/Protocole%20A-P2.12-%202001%20relatif%20Banque%20Investissement%20et%20d%C3%A9veloppement%20CEDEAO.pdf
+  Source:
+  OpenSanctions_id: bic-EBIDTGTG
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
+ 
