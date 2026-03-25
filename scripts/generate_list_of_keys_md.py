@@ -27,7 +27,41 @@ EXCEPTIONS = {
     "Treaty_url",
     "Wikidata_code",
 }
-LANGUAGE_SUFFIXES = {"en", "fr", "es", "de", "pt", "ru", "uk", "zh"}
+LANGUAGE_SUFFIXES = {
+    "en",
+    "fr",
+    "es",
+    "ar",
+    "bn",
+    "cy",
+    "da",
+    "de",
+    "el",
+    "et",
+    "fi",
+    "ga",
+    "he",
+    "hi",
+    "hu",
+    "id",
+    "is",
+    "it",
+    "ja",
+    "ko",
+    "lt",
+    "nl",
+    "no",
+    "pl",
+    "pt",
+    "ro",
+    "ru",
+    "sv",
+    "sw",
+    "tr",
+    "uk",
+    "ur",
+    "zh",
+}
 SOURCE_INDEX_SUFFIXES = {"1", "2", "3"}
 
 
