@@ -25,6 +25,29 @@ def load_yaml(path: Path) -> dict[str, Any]:
     return data
 
 
+def load_supported_language_codes(path: Path) -> list[str]:
+    data = load_yaml(path)
+    raw_languages = data.get("languages")
+    if not isinstance(raw_languages, list):
+        raise SystemExit(f"error: supported languages file must contain a 'languages' list ({path})")
+
+    codes: list[str] = []
+    for item in raw_languages:
+        if not isinstance(item, dict):
+            continue
+        code = str(item.get("iso_639_1", "")).strip().lower()
+        if code:
+            codes.append(code)
+    return codes
+
+
+def resolve_support_file_path(source: str) -> Path:
+    candidate = Path(source)
+    if candidate.is_absolute():
+        return candidate
+    return ROOT / candidate
+
+
 def format_value(value: Any) -> str:
     if value is None:
         return ""
@@ -90,6 +113,14 @@ def main() -> int:
 
     record_policy = data.get("_record_policy", {})
     variant_policy = data.get("_variant_policy", {})
+    if isinstance(variant_policy, dict):
+        source = variant_policy.get("language_source_file")
+        if isinstance(source, str) and source.strip():
+            source_path = resolve_support_file_path(source.strip())
+            variant_policy = {
+                **variant_policy,
+                "language_suffixes": load_supported_language_codes(source_path),
+            }
 
     field_names = [k for k in data.keys() if not k.startswith("_")]
 

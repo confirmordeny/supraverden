@@ -25,6 +25,7 @@ except ImportError as exc:  # pragma: no cover
     raise SystemExit(2) from exc
 
 SPRVD_ID_RE = re.compile(r"^SPRVD0(\d{5})(\d)$")
+ISO_CODE_RE = re.compile(r"^[a-z]{2}$")
 
 
 @dataclass
@@ -71,12 +72,51 @@ def normalize_dict_entry(raw: Any) -> dict[str, Any]:
     return normalized
 
 
-def parse_variant_policy(dict_data: dict[str, Any]) -> tuple[set[str], set[str], set[str], set[str]]:
+def parse_supported_language_codes(path: Path) -> set[str]:
+    raw = load_yaml(path)
+    if not isinstance(raw, dict):
+        raise ValueError(f"supported languages file root must be a mapping: {path}")
+    languages = raw.get("languages")
+    if not isinstance(languages, list):
+        raise ValueError(f"missing 'languages' list in supported languages file: {path}")
+
+    codes: set[str] = set()
+    for index, item in enumerate(languages, start=1):
+        if not isinstance(item, dict):
+            raise ValueError(f"languages[{index}] must be a mapping in {path}")
+        code = str(item.get("iso_639_1", "")).strip().lower()
+        if not ISO_CODE_RE.fullmatch(code):
+            raise ValueError(f"languages[{index}].iso_639_1 must be a two-letter lowercase code in {path}")
+        codes.add(code)
+    return codes
+
+
+def resolve_support_file_path(dict_path: Path, source: str) -> Path:
+    candidate = Path(source)
+    if candidate.is_absolute():
+        return candidate
+
+    repo_root = dict_path.parent.parent
+    candidates = [
+        (dict_path.parent / candidate),
+        (repo_root / candidate),
+        candidate,
+    ]
+    for path in candidates:
+        if path.exists():
+            return path
+    return candidates[0]
+
+
+def parse_variant_policy(
+    dict_data: dict[str, Any], dict_path: Path
+) -> tuple[set[str], set[str], set[str], set[str]]:
     raw = dict_data.get("_variant_policy")
     if not isinstance(raw, dict):
         return set(), set(), set(), set()
 
     suffixes_raw = raw.get("language_suffixes")
+    source_file_raw = raw.get("language_source_file")
     indexes_raw = raw.get("index_suffixes")
     applies_raw = raw.get("applies_to")
     required_raw = raw.get("required_variants")
@@ -88,6 +128,9 @@ def parse_variant_policy(dict_data: dict[str, Any]) -> tuple[set[str], set[str],
 
     if isinstance(suffixes_raw, list):
         suffixes = {str(item).strip().lower() for item in suffixes_raw if str(item).strip()}
+    if isinstance(source_file_raw, str) and source_file_raw.strip():
+        source_path = resolve_support_file_path(dict_path, source_file_raw.strip())
+        suffixes = parse_supported_language_codes(source_path)
     if isinstance(indexes_raw, list):
         indexes = {str(item).strip() for item in indexes_raw if str(item).strip()}
     if isinstance(applies_raw, list):
@@ -641,7 +684,13 @@ def main() -> int:
         return 1
 
     normalized_dict = {str(k): normalize_dict_entry(v) for k, v in dict_data.items()}
-    variant_suffixes, variant_indexes, variant_bases, required_variants = parse_variant_policy(dict_data)
+    try:
+        variant_suffixes, variant_indexes, variant_bases, required_variants = parse_variant_policy(
+            dict_data, dict_path
+        )
+    except ValueError as exc:
+        print(f"error: {exc}", file=sys.stderr)
+        return 1
     required_fields, source_required_for = parse_record_policy(dict_data)
 
     violations: list[Violation] = []
