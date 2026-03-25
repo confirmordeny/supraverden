@@ -46,7 +46,7 @@
 
 | Key | Value |
 | --- | --- |
-| `language_suffixes` | en, fr, es, de, pt, ru, uk, zh |
+| `language_suffixes` | en, fr, es, ar, bn, cy, da, de, el, et, fi, ga, he, hi, hu, id, is, it, ja, ko, lt, nl, False, pl, pt, ro, ru, sv, sw, tr, uk, ur, zh |
 | `index_suffixes` | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 |
 | `variant_usage` | Variant fields may use language suffixes and index numbers together, e.g. Name_other_1_en. |
 | `applies_to` | Name, Abbreviation, Abbreviation_former, Abbreviation_other, Name_former, Name_other, Notes |
