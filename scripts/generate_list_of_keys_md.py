@@ -12,6 +12,8 @@ try:
 except ImportError as exc:  # pragma: no cover
     raise SystemExit("error: missing dependency PyYAML (pip install pyyaml)") from exc
 
+ROOT = Path(__file__).resolve().parents[1]
+
 EXCEPTIONS = {
     "Abbreviation_other",
     "Assessment_against_FATF_definition",
@@ -24,43 +26,9 @@ EXCEPTIONS = {
     "Name_other_2",
     "Org_family",
     "OpenSanctions_id",
+    "SPRVD_id",
     "Treaty_url",
     "Wikidata_code",
-}
-LANGUAGE_SUFFIXES = {
-    "en",
-    "fr",
-    "es",
-    "ar",
-    "bn",
-    "cy",
-    "da",
-    "de",
-    "el",
-    "et",
-    "fi",
-    "ga",
-    "he",
-    "hi",
-    "hu",
-    "id",
-    "is",
-    "it",
-    "ja",
-    "ko",
-    "lt",
-    "nl",
-    "no",
-    "pl",
-    "pt",
-    "ro",
-    "ru",
-    "sv",
-    "sw",
-    "tr",
-    "uk",
-    "ur",
-    "zh",
 }
 SOURCE_INDEX_SUFFIXES = {"1", "2", "3"}
 
@@ -78,12 +46,42 @@ def parse_args() -> argparse.Namespace:
         default="dist/LIST_OF_KEYS.md",
         help="Output markdown file",
     )
+    parser.add_argument(
+        "--supported-languages-file",
+        default="data/supported_languages/supported_languages.yaml",
+        help="YAML file listing supported language ISO codes",
+    )
     return parser.parse_args()
 
 
 def load_yaml(path: Path) -> Any:
     with path.open("r", encoding="utf-8") as handle:
         return yaml.safe_load(handle) or {}
+
+
+def resolve_path(path_str: str) -> Path:
+    path = Path(path_str)
+    if path.is_absolute():
+        return path
+    return ROOT / path
+
+
+def load_language_suffixes(path: Path) -> set[str]:
+    data = load_yaml(path)
+    if not isinstance(data, dict):
+        raise SystemExit(f"error: supported languages file root must be a mapping ({path})")
+    languages = data.get("languages")
+    if not isinstance(languages, list):
+        raise SystemExit(f"error: missing 'languages' list in supported languages file ({path})")
+
+    suffixes: set[str] = set()
+    for item in languages:
+        if not isinstance(item, dict):
+            continue
+        code = str(item.get("iso_639_1", "")).strip().lower()
+        if code:
+            suffixes.add(code)
+    return suffixes
 
 
 def attach_to_tree(tree: dict[str, Any], parts: list[str]) -> None:
@@ -97,7 +95,7 @@ def attach_to_tree(tree: dict[str, Any], parts: list[str]) -> None:
         tree[head]["_is_key"] = True
 
 
-def split_key(key: str) -> list[str]:
+def split_key(key: str, language_suffixes: set[str]) -> list[str]:
     if key in EXCEPTIONS:
         return [key]
 
@@ -107,7 +105,7 @@ def split_key(key: str) -> list[str]:
     stem, suffix = key.rsplit("_", 1)
     if stem == "Source" and suffix in SOURCE_INDEX_SUFFIXES:
         return [stem, suffix]
-    if suffix in LANGUAGE_SUFFIXES and stem:
+    if suffix in language_suffixes and stem:
         return [stem, suffix]
     return [key]
 
@@ -125,6 +123,7 @@ def generate_lines(tree: dict[str, Any], depth: int = 0) -> list[str]:
 
 def main() -> int:
     args = parse_args()
+    language_suffixes = load_language_suffixes(resolve_path(args.supported_languages_file))
     unique_keys: set[str] = set()
 
     for file_path in args.input_files:
@@ -144,7 +143,7 @@ def main() -> int:
 
     key_tree: dict[str, Any] = {}
     for key in unique_keys:
-        attach_to_tree(key_tree, split_key(key))
+        attach_to_tree(key_tree, split_key(key, language_suffixes))
 
     output_path = Path(args.output_file)
     output_path.parent.mkdir(parents=True, exist_ok=True)

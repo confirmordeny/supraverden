@@ -16,9 +16,11 @@ try:
 except ImportError as exc:  # pragma: no cover
     raise SystemExit("error: missing dependency (pip install pyyaml requests)") from exc
 
+ROOT = Path(__file__).resolve().parents[1]
 WIKIDATA_ENDPOINT = "https://query.wikidata.org/sparql"
 USER_AGENT = "SupraverdenBot/1.0 (github.com/confirmordeny/supraverden)"
 QCODE_RE = re.compile(r"^Q\d+$")
+ISO_CODE_RE = re.compile(r"^[a-z]{2}$")
 HEADER_RE = re.compile(r"^(\s*#.*|\s*\n)*")
 BATCH_SIZE = 150
 MAX_RETRIES = 3
@@ -33,6 +35,11 @@ def parse_args() -> argparse.Namespace:
         default=["data/general_list.yaml", "data/united_nations.yaml"],
         help="YAML files to enrich",
     )
+    parser.add_argument(
+        "--supported-languages-file",
+        default="data/supported_languages/supported_languages.yaml",
+        help="YAML file listing supported language ISO codes",
+    )
     return parser.parse_args()
 
 
@@ -41,29 +48,61 @@ def batched(values: list[str], size: int) -> list[str]:
         yield values[index : index + size]
 
 
-def fetch_wikidata_batch(q_codes: list[str]) -> dict[str, dict[str, str | None]]:
+def resolve_path(path_str: str) -> Path:
+    path = Path(path_str)
+    if path.is_absolute():
+        return path
+    return ROOT / path
+
+
+def load_supported_language_codes(path: Path) -> list[str]:
+    raw = yaml.safe_load(path.read_text(encoding="utf-8"))
+    if not isinstance(raw, dict):
+        raise SystemExit(f"error: supported languages file root must be a mapping ({path})")
+
+    languages = raw.get("languages")
+    if not isinstance(languages, list):
+        raise SystemExit(f"error: missing 'languages' list in supported languages file ({path})")
+
+    codes: list[str] = []
+    for index, item in enumerate(languages, start=1):
+        if not isinstance(item, dict):
+            raise SystemExit(f"error: languages[{index}] must be a mapping ({path})")
+        code = str(item.get("iso_639_1", "")).strip().lower()
+        if not ISO_CODE_RE.fullmatch(code):
+            raise SystemExit(
+                f"error: languages[{index}].iso_639_1 must be a two-letter lowercase code ({path})"
+            )
+        codes.append(code)
+    return codes
+
+
+def build_name_field_map(language_codes: list[str]) -> dict[str, str]:
+    # Name_en remains curated in-repo; enrich only non-English language labels from Wikidata.
+    return {f"Name_{code}": code for code in language_codes if code != "en"}
+
+
+def fetch_wikidata_batch(
+    q_codes: list[str], name_field_to_wikidata_lang: dict[str, str]
+) -> dict[str, dict[str, str | None]]:
     values_clause = " ".join(f"wd:{code}" for code in q_codes)
+    name_select = "\n".join(
+        f'           (SAMPLE(?{field.lower()}) AS ?{field.lower()})'
+        for field in name_field_to_wikidata_lang
+    )
+    name_optional = "\n".join(
+        f'      OPTIONAL {{ ?item rdfs:label ?{field.lower()} . FILTER(LANG(?{field.lower()}) = "{lang}") }}'
+        for field, lang in name_field_to_wikidata_lang.items()
+    )
     query = f"""
     SELECT ?item
            (SAMPLE(?id) AS ?id)
-           (SAMPLE(?name_fr) AS ?name_fr)
-           (SAMPLE(?name_es) AS ?name_es)
-           (SAMPLE(?name_de) AS ?name_de)
-           (SAMPLE(?name_pt) AS ?name_pt)
-           (SAMPLE(?name_ru) AS ?name_ru)
-           (SAMPLE(?name_uk) AS ?name_uk)
-           (SAMPLE(?name_zh) AS ?name_zh)
+{name_select}
            (SAMPLE(?website) AS ?website)
     WHERE {{
       VALUES ?item {{ {values_clause} }}
       OPTIONAL {{ ?item wdt:P10632 ?id . }}
-      OPTIONAL {{ ?item rdfs:label ?name_fr . FILTER(LANG(?name_fr) = "fr") }}
-      OPTIONAL {{ ?item rdfs:label ?name_es . FILTER(LANG(?name_es) = "es") }}
-      OPTIONAL {{ ?item rdfs:label ?name_de . FILTER(LANG(?name_de) = "de") }}
-      OPTIONAL {{ ?item rdfs:label ?name_pt . FILTER(LANG(?name_pt) = "pt") }}
-      OPTIONAL {{ ?item rdfs:label ?name_ru . FILTER(LANG(?name_ru) = "ru") }}
-      OPTIONAL {{ ?item rdfs:label ?name_uk . FILTER(LANG(?name_uk) = "uk") }}
-      OPTIONAL {{ ?item rdfs:label ?name_zh . FILTER(LANG(?name_zh) = "zh") }}
+{name_optional}
       OPTIONAL {{ ?item wdt:P856 ?website . }}
     }}
     GROUP BY ?item
@@ -85,17 +124,14 @@ def fetch_wikidata_batch(q_codes: list[str]) -> dict[str, dict[str, str | None]]
                     q_code = item_uri.rsplit("/", 1)[-1]
                     if not QCODE_RE.match(q_code):
                         continue
-                    results[q_code] = {
+                    row_result: dict[str, str | None] = {
                         "os_id": row.get("id", {}).get("value"),
-                        "name_fr": row.get("name_fr", {}).get("value"),
-                        "name_es": row.get("name_es", {}).get("value"),
-                        "name_de": row.get("name_de", {}).get("value"),
-                        "name_pt": row.get("name_pt", {}).get("value"),
-                        "name_ru": row.get("name_ru", {}).get("value"),
-                        "name_uk": row.get("name_uk", {}).get("value"),
-                        "name_zh": row.get("name_zh", {}).get("value"),
                         "website": row.get("website", {}).get("value"),
                     }
+                    for field in name_field_to_wikidata_lang:
+                        variable = field.lower()
+                        row_result[variable] = row.get(variable, {}).get("value")
+                    results[q_code] = row_result
                 return results
             if response.status_code in (429, 500, 502, 503, 504):
                 time.sleep(attempt * 2.0)
@@ -106,7 +142,7 @@ def fetch_wikidata_batch(q_codes: list[str]) -> dict[str, dict[str, str | None]]
     return {}
 
 
-def process_single_file(path: Path) -> bool:
+def process_single_file(path: Path, name_field_to_wikidata_lang: dict[str, str]) -> bool:
     print(f"Checking {path}...")
     if not path.exists():
         print(f"Skipping missing file: {path}")
@@ -137,15 +173,10 @@ def process_single_file(path: Path) -> bool:
 
         needs = {
             "OpenSanctions_id": "OpenSanctions_id" not in info,
-            "Name_fr": "Name_fr" not in info,
-            "Name_es": "Name_es" not in info,
-            "Name_de": "Name_de" not in info,
-            "Name_pt": "Name_pt" not in info,
-            "Name_ru": "Name_ru" not in info,
-            "Name_uk": "Name_uk" not in info,
-            "Name_zh": "Name_zh" not in info,
             "Website": "Website" not in info,
         }
+        for field in name_field_to_wikidata_lang:
+            needs[field] = field not in info
 
         if any(needs.values()):
             pending.append((info, w_code, needs))
@@ -156,7 +187,7 @@ def process_single_file(path: Path) -> bool:
     q_codes = sorted({item[1] for item in pending})
     remote_by_qcode: dict[str, dict[str, str | None]] = {}
     for batch in batched(q_codes, BATCH_SIZE):
-        remote_by_qcode.update(fetch_wikidata_batch(batch))
+        remote_by_qcode.update(fetch_wikidata_batch(batch, name_field_to_wikidata_lang))
         time.sleep(BATCH_DELAY_SECONDS)
 
     updates_count = 0
@@ -169,27 +200,12 @@ def process_single_file(path: Path) -> bool:
         if needs["OpenSanctions_id"] and remote.get("os_id"):
             info["OpenSanctions_id"] = remote["os_id"]
             changed = True
-        if needs["Name_fr"] and remote.get("name_fr"):
-            info["Name_fr"] = remote["name_fr"]
-            changed = True
-        if needs["Name_es"] and remote.get("name_es"):
-            info["Name_es"] = remote["name_es"]
-            changed = True
-        if needs["Name_de"] and remote.get("name_de"):
-            info["Name_de"] = remote["name_de"]
-            changed = True
-        if needs["Name_pt"] and remote.get("name_pt"):
-            info["Name_pt"] = remote["name_pt"]
-            changed = True
-        if needs["Name_ru"] and remote.get("name_ru"):
-            info["Name_ru"] = remote["name_ru"]
-            changed = True
-        if needs["Name_uk"] and remote.get("name_uk"):
-            info["Name_uk"] = remote["name_uk"]
-            changed = True
-        if needs["Name_zh"] and remote.get("name_zh"):
-            info["Name_zh"] = remote["name_zh"]
-            changed = True
+        for field in name_field_to_wikidata_lang:
+            if needs[field]:
+                value = remote.get(field.lower())
+                if value:
+                    info[field] = value
+                    changed = True
         if needs["Website"] and remote.get("website"):
             info["Website"] = remote["website"]
             changed = True
@@ -216,9 +232,12 @@ def process_single_file(path: Path) -> bool:
 
 def main() -> int:
     args = parse_args()
+    language_codes = load_supported_language_codes(resolve_path(args.supported_languages_file))
+    name_field_to_wikidata_lang = build_name_field_map(language_codes)
+
     any_updated = False
     for file_name in args.files:
-        if process_single_file(Path(file_name)):
+        if process_single_file(Path(file_name), name_field_to_wikidata_lang):
             any_updated = True
 
     if not any_updated:
