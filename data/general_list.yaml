@@ -58,6 +58,27 @@ Council of the European Union:
   Name_uk: Рада Європейського Союзу
   Name_zh: 欧洲联盟理事会
   Website: https://www.consilium.europa.eu/
+  Name_ar: مجلس الاتحاد الأوروبي
+  Name_cy: Cyngor yr Undeb Ewropeaidd
+  Name_da: Rådet for Den Europæiske Union
+  Name_el: Συμβούλιο της Ευρωπαϊκής Ένωσης
+  Name_et: Euroopa Liidu Nõukogu
+  Name_fi: Euroopan unionin neuvosto
+  Name_ga: Comhairle an Aontais Eorpaigh
+  Name_he: מועצת האיחוד האירופי
+  Name_hu: az Európai Unió Tanácsa
+  Name_id: Dewan Uni Eropa
+  Name_is: Ráð Evrópusambandsins
+  Name_it: Consiglio dell'Unione europea
+  Name_ja: 欧州連合理事会
+  Name_ko: 유럽 연합 이사회
+  Name_lt: Europos Sąjungos Taryba
+  Name_nl: Raad van de Europese Unie
+  Name_pl: Rada Unii Europejskiej
+  Name_ro: Consiliul Uniunii Europene
+  Name_sv: Europeiska unionens råd
+  Name_tr: Avrupa Birliği Bakanlar Konseyi
+  Name_ur: یورپی اتحاد
 Court of Justice of the European Union:
   SPRVD_id: SPRVD0688288
   Wikidata_code: Q4951
@@ -117,6 +138,29 @@ European Central Bank:
   Name_uk: Європейський центральний банк
   Name_zh: 欧洲中央银行
   Website: https://www.ecb.europa.eu
+  Name_ar: البنك المركزي الأوروبي
+  Name_bn: ইউরোপীয় কেন্দ্রীয় ব্যাংক
+  Name_cy: Banc Canolog Ewrop
+  Name_da: Den Europæiske Centralbank
+  Name_el: Ευρωπαϊκή Κεντρική Τράπεζα
+  Name_et: Euroopa Keskpank
+  Name_fi: Euroopan keskuspankki
+  Name_ga: Banc Ceannais Eorpach
+  Name_he: הבנק המרכזי האירופי
+  Name_hi: युरोपय केनदरिय बेनक
+  Name_hu: Európai Központi Bank
+  Name_id: Bank Sentral Eropa
+  Name_is: Seðlabanki Evrópu
+  Name_it: Banca Centrale Europea
+  Name_ja: 欧州中央銀行
+  Name_ko: 유럽 중앙은행
+  Name_lt: Europos Centrinis Bankas
+  Name_nl: Europese Centrale Bank
+  Name_pl: Europejski Bank Centralny
+  Name_ro: Banca Centrală Europeană
+  Name_sv: Europeiska centralbanken
+  Name_tr: Avrupa Merkez Bankası
+  Name_ur: European Central Bank
 European Commission:
   SPRVD_id: SPRVD0206688
   Wikidata_code: Q8880
@@ -148,6 +192,27 @@ European Commission:
   Name_uk: Європейська Комісія
   Name_zh: 欧洲联盟委员会
   Website: https://commission.europa.eu/
+  Name_ar: المفوضية الأوروبية
+  Name_bn: ইউরোপীয় কমিশন
+  Name_cy: Comisiwn Ewropeaidd
+  Name_da: Europa-Kommissionen
+  Name_el: Ευρωπαϊκή Επιτροπή
+  Name_et: Euroopa Komisjon
+  Name_fi: Euroopan komissio
+  Name_ga: an Coimisiún Eorpach
+  Name_he: הנציבות האירופית
+  Name_hu: Európai Bizottság
+  Name_id: Komisi Eropa
+  Name_is: Framkvæmdastjórn Evrópusambandsins
+  Name_it: Commissione europea
+  Name_ja: 欧州委員会
+  Name_ko: 유럽 연합 집행위원회
+  Name_lt: Europos Komisija
+  Name_nl: Europese Commissie
+  Name_pl: Komisja Europejska
+  Name_ro: Comisia Europeană
+  Name_sv: Europeiska kommissionen
+  Name_tr: Avrupa Komisyonu
 European Council:
   SPRVD_id: SPRVD0106274
   Wikidata_code: Q8886
@@ -173,6 +238,29 @@ European Council:
   Name_uk: Європейська Рада
   Name_zh: 歐盟高峰會
   Website: https://www.consilium.europa.eu/en/
+  Name_ar: المجلس الأوروبي
+  Name_bn: ইউরোপীয় পরিষদ
+  Name_cy: Cyngor Ewropeaidd
+  Name_da: Det Europæiske Råd
+  Name_el: Ευρωπαϊκό Συμβούλιο
+  Name_et: Euroopa Ülemkogu
+  Name_fi: Eurooppa-neuvosto
+  Name_ga: An Chomhairle Eorpach
+  Name_he: המועצה האירופית
+  Name_hi: यूरोपीय परिषद
+  Name_hu: Európai Tanács
+  Name_id: Dewan Eropa
+  Name_is: Evrópska ráðið
+  Name_it: Consiglio europeo
+  Name_ja: 欧州理事会
+  Name_ko: 유럽 연합 정상회의
+  Name_lt: Europos Vadovų Taryba
+  Name_nl: Europese Raad
+  Name_pl: Rada Europejska
+  Name_ro: Consiliul European
+  Name_sv: Europeiska rådet
+  Name_tr: Avrupa Devlet ve Hükûmet Başkanları Konseyi
+  Name_ur: یورپی کونسل
 European Court of Auditors:
   SPRVD_id: SPRVD0712674
   Wikidata_code: Q8900
@@ -198,6 +286,26 @@ European Court of Auditors:
   Name_uk: Європейський суд аудиторів
   Name_zh: 欧洲审计院
   Website: https://www.eca.europa.eu/
+  Name_ar: محكمة المدققين الأوروبية
+  Name_cy: Llys Archwilwyr Ewrop
+  Name_da: Den Europæiske Revisionsret
+  Name_el: Ευρωπαϊκό Ελεγκτικό Συνέδριο
+  Name_et: Euroopa Kontrollikoda
+  Name_fi: Euroopan tilintarkastustuomioistuin
+  Name_ga: Cúirt Iniúchóirí na hEorpa
+  Name_he: בית המשפט האירופי לביקורת
+  Name_hu: Európai Számvevőszék
+  Name_id: Mahkamah Audit Eropa
+  Name_is: Endurskoðunarréttur Evrópusambandsins
+  Name_it: Corte dei conti europea
+  Name_ja: 欧州会計監査院
+  Name_ko: 유럽 회계감사원
+  Name_lt: Europos Audito Rūmai
+  Name_nl: Europese Rekenkamer
+  Name_pl: Europejski Trybunał Obrachunkowy
+  Name_ro: Curtea Europeană de Conturi
+  Name_sv: Europeiska revisionsrätten
+  Name_tr: Avrupa Hesap Mahkemesi
 European Parliament:
   SPRVD_id: SPRVD0491805
   Wikidata_code: Q8889
@@ -224,6 +332,29 @@ European Parliament:
   Name_uk: Європейський Парламент
   Name_zh: 欧洲议会
   Website: https://www.europarl.europa.eu/
+  Name_ar: البرلمان الأوروبي
+  Name_bn: ইউরোপীয় সংসদ
+  Name_cy: Senedd Ewrop
+  Name_da: Europa-Parlamentet
+  Name_el: Ευρωπαϊκό Κοινοβούλιο
+  Name_et: Euroopa Parlament
+  Name_fi: Euroopan parlamentti
+  Name_ga: Parlaimint na hEorpa
+  Name_he: הפרלמנט האירופי
+  Name_hi: यूरोपीय संसद
+  Name_hu: Európai Parlament
+  Name_id: Parlemen Eropa
+  Name_is: Evrópuþingið
+  Name_it: Parlamento europeo
+  Name_ja: 欧州議会
+  Name_ko: 유럽 의회
+  Name_lt: Europos Parlamentas
+  Name_nl: Europees Parlement
+  Name_pl: Parlament Europejski
+  Name_ro: Parlamentul European
+  Name_sv: Europaparlamentet
+  Name_tr: Avrupa Parlamentosu
+  Name_ur: یورپی پالیمان
 European Investment Bank:
   SPRVD_id: SPRVD0055823
   Wikidata_code: Q192247
@@ -321,6 +452,24 @@ European Atomic Energy Community:
   Name_uk: Європейська спільнота з атомної енергії
   Name_zh: 歐洲原子能共同體
   Website: http://www.euratom.org/
+  Name_ar: الجماعة الأوروبية للطاقة الذرية
+  Name_da: Europæiske Atomenergifællesskab
+  Name_el: Ευρωπαϊκή Κοινότητα Ατομικής Ενέργειας
+  Name_et: Euroopa Aatomienergiaühendus
+  Name_fi: Euroopan atomienergiayhteisö
+  Name_ga: Comhphobal Eorpach um Fhuinneamh Adamhach
+  Name_he: סוכנות האטום האירופית
+  Name_hu: Európai Atomenergia Közösség
+  Name_id: Komunitas Energi Atom Eropa
+  Name_it: Comunità europea dell'energia atomica
+  Name_ja: 欧州原子力共同体
+  Name_ko: 유럽 원자력 공동체
+  Name_lt: Europos atominės energetikos bendrija
+  Name_nl: Europese Gemeenschap voor Atoomenergie
+  Name_pl: Europejska Wspólnota Energii Atomowej
+  Name_ro: Comunitatea Europeană a Energiei Atomice
+  Name_sv: Europeiska atomenergigemenskapen
+  Name_tr: Avrupa Atom Enerjisi Topluluğu
 Unified Patent Court:
   SPRVD_id: SPRVD0796930
   Wikidata_code: Q7884942
@@ -342,6 +491,12 @@ Unified Patent Court:
   Name_ru: Единый патентный суд
   Name_uk: Єдиний патентний суд
   Website: https://www.unified-patent-court.org/en
+  Name_ar: محكمة براءات الاختراع الموحدة
+  Name_da: Den fælles europæiske patentdomstol
+  Name_it: Tribunale unificato dei brevetti
+  Name_ko: 통합특허법원
+  Name_nl: Eengemaakt Octrooigerecht
+  Name_sv: Enhetliga patentdomstolen
 European Stability Mechanism:
   SPRVD_id: SPRVD0776943
   Wikidata_code: Q1130098
@@ -628,6 +783,20 @@ European Union Agency for Criminal Justice Cooperation:
   Name_uk: Євроюст
   Name_zh: 歐洲聯盟刑事司法合作署
   Website: https://www.eurojust.europa.eu/
+  Name_ar: يوروجست
+  Name_el: Eurojust
+  Name_fi: Eurojust
+  Name_ga: Gníomhaireacht an Aontais Eorpaigh um Chomhar Ceartais Choiriúil
+  Name_hu: Eurojust
+  Name_id: Eurojust
+  Name_it: Eurojust
+  Name_ja: 欧州司法機構
+  Name_ko: 유럽 사법 기구
+  Name_nl: Eurojust
+  Name_pl: Eurojust
+  Name_ro: Agenția Uniunii Europene pentru Cooperare în Justiție Penală
+  Name_sv: Eurojust
+  Name_tr: Eurojust
 European Agency for Safety and Health at Work:
   SPRVD_id: SPRVD0175633
   Wikidata_code: Q571118
@@ -683,6 +852,19 @@ European Banking Authority:
   Name_pt: Autoridade Bancária Europeia
   Name_zh: 欧洲银行业管理局
   Website: https://www.eba.europa.eu/
+  Name_ar: الهيئة المصرفية الأوروبية
+  Name_bn: ইউরোপীয় ব্যাংকিং কর্তৃপক্ষ
+  Name_el: Ευρωπαϊκή Αρχή Τραπεζών
+  Name_et: Euroopa Pangandusjärelevalve
+  Name_fi: Euroopan pankkiviranomainen
+  Name_ga: An tÚdarás Baincéireachta Eorpach
+  Name_it: Autorità bancaria europea
+  Name_ja: 欧州銀行監督局
+  Name_nl: Europese Bankautoriteit
+  Name_pl: Europejski Urząd Nadzoru Bankowego
+  Name_ro: Autoritatea Bancară Europeană
+  Name_sv: Europeiska bankmyndigheten
+  Name_tr: Avrupa Bankacılık Otoritesi
 European Centre for Disease Prevention and Control:
   SPRVD_id: SPRVD0067969
   Wikidata_code: Q918501
@@ -708,6 +890,24 @@ European Centre for Disease Prevention and Control:
   Name_uk: Європейський центр з профілактики та контролю захворюваності
   Name_zh: 歐盟疾病管制局
   Website: https://www.ecdc.europa.eu/
+  Name_ar: المركز الأوروبي لمكافحة الأمراض والوقاية منها
+  Name_bn: ইউরোপীয় রোগ প্রতিরোধ ও নিয়ন্ত্রণ কেন্দ্র
+  Name_da: Det Europæiske Center for Forebyggelse af og Kontrol med Sygdomme
+  Name_el: Ευρωπαϊκό Κέντρο Πρόληψης και Ελέγχου Νόσων
+  Name_et: Haiguste Ennetamise ja Tõrje Euroopa Keskus
+  Name_fi: Euroopan tautienehkäisy- ja -valvontakeskus
+  Name_ga: An Lárionad Eorpach um Chosc agus Rialú Galar
+  Name_he: המרכז האירופי לבקרת מחלות ומניעתן
+  Name_hu: Európai Betegségmegelőzési és Járványvédelmi Központ
+  Name_id: Pusat Pencegahan dan Pengendalian Penyakit Eropa
+  Name_it: Centro europeo per la prevenzione e il controllo delle malattie
+  Name_ja: 欧州疾病予防管理センター
+  Name_ko: 유럽질병관리예방센터
+  Name_nl: Europees Centrum voor ziektepreventie en –bestrijding
+  Name_pl: Europejskie Centrum ds. Zapobiegania i Kontroli Chorób
+  Name_ro: Centrul European de Prevenire și Control al Bolilor
+  Name_sv: Europeiskt centrum för förebyggande och kontroll av sjukdomar
+  Name_tr: Avrupa Hastalık Önleme ve Kontrol Merkezi
 European Centre for the Development of Vocational Training:
   SPRVD_id: SPRVD0050000
   Wikidata_code: Q116214
@@ -919,6 +1119,18 @@ European Maritime Safety Agency:
   Name_uk: Європейське агентство з морської безпеки
   Name_zh: 歐洲海事安全局
   Website: http://emsa.europa.eu/
+  Name_ar: وكالة السلامة البحرية الأوروبية
+  Name_el: Ευρωπαϊκός Οργανισμός για την Ασφάλεια στη Θάλασσα
+  Name_et: Euroopa Meresõiduohutuse Amet
+  Name_fi: Euroopan meriturvallisuusvirasto
+  Name_ga: Gníomhaireacht Eorpach um Shábháilteacht Mhuirí
+  Name_hu: EMSA
+  Name_it: Agenzia europea per la sicurezza marittima
+  Name_ja: 欧州海上保安機関
+  Name_lt: Europos jūrų saugumo agentūra
+  Name_nl: Europees Agentschap voor maritieme veiligheid
+  Name_pl: Europejska Agencja ds. Bezpieczeństwa na Morzu
+  Name_tr: Avrupa Deniz Güvenliği Ajansı
 European Medicines Agency:
   SPRVD_id: SPRVD0953639
   Wikidata_code: Q130146
@@ -1100,8 +1312,8 @@ European Union Agency for Railways:
   Name_uk: Європейська залізнична агенція
   Name_zh: 歐洲鐵路機構
   Website: https://www.era.europa.eu/
-European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice:
-  Wikidata_code: Q4440501
+? European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice
+: Wikidata_code: Q4440501
   SPRVD_id: SPRVD0651456
   Entity_type: International organisation
   Org_family: EU institutions and bodies
@@ -1223,6 +1435,23 @@ European Union Intellectual Property Office:
   Name_uk: Європейська агенція інтелектуальної власності
   Name_zh: 欧盟知识产权局
   Website: https://www.euipo.europa.eu/
+  Name_ar: مكتب الاتحاد الأوروبي للملكية الفكرية
+  Name_da: Kontoret for Harmonisering i det Indre Marked (Varemærker og Design)
+  Name_el: Γραφείο Διανοητικής Ιδιοκτησίας της Ευρωπαϊκής Ένωσης
+  Name_et: Euroopa Liidu Intellektuaalomandi Amet
+  Name_fi: Euroopan unionin teollisoikeuksien virasto
+  Name_ga: Oifig Maoine Intleachtúla an Aontais Eorpach
+  Name_he: משרד הקניין הרוחני של האיחוד האירופי
+  Name_hu: Belső Piaci Harmonizációs Hivatal
+  Name_id: Badan Kekayaan Intelektual Uni Eropa
+  Name_it: Ufficio dell'Unione europea per la proprietà intellettuale
+  Name_ja: 欧州共同体商標意匠庁
+  Name_ko: 유럽 공동체 상표청
+  Name_nl: Harmonisatiebureau voor de interne markt
+  Name_pl: Urząd Unii Europejskiej ds. Własności Intelektualnej
+  Name_ro: Biroul Uniunii Europene pentru Proprietate Intelectuală
+  Name_sv: Kontoret för harmonisering inom den inre marknaden (varumärken och mönster)
+  Name_tr: Avrupa Birliği Fikri Mülkiyet Ofisi
 Europol:
   SPRVD_id: SPRVD0488415
   Wikidata_code: Q207203
@@ -1313,6 +1542,16 @@ European Securities and Markets Authority:
   Name_pt: Autoridade Europeia de Valores Mobiliários e Mercados
   Name_zh: 欧洲证券及市场管理局
   Website: https://www.esma.europa.eu/
+  Name_ar: هيئة الأوراق المالية والأسواق الأوروبية
+  Name_el: Ευρωπαϊκή Αρχή Κινητών Αξιών και Αγορών
+  Name_fi: Euroopan arvopaperimarkkinaviranomainen
+  Name_ga: An tÚdarás Eorpach um Urrúis agus Margaí
+  Name_it: Autorità europea degli strumenti finanziari e dei mercati
+  Name_ja: 欧州証券市場監督局
+  Name_nl: Europese Autoriteit voor effecten en markten
+  Name_pl: Europejski Urząd Nadzoru Giełd i Papierów Wartościowych
+  Name_sv: Europeiska värdepappers- och marknadsmyndigheten
+  Name_tr: Avrupa Menkul Kıymetler ve Piyasalar Otoritesi
 Translation Centre for the Bodies of the European Union:
   SPRVD_id: SPRVD0984645
   Wikidata_code: Q333743
@@ -1829,6 +2068,29 @@ Council of Europe:
   Name_uk: Рада Європи
   Name_zh: 欧洲委员会
   Website: https://www.coe.int
+  Name_ar: مجلس أوروبا
+  Name_bn: কাউন্সিল অফ ইউরোপ
+  Name_cy: Cyngor Ewrop
+  Name_da: Europarådet
+  Name_el: Συμβούλιο της Ευρώπης
+  Name_et: Euroopa Nõukogu
+  Name_fi: Euroopan neuvosto
+  Name_ga: Comhairle na hEorpa
+  Name_he: מועצת אירופה
+  Name_hi: यूरोप की परिषद्
+  Name_hu: Európa Tanács
+  Name_id: Majelis Eropa
+  Name_is: Evrópuráðið
+  Name_it: Consiglio d'Europa
+  Name_ja: 欧州評議会
+  Name_ko: 유럽 평의회
+  Name_lt: Europos Taryba
+  Name_nl: Raad van Europa
+  Name_pl: Rada Europy
+  Name_ro: Consiliul Europei
+  Name_sv: Europarådet
+  Name_tr: Avrupa Konseyi
+  Name_ur: یورپی کونسل
 Benelux:
   SPRVD_id: SPRVD0050066
   Wikidata_code: Q13116
@@ -1939,6 +2201,29 @@ Commonwealth of Independent States:
   Name_uk: Співдружність Незалежних Держав
   Name_zh: 獨立國家聯合體
   Website: https://e-cis.info/
+  Name_ar: رابطة الدول المستقلة
+  Name_bn: স্বাধীন রাষ্ট্রের রাষ্ট্রমণ্ডল
+  Name_cy: Cymanwlad y Gwladwriaethau Annibynnol
+  Name_da: SNG
+  Name_el: Κοινοπολιτεία Ανεξάρτητων Κρατών
+  Name_et: Sõltumatute Riikide Ühendus
+  Name_fi: Itsenäisten valtioiden yhteisö
+  Name_he: חבר המדינות העצמאיות
+  Name_hi: स्वतंत्र राष्ट्र राष्ट्रमण्डल
+  Name_hu: Független Államok Közössége
+  Name_id: Persemakmuran Negara-negara Merdeka
+  Name_is: Samveldi sjálfstæðra ríkja
+  Name_it: Comunità degli Stati Indipendenti
+  Name_ja: 独立国家共同体
+  Name_ko: 독립국가연합
+  Name_lt: Nepriklausomų valstybių sandrauga
+  Name_nl: Gemenebest van Onafhankelijke Staten
+  Name_pl: Wspólnota Niepodległych Państw
+  Name_ro: Comunitatea Statelor Independente
+  Name_sv: Oberoende staters samvälde
+  Name_sw: Jumuiya ya Nchi Huru
+  Name_tr: Bağımsız Devletler Topluluğu
+  Name_ur: آزاد ریاستوں کی دولت مشترکہ
 Organisation of Eastern Caribbean States:
   SPRVD_id: SPRVD0742814
   Wikidata_code: Q392770
@@ -2284,6 +2569,27 @@ Organization for Security and Co-operation in Europe:
   Name_uk: Організація з безпеки і співробітництва в Європі
   Name_zh: 歐洲安全與合作組織
   Website: https://www.osce.org/
+  Name_ar: منظمة الأمن والتعاون في أوروبا
+  Name_cy: Sefydliad Diogelwch a Chydweithrediad Ewrop
+  Name_da: OSCE
+  Name_el: Οργανισμός για την Ασφάλεια και τη Συνεργασία στην Ευρώπη
+  Name_et: Euroopa Julgeoleku- ja Koostööorganisatsioon
+  Name_fi: Euroopan turvallisuus- ja yhteistyöjärjestö
+  Name_he: הארגון לביטחון ולשיתוף פעולה באירופה
+  Name_hi: यूरोप में सुरक्षा और सहयोग संगठन
+  Name_hu: Európai Biztonsági és Együttműködési Szervezet
+  Name_id: Organisasi untuk Keamanan dan Kerjasama di Eropa
+  Name_is: Öryggis- og samvinnustofnun Evrópu
+  Name_it: Organizzazione per la sicurezza e la cooperazione in Europa
+  Name_ja: 欧州安全保障協力機構
+  Name_ko: 유럽 안보 협력 기구
+  Name_lt: Europos saugumo ir bendradarbiavimo organizacija
+  Name_nl: Organisatie voor Veiligheid en Samenwerking in Europa
+  Name_pl: Organizacja Bezpieczeństwa i Współpracy w Europie
+  Name_ro: Organizația pentru Securitate și Cooperare în Europa
+  Name_sv: Organisationen för säkerhet och samarbete i Europa
+  Name_tr: Avrupa Güvenlik ve İşbirliği Teşkilatı
+  Name_ur: یورپ میں تنظیم برائے سلامتی اور تعاون
 North Atlantic Treaty Organisation:
   SPRVD_id: SPRVD0232360
   Wikidata_code: Q7184
@@ -2393,6 +2699,23 @@ Association of Southeast Asian Nations:
   Name_uk: Асоціація держав Південно-Східної Азії
   Name_zh: 东南亚国家联盟
   Website: https://asean.org
+  Name_ar: أسيان
+  Name_bn: আসিয়ান
+  Name_el: Ένωση Χωρών της Νοτιοανατολικής Ασίας
+  Name_et: Kagu-Aasia Maade Assotsiatsioon
+  Name_ga: Comhlachas Náisiúin na hÁise Thoir Theas
+  Name_he: איגוד מדינות דרום-מזרח אסיה
+  Name_hi: दक्षिण पूर्वी एशियाई राष्ट्रों का संगठन
+  Name_hu: Délkelet-ázsiai Nemzetek Szövetsége
+  Name_is: Samband Suðaustur-Asíuríkja
+  Name_it: Associazione delle Nazioni dell’Asia Sudorientale
+  Name_ja: 東南アジア諸国連合
+  Name_ko: 동남아시아 국가 연합
+  Name_pl: Stowarzyszenie Narodów Azji Południowo-Wschodniej
+  Name_sv: Sydostasiatiska nationers förbund
+  Name_sw: Umoja wa Nchi za Asia ya Kusini-Mashariki
+  Name_tr: Güneydoğu Asya Uluslar Birliği
+  Name_ur: جنوب مشرقی ایشیائی اقوام کی تنظیم
 Mercosur:
   SPRVD_id: SPRVD0985886
   Wikidata_code: Q4264
@@ -2507,6 +2830,12 @@ Africa Centres for Disease Control and Prevention:
   Name_uk: Африканські центри з контролю та профілактики захворювань
   Name_zh: 非洲疾病预防控制中心
   Website: https://africacdc.org/
+  Name_ar: المراكز الإفريقية لمكافحة الأمراض والوقاية منها
+  Name_fi: Africa CDC
+  Name_he: מרכזי אפריקה לבקרת מחלות ומניעתן
+  Name_ja: アフリカ疾病管理予防センター
+  Name_nl: Africa Centres for Disease Control and Prevention
+  Name_sv: Africa CDC
 African Civil Aviation Commission:
   SPRVD_id: SPRVD0802084
   Wikidata_code: Q88402135
@@ -2639,6 +2968,24 @@ Organization of the Petroleum Exporting Countries:
   Name_uk: ОПЕК
   Name_zh: 石油输出国组织
   Website: https://www.opec.org
+  Name_ar: أوبك
+  Name_bn: ওপেক
+  Name_el: Οργανισμός εξαγωγών πετρελαιοπαραγωγών χωρών
+  Name_fi: Opec
+  Name_ga: Eagraíocht Tíortha Onnmhairithe an Pheitriliam
+  Name_he: אופ"ק
+  Name_hi: ओपेक
+  Name_hu: Kőolaj-exportáló Országok Szervezete
+  Name_id: Organisasi Negara-Negara Pengekspor Minyak Bumi
+  Name_is: Samtök olíuframleiðsluríkja
+  Name_it: Organizzazione dei Paesi esportatori di petrolio
+  Name_ja: 石油輸出国機構
+  Name_ko: 석유 수출국 기구
+  Name_nl: organisatie van olie-exporterende landen
+  Name_ro: OPEC
+  Name_sv: Opec
+  Name_sw: Jumuiya ya nchi zinazozalisha mafuta duniani
+  Name_ur: اوپیک
 Financial Action Task Force:
   SPRVD_id: SPRVD0807023
   Wikidata_code: Q681487
@@ -3173,6 +3520,29 @@ International Criminal Police Organization:
   Name_uk: Інтерпол
   Name_zh: 國際刑警組織
   Website: https://interpol.int
+  Name_ar: منظمة الشرطة الجنائية الدولية
+  Name_bn: ইন্টারপোল
+  Name_cy: Interpol
+  Name_da: Interpol
+  Name_el: Ιντερπόλ
+  Name_et: Interpol
+  Name_fi: Interpol
+  Name_ga: Interpol
+  Name_he: אינטרפול
+  Name_hi: इण्टरपोल
+  Name_hu: Interpol
+  Name_id: Interpol
+  Name_is: Interpol
+  Name_it: Interpol
+  Name_ja: 国際刑事警察機構
+  Name_ko: 국제형사경찰기구
+  Name_lt: Interpolas
+  Name_nl: Interpol
+  Name_pl: Interpol
+  Name_ro: Interpol
+  Name_sv: Interpol
+  Name_tr: Interpol
+  Name_ur: انٹرپول
 European Committee for Prevention of Torture:
   SPRVD_id: SPRVD0081970
   Wikidata_code: Q1378135
@@ -3697,6 +4067,21 @@ Pacific Islands Forum:
   Name_uk: Форум тихоокеанських островів
   Name_zh: 太平洋岛国论坛
   Website: https://www.forumsec.org/
+  Name_ar: منتدى جزر المحيط الهادئ
+  Name_el: Φόρουμ των Νήσων του Ειρηνικού Ωκεανού
+  Name_fi: Tyynenmeren saarten foorumi
+  Name_he: האוקיינוס השקט
+  Name_hu: Csendes-óceáni Fórum
+  Name_id: Forum Kepulauan Pasifik
+  Name_it: Forum delle Isole del Pacifico
+  Name_ja: 太平洋諸島フォーラム
+  Name_ko: 태평양 제도 포럼
+  Name_lt: Ramiojo vandenyno salų forumas
+  Name_nl: Pacific Islands Forum
+  Name_pl: Forum Wysp Pacyfiku
+  Name_sv: Pacific Islands Forum
+  Name_tr: Pasifik Adaları Forumu
+  Name_ur: جزائر بحر الکاہل فورم
 East African Community:
   SPRVD_id: SPRVD0944310
   Wikidata_code: Q337456
@@ -3789,6 +4174,14 @@ Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation:
   Name_uk: Ініціатива Бенгальської затоки щодо багатосекторного технічного та економічного співробітництва
   Name_zh: 環孟加拉灣多領域技術暨經濟合作倡議
   Website: https://bimstec.org/
+  Name_ar: مبادرة خليج البنغال للتعاون التقني والاقتصادي المتعدد القطاعات
+  Name_bn: বিম্সটেক
+  Name_hi: बिम्सटेक
+  Name_hu: BIMSTEC
+  Name_id: Inisiatif Teluk Benggala untuk Kerjasama Teknis dan Ekonomi Multi-Sektoral
+  Name_ja: 多面的技術経済協力のためのベンガル湾構想
+  Name_ko: 벵골만 다분야 기술경제협력 기구
+  Name_lt: BIMSTEC
 Union for the Mediterranean:
   SPRVD_id: SPRVD0863252
   Wikidata_code: Q192177
@@ -4291,6 +4684,9 @@ East Mediterranean Gas Forum:
   Year_established: 2020
   Headquarters: Cairo, Egypt
   Website: http://www.eastmedgasforum.com/
+  Name_ar: منتدى غاز شرق المتوسط
+  Name_el: Φόρουμ Αερίου EastMed
+  Name_he: פורום הגז של מזרח אגן הים התיכון
 Gas Exporting Countries Forum:
   SPRVD_id: SPRVD0985240
   Wikidata_code: Q1031255
@@ -4423,6 +4819,12 @@ Danube Commission:
   Name_uk: Дунайська комісія
   Name_zh: 多瑙河委员会
   Website: http://www.danubecommission.org/
+  Name_ar: لجنة الدانوب
+  Name_fi: Tonava-komissio
+  Name_hu: Duna Bizottság
+  Name_ja: ドナウ川委員会（1948年）
+  Name_nl: Donaucommissie
+  Name_ro: Comisia Dunării
 International Boundary and Water Commission:
   SPRVD_id: SPRVD0587655
   Wikidata_code: Q8348493
@@ -4439,6 +4841,7 @@ International Boundary and Water Commission:
   Basis_for_assessment: B22
   Year_established: 1889
   Name_zh: 國際邊界及水利委員會
+  Name_ja: 国境と水に関する委員会
 Great Lakes Fishery Commission:
   SPRVD_id: SPRVD0279947
   Wikidata_code: Q2986576
@@ -4964,6 +5367,7 @@ Science and Technology Center in Ukraine:
   Name_ru: Украинский научно-технологический центр
   Name_uk: Український науково-технологічний центр
   Website: http://www.stcu.int/
+  Name_ja: ウクライナ科学技術センター
 Arab Maghreb Union:
   SPRVD_id: SPRVD0337871
   Wikidata_code: Q370862
@@ -5145,6 +5549,19 @@ New Development Bank:
   Name_uk: Банк розвитку БРІКС
   Name_zh: 新开发银行
   Website: http://www.ndb.int
+  Name_ar: بنك التنمية الجديد
+  Name_bn: নিউ ডেভেলপমেন্ট ব্যাঙ্ক
+  Name_cy: Y Banc Datblygu Newydd
+  Name_el: Νέα Αναπτυξιακή Τράπεζα
+  Name_hi: ब्रिक्स बैंक
+  Name_hu: New Development Bank
+  Name_id: New Development Bank
+  Name_it: Nuova Banca di Sviluppo
+  Name_ja: 新開発銀行
+  Name_ko: 신개발은행
+  Name_nl: BRICS Development Bank
+  Name_pl: New Development Bank
+  Name_tr: Yeni Kalkınma Bankası
 North Pacific Marine Science Organization:
   SPRVD_id: SPRVD0283067
   Wikidata_code: Q21015877
@@ -5184,6 +5601,16 @@ Pacific Community:
   Name_uk: Секретаріат Тихоокеанської спільноти
   Name_zh: 太平洋共同体
   Website: https://www.spc.int/fr
+  Name_ar: جماعة المحيط الهادي
+  Name_fi: Tyynenmeren yhteisö
+  Name_he: קהילת הפסיפיק
+  Name_hu: Csendes-óceáni Közösség
+  Name_id: Sekretariat Komunitas Pasifik
+  Name_it: Comunità del Pacifico
+  Name_ja: 太平洋共同体
+  Name_ko: 남태평양공동체 사무국
+  Name_pl: Wspólnota Pacyfiku
+  Name_tr: Pasifik Topluluğu
 Nigeria–São Tomé and Príncipe Joint Development Authority:
   SPRVD_id: SPRVD0464506
   Wikidata_code: Q7033072
@@ -5297,6 +5724,28 @@ Organization for the Prohibition of Chemical Weapons:
   Name_uk: Організація із заборони хімічної зброї
   Name_zh: 禁止化學武器組織
   Website: https://www.opcw.org/
+  Name_ar: منظمة حظر الأسلحة الكيميائية
+  Name_bn: আন্তর্জাতিক রাসায়নিক অস্ত্র নিরস্ত্রীকরণ সংস্থা
+  Name_da: Organisationen for forbud mod kemiske våben
+  Name_el: Οργανισμός για την Απαγόρευση Χρήσης Χημικών Όπλων
+  Name_et: Keemiarelvade Keelustamise Organisatsioon
+  Name_fi: Kemiallisten aseiden kieltojärjestö
+  Name_ga: Eagraíocht um Thoirmeasc ar Airm Cheimiceacha
+  Name_he: הארגון למניעת הפצת נשק כימי
+  Name_hi: रासायनिक हथियार निषेध संगठन
+  Name_hu: Vegyifegyver-tilalmi Szervezet
+  Name_id: Organisasi Pelarangan Senjata Kimia
+  Name_is: Stofnunin um bann við efnavopnum
+  Name_it: Organizzazione per la proibizione delle armi chimiche
+  Name_ja: 化学兵器禁止機関
+  Name_ko: 화학 무기 금지 기구
+  Name_lt: Cheminio ginklo draudimo organizacija
+  Name_nl: Organisatie voor het Verbod op Chemische Wapens
+  Name_pl: Organizacja ds. Zakazu Broni Chemicznej
+  Name_ro: Organizația pentru Interzicerea Armelor Chimice
+  Name_sv: Organisationen för förbud mot kemiska vapen
+  Name_tr: Kimyasal Silahların Yasaklanması Örgütü
+  Name_ur: تنظیم برائے ممانعت کیمیائی ہتھیار
 International Union for the Protection of New Varieties of Plants:
   SPRVD_id: SPRVD0525440
   Wikidata_code: Q690318
@@ -5377,6 +5826,25 @@ International Energy Agency:
   Name_uk: Міжнародне енергетичне агентство
   Name_zh: 國際能源署
   Website: https://www.iea.org/
+  Name_ar: الوكالة الدولية للطاقة
+  Name_da: Det Internationale Energiagentur
+  Name_el: Διεθνής Οργανισμός Ενέργειας
+  Name_et: Rahvusvaheline Energiaagentuur
+  Name_fi: Kansainvälinen energiajärjestö
+  Name_he: סוכנות האנרגיה הבין-לאומית
+  Name_hi: अन्तरराष्ट्रीय ऊर्जा अभिकरण
+  Name_hu: Nemzetközi Energiaügynökség
+  Name_id: Badan Energi Internasional
+  Name_it: Agenzia internazionale dell'energia
+  Name_ja: 国際エネルギー機関
+  Name_ko: 국제 에너지 기구
+  Name_lt: Tarptautinė energetikos agentūra
+  Name_nl: Internationaal Energieagentschap
+  Name_pl: Międzynarodowa Agencja Energetyczna
+  Name_ro: Agenția Internațională pentru Energie
+  Name_sv: Internationella energirådet
+  Name_tr: Uluslararası Enerji Ajansı
+  Name_ur: انٹرنیشنل انرجی ایجنسی
 International Renewable Energy Agency:
   SPRVD_id: SPRVD0945879
   Wikidata_code: Q392739
@@ -5596,6 +6064,10 @@ International Anti-Corruption Academy:
   Name_uk: Міжнародна антикорупційна академія
   Name_zh: 国际反腐败学院
   Website: http://www.iaca.int/
+  Name_ar: الأكاديمية الدولية لمكافحة الفساد
+  Name_it: Accademia Internazionale per la lotta alla Corruzione
+  Name_ja: 国際反汚職アカデミー
+  Name_nl: International Anti-Corruption Academy
 Conseil de l'Entente:
   SPRVD_id: SPRVD0384963
   Wikidata_code: Q945574
@@ -5616,6 +6088,11 @@ Conseil de l'Entente:
   Name_de: Conseil de l’Entente
   Name_pt: Conselho da Entente
   Website: http://www.conseildelentente.org/
+  Name_ar: مجلس الوفاق
+  Name_he: קונסיי דה ל'ונטונט
+  Name_it: Consiglio dell'Intesa
+  Name_nl: Conseil de l'Entente
+  Name_tr: Conseil de l’Entente
 Desert Locust Control Organisation for Eastern Africa:
   SPRVD_id: SPRVD0211154
   Wikidata_code: Q30596094
@@ -5675,6 +6152,9 @@ International Commission for the Conservation of Atlantic Tunas:
   Headquarters: Madrid, Spain
   Name_zh: 大西洋鮪類保育委員會
   Website: http://www.iccat.int
+  Name_id: Komisi Internasional untuk Pelestarian Tuna Atlantik
+  Name_ja: 大西洋まぐろ類保存国際委員会
+  Name_ko: 대서양참치보존위원회
 Economic Community of the Great Lakes Countries:
   SPRVD_id: SPRVD0518332
   Wikidata_code: Q1331783
@@ -5788,6 +6268,20 @@ International Centre for Settlement of Investment Disputes:
   Name_uk: Міжнародний центр з урегулювання інвестиційних спорів
   Name_zh: 国际投资争端解决中心
   Website: http://www.worldbank.org/icsid
+  Name_ar: المركز الدولي لتسوية المنازعات الاستشارية
+  Name_bn: ইন্টারন্যাশনাল সেন্টার ফর সেটলমেন্ট অব ইনভেস্টমেন্ট ডিসপিউটস
+  Name_et: Investeeringute Vaidluste Lahendamise Rahvusvaheline Keskus
+  Name_he: המרכז הבינלאומי ליישוב סכסוכי השקעות
+  Name_hu: Beruházási Viták Rendezésének Nemzetközi Központja
+  Name_id: International Centre for Settlement of Investment Disputes
+  Name_it: Centro internazionale per il regolamento delle controversie relative ad investimenti
+  Name_ja: 投資紛争解決国際センター
+  Name_ko: 국제 투자 분쟁 해결 센터
+  Name_nl: Internationaal Centrum voor Beslechting van Investeringsgeschillen
+  Name_pl: Międzynarodowe Centrum Rozstrzygania Sporów Inwestycyjnych
+  Name_ro: Centrul Internațional pentru Reglementarea Diferendelor Relative la Investiții
+  Name_tr: Uluslararası Yatırım Anlaşmazlıkları Çözüm Merkezi
+  Name_ur: بین الاقوامی مرکز برائےتصفیہ تنازعات سرمایہ کاری
 Center for International Forestry Research and World Agroforestry:
   SPRVD_id: SPRVD0379328
   Wikidata_code: Q121461382
@@ -5947,6 +6441,7 @@ Convention for the Conservation of Antarctic Marine Living Resources:
   Name_uk: Комісія зі збереження морських живих ресурсів Антарктики
   Name_zh: 南极海洋生物资源养护委员会
   Website: https://www.ccamlr.org/
+  Name_fi: Etelämantereen meren elollisten luonnonvarojen suojelukomissio
 Residual Special Court for Sierra Leone:
   SPRVD_id: SPRVD0272593
   Wikidata_code: '[No code found.]'
@@ -6296,6 +6791,13 @@ International Tropical Timber Organisation:
   Name_de: International Tropical Timber Organization
   Name_zh: 国际热带木材组织
   Website: http://www.itto.int
+  Name_ar: المنظمة الدولية للأخشاب الاستوائية
+  Name_id: International Tropical Timber Organization
+  Name_it: Organizzazione internazionale per il legname tropicale
+  Name_ja: 国際熱帯木材機関
+  Name_ko: 국제 열대 목재 기구
+  Name_lt: Tarptautinė tropinės medienos organizacija
+  Name_nl: International Tropical Timber Organization
 Lake Chad Basin Commission:
   SPRVD_id: SPRVD0869534
   Wikidata_code: Q2986599
@@ -6464,6 +6966,8 @@ EU-LAC International Foundation:
   Name_de: EU-Lateinamerika-Karibik-Stiftung
   Name_pt: Fundação Internacional UE-ALC
   Website: https://eulacfoundation.org/en
+  Name_it: Fondazione EU-LAC
+  Name_nl: EU-LAC-Stichting
 Secreriat of the Antarctic Treaty:
   SPRVD_id: SPRVD0904870
   Wikidata_code: '[No code found.]'
@@ -6533,6 +7037,9 @@ Caribbean Court of Justice:
   Name_ru: Карибский суд
   Name_zh: 加勒比法院
   Website: https://www.ccj.org/
+  Name_ga: Cúirt Bhreithiúnais Mhuir Chairib
+  Name_ja: カリブ司法裁判所
+  Name_nl: Caribisch Hof van Justitie
 Brazilian-Argentine Agency for Accounting and Control of Nuclear Materials:
   SPRVD_id: SPRVD0618348
   Wikidata_code: Q290585
@@ -6642,6 +7149,21 @@ Southern African Development Community:
   Name_uk: Співтовариство розвитку Півдня Африки
   Name_zh: 南部非洲发展共同体
   Website: https://www.sadc.int
+  Name_ar: مجموعة التنمية لإفريقيا الجنوبية
+  Name_da: Southern African Development Community
+  Name_et: Lõuna-Aafrika Arenguühendus
+  Name_fi: Eteläisen Afrikan kehitysyhteisö
+  Name_he: קהילת הפיתוח הדרום אפריקאית
+  Name_id: Komunitas Pembangunan Afrika Selatan
+  Name_it: Comunità di Sviluppo dell'Africa Meridionale
+  Name_ja: 南部アフリカ開発共同体
+  Name_ko: 남아프리카 개발 공동체
+  Name_lt: Pietų Afrikos plėtros bendrija
+  Name_nl: Ontwikkelingsgemeenschap van Zuidelijk Afrika
+  Name_pl: Wspólnota Rozwoju Afryki Południowej
+  Name_sv: Southern African Development Community
+  Name_sw: Southern African Development Community
+  Name_tr: Güney Afrika Kalkınma Topluluğu
 Southeast Asian Ministers of Education Organisation:
   SPRVD_id: SPRVD0208786
   Wikidata_code: '[No code found.]'
@@ -7268,6 +7790,10 @@ Mekong River Commission:
   Name_ru: Комиссия по реке Меконг
   Name_zh: 湄公河委员会
   Website: http://www.mrcmekong.org/
+  Name_id: Komisi Sungai Mekong
+  Name_ja: メコン川委員会
+  Name_ko: 메콩강 위원회
+  Name_sv: Mekongs flodkommission
 Caribbean Telecommunications Union:
   SPRVD_id: SPRVD0246048
   Wikidata_code: Q115803554
@@ -8101,6 +8627,9 @@ International Commission for the Protection of the Elbe River:
   Headquarters: Magdeburg, Germany
   Name_de: Internationale Kommission zum Schutz der Elbe
   Website: https://www.ikse-mkol.org/
+  Name_it: Internationale Kommission zum Schutz der Elbe
+  Name_nl: Internationale Kommission zum Schutz der Elbe
+  Name_pl: Międzynarodowa Komisja Ochrony Łaby
 International Meuse Commission:
   SPRVD_id: SPRVD0174969
   Wikidata_code: Q124290267
@@ -8198,6 +8727,23 @@ Council of the Baltic Sea States:
   Name_uk: Рада держав Балтійського моря
   Name_zh: 波罗的海国家理事会
   Website: https://cbss.org/
+  Name_ar: مجلس دول بحر البلطيق
+  Name_da: Østersørådet
+  Name_el: Συμβούλιο των Χωρών της Βαλτικής Θάλασσας
+  Name_et: Läänemeremaade Nõukogu
+  Name_fi: Itämeren valtioiden neuvosto
+  Name_ga: Comhairle Stáit Mhuir Bhailt
+  Name_hu: Balti-tengeri Tanács
+  Name_is: Eystrasaltsráðið
+  Name_it: Consiglio degli Stati del mar Baltico
+  Name_ja: バルト海諸国理事会
+  Name_ko: 발트해 국가 이사회
+  Name_lt: Baltijos jūros valstybių taryba
+  Name_nl: Oostzeeraad
+  Name_pl: Rada Państw Morza Bałtyckiego
+  Name_ro: Consiliul Statelor de la Marea Baltică
+  Name_sv: Östersjöstaternas råd
+  Name_tr: Baltık Denizi Devletleri Konseyi
 Secretariat of the Central European Free Trade Agreement:
   SPRVD_id: SPRVD0717102
   Wikidata_code: '[No code found.]'
@@ -8305,6 +8851,7 @@ ECOWAS Parliament:
   Name_pt: Parlamento da CEDEAO
   Name_zh: 西非国家经济共同体议会
   Website: https://www.parl.ecowas.int/
+  Name_pl: Parlament ECOWAS
 Caribbean Disaster Emergency Management Agency:
   SPRVD_id: SPRVD0279709
   Wikidata_code: Q5039374
@@ -9108,6 +9655,7 @@ Tourism Ireland:
   Year_established: 1999
   Name_zh: 愛爾蘭旅遊局
   Website: https://www.ireland.com
+  Name_id: Tourism Ireland
 Waterways Ireland:
   SPRVD_id: SPRVD0738421
   Entity_type: International organisation
@@ -9162,6 +9710,7 @@ Coalition for Disaster Resilient Infrastructure:
   LEI_bic: null
   Name_zh: 抗灾基础设施联盟
   Website: http://cdri.world
+  Name_ar: تحالف من أجل بنية تحتية مقاومة للكوارث
 Arab League:
   SPRVD_id: SPRVD0441736
   Wikidata_code: Q7172
@@ -9725,6 +10274,30 @@ International Court of Justice:
   Name_uk: Міжнародний суд
   Name_zh: 国际法院
   Website: https://icj-cij.org/ar
+  Name_ar: محكمة العدل الدولية
+  Name_bn: আন্তর্জাতিক ন্যায়বিচার আদালত
+  Name_cy: Llys Cyfiawnder Rhyngwladol
+  Name_da: Den Internationale Domstol
+  Name_el: Διεθνές Δικαστήριο της Χάγης
+  Name_et: Rahvusvaheline Kohus
+  Name_fi: Kansainvälinen tuomioistuin
+  Name_ga: an Chúirt Bhreithiúnais Idirnáisiúnta
+  Name_he: בית הדין הבינלאומי לצדק
+  Name_hi: अंतर्राष्ट्रीय न्यायालय
+  Name_hu: Nemzetközi Bíróság
+  Name_id: Mahkamah Internasional
+  Name_is: Alþjóðadómstóllinn
+  Name_it: Corte internazionale di giustizia
+  Name_ja: 国際司法裁判所
+  Name_ko: 국제사법재판소
+  Name_lt: Tarptautinis Teisingumo Teismas
+  Name_nl: Internationaal Gerechtshof
+  Name_pl: Międzynarodowy Trybunał Sprawiedliwości
+  Name_ro: Curtea Internațională de Justiție
+  Name_sv: Internationella domstolen
+  Name_sw: Mahakama Kuu ya Kimataifa
+  Name_tr: Uluslararası Adalet Divanı
+  Name_ur: بین الاقوامی عدالت انصاف
 Food and Agriculture Organization:
   SPRVD_id: SPRVD0646093
   Entity_type: International organisation
@@ -9760,6 +10333,30 @@ Food and Agriculture Organization:
   Name_uk: Продовольча та сільськогосподарська організація ООН
   Name_zh: 联合国粮食及农业组织
   Website: https://www.fao.org
+  Name_ar: منظمة الأغذية والزراعة
+  Name_bn: খাদ্য ও কৃষি সংস্থা
+  Name_cy: Food and Agriculture Organization
+  Name_da: FAO
+  Name_el: Διεθνής Οργάνωση Τροφίμων και Γεωργίας
+  Name_et: ÜRO Toidu- ja Põllumajandusorganisatsioon
+  Name_fi: Yhdistyneiden kansakuntien elintarvike- ja maatalousjärjestö
+  Name_ga: An Eagraíocht Bhia agus Talmhaíochta
+  Name_he: ארגון המזון והחקלאות
+  Name_hi: संयुक्त राष्ट्र खाद्य एवं कृषि संगठन
+  Name_hu: Élelmezésügyi és Mezőgazdasági Világszervezet
+  Name_id: Organisasi Pangan dan Pertanian
+  Name_is: Matvæla- og landbúnaðarstofnun Sameinuðu þjóðanna
+  Name_it: Organizzazione delle Nazioni Unite per l'alimentazione e l'agricoltura
+  Name_ja: 国際連合食糧農業機関
+  Name_ko: 식량 농업 기구
+  Name_lt: Jungtinių Tautų maisto ir žemės ūkio organizacija
+  Name_nl: Voedsel- en Landbouworganisatie
+  Name_pl: Organizacja Narodów Zjednoczonych do spraw Wyżywienia i Rolnictwa
+  Name_ro: Organizația pentru Alimentație și Agricultură
+  Name_sv: FN:s livsmedels- och jordbruksorganisation
+  Name_sw: Shirika la Chakula na Kilimo la Umoja wa Mataifa
+  Name_tr: Birleşmiş Milletler Gıda ve Tarım Örgütü
+  Name_ur: ادارہ برائے خوراک و زراعت
 International Bank for Reconstruction and Development:
   SPRVD_id: SPRVD0614040
   Entity_type: International organisation
@@ -9923,6 +10520,20 @@ United Nations Children’s Fund:
   Name_uk: ЮНІСЕФ
   Name_zh: 联合国儿童基金会
   Website: https://www.unicef.org/
+  Name_ar: يونيسف
+  Name_bn: ইউনিসেফ
+  Name_fi: Unicef
+  Name_he: קרן החירום הבין-לאומית של האומות המאוחדות לילדים
+  Name_hi: यूनिसेफ
+  Name_id: Dana Anak-anak Perserikatan Bangsa-Bangsa
+  Name_is: Barnahjálp Sameinuðu þjóðanna
+  Name_it: Fondo delle Nazioni Unite per l'infanzia
+  Name_ja: 国際連合児童基金
+  Name_ko: 유니세프
+  Name_lt: Jungtinių Tautų Vaikų fondas
+  Name_ro: UNICEF
+  Name_sv: Unicef
+  Name_ur: یونیسف
 United Nations Development Programme:
   SPRVD_id: SPRVD0502943
   Entity_type: International organisation
@@ -10173,6 +10784,29 @@ World Health Organization:
   Name_uk: Всесвітня організація охорони здоров’я
   Name_zh: 世界卫生组织
   Website: https://www.who.int
+  Name_ar: منظمة الصحة العالمية
+  Name_bn: বিশ্ব স্বাস্থ্য সংস্থা
+  Name_cy: Cyfundrefn Iechyd y Byd
+  Name_el: Παγκόσμιος Οργανισμός Υγείας
+  Name_et: Maailma Terviseorganisatsioon
+  Name_fi: Maailman terveysjärjestö
+  Name_ga: an Eagraíocht Dhomhanda Sláinte
+  Name_he: ארגון הבריאות העולמי
+  Name_hi: विश्व स्वास्थ्य संगठन
+  Name_hu: Egészségügyi Világszervezet
+  Name_id: Organisasi Kesehatan Dunia
+  Name_is: Alþjóðaheilbrigðismálastofnunin
+  Name_it: Organizzazione Mondiale della Sanità
+  Name_ja: 世界保健機関
+  Name_ko: 세계보건기구
+  Name_lt: Pasaulio sveikatos organizacija
+  Name_nl: Wereldgezondheidsorganisatie
+  Name_pl: Światowa Organizacja Zdrowia
+  Name_ro: Organizația Mondială a Sănătății
+  Name_sv: Världshälsoorganisationen
+  Name_sw: Shirika la Afya Duniani
+  Name_tr: Dünya Sağlık Örgütü
+  Name_ur: عالمی ادارہ صحت
 World Intellectual Property Organization:
   SPRVD_id: SPRVD0361104
   Entity_type: International organisation
@@ -10269,6 +10903,30 @@ United Nations Educational, Scientific and Cultural Organization:
   Name_uk: ЮНЕСКО
   Name_zh: 联合国教育、科学及文化组织
   Website: https://ar.unesco.org
+  Name_ar: يونسكو
+  Name_bn: জাতিসংঘ শিক্ষা, বিজ্ঞান ও সংস্কৃতি সংস্থা
+  Name_cy: UNESCO
+  Name_da: UNESCO
+  Name_el: UNESCO
+  Name_et: Ühinenud Rahvaste Hariduse, Teaduse ja Kultuuri Organisatsioon
+  Name_fi: Unesco
+  Name_ga: EOECNA
+  Name_he: אונסק"ו
+  Name_hi: संयुक्त राष्ट्र शैक्षिक, वैज्ञानिक और सांस्कृतिक संगठन
+  Name_hu: UNESCO
+  Name_id: Organisasi Pendidikan, Keilmuan, dan Kebudayaan PBB
+  Name_is: Mennta-, vísinda- og menningarstofnun Sameinuðu þjóðanna
+  Name_it: UNESCO
+  Name_ja: 国際連合教育科学文化機関
+  Name_ko: 유네스코
+  Name_lt: UNESCO
+  Name_nl: UNESCO
+  Name_pl: UNESCO
+  Name_ro: UNESCO
+  Name_sv: Unesco
+  Name_sw: UNESCO
+  Name_tr: UNESCO
+  Name_ur: یونیسکو
 International Labour Organization:
   SPRVD_id: SPRVD0372703
   Entity_type: International organisation
@@ -10358,6 +11016,30 @@ International Monetary Fund:
   Name_uk: Міжнародний валютний фонд
   Name_zh: 國際貨幣基金組織
   Website: https://www.imf.org/
+  Name_ar: صندوق النقد الدولي
+  Name_bn: আন্তর্জাতিক মুদ্রা তহবিল
+  Name_cy: Cronfa Ariannol Ryngwladol
+  Name_da: Internationale Valutafond
+  Name_el: Διεθνές Νομισματικό Ταμείο
+  Name_et: Rahvusvaheline Valuutafond
+  Name_fi: Kansainvälinen valuuttarahasto
+  Name_ga: an Ciste Airgeadaíochta Idirnáisiúnta
+  Name_he: קרן המטבע הבין-לאומית
+  Name_hi: अन्तर्राष्ट्रीय मुद्रा कोष
+  Name_hu: Nemzetközi Valutaalap
+  Name_id: Dana Moneter Internasional
+  Name_is: Alþjóðagjaldeyrissjóðurinn
+  Name_it: Fondo Monetario Internazionale
+  Name_ja: 国際通貨基金
+  Name_ko: 국제 통화 기금
+  Name_lt: Tarptautinis valiutos fondas
+  Name_nl: Internationaal Monetair Fonds
+  Name_pl: Międzynarodowy Fundusz Walutowy
+  Name_ro: Fondul Monetar Internațional
+  Name_sv: Internationella valutafonden
+  Name_sw: IMF
+  Name_tr: Uluslararası Para Fonu
+  Name_ur: بین الاقوامی مالیاتی فنڈ
 International Atomic Energy Agency:
   SPRVD_id: SPRVD0243685
   Entity_type: International organisation
@@ -10857,6 +11539,28 @@ Organisation for the Prohibition of Chemical Weapons:
   Name_uk: Організація із заборони хімічної зброї
   Name_zh: 禁止化學武器組織
   Website: https://www.opcw.org/
+  Name_ar: منظمة حظر الأسلحة الكيميائية
+  Name_bn: আন্তর্জাতিক রাসায়নিক অস্ত্র নিরস্ত্রীকরণ সংস্থা
+  Name_da: Organisationen for forbud mod kemiske våben
+  Name_el: Οργανισμός για την Απαγόρευση Χρήσης Χημικών Όπλων
+  Name_et: Keemiarelvade Keelustamise Organisatsioon
+  Name_fi: Kemiallisten aseiden kieltojärjestö
+  Name_ga: Eagraíocht um Thoirmeasc ar Airm Cheimiceacha
+  Name_he: הארגון למניעת הפצת נשק כימי
+  Name_hi: रासायनिक हथियार निषेध संगठन
+  Name_hu: Vegyifegyver-tilalmi Szervezet
+  Name_id: Organisasi Pelarangan Senjata Kimia
+  Name_is: Stofnunin um bann við efnavopnum
+  Name_it: Organizzazione per la proibizione delle armi chimiche
+  Name_ja: 化学兵器禁止機関
+  Name_ko: 화학 무기 금지 기구
+  Name_lt: Cheminio ginklo draudimo organizacija
+  Name_nl: Organisatie voor het Verbod op Chemische Wapens
+  Name_pl: Organizacja ds. Zakazu Broni Chemicznej
+  Name_ro: Organizația pentru Interzicerea Armelor Chimice
+  Name_sv: Organisationen för förbud mot kemiska vapen
+  Name_tr: Kimyasal Silahların Yasaklanması Örgütü
+  Name_ur: تنظیم برائے ممانعت کیمیائی ہتھیار
 United Nations Interregional Crime and Justice Research Institute:
   SPRVD_id: SPRVD0258162
   Entity_type: International organisation
@@ -10903,6 +11607,12 @@ United Nations Research Institute For Social Development:
   Name_uk: Науково-дослідницький інститут соціального розвитку Організації об'єднаних націй
   Name_zh: 聯合國社會發展研究所
   Website: http://www.unrisd.org/
+  Name_ar: معهد الأمم المتحدة لبحوث التنمية الاجتماعية
+  Name_it: Istituto di ricerca delle Nazioni Unite per lo sviluppo sociale
+  Name_ja: 国連社会開発研究所
+  Name_nl: United Nations Research Institute For Social Development
+  Name_pl: UNRISD
+  Name_sw: UNRISD
 United Nations Institute for Disarmament Research:
   SPRVD_id: SPRVD0318661
   Entity_type: International organisation
@@ -11113,6 +11823,29 @@ United Nations Relief and Works Agency for Palestine Refugees in the Near East:
   Name_uk: Агентство ООН для допомоги палестинським біженцям і організації робіт на Близькому Сході
   Name_zh: 聯合國近東巴勒斯坦難民救濟和工程處
   Website: https://unrwa.org
+  Name_ar: وكالة الأمم المتحدة لإغاثة وتشغيل اللاجئين الفلسطينيين
+  Name_bn: নিকট প্রাচ্যে ফিলিস্তিনিদের জন্য জাতিসংঘের ত্রাণ ও কর্মসংস্থান সংস্থা
+  Name_cy: UNRWA
+  Name_da: FNs hjælpeorganisation for palæstinensiske flygtninge i Mellemøsten
+  Name_el: Υπηρεσία Αρωγής και Έργων του ΟΗΕ για τους Παλαιστινίους Πρόσφυγες στην Εγγύς Ανατολή
+  Name_et: ÜRO Palestiina pagulaste abiorganisatsioon
+  Name_fi: UNRWA
+  Name_ga: Áisíneacht na Náisiún Aontaithe ar son Theifigh na Palaistíne
+  Name_he: אונר"א
+  Name_hi: यूएनआरडब्लूए
+  Name_hu: UNRWA
+  Name_id: United Nations Relief and Works Agency for Palestine Refugees in the Near East
+  Name_it: UNRWA
+  Name_ja: 国際連合パレスチナ難民救済事業機関
+  Name_ko: 유엔 팔레스타인 난민 구호 사업 기구
+  Name_lt: UNRWA
+  Name_nl: United Nations Relief and Works Agency for Palestine Refugees in the Near East
+  Name_pl: UNRWA
+  Name_ro: UNRWA
+  Name_sv: FN:s hjälporganisation för Palestinaflyktingar
+  Name_sw: UNRWA
+  Name_tr: Birleşmiş Milletler Yakındoğu Filistin Mültecilerine Yardım Ajansı
+  Name_ur: اقوام متحدہ کی ریلیف اینڈ ورکس ایجنسی
 World Trade Organization:
   SPRVD_id: SPRVD0393191
   Entity_type: International organisation
@@ -11138,6 +11871,29 @@ World Trade Organization:
   Name_uk: Світова організація торгівлі
   Name_zh: 世界贸易组织
   Website: https://wto.org
+  Name_ar: منظمة التجارة العالمية
+  Name_bn: বিশ্ব বাণিজ্য সংস্থা
+  Name_cy: Cyfundrefn Masnach y Byd
+  Name_el: Παγκόσμιος Οργανισμός Εμπορίου
+  Name_et: Maailma Kaubandusorganisatsioon
+  Name_fi: Maailman kauppajärjestö
+  Name_ga: An Eagraíocht Dhomhanda Trádála
+  Name_he: ארגון הסחר העולמי
+  Name_hi: विश्व व्यापार संगठन
+  Name_hu: Kereskedelmi Világszervezet
+  Name_id: Organisasi Perdagangan Dunia
+  Name_is: Alþjóðaviðskiptastofnunin
+  Name_it: Organizzazione mondiale del commercio
+  Name_ja: 世界貿易機関
+  Name_ko: 세계무역기구
+  Name_lt: Pasaulio Prekybos Organizacija
+  Name_nl: Wereldhandelsorganisatie
+  Name_pl: Światowa Organizacja Handlu
+  Name_ro: Organizația Mondială a Comerțului
+  Name_sv: Världshandelsorganisationen
+  Name_sw: Shirika la Biashara Duniani
+  Name_tr: Dünya Ticaret Örgütü
+  Name_ur: عالمی تجارتی ادارہ
 United Nations Institute for Training and Research:
   SPRVD_id: SPRVD0100345
   Entity_type: International organisation
@@ -11893,6 +12649,9 @@ International Centre for Synchrotron-Light for Experimental Science Applications
   Name_de: SESAME
   Name_ru: SESAME
   Website: http://www.sesame.org.jo/
+  Name_ar: المسرع الضوئي الخاص بأبحاث العلوم التجريبية والتطبيقية في الشرق الأوسط
+  Name_he: ססמי- סינכרוטרון האור למדע ניסויי ויישומי במזרח התיכון
+  Name_ro: SESAME
 Central American Parliament:
   SPRVD_id: SPRVD0122656
   Entity_type: International organisation
@@ -12210,6 +12969,19 @@ European Institute of Innovation and Technology:
   Name_pt: Instituto Europeu da Inovação e da Tecnologia
   Name_zh: 歐洲創新及技術院
   Website: https://www.eit.europa.eu/
+  Name_ar: المعهد الأوروبي للابتكار والتكنولوجيا
+  Name_et: Euroopa Innovatsiooni- ja Tehnoloogiainstituut
+  Name_fi: Euroopan teknologiainstituutti
+  Name_ga: an Institiúid Eorpach um Nuálaíocht agus Teicneolaíocht
+  Name_hu: Európai Innovációs és Technológiai Intézet
+  Name_id: Institut Inovasi dan Teknologi Eropa
+  Name_it: Istituto Europeo per l'Innovazione e la Tecnologia
+  Name_ja: 欧州工科大学院
+  Name_ko: 유럽 공과 대학
+  Name_nl: Europees Instituut voor innovatie en technologie
+  Name_pl: Europejski Instytut Innowacji i Technologii
+  Name_ro: Institutul European de Inovare și Tehnologie
+  Name_sv: European Institute of Innovation and Technology
 Latin American Association of Development Financing Institutions:
   SPRVD_id: SPRVD0226017
   Entity_type: International organisation
