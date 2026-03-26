@@ -21,7 +21,7 @@
 * EU institutions and bodies (79 entities)
 * Eurasian Economic Union entities (3 entities)
 * Mercosur entities (3 entities)
-* none (252 entities)
+* none (253 entities)
 * Nordic Council entities (5 entities)
 * North South bodies (9 entities)
 * OAS institutions and bodies (12 entities)
