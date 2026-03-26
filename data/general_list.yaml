@@ -3003,6 +3003,7 @@ North-East Atlantic Fisheries Commission:
   Org_family: none
   Country: ZZ
   Name_en: North-East Atlantic Fisheries Commission
+  Name_other_en: North East Atlantic Fisheries Commission
   Abbreviation_en: NEAFC
   Treaty_url: https://www.neafc.org/system/files/Text-of-NEAFC-Convention-04.pdf
   Name_fr: North East Atlantic Fishery Commission
@@ -4892,27 +4893,6 @@ Northwest Atlantic Fisheries Organization:
   Name_de: Nordwestatlantische Fischereiorganisation
   Name_zh: 西北大西洋渔业组织
   Website: https://www.nafo.int
-Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organisation:
-  SPRVD_id: SPRVD0865214
-  Wikidata_code: Q15211422
-  Entity_type: International organisation
-  Org_family: none
-  Country: ZZ
-  Name_en: Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organisation
-  Abbreviation_en: null
-  Treaty_url: https://www.ctbto.org/sites/default/files/2022-10/Resolution_English_3.pdf
-  Name_fr: Groupe des fournisseurs nucléaires
-  Name_es: Grupo de abastecedores nucleares
-  OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
-  Year_established: 1996
-  Headquarters: Vienna International Centre, Austria
-  Name_de: Vorbereitungskommission der Organisation des Vertrags über das umfassende Verbot von Nuklearversuchen
-  Name_ru: Подготовительная комиссия Организации Договора о всеобъемлющем запрещении ядерных испытаний
-  Name_uk: Підготовча комісія Організації Договору про всеосяжну заборону ядерних випробувань
-  Name_zh: 全面禁止核試驗條約組織籌備委員會
-  Website: http://www.ctbto.org/
 Association of Caribbean States:
   SPRVD_id: SPRVD0767624
   Wikidata_code: Q1147937
@@ -5031,23 +5011,6 @@ Commission for the Conservation of Southern Bluefin Tuna:
   Headquarters: Canberra, Australia
   Name_zh: 南方蓝鳍金枪鱼养护委员会
   Website: http://www.ccsbt.org/
-North East Atlantic Fisheries Commission:
-  SPRVD_id: SPRVD0719755
-  Wikidata_code: Q15106130
-  Entity_type: International organisation
-  Org_family: none
-  Country: ZZ
-  Name_en: North East Atlantic Fisheries Commission
-  Abbreviation_en: null
-  Treaty_url: https://www.neafc.org/system/files/Text-of-NEAFC-Convention-04.pdf
-  Name_fr: North East Atlantic Fishery Commission
-  OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
-  Year_established: 1980
-  Name_de: North East Atlantic Fishery Commission
-  Name_zh: 东北大西洋渔业委员会
-  Website: http://www.neafc.org/
 North Atlantic Marine Mammal Commission:
   SPRVD_id: SPRVD0973353
   Wikidata_code: Q3076178
@@ -5285,29 +5248,6 @@ Intergovernmental Organisation for International Carriage by Rail:
   Name_uk: Міжурядова організація з міжнародних залізничних перевезень
   Name_zh: 国际铁路货物运输政府间组织
   Website: http://www.otif.org/
-Organization for the Prohibition of Chemical Weapons:
-  SPRVD_id: SPRVD0449990
-  Wikidata_code: Q842490
-  Entity_type: International organisation
-  Org_family: none
-  Country: ZZ
-  Name_en: Organization for the Prohibition of Chemical Weapons
-  Abbreviation_en: null
-  Treaty_url: https://www.opcw.org/sites/default/files/documents/CWC/CWC_en.pdf
-  Immunity_url: https://www.opcw.org/sites/default/files/documents/CSP/C-I/en/C-I_DEC.59-EN.pdf
-  Name_fr: Organisation pour l'interdiction des armes chimiques
-  Name_es: Organización para la Prohibición de Armas Químicas
-  OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B22
-  Year_established: 1997
-  Headquarters: The Hague, Netherlands
-  Name_de: Organisation für das Verbot chemischer Waffen
-  Name_pt: Organização para a Proibição de Armas Químicas
-  Name_ru: Организация по запрещению химического оружия
-  Name_uk: Організація із заборони хімічної зброї
-  Name_zh: 禁止化學武器組織
-  Website: https://www.opcw.org/
 International Union for the Protection of New Varieties of Plants:
   SPRVD_id: SPRVD0525440
   Wikidata_code: Q690318
@@ -10504,6 +10444,8 @@ Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organizatio
   Abbreviation_en: CTBTO
   Abbreviation_fr: null
   Name_other_en: Comprehensive Nuclear-Test-Ban Treaty Organization Preparatory Commission
+  Name_other_2_en: Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organisation
+  Treaty_url: https://www.ctbto.org/sites/default/files/2022-10/Resolution_English_3.pdf
   Source: https://www.un.org/en/about-us/specialized-agencies
   OpenSanctions_id: '[No code found.]'
   Name_es: Comisión Preparatoria del Tratado de Prohibición Completa de los Ensayos Nucleares
@@ -10851,7 +10793,9 @@ Organisation for the Prohibition of Chemical Weapons:
   Name_fr: Organisation pour l'interdiction des armes chimiques
   Abbreviation_en: OPCW
   Abbreviation_fr: null
-  Name_other_en: null
+  Name_other_en: Organization for the Prohibition of Chemical Weapons
+  Treaty_url: https://www.opcw.org/sites/default/files/documents/CWC/CWC_en.pdf
+  Immunity_url: https://www.opcw.org/sites/default/files/documents/CSP/C-I/en/C-I_DEC.59-EN.pdf
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   OpenSanctions_id: '[No code found.]'
   Name_es: Organización para la Prohibición de Armas Químicas
