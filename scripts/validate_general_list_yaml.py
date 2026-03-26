@@ -228,6 +228,53 @@ def validate_source_requirements(
     return violations
 
 
+def immunity_url_is_populated(record_value: dict[str, Any]) -> bool:
+    # Support both canonical and lower-case key variants.
+    if "Immunity_url" in record_value:
+        raw = record_value.get("Immunity_url")
+    elif "immunity_url" in record_value:
+        raw = record_value.get("immunity_url")
+    else:
+        return False
+
+    if raw is None:
+        return False
+    if isinstance(raw, str):
+        return len(raw.strip()) >= 6
+    return len(str(raw).strip()) >= 6
+
+
+def validate_basis_immunity_consistency(
+    record: str, record_value: dict[str, Any]
+) -> list[Violation]:
+    violations: list[Violation] = []
+    basis = record_value.get("Basis_for_assessment")
+    if not isinstance(basis, str):
+        return violations
+
+    basis_norm = basis.strip().upper()
+    has_immunity = immunity_url_is_populated(record_value)
+
+    if basis_norm == "B22" and not has_immunity:
+        violations.append(
+            Violation(
+                record,
+                "Basis_for_assessment",
+                "B22 requires populated Immunity_url (minimum trimmed length 6)",
+            )
+        )
+    elif basis_norm == "B40" and has_immunity:
+        violations.append(
+            Violation(
+                record,
+                "Basis_for_assessment",
+                "B40 requires Immunity_url to be unpopulated",
+            )
+        )
+
+    return violations
+
+
 def parse_bool(value: Any) -> bool:
     if isinstance(value, bool):
         return value
@@ -709,6 +756,7 @@ def main() -> int:
         violations.extend(validate_required_fields(str(record_name), record_value, required_fields))
         violations.extend(validate_source_requirements(str(record_name), record_value, source_required_for))
         violations.extend(validate_required_variants(str(record_name), record_value, required_variants))
+        violations.extend(validate_basis_immunity_consistency(str(record_name), record_value))
 
         for key, value in record_value.items():
             key_str = str(key)
