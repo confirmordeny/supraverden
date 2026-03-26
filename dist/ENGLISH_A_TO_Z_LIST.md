@@ -360,7 +360,7 @@
 - International Centre for Migration Policy Development
 - International Centre for Settlement of Investment Disputes
 - International Centre for Synchrotron-Light for Experimental Science Applications in the Middle East
-- International Centre for the Study of the Preservation and the Restoration of Cultural Property
+- International Centre for the Study of the Preservation and Restoration of Cultural Property
 - International Civil Aviation Organization
 - International Civil Defence Organization
 - International Cocoa Organization
@@ -435,7 +435,7 @@
 - International Telecommunications Satellite Organisation
 - International Trade Centre
 - International Tribunal for the Law of the Sea
-- International Tropical Timber Organisation
+- International Tropical Timber Organization
 - International Union for Conservation of Nature and Natural Resources
 - International Union for the Protection of New Varieties of Plants
 - International Vaccine Institute
@@ -688,6 +688,7 @@
 - World Meteorological Organization
 - World Organisation for Animal Health
 - World Trade Organization
+- World Vegetable Center
 
 [↑ Back to Top](#top)
 

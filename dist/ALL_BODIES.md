@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 576 international organisations in the table.
+There are currently 577 international organisations in the table.
 
 | English Name | Wikidata Code | OpenSanctions | Family | Source |
 |---|---|---|---|---|
@@ -316,7 +316,7 @@ There are currently 576 international organisations in the table.
 | International Centre for Migration Policy Development | [Q498496](https://www.wikidata.org/wiki/Q498496) | [No code found.] | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%203132/v3132.pdf) |
 | International Centre for Settlement of Investment Disputes | [Q899770](https://www.wikidata.org/wiki/Q899770) | [No code found.] | World Bank Group entities | [Treaty](https://icsid.worldbank.org/sites/default/files/documents/ICSID_Convention.pdf) |
 | International Centre for Synchrotron-Light for Experimental Science Applications in the Middle East | [Q749440](https://www.wikidata.org/wiki/Q749440) | [No code found.] | none | [Treaty](https://www.sesame.org.jo/about-us/governing-document) |
-| International Centre for the Study of the Preservation and the Restoration of Cultural Property | [Q590182](https://www.wikidata.org/wiki/Q590182) | [No code found.] | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201321/volume-1321-I-22032-English.pdf) |
+| International Centre for the Study of the Preservation and Restoration of Cultural Property | [Q590182](https://www.wikidata.org/wiki/Q590182) | [No code found.] | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201321/volume-1321-I-22032-English.pdf) |
 | International Civil Aviation Organization | [Q125761](https://www.wikidata.org/wiki/Q125761) | [No code found.] | UN and affiliates | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
 | International Civil Defence Organization | [Q162656](https://www.wikidata.org/wiki/Q162656) | [No code found.] | none | [Treaty](https://icdo.org/files/documents/constitution/icdo_constitution_en.pdf) |
 | International Cocoa Organization | [Q1667326](https://www.wikidata.org/wiki/Q1667326) | [No code found.] | none | [Treaty](https://www.icco.org/wp-content/uploads/2019/06/ICA-1986-English.pdf) |
@@ -391,7 +391,7 @@ There are currently 576 international organisations in the table.
 | International Telecommunications Satellite Organisation | [Q15546770](https://www.wikidata.org/wiki/Q15546770) | [No code found.] | none | [Treaty](https://itso.int/wp-content/uploads/2018/01/ITSO-Agreement-Booklet-new-version-FINAL-EnFrEs.pdf) |
 | International Trade Centre | [Q1184878](https://www.wikidata.org/wiki/Q1184878) | [No code found.] | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | International Tribunal for the Law of the Sea | [Q639118](https://www.wikidata.org/wiki/Q639118) | [No code found.] | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
-| International Tropical Timber Organisation | [Q869610](https://www.wikidata.org/wiki/Q869610) | [No code found.] | none | [Treaty](https://www.itto.int/direct/topics/topics_pdf_download/topics_id=3363&no=1&disp=inline) |
+| International Tropical Timber Organization | [Q869610](https://www.wikidata.org/wiki/Q869610) | [No code found.] | none | [Treaty](https://www.itto.int/direct/topics/topics_pdf_download/topics_id=3363&no=1&disp=inline) |
 | International Union for Conservation of Nature and Natural Resources | [Q48268](https://www.wikidata.org/wiki/Q48268) | [No code found.] | none | [Treaty](https://portals.iucn.org/library/sites/library/files/documents/2024-019-En.pdf) |
 | International Union for the Protection of New Varieties of Plants | [Q690318](https://www.wikidata.org/wiki/Q690318) | [No code found.] | none | [Treaty](https://www.upov.int/edocs/pubdocs/en/upov_pub_221.pdf) |
 | International Vaccine Institute | [Q6054186](https://www.wikidata.org/wiki/Q6054186) | [No code found.] | none | [Treaty](https://www.ivi.int/wp-content/uploads/2022/03/IVI_Est_Agreement__Constitution_amended-_English.pdf) |
@@ -579,4 +579,5 @@ There are currently 576 international organisations in the table.
 | World Meteorological Organization | [Q170424](https://www.wikidata.org/wiki/Q170424) | [No code found.] | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
 | World Organisation for Animal Health | [Q1058594](https://www.wikidata.org/wiki/Q1058594) | [No code found.] | none | [Treaty](https://api.parliament.uk/uk-treaties/treaties/8880) |
 | World Trade Organization | [Q7825](https://www.wikidata.org/wiki/Q7825) | [No code found.] | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
+| World Vegetable Center | [Q8036391](https://www.wikidata.org/wiki/Q8036391) | [No code found.] | none | [Treaty](https://avrdc.org/download/about_worldveg/Charter-2023-05-08-version_2.pdf) |
 | Zambezi Watercourse Commission | [Q8065663](https://www.wikidata.org/wiki/Q8065663) | [No code found.] | none | [Treaty](https://www.zambezicommission.org/sites/default/files/clusters_pdfs/ZAMCOM%20agreement.pdf) |
