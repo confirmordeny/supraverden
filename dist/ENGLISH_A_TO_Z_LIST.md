@@ -558,7 +558,7 @@
 - Pacific Tourism Organisation
 - Pan African Postal Union
 - Pan American Health Organization
-- Pan‐American Institute of Geography and History
+- Pan American Institute of Geography and History
 - Parliamentary Assembly of the Mediterranean
 - Parliamentary Assembly of Turkic States
 - Permanent Court of Arbitration
