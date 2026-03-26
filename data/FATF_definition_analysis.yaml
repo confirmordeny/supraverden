@@ -85,7 +85,9 @@ B21:
 B22:
   Basis_text: "The FATF definition of International organisations refers to entities established by international treaties 
    that are not treated as resident institutional units of the countries in which they are located. [R1.1][R2.1] For this reason, organisations
-   formed by treaty have been assessed as meeting the definition in almost all cases. This is an area where the database is still being refined and some entities may need to be reclassified"
+   formed by treaty have been assessed as meeting the definition in almost all cases. B22 which is used in cases where a 
+   source has been found to show that the organisation has immunities and privileges. See also B40 which is used for organisations
+   established by treaties but for which no source has yet been identified to show that the organisation has immunities and privileges."
 
 B23:
   Basis_text: "The FATF definition of International organisations includes institutions of the European Union in the examples.[R1.1][R2.1]
@@ -224,3 +226,10 @@ Basis_text: "The FATF definition of International organisations refers to entiti
  The International Pepper Community states on its website that its secretariat is regulated by the government 
  of Indonesia.[R11] Accordingly, the International Pepper Community has been assessed as not meeting the FATF definition 
  of International organisation."
+
+B40:
+Basis_text: "The FATF definition of International organisations refers to entities established by international treaties 
+ that are not treated as resident institutional units of the countries in which they are located. [R1.1][R2.1] For this reason, organisations
+ formed by treaty have been assessed as meeting the definition in almost all cases. This is an area where the database is still being refined and 
+ some entities may need to be reclassified. See also B22 which is used in cases where a source has been found to show that the 
+ organisation has immunities and privileges."
