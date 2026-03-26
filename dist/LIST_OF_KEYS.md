@@ -20,13 +20,37 @@
 * LEI_legal_form
 * LEI_status
 * Name
+  * ar
+  * bn
+  * cy
+  * da
   * de
+  * el
   * en
   * es
+  * et
+  * fi
   * fr
+  * ga
+  * he
+  * hi
+  * hu
+  * id
+  * is
+  * it
+  * ja
+  * ko
+  * lt
+  * nl
+  * pl
   * pt
+  * ro
   * ru
+  * sv
+  * sw
+  * tr
   * uk
+  * ur
   * zh
 * Name_former
   * en
