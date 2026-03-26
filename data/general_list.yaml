@@ -11944,7 +11944,6 @@ United Nations System Staff College:
   Name_fr: null
   Abbreviation_en: UNSSC
   Abbreviation_fr: null
-  Name_other_en: UN System Staff College
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Escuela Superior del Personal del Sistema de las Naciones Unidas
   OpenSanctions_id: '[No code found.]'
@@ -13021,16 +13020,24 @@ World Vegetable Center:
   Entity_type: International organisation
   Wikidata_code: Q8036391
   Org_family: none
-  Type: 
+  Type: null
   Country: ZZ
   Name_en: World Vegetable Center
-  Name_other_en:
+  Name_other_en: null
   Name_former_en: Asian Vegetable Research and Development Center
-  Abbreviation_en: 
+  Abbreviation_en: null
   Abbreviation_former_en: AVRDC
   Treaty_url: https://avrdc.org/download/about_worldveg/Charter-2023-05-08-version_2.pdf
   Immunity_url: https://cgspace.cgiar.org/server/api/core/bitstreams/a173816c-dbe9-4666-9ddb-955f59fb79c0/content
-  Source:
+  Source: null
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Name_fr: World Vegetable Center
+  Name_de: Asian Vegetable Research and Development Center
+  Name_hi: विश्व सब्जी केन्द्र
+  Name_id: Pusat Sayuran Dunia
+  Name_ja: 世界蔬菜センター
+  Name_ru: Всемирный центр овощеводства
+  Name_zh: 亞蔬—世界蔬菜中心
+  Website: https://avrdc.org/
