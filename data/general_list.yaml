@@ -502,7 +502,7 @@ Agency for Support for BEREC:
   Country: EU
   Name_en: Agency for Support for BEREC
   Abbreviation_en: BEREC Office
-  Name_other_en: BEREC Office
+  Name_other_en: null
   Type: EU decentralised agency
   Immunity_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1971
   Source: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
@@ -1812,6 +1812,7 @@ Council of Europe:
   Org_family: Council of Europe entities
   Country: ZZ
   Name_en: Council of Europe
+  Name_other_en: COE
   Abbreviation_en: null
   Treaty_url: https://rm.coe.int/1680a1c6b3
   OpenSanctions_id: '[No code found.]'
@@ -2001,6 +2002,7 @@ Organization of American States:
   Org_family: OAS institutions and bodies
   Country: ZZ
   Name_en: Organization of American States
+  Name_other_en: null
   Name_es: Organización de los Estados Americanos
   Name_fr: Organisation des États américains
   Name_former_en: Pan-American Union
@@ -2159,6 +2161,7 @@ Administrative Tribunal of the Organization of American States:
   Org_family: OAS institutions and bodies
   Country: ZZ
   Name_en: Administrative Tribunal of the Organization of American States
+  Name_other_en: Administrative Tribunal of the OAS
   Source: https://www.oas.org/ext/Portals/31/documents/Statute%20of%20the%20Administrative%20Tribunal%20I.pdf
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
@@ -2314,6 +2317,7 @@ Caribbean Community:
   Org_family: Caribbean Community entities
   Country: ZZ
   Name_en: Caribbean Community
+  Name_other_en: CARICOM
   Name_former_en: Caribbean Community and Common Market
   Abbreviation_en: Caricom
   Treaty_url: https://researchbriefings.files.parliament.uk/documents/CBP-7376/CBP-7376.pdf
@@ -2361,6 +2365,7 @@ Caribbean Community Implementation Agency for Crime and Security:
   Org_family: Caribbean Community entities
   Country: ZZ
   Name_en: Caribbean Community Implementation Agency for Crime and Security
+  Name_other_en: CARICOM Implementation Agency for Crime and Security
   Abbreviation_en: CARICOM IMPACS
   Treaty_url: http://www.commonlii.org/caribbean/other/treaties/CaricomTSer/2006/9.pdf
   Immunity_url: http://www.commonlii.org/caribbean/other/treaties/CaricomTSer/2006/9.pdf
@@ -2377,6 +2382,7 @@ Association of Southeast Asian Nations:
   Org_family: Association of Southeast Asian Nations entities
   Country: ZZ
   Name_en: Association of Southeast Asian Nations
+  Name_other_en: null
   Abbreviation_en: ASEAN
   Treaty_url: https://assets.publishing.service.gov.uk/media/5a7c072ee5274a7318b9097a/8472.pdf
   Name_fr: Association des nations de l'Asie du Sud-Est
@@ -2463,6 +2469,7 @@ African Union:
   Org_family: African Union entities
   Country: ZZ
   Name_en: African Union
+  Name_other_en: null
   Abbreviation_en: AU
   Treaty_url: https://au.int/sites/default/files/treaties/7758-treaty-0021_-_CONSTITUTIVE_ACT_OF_THE_AFRICAN_UNION_E.pdf
   OpenSanctions_id: bic-AFUNETAA
@@ -3750,6 +3757,7 @@ Economic Community of West African States:
   Org_family: ECOWAS entities
   Country: ZZ
   Name_en: Economic Community of West African States
+  Name_other_en: null
   Abbreviation_en: ECOWAS
   Treaty_url: https://www.ecowas.int/wp-content/uploads/2022/06/THE-1975-TREATY-OF-ECOWAS.pdf
   Name_fr: communauté économique des États de l'Afrique de l'Ouest
@@ -3819,6 +3827,7 @@ Council of Europe Development Bank:
   Org_family: Council of Europe entities
   Country: ZZ
   Name_en: Council of Europe Development Bank
+  Name_other_en: COE Development Bank
   Abbreviation_en: null
   Treaty_url: https://coebank.org/documents/51/CEB_Articles_of_Agreement_August_2023.pdf
   Name_fr: banque de développement du Conseil de l'Europe
@@ -4747,6 +4756,7 @@ Common Market for Eastern and Southern Africa:
   Org_family: Common Market for Eastern and Southern Africa entities
   Country: ZZ
   Name_en: Common Market for Eastern and Southern Africa
+  Name_other_en: null
   Abbreviation_en: COMESA
   Treaty_url: https://www.comesa.int/wp-content/uploads/2019/02/comesa-treaty-revised-20092012_with-zaire_final.pdf
   Name_fr: marché commun de l'Afrique orientale et australe
@@ -6628,6 +6638,7 @@ Southern African Development Community:
   Org_family: Southern African Development Community
   Country: ZZ
   Name_en: Southern African Development Community
+  Name_other_en: null
   Abbreviation_en: SADC
   Treaty_url: https://www.sadc.int/sites/default/files/2021-11/Declaration__Treaty_of_SADC_0.pdf
   Name_fr: Communauté de développement d'Afrique australe
@@ -8983,6 +8994,7 @@ Caribbean Community Climate Change Centre:
   Org_family: Caribbean Community entities
   Country: ZZ
   Name_en: Caribbean Community Climate Change Centre
+  Name_other_en: CARICOM Climate Change Centre
   Name_fr: null
   Abbreviation_en: CCCCC
   Abbreviation_other_en: 5Cs
@@ -10570,7 +10582,7 @@ United Nations Tourism:
   Name_fr: ONU Tourisme
   Abbreviation_en: UN Tourism
   Abbreviation_fr: null
-  Name_other_en: UN Tourism
+  Name_other_en: null
   Name_former_en: World Tourism Organization
   Type: UN specialized agency
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
@@ -10937,7 +10949,7 @@ United Nations Human Settlements Programme:
   Name_fr: Programme des Nations unies pour les établissements humains
   Abbreviation_en: UN-HABITAT
   Abbreviation_fr: null
-  Name_other_en: UN-HABITAT
+  Name_other_en: null
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
   Name_es: Programa de Naciones Unidas para los Asentamientos Humanos
   OpenSanctions_id: '[No code found.]'
@@ -11172,6 +11184,7 @@ United Nations System Staff College:
   Org_family: UN and affiliates
   Country: ZZ
   Name_en: United Nations System Staff College
+  Name_other_en: UN System Staff College
   Name_fr: null
   Abbreviation_en: UNSSC
   Abbreviation_fr: null
