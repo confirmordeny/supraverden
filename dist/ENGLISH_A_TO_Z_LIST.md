@@ -511,7 +511,6 @@
 - North Atlantic Marine Mammal Commission
 - North Atlantic Salmon Conservation Organization
 - North Atlantic Treaty Organisation
-- North East Atlantic Fisheries Commission
 - North Pacific Anadromous Fish Commission
 - North Pacific Fisheries Commission
 - North Pacific Marine Science Organization
@@ -567,7 +566,6 @@
 - Permanent Okavango River Basin Water Commission
 - Permanent Review Tribunal of Mercosur
 - Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organization
-- Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organisation
 
 [↑ Back to Top](#top)
 

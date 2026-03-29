@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 577 international organisations in the table.
+There are currently 575 international organisations in the table.
 
 | English Name | Wikidata Code | OpenSanctions | Family | Source |
 |---|---|---|---|---|
@@ -442,7 +442,6 @@ There are currently 577 international organisations in the table.
 | North Atlantic Marine Mammal Commission | [Q3076178](https://www.wikidata.org/wiki/Q3076178) | [No code found.] | none | [Treaty](https://nammco.wpengine.com/wp-content/uploads/2016/10/nammco-agreement-with-signatures-and-logo.pdf) |
 | North Atlantic Salmon Conservation Organization | [Q7053997](https://www.wikidata.org/wiki/Q7053997) | [No code found.] | none | [Treaty](https://nasco.int/wp-content/uploads/2020/05/NASCO_Handbook.pdf) |
 | North Atlantic Treaty Organisation | [Q7184](https://www.wikidata.org/wiki/Q7184) | [No code found.] | none | [Treaty](https://www.nato.int/cps/en/natohq/official_texts_17120.htm) |
-| North East Atlantic Fisheries Commission | [Q15106130](https://www.wikidata.org/wiki/Q15106130) | [No code found.] | none | [Treaty](https://www.neafc.org/system/files/Text-of-NEAFC-Convention-04.pdf) |
 | North Pacific Anadromous Fish Commission | [Q12599115](https://www.wikidata.org/wiki/Q12599115) | [No code found.] | none | [Treaty](https://www.npafc.org/wp-content/uploads/Public-Documents/Handbook/Handbook-3rd-E-Convention-Only-English.pdf) |
 | North Pacific Fisheries Commission | [Q24834021](https://www.wikidata.org/wiki/Q24834021) | [No code found.] | none | [Treaty](https://www.npfc.int/system/files/2017-01/Convention%20Text.pdf) |
 | North Pacific Marine Science Organization | [Q21015877](https://www.wikidata.org/wiki/Q21015877) | [No code found.] | none | [Treaty](https://meetings.pices.int/about/convention) |
@@ -457,7 +456,7 @@ There are currently 577 international organisations in the table.
 | Organisation for Joint Armament Co-operation | [Q521227](https://www.wikidata.org/wiki/Q521227) | [No code found.] | none | [Treaty](https://www.occar.int/systems/file_download.ashx?pg=139&ver=2) |
 | Organisation for the Development of the Senegal River | N/A | [No code found.] | none | [Treaty](https://faolex.fao.org/docs/pdf/mul16004.pdf) |
 | Organisation for the Harmonization of Business Laws in Africa | N/A | [No code found.] | none | [Treaty](https://www.ohada.org/en/treaty-amending-the-treaty-on-the-harmonization-of-business-law-in-africa/) |
-| Organisation for the Prohibition of Chemical Weapons | [Q842490](https://www.wikidata.org/wiki/Q842490) | [No code found.] | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
+| Organisation for the Prohibition of Chemical Weapons | [Q842490](https://www.wikidata.org/wiki/Q842490) | [No code found.] | UN and affiliates | [Treaty](https://www.opcw.org/sites/default/files/documents/CWC/CWC_en.pdf) |
 | Organisation for the Prohibition of Nuclear Weapons in Latin America and the Caribbean | [Q3369762](https://www.wikidata.org/wiki/Q3369762) | [No code found.] | none | [Treaty](https://www.opanal.org/en/texto-del-tratado-de-tlatelolco/) |
 | Organisation of African, Caribbean and Pacific States | [Q294278](https://www.wikidata.org/wiki/Q294278) | [No code found.] | none | [Treaty](https://www.jus.uio.no/english/services/library/treaties/14/14-03/acp.html) |
 | Organisation of Eastern Caribbean States | [Q392770](https://www.wikidata.org/wiki/Q392770) | [No code found.] | Caribbean Community entities | [Treaty](https://caricom.org/documents/legaldocuments/9240-treaty-oecs.htm) |
@@ -487,8 +486,7 @@ There are currently 577 international organisations in the table.
 | Permanent Joint Technical Commission for Nile Waters | N/A | [No code found.] | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%20453/volume-453-I-6519-English.pdf) |
 | Permanent Okavango River Basin Water Commission | [Q96097566](https://www.wikidata.org/wiki/Q96097566) | [No code found.] | none | [Treaty](https://www.iea.ulaval.ca/en/treaty-text/5021) |
 | Permanent Review Tribunal of Mercosur | [Q2452542](https://www.wikidata.org/wiki/Q2452542) | [No code found.] | Mercosur entities | [Treaty](https://opil.ouplaw.com/view/10.1093/law-oxio/e148.013.1/law-oxio-e148-regGroup-1-law-oxio-e148-source.pdf) |
-| Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organization | [Q15211422](https://www.wikidata.org/wiki/Q15211422) | [No code found.] | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
-| Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organisation | [Q15211422](https://www.wikidata.org/wiki/Q15211422) | [No code found.] | none | [Treaty](https://www.ctbto.org/sites/default/files/2022-10/Resolution_English_3.pdf) |
+| Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organization | [Q15211422](https://www.wikidata.org/wiki/Q15211422) | [No code found.] | UN and affiliates | [Treaty](https://www.ctbto.org/sites/default/files/2022-10/Resolution_English_3.pdf) |
 | Regional Commission for Fisheries | [Q134724812](https://www.wikidata.org/wiki/Q134724812) | [No code found.] | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Regional Cooperation Agreement on Combating Piracy and Armed Robbery against Ships in Asia | [Q7309031](https://www.wikidata.org/wiki/Q7309031) | [No code found.] | none | [Treaty](https://www.mofa.go.jp/mofaj/gaiko/kaiyo/pdfs/kyotei_s.pdf) |
 | Residual Special Court for Sierra Leone | N/A | [No code found.] | none | [Treaty](https://rscsl.org/the-rscsl/) |
