@@ -12963,3 +12963,27 @@ World Vegetable Center:
   Name_ru: Всемирный центр овощеводства
   Name_zh: 亞蔬—世界蔬菜中心
   Website: https://avrdc.org/
+West African Monetary Agency:
+  SPRVD_id:
+  Entity_type: International organisation
+  Wikidata_code: '[No code found.]'
+  Org_family: ECOWAS entities
+  Type: Specialized agency of ECOWAS
+  Country: ZZ
+  Name_en:  West African Monetary Agency
+  Name_other_en: 
+  Name_former_en:
+  Abbreviation_en: WAMA
+  Abbreviation_former_en:
+  Treaty_url: https://amao-wama.org/wp-content/uploads/2025/08/Articles-of-Agreement.pdf
+  Immunity_url: https://amao-wama.org/wp-content/uploads/2025/08/Articles-of-Agreement.pdf
+  Source: https://amao-wama.org
+  OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
+  
+
+
+
+
+ 
