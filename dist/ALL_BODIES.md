@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 575 international organisations in the table.
+There are currently 574 international organisations in the table.
 
 | English Name | Wikidata Code | OpenSanctions | Family | Source |
 |---|---|---|---|---|
@@ -462,7 +462,6 @@ There are currently 575 international organisations in the table.
 | Organisation of Eastern Caribbean States | [Q392770](https://www.wikidata.org/wiki/Q392770) | [No code found.] | Caribbean Community entities | [Treaty](https://caricom.org/documents/legaldocuments/9240-treaty-oecs.htm) |
 | Organisation of Islamic Cooperation | [Q47543](https://www.wikidata.org/wiki/Q47543) | [No code found.] | none | [Treaty](https://www.oic-oci.org/upload/documents/charter/en/oic_charter_2018_en.pdf) |
 | Organization for Security and Co-operation in Europe | [Q81299](https://www.wikidata.org/wiki/Q81299) | [No code found.] | OSCE entities | N/A |
-| Organization for the Prohibition of Chemical Weapons | [Q842490](https://www.wikidata.org/wiki/Q842490) | [No code found.] | none | [Treaty](https://www.opcw.org/sites/default/files/documents/CWC/CWC_en.pdf) |
 | Organization of American States | [Q123759](https://www.wikidata.org/wiki/Q123759) | [No code found.] | OAS institutions and bodies | [www.oas.org](https://www.oas.org/en/sla/dil/docs/inter_american_treaties_A-41_charter_OAS.pdf) |
 | Organization of Arab Petroleum Exporting Countries | [Q1052077](https://www.wikidata.org/wiki/Q1052077) | [No code found.] | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%20681/volume-681-I-9707-English.pdf) |
 | Organization of Ibero-American States | [Q421023](https://www.wikidata.org/wiki/Q421023) | [No code found.] | none | [Treaty](https://oei.int/wp-content/uploads/1985/12/reglamento-de-la-oei.pdf) |

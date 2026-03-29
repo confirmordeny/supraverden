@@ -536,7 +536,6 @@
 - Organisation of Eastern Caribbean States
 - Organisation of Islamic Cooperation
 - Organization for Security and Co-operation in Europe
-- Organization for the Prohibition of Chemical Weapons
 - Organization of American States
 - Organization of Arab Petroleum Exporting Countries
 - Organization of Ibero-American States
