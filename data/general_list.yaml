@@ -13001,9 +13001,25 @@ West African Monetary Institute:
   RIAD_code: N$0ECBM00743
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
-  
-
-
+European Investment Fund:
+  SPRVD_id: 
+  Entity_type: International organisation
+  Wikidata_code: Q768264
+  Org_family: EU institutions and bodies
+  Type:
+  Country: ZZ
+  Name_en: European Investment Fund
+  Name_other_en: 
+  Name_former_en:
+  Abbreviation_en:
+  Abbreviation_former_en:
+  Treaty_url:
+  Immunity_url: https://www.eif.org/files/governance/eif-statute.pdf
+  Source: https://www.eib.org/en/products/equity/investment-funds/index
+  OpenSanctions_id: NK-aJtLHESaxPrqhaLzKMQ3hz
+  RIAD_code: E$0ECBM00452
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B27
 
 
  
