@@ -13020,6 +13020,22 @@ European Investment Fund:
   RIAD_code: E$0ECBM00452
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B27
-
-
- 
+United Nations Framework Convention for Climate Change secretariat:
+  SPRVD_id:
+  Entity_type: International organisation
+  Wikidata_code: Q104150918
+  Org_family: UN and affiliates
+  Type:
+  Country: ZZ
+  Name_en: United Nations Framework Convention for Climate Change secretariat
+  Name_other_en: 
+  Name_former_en:
+  Abbreviation_en: UNFCCC secretariat
+  Abbreviation_other_en: UN Framework Convention for Climate Change secretariat
+  Treaty_url: https://digitallibrary.un.org/record/218811?v=pdf
+  Immunity_url: https://digitallibrary.un.org/record/218811?v=pdf
+  Source: https://docs.un.org/en/FCCC/SBI/1996/7
+  OpenSanctions_id: '[No code found.]'
+  RIAD_code: N$ECBM922997
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
