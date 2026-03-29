@@ -5675,51 +5675,6 @@ Intergovernmental Organisation for International Carriage by Rail:
   Name_uk: Міжурядова організація з міжнародних залізничних перевезень
   Name_zh: 国际铁路货物运输政府间组织
   Website: http://www.otif.org/
-Organization for the Prohibition of Chemical Weapons:
-  SPRVD_id: SPRVD0449990
-  Wikidata_code: Q842490
-  Entity_type: International organisation
-  Org_family: none
-  Country: ZZ
-  Name_en: Organization for the Prohibition of Chemical Weapons
-  Abbreviation_en: null
-  Treaty_url: https://www.opcw.org/sites/default/files/documents/CWC/CWC_en.pdf
-  Immunity_url: https://www.opcw.org/sites/default/files/documents/CSP/C-I/en/C-I_DEC.59-EN.pdf
-  Name_fr: Organisation pour l'interdiction des armes chimiques
-  Name_es: Organización para la Prohibición de Armas Químicas
-  OpenSanctions_id: '[No code found.]'
-  Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B22
-  Year_established: 1997
-  Headquarters: The Hague, Netherlands
-  Name_de: Organisation für das Verbot chemischer Waffen
-  Name_pt: Organização para a Proibição de Armas Químicas
-  Name_ru: Организация по запрещению химического оружия
-  Name_uk: Організація із заборони хімічної зброї
-  Name_zh: 禁止化學武器組織
-  Website: https://www.opcw.org/
-  Name_ar: منظمة حظر الأسلحة الكيميائية
-  Name_bn: আন্তর্জাতিক রাসায়নিক অস্ত্র নিরস্ত্রীকরণ সংস্থা
-  Name_da: Organisationen for forbud mod kemiske våben
-  Name_el: Οργανισμός για την Απαγόρευση Χρήσης Χημικών Όπλων
-  Name_et: Keemiarelvade Keelustamise Organisatsioon
-  Name_fi: Kemiallisten aseiden kieltojärjestö
-  Name_ga: Eagraíocht um Thoirmeasc ar Airm Cheimiceacha
-  Name_he: הארגון למניעת הפצת נשק כימי
-  Name_hi: रासायनिक हथियार निषेध संगठन
-  Name_hu: Vegyifegyver-tilalmi Szervezet
-  Name_id: Organisasi Pelarangan Senjata Kimia
-  Name_is: Stofnunin um bann við efnavopnum
-  Name_it: Organizzazione per la proibizione delle armi chimiche
-  Name_ja: 化学兵器禁止機関
-  Name_ko: 화학 무기 금지 기구
-  Name_lt: Cheminio ginklo draudimo organizacija
-  Name_nl: Organisatie voor het Verbod op Chemische Wapens
-  Name_pl: Organizacja ds. Zakazu Broni Chemicznej
-  Name_ro: Organizația pentru Interzicerea Armelor Chimice
-  Name_sv: Organisationen för förbud mot kemiska vapen
-  Name_tr: Kimyasal Silahların Yasaklanması Örgütü
-  Name_ur: تنظیم برائے ممانعت کیمیائی ہتھیار
 International Union for the Protection of New Varieties of Plants:
   SPRVD_id: SPRVD0525440
   Wikidata_code: Q690318
