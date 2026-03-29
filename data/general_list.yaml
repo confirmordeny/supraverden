@@ -12982,6 +12982,25 @@ West African Monetary Agency:
   RIAD_code: N$0ECBM00735
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+West African Monetary Institute:
+  SPRVD_id:
+  Entity_type: International organisation
+  Wikidata_code: Q1787612
+  Org_family: ECOWAS entities
+  Type: Specialized agency of ECOWAS
+  Country: ZZ
+  Name_en: West African Monetary Institute
+  Name_other_en: 
+  Name_former_en:
+  Abbreviation_en: WAMI
+  Abbreviation_former_en:
+  Treaty_url: https://www.wami-imao.org/sites/default/files/2021-04/WAMI%20Statute.pdf
+  Immunity_url: https://www.wami-imao.org/sites/default/files/2021-04/WAMI%20Statute.pdf
+  Source:
+  OpenSanctions_id: '[No code found.]'
+  RIAD_code: N$0ECBM00743
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
   
 
 
