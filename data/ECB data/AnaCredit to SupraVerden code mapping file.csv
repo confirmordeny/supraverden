@@ -38,7 +38,7 @@ European Institute for Gender Equality [EIGE],E$0ECBM00411,European Institute fo
 European Institute of Innovation and Technology [EIT],E$0ECBM00429,European Institute of Innovation and Technology,European Institute of Innovation and Technology,SPRVD0868495,Y,N/A
 European Insurance and Occupational Pensions Authority [EIOPA],E$0ECBM00437,European Insurance and Occupational Pensions Authority,European Insurance and Occupational Pensions Authority,SPRVD0855129,Y,N/A
 European Investment Bank [EIB],E$0ECBM00445,European Investment Bank,European Investment Bank,SPRVD0055823,Y,N/A
-European Investment Fund [EIF],E$0ECBM00452,European Investment Fund,,,N,No reason given
+European Investment Fund [EIF],E$0ECBM00452,European Investment Fund,European Investment Fund,SPRVD0703242,Y,No reason given
 European Maritime Safety Agency [EMSA],E$0ECBM00460,European Maritime Safety Agency,European Maritime Safety Agency,SPRVD0337451,Y,N/A
 European Medicines Agency [EMA],E$0ECBM00478,European Medicines Agency,European Medicines Agency,SPRVD0953639,Y,N/A
 European Monitoring Centre for Drugs and Drug Addiction [EMCDDA],E$0ECBM00494,European Monitoring Centre for Drugs and Drug Addiction,,,N,No longer exists.
@@ -139,8 +139,8 @@ West African Central Bank [BCEAO],N$0ECBM00693,West African Central Bank,,,N,No 
 West African Economic and Monetary Union [WAEMU],N$0ECBM00701,West African Economic and Monetary Union,West African Economic and Monetary Union,SPRVD0682882,Y,N/A
 West African Economic Community  [WAEC],N$0ECBM00719,West African Economic Community,,,N,No longer exists.
 West African Health Organisation [WAHO],N$0ECBM00727,West African Health Organisation,,,N,No reason given
-West African Monetary Agency  [WAMA],N$0ECBM00735,West African Monetary Agency,,,N,No reason given
-West African Monetary Institute [WAMI],N$0ECBM00743,West African Monetary Institute,,,N,No reason given
+West African Monetary Agency  [WAMA],N$0ECBM00735,West African Monetary Agency,West African Monetary Agency,SPRVD0614471,Y,No reason given
+West African Monetary Institute [WAMI],N$0ECBM00743,West African Monetary Institute,West African Monetary Institute,SPRVD0439509,Y,No reason given
 World Council of Churches  [WCC],N$0ECBM00750,World Council of Churches,,,N,No reason given
 World Health Organization  [WHO],N$0ECBM00768,World Health Organization,World Health Organization,SPRVD0589231,Y,N/A
 World Intellectual Property Organization  [WIPO],N$0ECBM00776,World Intellectual Property Organization,World Intellectual Property Organization,SPRVD0361104,Y,N/A
@@ -198,5 +198,5 @@ United Nations High Commissioner for Refugees [UNHCR],N$ECBM846394,United Nation
 United Nations Economic Commission for Europe [UNECE],N$ECBM894782,United Nations Economic Commission for Europe,Economic Commission for Europe,SPRVD0413296,Y,N/A
 International Telecommunications Satellite Organisation [ITSO],N$ECBM894790,International Telecommunications Satellite Organisation,International Telecommunications Satellite Organisation,SPRVD0020019,Y,N/A
 "The Global Fund to Fight AIDS, Tuberculosis and Malaria [GLOBAL FUND]",N$ECBM922971,"The Global Fund to Fight AIDS, Tuberculosis and Malaria",,,N,No reason given
-United Nations Framework Convention for Climate Change [UNFCCC],N$ECBM922997,United Nations Framework Convention for Climate Change,,,N,No reason given
+United Nations Framework Convention for Climate Change [UNFCCC],N$ECBM922997,United Nations Framework Convention for Climate Change,United Nations Framework Convention for Climate Change secretariat,SPRVD0575348,Y,No reason given
 International Energy Agency [IEA],N$ECBM923003,International Energy Agency,International Energy Agency,SPRVD0189377,Y,N/A

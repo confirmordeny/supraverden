@@ -12963,3 +12963,79 @@ World Vegetable Center:
   Name_ru: Всемирный центр овощеводства
   Name_zh: 亞蔬—世界蔬菜中心
   Website: https://avrdc.org/
+West African Monetary Agency:
+  SPRVD_id: SPRVD0614471
+  Entity_type: International organisation
+  Wikidata_code: '[No code found.]'
+  Org_family: ECOWAS entities
+  Type: Specialized agency of ECOWAS
+  Country: ZZ
+  Name_en: West African Monetary Agency
+  Name_other_en: 
+  Name_former_en:
+  Abbreviation_en: WAMA
+  Abbreviation_former_en:
+  Treaty_url: https://amao-wama.org/wp-content/uploads/2025/08/Articles-of-Agreement.pdf
+  Immunity_url: https://amao-wama.org/wp-content/uploads/2025/08/Articles-of-Agreement.pdf
+  Source: https://amao-wama.org
+  OpenSanctions_id: '[No code found.]'
+  RIAD_code: N$0ECBM00735
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
+West African Monetary Institute:
+  SPRVD_id: SPRVD0439509
+  Entity_type: International organisation
+  Wikidata_code: Q1787612
+  Org_family: ECOWAS entities
+  Type: Specialized agency of ECOWAS
+  Country: ZZ
+  Name_en: West African Monetary Institute
+  Name_other_en: 
+  Name_former_en:
+  Abbreviation_en: WAMI
+  Abbreviation_former_en:
+  Treaty_url: https://www.wami-imao.org/sites/default/files/2021-04/WAMI%20Statute.pdf
+  Immunity_url: https://www.wami-imao.org/sites/default/files/2021-04/WAMI%20Statute.pdf
+  Source:
+  OpenSanctions_id: '[No code found.]'
+  RIAD_code: N$0ECBM00743
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
+European Investment Fund:
+  SPRVD_id: SPRVD0703242
+  Entity_type: International organisation
+  Wikidata_code: Q768264
+  Org_family: EU institutions and bodies
+  Type:
+  Country: ZZ
+  Name_en: European Investment Fund
+  Name_other_en: 
+  Name_former_en:
+  Abbreviation_en:
+  Abbreviation_former_en:
+  Treaty_url:
+  Immunity_url: https://www.eif.org/files/governance/eif-statute.pdf
+  Source: https://www.eib.org/en/products/equity/investment-funds/index
+  OpenSanctions_id: NK-aJtLHESaxPrqhaLzKMQ3hz
+  RIAD_code: E$0ECBM00452
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B27
+United Nations Framework Convention for Climate Change secretariat:
+  SPRVD_id: SPRVD0575348
+  Entity_type: International organisation
+  Wikidata_code: Q104150918
+  Org_family: UN and affiliates
+  Type:
+  Country: ZZ
+  Name_en: United Nations Framework Convention for Climate Change secretariat
+  Name_other_en: 
+  Name_former_en:
+  Abbreviation_en: UNFCCC secretariat
+  Abbreviation_other_en: UN Framework Convention for Climate Change secretariat
+  Treaty_url: https://digitallibrary.un.org/record/218811?v=pdf
+  Immunity_url: https://digitallibrary.un.org/record/218811?v=pdf
+  Source: https://docs.un.org/en/FCCC/SBI/1996/7
+  OpenSanctions_id: '[No code found.]'
+  RIAD_code: N$ECBM922997
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
