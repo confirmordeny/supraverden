@@ -13039,3 +13039,22 @@ United Nations Framework Convention for Climate Change secretariat:
   RIAD_code: N$ECBM922997
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+Organisation for Joint Armament Co-operation:
+  SPRVD_id:
+  Entity_type: International organisation
+  Wikidata_code: Q521227
+  Org_family: none
+  Type:
+  Country: ZZ
+  Name_en: Organisation for Joint Armament Co-operation
+  Name_other_en: OCCAR
+  Name_former_en:
+  Abbreviation_en:
+  Abbreviation_other_en:
+  Treaty_url: https://www.occar.int/systems/file_download.ashx?pg=139&ver=2
+  Immunity_url: https://www.occar.int/systems/file_download.ashx?pg=139&ver=2
+  Source:
+  OpenSanctions_id: '[No code found.]'
+  RIAD_code:
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
