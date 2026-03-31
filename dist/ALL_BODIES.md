@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 574 international organisations in the table.
+There are currently 578 international organisations in the table.
 
 | English Name | Wikidata Code | OpenSanctions | Family | Source |
 |---|---|---|---|---|
@@ -222,6 +222,7 @@ There are currently 574 international organisations in the table.
 | European Institute of Innovation and Technology | [Q993120](https://www.wikidata.org/wiki/Q993120) | [No code found.] | EU institutions and bodies | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0819) |
 | European Insurance and Occupational Pensions Authority | [Q2116004](https://www.wikidata.org/wiki/Q2116004) | [No code found.] | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | European Investment Bank | [Q192247](https://www.wikidata.org/wiki/Q192247) | [NK-7nAZcmSJNBZMqsstpfrtJB/](https://www.opensanctions.org/entities/NK-7nAZcmSJNBZMqsstpfrtJB//) | EU institutions and bodies | [Treaty](https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:11957E/TXT) |
+| European Investment Fund | [Q768264](https://www.wikidata.org/wiki/Q768264) | [NK-aJtLHESaxPrqhaLzKMQ3hz](https://www.opensanctions.org/entities/NK-aJtLHESaxPrqhaLzKMQ3hz/) | EU institutions and bodies | [www.eib.org](https://www.eib.org/en/products/equity/investment-funds/index) |
 | European Labour Authority | [Q56296301](https://www.wikidata.org/wiki/Q56296301) | [No code found.] | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | European Maritime Safety Agency | [Q922693](https://www.wikidata.org/wiki/Q922693) | [No code found.] | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | European Medicines Agency | [Q130146](https://www.wikidata.org/wiki/Q130146) | [No code found.] | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
@@ -538,6 +539,7 @@ There are currently 574 international organisations in the table.
 | United Nations Educational, Scientific and Cultural Organization | [Q7809](https://www.wikidata.org/wiki/Q7809) | [No code found.] | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/specialized-agencies) |
 | United Nations Environment Programme | [Q182016](https://www.wikidata.org/wiki/Q182016) | [No code found.] | UN and affiliates | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
 | United Nations Forum on Forests | [Q1433762](https://www.wikidata.org/wiki/Q1433762) | [No code found.] | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
+| United Nations Framework Convention for Climate Change secretariat | [Q104150918](https://www.wikidata.org/wiki/Q104150918) | [No code found.] | UN and affiliates | [Treaty](https://digitallibrary.un.org/record/218811?v=pdf) |
 | United Nations General Assembly | [Q47423](https://www.wikidata.org/wiki/Q47423) | [No code found.] | UN and affiliates | [www.un.org](https://www.un.org/en/about-us/main-bodies) |
 | United Nations Human Rights Council | [Q205650](https://www.wikidata.org/wiki/Q205650) | [No code found.] | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations Human Settlements Programme | [Q487883](https://www.wikidata.org/wiki/Q487883) | [No code found.] | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
@@ -565,6 +567,8 @@ There are currently 574 international organisations in the table.
 | West African Development Bank | [Q2883427](https://www.wikidata.org/wiki/Q2883427) | [bic-BOADTGTG](https://www.opensanctions.org/entities/bic-BOADTGTG/) | West African Economic and Monetary Union | [Treaty](https://edit.wti.org/document/show/pdf/57ce5bd9-ef38-4a1d-abd5-ed07f1f155bf) |
 | West African Economic and Monetary Union | [Q1929699](https://www.wikidata.org/wiki/Q1929699) | [No code found.] | West African Economic and Monetary Union | [Treaty](https://www.bceao.int/sites/default/files/inline-files/TraiteUMOA2010_tr_Eng.pdf) |
 | West African Health Organisation | [Q30262804](https://www.wikidata.org/wiki/Q30262804) | [No code found.] | ECOWAS entities | [Treaty](https://www.ecodob.ecowas.int/legal_texts/journal_en/Vol.%2011.pdf) |
+| West African Monetary Agency | N/A | [No code found.] | ECOWAS entities | [Treaty](https://amao-wama.org/wp-content/uploads/2025/08/Articles-of-Agreement.pdf) |
+| West African Monetary Institute | [Q1787612](https://www.wikidata.org/wiki/Q1787612) | [No code found.] | ECOWAS entities | [Treaty](https://www.wami-imao.org/sites/default/files/2021-04/WAMI%20Statute.pdf) |
 | West African Monetary Union | N/A | [No code found.] | West African Economic and Monetary Union | [Treaty](https://www.bceao.int/sites/default/files/inline-files/TraiteUMOA2010_tr_Eng.pdf) |
 | Western and Central Pacific Fisheries Commission | [Q2565027](https://www.wikidata.org/wiki/Q2565027) | [No code found.] | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Western Central Atlantic Fishery Commission | [Q134724817](https://www.wikidata.org/wiki/Q134724817) | [No code found.] | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |

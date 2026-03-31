@@ -246,6 +246,7 @@
 - European Institute of Innovation and Technology
 - European Insurance and Occupational Pensions Authority
 - European Investment Bank
+- European Investment Fund
 - European Labour Authority
 - European Maritime Safety Agency
 - European Medicines Agency
@@ -637,6 +638,7 @@
 - United Nations Educational, Scientific and Cultural Organization
 - United Nations Environment Programme
 - United Nations Forum on Forests
+- United Nations Framework Convention for Climate Change secretariat
 - United Nations General Assembly
 - United Nations Human Rights Council
 - United Nations Human Settlements Programme
@@ -674,6 +676,8 @@
 - West African Development Bank
 - West African Economic and Monetary Union
 - West African Health Organisation
+- West African Monetary Agency
+- West African Monetary Institute
 - West African Monetary Union
 - Western and Central Pacific Fisheries Commission
 - Western Central Atlantic Fishery Commission
