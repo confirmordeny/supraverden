@@ -123,6 +123,7 @@
 - Centre on Integrated Rural Development for Asia and the Pacific
 - Chips Joint Undertaking
 - Circular Bio-based Europe Joint Undertaking
+- Civil Aviation Safety and Security Oversight Agency
 - Clean Aviation Joint Undertaking
 - Clean Hydrogen Joint Undertaking
 - Coalition for Disaster Resilient Infrastructure

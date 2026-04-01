@@ -18,6 +18,8 @@
 - [`LEI_jurisdiction`](#field-lei_jurisdiction)
 - [`LEI_legal_form`](#field-lei_legal_form)
 - [`LEI_status`](#field-lei_status)
+- [`Leadership_role`](#field-leadership_role)
+- [`Leadership_role_Wikidata_code`](#field-leadership_role_wikidata_code)
 - [`Name`](#field-name)
 - [`Name_zh`](#field-name_zh)
 - [`Name_former`](#field-name_former)
@@ -50,7 +52,7 @@
 | `language_suffixes` | en, fr, es, ar, bn, cy, da, de, el, et, fi, ga, he, hi, hu, id, is, it, ja, ko, lt, nl, no, pl, pt, ro, ru, sv, sw, tr, uk, ur, zh |
 | `index_suffixes` | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 |
 | `variant_usage` | Variant fields may use language suffixes and index numbers together, e.g. Name_other_1_en. |
-| `applies_to` | Name, Abbreviation, Abbreviation_former, Abbreviation_other, Name_former, Name_other, Notes |
+| `applies_to` | Name, Abbreviation, Abbreviation_former, Abbreviation_other, Leadership_role, Name_former, Name_other, Notes |
 
 <a id="field-abbreviation"></a>
 ## `Abbreviation`
@@ -276,6 +278,35 @@
 | `Description` | LEI registration status from the LEI reference record, as at March 2026. |
 | `Permissible values` | ACTIVE, INACTIVE, LAPSED, RETIRED, ANNULLED, MERGED, DUPLICATE, PENDING_TRANSFER, PENDING_ARCHIVAL, ISSUED |
 | `Examples` | ACTIVE |
+
+<a id="field-leadership_role"></a>
+## `Leadership_role`
+
+| Attribute | Value |
+| --- | --- |
+| `Title` | Leadership role |
+| `Data_type` | text |
+| `Minimum_length` | 5 |
+| `Maximum_length` | 200 |
+| `Requirement` | optional |
+| `Description` | Leadership office title for the organisation in the language indicated by suffix. |
+| `Example_source` | United Nations Development Programme |
+| `Examples` | Administrator of the United Nations Development Programme |
+
+<a id="field-leadership_role_wikidata_code"></a>
+## `Leadership_role_Wikidata_code`
+
+| Attribute | Value |
+| --- | --- |
+| `Title` | Leadership role Wikidata code |
+| `Data_type` | text |
+| `Minimum_length` | 2 |
+| `Maximum_length` | 15 |
+| `Requirement` | optional |
+| `Description` | Wikidata item code (QID) for the leadership office associated with the organisation. |
+| `Validation_summary` | starts with "Q"; remaining characters are digits 0-9. |
+| `Examples` | Q24558593 |
+| `Validation_rules` | `- rule: regex   pattern: ^Q\d+$` |
 
 <a id="field-name"></a>
 ## `Name`
