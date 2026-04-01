@@ -246,6 +246,7 @@
 - European Institute of Innovation and Technology
 - European Insurance and Occupational Pensions Authority
 - European Investment Bank
+- European Investment Fund
 - European Labour Authority
 - European Maritime Safety Agency
 - European Medicines Agency
@@ -511,7 +512,6 @@
 - North Atlantic Marine Mammal Commission
 - North Atlantic Salmon Conservation Organization
 - North Atlantic Treaty Organisation
-- North East Atlantic Fisheries Commission
 - North Pacific Anadromous Fish Commission
 - North Pacific Fisheries Commission
 - North Pacific Marine Science Organization
@@ -537,7 +537,6 @@
 - Organisation of Eastern Caribbean States
 - Organisation of Islamic Cooperation
 - Organization for Security and Co-operation in Europe
-- Organization for the Prohibition of Chemical Weapons
 - Organization of American States
 - Organization of Arab Petroleum Exporting Countries
 - Organization of Ibero-American States
@@ -567,7 +566,6 @@
 - Permanent Okavango River Basin Water Commission
 - Permanent Review Tribunal of Mercosur
 - Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organization
-- Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organisation
 
 [↑ Back to Top](#top)
 
@@ -640,6 +638,7 @@
 - United Nations Educational, Scientific and Cultural Organization
 - United Nations Environment Programme
 - United Nations Forum on Forests
+- United Nations Framework Convention for Climate Change secretariat
 - United Nations General Assembly
 - United Nations Human Rights Council
 - United Nations Human Settlements Programme
@@ -677,6 +676,8 @@
 - West African Development Bank
 - West African Economic and Monetary Union
 - West African Health Organisation
+- West African Monetary Agency
+- West African Monetary Institute
 - West African Monetary Union
 - Western and Central Pacific Fisheries Commission
 - Western Central Atlantic Fishery Commission
