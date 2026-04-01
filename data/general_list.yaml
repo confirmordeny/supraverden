@@ -4094,7 +4094,7 @@ East African Community:
   SPRVD_id: SPRVD0944310
   Wikidata_code: Q337456
   Entity_type: International organisation
-  Org_family: East African Community
+  Org_family: East African Community entities
   Country: ZZ
   Name_en: East African Community
   Abbreviation_en: null
@@ -7768,7 +7768,7 @@ East African Development Bank:
   SPRVD_id: SPRVD0906116
   Wikidata_code: Q5327655
   Entity_type: International organisation
-  Org_family: East African Community
+  Org_family: East African Community entities
   Country: ZZ
   Name_en: East African Development Bank
   Abbreviation_en: EADB
@@ -9960,7 +9960,7 @@ East African Legislative Assembly:
   SPRVD_id: SPRVD0588125
   Wikidata_code: Q5327657
   Entity_type: International organisation
-  Org_family: East African Community
+  Org_family: East African Community entities
   Country: ZZ
   Name_en: East African Legislative Assembly
   Abbreviation_en: EALA
@@ -10070,6 +10070,8 @@ United Nations Security Council:
   Org_family: UN and affiliates
   Country: ZZ
   Name_en: United Nations Security Council
+  Leadership_role_en: President of the United Nations Security Council
+  Leadership_role_Wikidata_code: Q4352360
   Name_fr: Conseil de sécurité des Nations unies
   Abbreviation_en: UNSC
   Abbreviation_fr: null
@@ -10094,6 +10096,8 @@ United Nations Economic and Social Council:
   Org_family: UN and affiliates
   Country: ZZ
   Name_en: United Nations Economic and Social Council
+  Leadership_role_en: President of the United Nations Economic and Social Council
+  Leadership_role_Wikidata_code: Q29511440
   Name_fr: Conseil économique et social des Nations unies
   Abbreviation_en: ECOSOC
   Abbreviation_fr: null
@@ -10190,6 +10194,8 @@ International Court of Justice:
   Org_family: UN and affiliates
   Country: ZZ
   Name_en: International Court of Justice
+  Leadership_role_en: President of the International Court of Justice
+  Leadership_role_Wikidata_code: Q19926443
   Name_fr: Cour internationale de justice
   Abbreviation_en: ICJ
   Abbreviation_fr: null
@@ -10238,6 +10244,8 @@ Food and Agriculture Organization:
   Org_family: UN and affiliates
   Country: ZZ
   Name_en: Food and Agriculture Organization
+  Leadership_role_en: Director-General of the Food and Agriculture organisation
+  Leadership_role_Wikidata_code: Q66566041
   Name_fr: Organisation des Nations unies pour l'alimentation et l'agriculture
   Abbreviation_en: FAO
   Abbreviation_fr: null
@@ -10401,6 +10409,8 @@ International Telecommunication Union:
   Org_family: UN and affiliates
   Country: ZZ
   Name_en: International Telecommunication Union
+  Leadership_role_en: Secretary-General of the International Telecommunication Union
+  Leadership_role_Wikidata_code: Q17389566
   Name_fr: Union internationale des télécommunications
   Abbreviation_en: ITU
   Abbreviation_fr: null
@@ -10428,6 +10438,8 @@ United Nations Children’s Fund:
   Org_family: UN and affiliates
   Country: ZZ
   Name_en: United Nations Children’s Fund
+  Leadership_role_en: Executive Director of UNICEF
+  Leadership_role_Wikidata_code: Q67199671
   Name_fr: null
   Abbreviation_en: UNICEF
   Abbreviation_fr: null
@@ -10474,6 +10486,8 @@ United Nations Development Programme:
   Org_family: UN and affiliates
   Country: ZZ
   Name_en: United Nations Development Programme
+  Leadership_role_en: Administrator of the United Nations Development Programme
+  Leadership_role_Wikidata_code: Q24558593
   Name_fr: Programme des Nations unies pour le développement
   Abbreviation_en: UNDP
   Abbreviation_fr: null
@@ -10530,6 +10544,8 @@ Office of the United Nations High Commissioner for Refugees:
   Org_family: UN and affiliates
   Country: ZZ
   Name_en: Office of the United Nations High Commissioner for Refugees
+  Leadership_role_en: United Nations High Commissioner for Refugees
+  Leadership_role_Wikidata_code: Q27832358
   Name_fr: null
   Abbreviation_en: UNHCR
   Abbreviation_fr: null
@@ -10546,6 +10562,8 @@ United Nations Office for Project Services:
   Org_family: UN and affiliates
   Country: ZZ
   Name_en: United Nations Office for Project Services
+  Leadership_role_en: Executive Director of United Nations Office for Project Services
+  Leadership_role_Wikidata_code: Q123171287
   Name_fr: Bureau des Nations Unies pour les services d'appui aux projets
   Abbreviation_en: UNOPS
   Abbreviation_fr: null
@@ -10747,6 +10765,8 @@ World Intellectual Property Organization:
   Org_family: UN and affiliates
   Country: ZZ
   Name_en: World Intellectual Property Organization
+  Leadership_role_en: Director-General of the World Intellectual Property organisation
+  Leadership_role_Wikidata_code: Q108603609
   Name_fr: Organisation mondiale de la propriété intellectuelle
   Abbreviation_en: WIPO
   Abbreviation_fr: null
@@ -10774,6 +10794,8 @@ International Maritime Organization:
   Org_family: UN and affiliates
   Country: ZZ
   Name_en: International Maritime Organization
+  Leadership_role_en: Secretary-General of the International Maritime organisation
+  Leadership_role_Wikidata_code: Q42591216
   Name_fr: Organisation maritime internationale
   Abbreviation_en: IMO
   Abbreviation_fr: null
@@ -10808,6 +10830,8 @@ United Nations Educational, Scientific and Cultural Organization:
   Org_family: UN and affiliates
   Country: ZZ
   Name_en: United Nations Educational, Scientific and Cultural Organization
+  Leadership_role_en: Director-General of UNESCO
+  Leadership_role_Wikidata_code: Q28784183
   Name_fr: Organisation des Nations unies pour l'éducation, la science et la culture
   Abbreviation_en: UNESCO
   Abbreviation_fr: null
@@ -10867,6 +10891,8 @@ International Labour Organization:
   Org_family: UN and affiliates
   Country: ZZ
   Name_en: International Labour Organization
+  Leadership_role_en: Director-General of the International Labour organisation
+  Leadership_role_Wikidata_code: Q111363853
   Name_fr: Organisation internationale du travail
   Abbreviation_en: ILO
   Abbreviation_fr: null
@@ -10980,6 +11006,8 @@ International Atomic Energy Agency:
   Org_family: UN and affiliates
   Country: ZZ
   Name_en: International Atomic Energy Agency
+  Leadership_role_en: Director General of the International Atomic Energy Agency
+  Leadership_role_Wikidata_code: Q65782205
   Name_fr: Agence internationale de l'énergie atomique
   Abbreviation_en: IAEA
   Abbreviation_fr: null
@@ -11014,6 +11042,8 @@ World Meteorological Organization:
   Org_family: UN and affiliates
   Country: ZZ
   Name_en: World Meteorological Organization
+  Leadership_role_en: President of the World Meteorological organisation
+  Leadership_role_Wikidata_code: Q110970831
   Name_fr: Organisation météorologique mondiale
   Abbreviation_en: WMO
   Abbreviation_fr: null
@@ -11735,6 +11765,8 @@ United Nations Relief and Works Agency for Palestine Refugees in the Near East:
   Org_family: UN and affiliates
   Country: ZZ
   Name_en: United Nations Relief and Works Agency for Palestine Refugees in the Near East
+  Leadership_role_en: UNRWA Commissioner-General
+  Leadership_role_Wikidata_code: Q112963010
   Name_fr: Office de secours et de travaux des Nations unies pour les réfugiés de Palestine dans le Proche-Orient
   Abbreviation_en: UNRWA
   Abbreviation_fr: null
@@ -13037,5 +13069,23 @@ United Nations Framework Convention for Climate Change secretariat:
   Source: https://docs.un.org/en/FCCC/SBI/1996/7
   OpenSanctions_id: '[No code found.]'
   RIAD_code: N$ECBM922997
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
+Civil Aviation Safety and Security Oversight Agency:
+  SPRVD_id:
+  Entity_type: International organisation
+  Wikidata_code: Q5008878
+  Org_family: East African Community entities
+  Type:
+  Country: ZZ
+  Name_en: Civil Aviation Safety and Security Oversight Agency
+  Name_other_en: 
+  Name_former_en:
+  Abbreviation_en: CASSOA
+  Abbreviation_other_en:
+  Treaty_url: https://www.cassoa.org/wp-content/uploads/2019/01/EAC-Civil-Aviation-Act-2009.pdf
+  Immunity_url: https://www.cassoa.org/wp-content/uploads/2019/01/EAC-Civil-Aviation-Act-2009.pdf
+  Source:
+  OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22

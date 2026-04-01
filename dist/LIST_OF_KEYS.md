@@ -19,6 +19,9 @@
 * LEI_jurisdiction
 * LEI_legal_form
 * LEI_status
+* Leadership_role
+  * en
+* Leadership_role_Wikidata_code
 * Name
   * ar
   * bn
@@ -55,8 +58,8 @@
 * Name_former
   * en
 * Name_other
-  * en
-* Name_other_2
+  * 2
+    * en
   * en
 * Notes
   * en
