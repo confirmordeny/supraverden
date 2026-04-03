@@ -4665,6 +4665,7 @@ Regional Cooperation Agreement on Combating Piracy and Armed Robbery against Shi
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.mofa.go.jp/mofaj/gaiko/kaiyo/pdfs/kyotei_s.pdf
+  Source: https://sso.agc.gov.sg//SL/IOIPA1948-S44-2007?DocDate=20070130
   Headquarters: Singapore, Singapore
   Name_zh: 亚洲反海盗及武装抢劫船只区域合作协定组织
   Name_da: Regional Cooperation Agreement on Combating Piracy and Armed Robbery against Ships in Asia
@@ -12811,7 +12812,7 @@ International Cotton Advisory Committee:
   Abbreviation_fr: null
   Treaty_url: https://icac.org/wp-content/uploads/2025/09/E_RulesRegs_15oct2020.pdf
   Immunity_url: https://www.presidency.ucsb.edu/documents/executive-order-9911-designating-the-international-cotton-advisory-committee-public#:~:text=States%3A%201945%20%E2%80%90%201953-,Executive%20Order%209911%E2%80%94Designating%20the%20International%20Cotton%20Advisory%20Committee%20as,Certain%20Privileges%2C%20Exemptions%2C%20and%20Immunities
-  Source: null
+  Source: https://www.archives.gov/federal-register/codification/executive-order/09698.html
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
@@ -13127,18 +13128,20 @@ Foreign Trade Bank of Latin America:
   OpenSanctions_id: NK-NjoQZZVSoGXPm4TyzPUw4A
   Assessment_against_FATF_definition: Excluded
   Basis_for_assessment: B42
-[Name]:
+International Committee of the Red Cross:
   SPRVD_id: SPRVD0333620
   Entity_type: International organisation
-  Wikidata_code:
-  Org_family:
+  Wikidata_code: Q5987345
+  Org_family: International Red Cross and Red Crescent Movement entities
   Type:
   Country: ZZ
-  Name_en:
-  Abbreviation_en:
-  Treaty_url:
-  Immunity_url:
-  Source:
-  OpenSanctions_id:
-  Assessment_against_FATF_definition:
-  Basis_for_assessment:
+  Name_en: International Committee of the Red Cross
+  Abbreviation_en: ICRC
+  Treaty_url: https://www.icrc.org/sites/default/files/document/file_list/icrc-statutes-01-2018.pdf
+  Immunity_url: https://casebook.icrc.org/case-study/agreement-between-icrc-and-switzerland
+  Source: https://ihl-databases.icrc.org/assets/treaties/375-GC-III-EN.002.pdf
+  Source_2: https://www.legislation.gov.uk/ukpga/2025/2/section/2
+  Source_3: https://classic.austlii.edu.au/au/legis/cth/num_reg/ioaicotrcr2013n237o20131107/
+  OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B43
