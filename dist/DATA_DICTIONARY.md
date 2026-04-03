@@ -62,7 +62,7 @@
 | `Title` | Abbreviation |
 | `Data_type` | text |
 | `Minimum_length` | 2 |
-| `Maximum_length` | 50 |
+| `Maximum_length` | 60 |
 | `Requirement` | optional |
 | `Description` | Abbreviation for the organisation in the language indicated by suffix. |
 | `Examples` | EU, UN |
@@ -75,7 +75,7 @@
 | `Title` | Former abbreviation |
 | `Data_type` | text |
 | `Minimum_length` | 2 |
-| `Maximum_length` | 50 |
+| `Maximum_length` | 60 |
 | `Requirement` | optional |
 | `Description` | Former abbreviation of the organisation in the language indicated by suffix. |
 | `Example_source` | Organisation of Islamic Cooperation |
@@ -89,7 +89,7 @@
 | `Title` | Other abbreviation |
 | `Data_type` | text |
 | `Minimum_length` | 2 |
-| `Maximum_length` | 50 |
+| `Maximum_length` | 60 |
 | `Requirement` | optional |
 | `Description` | Alternative abbreviation of the organisation in the language indicated by suffix. |
 | `Example_source` | African Intellectual Property organisation |
