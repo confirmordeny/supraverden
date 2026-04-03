@@ -10,6 +10,7 @@ on:
   push:
     branches:
       - main
+      - dev
     paths:
       - 'data/**'
       - 'scripts/validate_*.py'
@@ -45,6 +46,9 @@ jobs:
 
       - name: Validate SPRVD IDs
         run: python scripts/validate_sprvd_ids.py
+
+      - name: Validate references conventions
+        run: python scripts/validate_references_yaml.py
 
       - name: Report B22 entities missing Immunity_url
         run: |

@@ -24,7 +24,7 @@ R2:
   Reference_title: FATF Recommendations, the
   Reference_author: Financial Action Task Force
   Reference_publisher: null
-  Reference_type: International standard
+  Reference_type: International Standard
   Reference_doi: null
   Reference_access_date: 2026-02-15
   Reference_archive_date: 2025-12-13
@@ -52,7 +52,7 @@ R4:
   Reference_title: UN Systems Chart
   Reference_author: United Nations
   Reference_publisher: null
-  Reference_type: document
+  Reference_type: Structure Chart
   Reference_doi: null
   Reference_access_date: 2026-02-15
   Reference_archive_date: null
@@ -155,7 +155,19 @@ R11:
   Reference_archive_date: null
   Reference_publication_date: null
   Reference_element_1: null
-
-
+R12:
+  Reference_code: R12
+  Reference_text_en: 2022 financial statements of Banco Latinoamericano de Comercio Exterior, S. A., as filed with the SEC
+  Reference_url: https://www.sec.gov/Archives/edgar/data/890541/000162828023014194/R8.htm
+  Reference_url_archive: null
+  Reference_title: 2022 financial statements of Banco Latinoamericano de Comercio Exterior, S. A.
+  Reference_author: Banco Latinoamericano de Comercio Exterior, S. A.
+  Reference_publisher: U.S. Securities and Exchange Commission
+  Reference_type: Annual Report
+  Reference_doi: null
+  Reference_access_date: 2026-04-03
+  Reference_archive_date: null
+  Reference_publication_date: 2023-02-14
+  Reference_element_1: null
 
 
