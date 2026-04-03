@@ -123,6 +123,7 @@
 - Centre on Integrated Rural Development for Asia and the Pacific
 - Chips Joint Undertaking
 - Circular Bio-based Europe Joint Undertaking
+- Civil Aviation Safety and Security Oversight Agency
 - Clean Aviation Joint Undertaking
 - Clean Hydrogen Joint Undertaking
 - Coalition for Disaster Resilient Infrastructure
@@ -295,6 +296,7 @@
 - Financial Fund for the Development of the River Plate Basin
 - Fishery Committee for the Eastern Central Atlantic
 - Food and Agriculture Organization
+- Foreign Trade Bank of Latin America
 - Foyle, Carlingford and Irish Lights Commission
 - Fund for responding to Loss and Damage
 - Fund for the Development of the Indigenous Peoples of Latin America and the Caribbean

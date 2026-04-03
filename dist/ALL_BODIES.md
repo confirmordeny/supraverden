@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 578 international organisations in the table.
+There are currently 580 international organisations in the table.
 
 | English Name | Wikidata Code | OpenSanctions | Family | Source |
 |---|---|---|---|---|
@@ -109,6 +109,7 @@ There are currently 578 international organisations in the table.
 | Centre on Integrated Rural Development for Asia and the Pacific | [Q5011840](https://www.wikidata.org/wiki/Q5011840) | [No code found.] | none | [Treaty](https://faolex.fao.org/docs/pdf/mal33937.pdf) |
 | Chips Joint Undertaking | [Q133884004](https://www.wikidata.org/wiki/Q133884004) | [No code found.] | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20231025101944/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1782) |
 | Circular Bio-based Europe Joint Undertaking | [Q133884431](https://www.wikidata.org/wiki/Q133884431) | [No code found.] | EU institutions and bodies | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085) |
+| Civil Aviation Safety and Security Oversight Agency | [Q5008878](https://www.wikidata.org/wiki/Q5008878) | [No code found.] | East African Community entities | [Treaty](https://www.cassoa.org/wp-content/uploads/2019/01/EAC-Civil-Aviation-Act-2009.pdf) |
 | Clean Aviation Joint Undertaking | [Q133884512](https://www.wikidata.org/wiki/Q133884512) | [No code found.] | EU institutions and bodies | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085) |
 | Clean Hydrogen Joint Undertaking | [Q133884630](https://www.wikidata.org/wiki/Q133884630) | [No code found.] | EU institutions and bodies | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085) |
 | Coalition for Disaster Resilient Infrastructure | [Q85753142](https://www.wikidata.org/wiki/Q85753142) | [No code found.] | none | [Treaty](https://www.cdri.world/upload/pages/CDRI_Charter_October%202019_English.pdf) |
@@ -152,10 +153,10 @@ There are currently 578 international organisations in the table.
 | Danube Commission | [Q911204](https://www.wikidata.org/wiki/Q911204) | [No code found.] | none | [Treaty](https://www.danubecommission.org/uploads/doc/convention-en.pdf) |
 | Desert Locust Control Organisation for Eastern Africa | [Q30596094](https://www.wikidata.org/wiki/Q30596094) | [No code found.] | none | [Treaty](https://www.fao.org/4/50641E/50641E05.htm) |
 | Dutch Language Union | [Q152299](https://www.wikidata.org/wiki/Q152299) | [No code found.] | none | [Treaty](https://taalunie.org/feeds/download/taalunieverdrag-1980-en-616e8.pdf/Taalunieverdrag%20(1980,%20Engels)/original) |
-| East African Community | [Q337456](https://www.wikidata.org/wiki/Q337456) | [No code found.] | East African Community | [Treaty](https://investmentpolicy.unctad.org/international-investment-agreements/treaty-files/2487/download) |
+| East African Community | [Q337456](https://www.wikidata.org/wiki/Q337456) | [No code found.] | East African Community entities | [Treaty](https://investmentpolicy.unctad.org/international-investment-agreements/treaty-files/2487/download) |
 | East African Court of Justice | [Q5327654](https://www.wikidata.org/wiki/Q5327654) | [No code found.] | none | [Treaty](https://www.eacj.org//wp-content/uploads/2012/08/EACJ-Treaty.pdf) |
-| East African Development Bank | [Q5327655](https://www.wikidata.org/wiki/Q5327655) | [bic-AFDEUGKA](https://www.opensanctions.org/entities/bic-AFDEUGKA/) | East African Community | [Treaty](https://eadb.org/site/assets/files/1125/eadb-treaty-charter.pdf) |
-| East African Legislative Assembly | [Q5327657](https://www.wikidata.org/wiki/Q5327657) | [No code found.] | East African Community | [Treaty](https://www.eala.org/uploads/EAC_TREATY.pdf) |
+| East African Development Bank | [Q5327655](https://www.wikidata.org/wiki/Q5327655) | [bic-AFDEUGKA](https://www.opensanctions.org/entities/bic-AFDEUGKA/) | East African Community entities | [Treaty](https://eadb.org/site/assets/files/1125/eadb-treaty-charter.pdf) |
+| East African Legislative Assembly | [Q5327657](https://www.wikidata.org/wiki/Q5327657) | [No code found.] | East African Community entities | [Treaty](https://www.eala.org/uploads/EAC_TREATY.pdf) |
 | East Mediterranean Gas Forum | [Q97163711](https://www.wikidata.org/wiki/Q97163711) | [No code found.] | none | [Treaty](https://www.parliament.cy/images/media/redirectfile/EMGF%20signed%20Statute_%CE%9C%CE%AD%CF%81%CE%BF%CF%82%20%CE%99%20%CE%9D%CE%BF%CE%BC%CE%BF%CF%83%CF%87%CE%B5%CE%B4%CE%AF%CE%BF%CF%85.pdf) |
 | Eastern and Southern African Trade and Development Bank | [Q13657031](https://www.wikidata.org/wiki/Q13657031) | [bic-ESATKENA](https://www.opensanctions.org/entities/bic-ESATKENA/) | Common Market for Eastern and Southern Africa entities | [Treaty](https://www.tdbgroup.org/wp-content/uploads/2024/01/TDB-Charter-English-01.01.2024.pdf) |
 | Eastern Caribbean Central Bank | [Q1210260](https://www.wikidata.org/wiki/Q1210260) | [NK-YDpCtketszPUchCK72QJ9B](https://www.opensanctions.org/entities/NK-YDpCtketszPUchCK72QJ9B/) | Caribbean Community entities | [Treaty](https://www.eccb-centralbank.org/viewPDF/documents/2022-05-27-06-12-30-ECCB-Agreement.pdf) |
@@ -266,6 +267,7 @@ There are currently 578 international organisations in the table.
 | Financial Fund for the Development of the River Plate Basin | N/A | [bic-FOPLPYPA](https://www.opensanctions.org/entities/bic-FOPLPYPA/) | none | [Treaty](https://www.fonplata.org/sites/default/files/paginas-fonplata/archivos/EN%20-%20Constitutive%20Agreement%20%28Update%202018%29.pdf) |
 | Fishery Committee for the Eastern Central Atlantic | [Q12617572](https://www.wikidata.org/wiki/Q12617572) | [No code found.] | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Food and Agriculture Organization | [Q82151](https://www.wikidata.org/wiki/Q82151) | [NK-NuGLAXMYwi7QnLjQKKoByS](https://www.opensanctions.org/entities/NK-NuGLAXMYwi7QnLjQKKoByS/) | UN and affiliates | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
+| Foreign Trade Bank of Latin America | N/A | [NK-NjoQZZVSoGXPm4TyzPUw4A](https://www.opensanctions.org/entities/NK-NjoQZZVSoGXPm4TyzPUw4A/) | none | [www.sec.gov](https://www.sec.gov/Archives/edgar/data/890541/000162828023014194/R8.htm) |
 | Foyle, Carlingford and Irish Lights Commission | [Q98139786](https://www.wikidata.org/wiki/Q98139786) | [No code found.] | North South bodies | [www.northsouthministerialcouncil.org](https://www.northsouthministerialcouncil.org/north-south-implementation-bodies) |
 | Fund for responding to Loss and Damage | [Q131196928](https://www.wikidata.org/wiki/Q131196928) | [No code found.] | UN and affiliates | [Treaty](https://www.frld.org/sites/default/files/FRLD%20Governing%20Instrument.pdf) |
 | Fund for the Development of the Indigenous Peoples of Latin America and the Caribbean | [Q125689468](https://www.wikidata.org/wiki/Q125689468) | [No code found.] | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201728/volume-1728-I-30177-English.pdf) |
