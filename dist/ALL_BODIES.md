@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 579 international organisations in the table.
+There are currently 580 international organisations in the table.
 
 | English Name | Wikidata Code | OpenSanctions | Family | Source |
 |---|---|---|---|---|
@@ -267,6 +267,7 @@ There are currently 579 international organisations in the table.
 | Financial Fund for the Development of the River Plate Basin | N/A | [bic-FOPLPYPA](https://www.opensanctions.org/entities/bic-FOPLPYPA/) | none | [Treaty](https://www.fonplata.org/sites/default/files/paginas-fonplata/archivos/EN%20-%20Constitutive%20Agreement%20%28Update%202018%29.pdf) |
 | Fishery Committee for the Eastern Central Atlantic | [Q12617572](https://www.wikidata.org/wiki/Q12617572) | [No code found.] | UN and affiliates | [Statutory Bodies by subject matter](https://www.fao.org/unfao/govbodies/gsb-subject-matter/subject-matter/en/) |
 | Food and Agriculture Organization | [Q82151](https://www.wikidata.org/wiki/Q82151) | [NK-NuGLAXMYwi7QnLjQKKoByS](https://www.opensanctions.org/entities/NK-NuGLAXMYwi7QnLjQKKoByS/) | UN and affiliates | [www.un.org](https://www.un.org/Depts/ptd/about-us/un-organisations) |
+| Foreign Trade Bank of Latin America | N/A | [NK-NjoQZZVSoGXPm4TyzPUw4A](https://www.opensanctions.org/entities/NK-NjoQZZVSoGXPm4TyzPUw4A/) | none | [www.sec.gov](https://www.sec.gov/Archives/edgar/data/890541/000162828023014194/R8.htm) |
 | Foyle, Carlingford and Irish Lights Commission | [Q98139786](https://www.wikidata.org/wiki/Q98139786) | [No code found.] | North South bodies | [www.northsouthministerialcouncil.org](https://www.northsouthministerialcouncil.org/north-south-implementation-bodies) |
 | Fund for responding to Loss and Damage | [Q131196928](https://www.wikidata.org/wiki/Q131196928) | [No code found.] | UN and affiliates | [Treaty](https://www.frld.org/sites/default/files/FRLD%20Governing%20Instrument.pdf) |
 | Fund for the Development of the Indigenous Peoples of Latin America and the Caribbean | [Q125689468](https://www.wikidata.org/wiki/Q125689468) | [No code found.] | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201728/volume-1728-I-30177-English.pdf) |
