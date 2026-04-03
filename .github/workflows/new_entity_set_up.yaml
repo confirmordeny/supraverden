@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - dev
     paths:
       - 'data/general_list.yaml'
       - 'scripts/new_entity_setup.py'
