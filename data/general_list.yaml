@@ -13085,7 +13085,22 @@ Civil Aviation Safety and Security Oversight Agency:
   Abbreviation_other_en:
   Treaty_url: https://www.cassoa.org/wp-content/uploads/2019/01/EAC-Civil-Aviation-Act-2009.pdf
   Immunity_url: https://www.cassoa.org/wp-content/uploads/2019/01/EAC-Civil-Aviation-Act-2009.pdf
-  Source:
+  Source: https://www.icao.int/safety/regional-safety-cooperation/List-of-RSOOs
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+Foreign Trade Bank of Latin America:
+    SPRVD_id: SPRVD0540909
+    Entity_type: International organisation
+    Wikidata_code: '[No code found.]'
+    Org_family: none
+    Type:
+    Country: ZZ
+    Name_en: Foreign Trade Bank of Latin America
+    Abbreviation_en: Bladex
+    Treaty_url:
+    Immunity_url: https://docs.panama.justia.com/federales/leyes/38-de-1978-aug-4-1978.pdf
+    Source: https://www.sec.gov/Archives/edgar/data/890541/000162828023014194/R8.htm
+    OpenSanctions_id: NK-NjoQZZVSoGXPm4TyzPUw4A
+    Assessment_against_FATF_definition: Excluded
+    Basis_for_assessment: B42
