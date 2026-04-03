@@ -16,6 +16,7 @@ except ImportError as exc:  # pragma: no cover
 
 ALLOWED_REFERENCE_TYPES = {
     "Annual Report",
+    "Court Ruling",
     "International Standard",
     "Legislation",
     "Paper",
