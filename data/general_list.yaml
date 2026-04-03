@@ -497,6 +497,7 @@ Unified Patent Court:
   Name_ko: 통합특허법원
   Name_nl: Eengemaakt Octrooigerecht
   Name_sv: Enhetliga patentdomstolen
+  Name_ga: Cúirt Aontaithe na bPaitinní
 European Stability Mechanism:
   SPRVD_id: SPRVD0776943
   Wikidata_code: Q1130098
@@ -613,6 +614,10 @@ European Innovation Council and Small and Medium-sized Executive Agency:
   Name_pt: Agência Executiva para a Competitividade e a Inovação
   Name_zh: 中小企業執行局
   Website: https://eismea.ec.europa.eu/index_en
+  Name_ar: مجلس الابتكار الأوروبي والوكالة التنفيذية للمؤسسات الصغيرة والمتوسطة
+  Name_fi: Euroopan innovaationeuvoston ja pk-yritysasioiden toimeenpanovirasto
+  Name_it: Agenzia esecutiva per la competitività e l'innovazione
+  Name_nl: Uitvoerend Agentschap voor intelligente energie
 European Research Council Executive Agency:
   SPRVD_id: SPRVD0066386
   Wikidata_code: Q107641323
@@ -4663,6 +4668,8 @@ Regional Cooperation Agreement on Combating Piracy and Armed Robbery against Shi
   Immunity_url: https://www.mofa.go.jp/mofaj/gaiko/kaiyo/pdfs/kyotei_s.pdf
   Headquarters: Singapore, Singapore
   Name_zh: 亚洲反海盗及武装抢劫船只区域合作协定组织
+  Name_da: Regional Cooperation Agreement on Combating Piracy and Armed Robbery against Ships in Asia
+  Name_ja: アジア海賊対策地域協力協定
 Intergovernmental Council of Copper Exporting Countries:
   SPRVD_id: SPRVD0684935
   Wikidata_code: Q1023742
@@ -13003,10 +13010,10 @@ West African Monetary Agency:
   Type: Specialized agency of ECOWAS
   Country: ZZ
   Name_en: West African Monetary Agency
-  Name_other_en: 
-  Name_former_en:
+  Name_other_en: null
+  Name_former_en: null
   Abbreviation_en: WAMA
-  Abbreviation_former_en:
+  Abbreviation_former_en: null
   Treaty_url: https://amao-wama.org/wp-content/uploads/2025/08/Articles-of-Agreement.pdf
   Immunity_url: https://amao-wama.org/wp-content/uploads/2025/08/Articles-of-Agreement.pdf
   Source: https://amao-wama.org
@@ -13022,46 +13029,64 @@ West African Monetary Institute:
   Type: Specialized agency of ECOWAS
   Country: ZZ
   Name_en: West African Monetary Institute
-  Name_other_en: 
-  Name_former_en:
+  Name_other_en: null
+  Name_former_en: null
   Abbreviation_en: WAMI
-  Abbreviation_former_en:
+  Abbreviation_former_en: null
   Treaty_url: https://www.wami-imao.org/sites/default/files/2021-04/WAMI%20Statute.pdf
   Immunity_url: https://www.wami-imao.org/sites/default/files/2021-04/WAMI%20Statute.pdf
-  Source:
+  Source: null
   OpenSanctions_id: '[No code found.]'
   RIAD_code: N$0ECBM00743
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Website: https://www.wami-imao.org/
 European Investment Fund:
   SPRVD_id: SPRVD0703242
   Entity_type: International organisation
   Wikidata_code: Q768264
   Org_family: EU institutions and bodies
-  Type:
+  Type: null
   Country: ZZ
   Name_en: European Investment Fund
-  Name_other_en: 
-  Name_former_en:
-  Abbreviation_en:
-  Abbreviation_former_en:
-  Treaty_url:
+  Name_other_en: null
+  Name_former_en: null
+  Abbreviation_en: null
+  Abbreviation_former_en: null
+  Treaty_url: null
   Immunity_url: https://www.eif.org/files/governance/eif-statute.pdf
   Source: https://www.eib.org/en/products/equity/investment-funds/index
   OpenSanctions_id: NK-aJtLHESaxPrqhaLzKMQ3hz
   RIAD_code: E$0ECBM00452
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B27
+  Name_fr: Fonds européen d'investissement
+  Name_es: Fondo Europeo de Inversiones
+  Name_ar: صندوق الاستثمار الأوروبي
+  Name_de: Europäischer Investitionsfonds
+  Name_fi: Euroopan investointirahasto
+  Name_it: Fondo europeo per gli investimenti
+  Name_ja: 欧州投資基金
+  Name_ko: 유럽투자기금
+  Name_nl: Europees Investeringsfonds
+  Name_pl: Europejski Fundusz Inwestycyjny
+  Name_pt: Fundo Europeu de Investimento
+  Name_ro: Fondul European de Investiții
+  Name_ru: European Investment Fund
+  Name_tr: Avrupa Yatırım Fonu
+  Name_uk: Європейський інвестиційний фонд
+  Name_zh: 歐洲投資基金
+  Website: http://www.eif.org/
 United Nations Framework Convention for Climate Change secretariat:
   SPRVD_id: SPRVD0575348
   Entity_type: International organisation
   Wikidata_code: Q104150918
   Org_family: UN and affiliates
-  Type:
+  Type: null
   Country: ZZ
   Name_en: United Nations Framework Convention for Climate Change secretariat
-  Name_other_en: 
-  Name_former_en:
+  Name_other_en: null
+  Name_former_en: null
   Abbreviation_en: UNFCCC secretariat
   Abbreviation_other_en: UN Framework Convention for Climate Change secretariat
   Treaty_url: https://digitallibrary.un.org/record/218811?v=pdf
@@ -13071,18 +13096,19 @@ United Nations Framework Convention for Climate Change secretariat:
   RIAD_code: N$ECBM922997
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+  Website: https://unfccc.int/
 Civil Aviation Safety and Security Oversight Agency:
   SPRVD_id: SPRVD0233625
   Entity_type: International organisation
   Wikidata_code: Q5008878
   Org_family: East African Community entities
-  Type:
+  Type: null
   Country: ZZ
   Name_en: Civil Aviation Safety and Security Oversight Agency
-  Name_other_en: 
-  Name_former_en:
+  Name_other_en: null
+  Name_former_en: null
   Abbreviation_en: CASSOA
-  Abbreviation_other_en:
+  Abbreviation_other_en: null
   Treaty_url: https://www.cassoa.org/wp-content/uploads/2019/01/EAC-Civil-Aviation-Act-2009.pdf
   Immunity_url: https://www.cassoa.org/wp-content/uploads/2019/01/EAC-Civil-Aviation-Act-2009.pdf
   Source: https://www.icao.int/safety/regional-safety-cooperation/List-of-RSOOs
@@ -13090,17 +13116,17 @@ Civil Aviation Safety and Security Oversight Agency:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
 Foreign Trade Bank of Latin America:
-    SPRVD_id: SPRVD0540909
-    Entity_type: International organisation
-    Wikidata_code: '[No code found.]'
-    Org_family: none
-    Type:
-    Country: ZZ
-    Name_en: Foreign Trade Bank of Latin America
-    Abbreviation_en: Bladex
-    Treaty_url:
-    Immunity_url: https://docs.panama.justia.com/federales/leyes/38-de-1978-aug-4-1978.pdf
-    Source: https://www.sec.gov/Archives/edgar/data/890541/000162828023014194/R8.htm
-    OpenSanctions_id: NK-NjoQZZVSoGXPm4TyzPUw4A
-    Assessment_against_FATF_definition: Excluded
-    Basis_for_assessment: B42
+  SPRVD_id: SPRVD0540909
+  Entity_type: International organisation
+  Wikidata_code: '[No code found.]'
+  Org_family: none
+  Type: null
+  Country: ZZ
+  Name_en: Foreign Trade Bank of Latin America
+  Abbreviation_en: Bladex
+  Treaty_url: null
+  Immunity_url: https://docs.panama.justia.com/federales/leyes/38-de-1978-aug-4-1978.pdf
+  Source: https://www.sec.gov/Archives/edgar/data/890541/000162828023014194/R8.htm
+  OpenSanctions_id: NK-NjoQZZVSoGXPm4TyzPUw4A
+  Assessment_against_FATF_definition: Excluded
+  Basis_for_assessment: B42
