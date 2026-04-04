@@ -121,6 +121,7 @@
 - Central Bank of West African States
 - Central Commission for the Navigation of the Rhine
 - Centre on Integrated Rural Development for Asia and the Pacific
+- Cherenkov Telescope Array Observatory
 - Chips Joint Undertaking
 - Circular Bio-based Europe Joint Undertaking
 - Civil Aviation Safety and Security Oversight Agency
@@ -376,6 +377,7 @@
 - International Commission on Civil Status
 - International Commission on Missing Persons
 - International Committee of Military Medicine
+- International Committee of the Red Cross
 - International Copper Study Group
 - International Cospas-Sarsat Programme
 - International Cotton Advisory Committee
