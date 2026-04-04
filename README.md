@@ -11,6 +11,7 @@ The data can be viewed on a website here: [supraverden.com](https://www.supraver
 ## Main outputs
 * [All bodies](dist/ALL_BODIES.md)
 * [Alphabetical list of names of international organisations in English](dist/ENGLISH_A_TO_Z_LIST.md)
+* [Extended alphabetical list of English names, former names, other names and abbreviations](dist/ENGLISH_EXTENDED_A_TO_Z_LIST.md)
 * [Organisation families](dist/ORG_FAMILIES.md)
 
 ## Documentation
