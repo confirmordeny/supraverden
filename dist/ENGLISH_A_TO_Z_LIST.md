@@ -185,6 +185,7 @@
 - East Mediterranean Gas Forum
 - Eastern and Southern African Trade and Development Bank
 - Eastern Caribbean Central Bank
+- Eastern Caribbean Civil Aviation Authority
 - Eastern Caribbean Supreme Court
 - Economic and Social Commission for Asia and the Pacific
 - Economic and Social Commission for Western Asia

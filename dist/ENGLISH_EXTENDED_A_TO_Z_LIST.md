@@ -294,6 +294,7 @@ This list includes current English names, former English names, other English na
 - Council of Legal Education (Other name: Caribbean Council of Legal Education)
 - Council of ministers (Other name: Council of the European Union)
 - Council of the Baltic Sea States
+- Council of the Entente (Other name: Conseil de l'Entente)
 - Council of the EU (Other name: Council of the European Union)
 - Council of the European Union
 - Court of Conciliation and Arbitration
@@ -314,6 +315,7 @@ This list includes current English names, former English names, other English na
 - CTBTO (Abbreviation: Comprehensive Nuclear-Test-Ban Treaty Organisation)
 - CTBTO (Abbreviation: Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organization)
 - CTU (Abbreviation: Caribbean Telecommunications Union)
+- Customs Co-operation Council (Other name: World Customs Organisation)
 - CXC (Abbreviation: Caribbean Examinations Council)
 
 [↑ Back to Top](#top)
@@ -344,6 +346,7 @@ This list includes current English names, former English names, other English na
 - East Mediterranean Gas Forum
 - Eastern and Southern African Trade and Development Bank
 - Eastern Caribbean Central Bank
+- Eastern Caribbean Civil Aviation Authority
 - Eastern Caribbean Supreme Court
 - EastMed Gas Forum (Abbreviation: East Mediterranean Gas Forum)
 - EBA (Abbreviation: European Banking Authority)
@@ -351,6 +354,7 @@ This list includes current English names, former English names, other English na
 - ECA (Abbreviation: Economic Commission for Africa)
 - ECA (Abbreviation: European Court of Auditors)
 - ECB (Abbreviation: European Central Bank)
+- ECCAA (Abbreviation: Eastern Caribbean Civil Aviation Authority)
 - ECCB (Abbreviation: Eastern Caribbean Central Bank)
 - ECCC (Abbreviation: European Cybersecurity Competence Centre)
 - ECDC (Abbreviation: European Centre for Disease Prevention and Control)
@@ -574,6 +578,7 @@ This list includes current English names, former English names, other English na
 - Gas Exporting Countries Forum
 - GCC (Abbreviation: Cooperation Council for the Arab States of the Gulf)
 - General Fisheries Commission for the Mediterranean
+- General Secretariat of the Central American Integration System (Other name: Central American Integration System)
 - GEPLACEA (Abbreviation: Group of Latin American and Caribbean Sugar Exporting Countries)
 - GFCM (Abbreviation: General Fisheries Commission for the Mediterranean)
 - GGGI (Abbreviation: Global Green Growth Institute)
@@ -973,6 +978,7 @@ This list includes current English names, former English names, other English na
 - PJTC (Abbreviation: Permanent Joint Technical Commission for Nile Waters)
 - Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organization
 - Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organisation (Other name: Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organization)
+- PTA Bank (Former name: Eastern and Southern African Trade and Development Bank)
 
 [↑ Back to Top](#top)
 
@@ -1004,6 +1010,7 @@ This list includes current English names, former English names, other English na
 - Secretariat of the BBNJ Agreement
 - Secretariat of the Central European Free Trade Agreement
 - Secretariat of the Convention on Biological Diversity
+- Secretariat of the United Nations Framework Convention on Climate Change (Other name: United Nations Framework Convention for Climate Change secretariat)
 - SELA (Abbreviation: Latin American and the Caribbean Economic System)
 - SESAME (Abbreviation: International Centre for Synchrotron-Light for Experimental Science Applications in the Middle East)
 - SESAR 3 Joint Undertaking
@@ -1041,6 +1048,7 @@ This list includes current English names, former English names, other English na
 
 ## T
 
+- TDB (Abbreviation: Eastern and Southern African Trade and Development Bank)
 - The European Joint Undertaking for ITER and the Development of (Other name: Fusion for Energy Joint Undertaking)
 - Tourism Ireland
 - Translation Centre for the Bodies of the European Union
@@ -1063,9 +1071,11 @@ This list includes current English names, former English names, other English na
 - UN Environment Programme (Other name: United Nations Environment Programme)
 - UN Forum on Forests (Other name: United Nations Forum on Forests)
 - UN Framework Convention for Climate Change secretariat (Other abbreviation: United Nations Framework Convention for Climate Change secretariat)
+- UN Framework Convention on Climate Change (Other name: United Nations Framework Convention for Climate Change secretariat)
 - UN General Assembly (Other name: United Nations General Assembly)
 - UN Industrial Development Organization (Other name: United Nations Industrial Development Organization)
 - UN Institute for Disarmament Research (Other name: United Nations Institute for Disarmament Research)
+- UN Institute for Training and Research (Other abbreviation: United Nations Institute for Training and Research)
 - UN Interregional Crime and Justice Research Institute (Other name: United Nations Interregional Crime and Justice Research Institute)
 - UN Office for Project Services (Other name: United Nations Office for Project Services)
 - UN Peacebuilding Commission (Other name: United Nations Peacebuilding Commission)
@@ -1126,6 +1136,7 @@ This list includes current English names, former English names, other English na
 - United Nations Environment Programme
 - United Nations Forum on Forests
 - United Nations Framework Convention for Climate Change secretariat
+- United Nations Framework Convention on Climate Change (Other name: United Nations Framework Convention for Climate Change secretariat)
 - United Nations General Assembly
 - United Nations Human Rights Council
 - United Nations Human Settlements Programme
@@ -1133,6 +1144,7 @@ This list includes current English names, former English names, other English na
 - United Nations Institute for Disarmament Research
 - United Nations Institute for Training and Research
 - United Nations Interregional Crime and Justice Research Institute
+- United Nations Joint Staff Pension Board (Other name: United Nations Joint Staff Pension Fund)
 - United Nations Joint Staff Pension Fund
 - United Nations Office for Project Services
 - United Nations Peacebuilding Commission
