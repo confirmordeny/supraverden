@@ -7758,7 +7758,8 @@ Eastern and Southern African Trade and Development Bank:
   Org_family: Common Market for Eastern and Southern Africa entities
   Country: ZZ
   Name_en: Eastern and Southern African Trade and Development Bank
-  Abbreviation_en: null
+  Name_former_en: PTA Bank
+  Abbreviation_en: TDB
   Treaty_url: https://www.tdbgroup.org/wp-content/uploads/2024/01/TDB-Charter-English-01.01.2024.pdf
   Name_es: Banco Africano de Desarrollo y Comercio del Este y Sureste
   OpenSanctions_id: bic-ESATKENA
@@ -7766,6 +7767,7 @@ Eastern and Southern African Trade and Development Bank:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.tdbgroup.org/wp-content/uploads/2024/01/TDB-Charter-English-01.01.2024.pdf
+  Source: https://www.tdbgroup.org/history/
   Year_established: 1985
   LEI: 2138004HC83AB2ENIZ64
   LEI_jurisdiction: MU
