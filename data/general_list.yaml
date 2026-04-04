@@ -3767,7 +3767,7 @@ Commonwealth Secretariat:
   Name_uk: Секретаріат Співдружності
   Name_zh: 英联邦秘书处
   Website: http://thecommonwealth.org/
-Commonwealth Secretariat Aribtral Tribunal:
+Commonwealth Secretariat Arbitral Tribunal:
   SPRVD_id: SPRVD0230217
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -3777,6 +3777,7 @@ Commonwealth Secretariat Aribtral Tribunal:
   Abbreviation_en: CSAT
   Treaty_url: https://production-new-commonwealth-files.s3.eu-west-2.amazonaws.com/s3fs-public/2022-02/Tribunal%20(amended)%20Statute%20adopted%2028%20May%202015.pdf?VersionId=HtqpX3_CbRLaeLjziV6JrsAQv71Z1eba
   Source: https://thecommonwealth.org/tribunal
+  Source_2: https://www.legislation.gov.uk/ukpga/2005/20/section/2
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
@@ -4281,6 +4282,7 @@ World Customs Organisation:
   Org_family: none
   Country: ZZ
   Name_en: World Customs Organisation
+  Name_other_en: Customs Co-operation Council
   Abbreviation_en: null
   Treaty_url: https://www.wcoomd.org/-/media/wco/public/global/pdf/about-us/legal-instruments/conventions-and-agreements/ccc/convccc.pdf?la=en
   Name_fr: Organisation mondiale des douanes
@@ -5027,6 +5029,7 @@ Central American Integration System:
   Org_family: Central American Integration System entities
   Country: ZZ
   Name_en: Central American Integration System
+  Name_other_en: General Secretariat of the Central American Integration System
   Abbreviation_en: null
   Treaty_url: https://www.sica.int/busqueda/busqueda_archivo.aspx?Archivo=prot_320_1_04052005.htm
   Name_fr: système d'intégration centraméricain
@@ -6036,6 +6039,7 @@ Conseil de l'Entente:
   Org_family: none
   Country: ZZ
   Name_en: Conseil de l'Entente
+  Name_other_en: Council of the Entente
   Abbreviation_en: null
   Treaty_url: http://www.conseildelentente.org/images/pdf/charte/charte_du_conseil_de_lentente.pdf
   Name_fr: Conseil de l'Entente
@@ -7779,7 +7783,8 @@ Eastern and Southern African Trade and Development Bank:
   Org_family: Common Market for Eastern and Southern Africa entities
   Country: ZZ
   Name_en: Eastern and Southern African Trade and Development Bank
-  Abbreviation_en: null
+  Name_former_en: PTA Bank
+  Abbreviation_en: TDB
   Treaty_url: https://www.tdbgroup.org/wp-content/uploads/2024/01/TDB-Charter-English-01.01.2024.pdf
   Name_es: Banco Africano de Desarrollo y Comercio del Este y Sureste
   OpenSanctions_id: bic-ESATKENA
@@ -7787,6 +7792,7 @@ Eastern and Southern African Trade and Development Bank:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
   Immunity_url: https://www.tdbgroup.org/wp-content/uploads/2024/01/TDB-Charter-English-01.01.2024.pdf
+  Source: https://www.tdbgroup.org/history/
   Year_established: 1985
   LEI: 2138004HC83AB2ENIZ64
   LEI_jurisdiction: MU
@@ -8138,6 +8144,7 @@ Central Bank of West African States:
   Org_family: West African Economic and Monetary Union
   Country: ZZ
   Name_en: Central Bank of West African States
+  Nane_other_en: West African Central Bank
   Abbreviation_en: BCEAO
   Treaty_url: https://edit.wti.org/document/show/pdf/57ce5bd9-ef38-4a1d-abd5-ed07f1f155bf
   Name_fr: Banque centrale des États de l'Afrique de l'Ouest
@@ -10494,6 +10501,7 @@ United Nations Children’s Fund:
   Org_family: UN and affiliates
   Country: ZZ
   Name_en: United Nations Children’s Fund
+  Name_other_en: United Nations Children's Fund
   Leadership_role_en: Executive Director of UNICEF
   Leadership_role_Wikidata_code: Q67199671
   Name_fr: null
@@ -10600,6 +10608,7 @@ Office of the United Nations High Commissioner for Refugees:
   Org_family: UN and affiliates
   Country: ZZ
   Name_en: Office of the United Nations High Commissioner for Refugees
+  Name_other_en: United Nations High Commissioner for Refugees
   Leadership_role_en: United Nations High Commissioner for Refugees
   Leadership_role_Wikidata_code: Q27832358
   Name_fr: null
@@ -10682,6 +10691,7 @@ United Nations World Food Programme:
   Org_family: UN and affiliates
   Country: ZZ
   Name_en: United Nations World Food Programme
+  Name_other_en:  World Food Programme
   Name_fr: Programme alimentaire mondial
   Abbreviation_en: WFP
   Abbreviation_fr: null
@@ -11664,6 +11674,7 @@ United Nations Human Settlements Programme:
   Org_family: UN and affiliates
   Country: ZZ
   Name_en: United Nations Human Settlements Programme
+  Name_other_en: UN Human Settlements Programme
   Name_fr: Programme des Nations unies pour les établissements humains
   Abbreviation_en: UN-HABITAT
   Abbreviation_fr: null
@@ -11731,6 +11742,7 @@ United Nations Volunteers:
   Org_family: UN and affiliates
   Country: ZZ
   Name_en: United Nations Volunteers
+  Name_other_en: United Nations Volunteers Programme
   Name_fr: Volontaires des Nations unies
   Abbreviation_en: UNV
   Abbreviation_fr: null
@@ -11928,6 +11940,7 @@ United Nations Institute for Training and Research:
   Name_en: United Nations Institute for Training and Research
   Name_fr: Institut des Nations unies pour la formation et la recherche
   Abbreviation_en: UNITAR
+  Abbreviation_other_en: UN Institute for Training and Research
   Abbreviation_fr: null
   Name_other_en: null
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
@@ -12413,7 +12426,7 @@ United Nations Joint Staff Pension Fund:
   Name_fr: Caisse commune des pensions du personnel des Nations Unies
   Abbreviation_en: UNJSPF
   Abbreviation_fr: null
-  Name_other_en: null
+  Name_other_en: United Nations Joint Staff Pension Board
   Source: https://www.un.org/internaljustice/oaj/en/united-nations-joint-staff-pension-fund-unjspf
   Name_es: Caja Común de Pensiones del Personal de las Naciones Unidas
   OpenSanctions_id: NK-43DMmwFqwbXZHDFcovCyWF
@@ -13134,7 +13147,9 @@ United Nations Framework Convention for Climate Change secretariat:
   Type: null
   Country: ZZ
   Name_en: United Nations Framework Convention for Climate Change secretariat
-  Name_other_en: null
+  Name_other_en: United Nations Framework Convention on Climate Change
+  Name_other_1_en: Secretariat of the United Nations Framework Convention on Climate Change
+  Name_other_2_en: UN Framework Convention on Climate Change
   Name_former_en: null
   Abbreviation_en: UNFCCC secretariat
   Abbreviation_other_en: UN Framework Convention for Climate Change secretariat
@@ -13214,3 +13229,18 @@ Cherenkov Telescope Array Observatory:
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B44
   Website: https://www.ctao.org
+Eastern Caribbean Civil Aviation Authority:
+  SPRVD_id: SPRVD0753560
+  Entity_type: International organisation
+  Wikidata_code: Q5330038
+  Org_family:
+  Type:
+  Country: ZZ
+  Name_en: Eastern Caribbean Civil Aviation Authority
+  Abbreviation_en: ECCAA
+  Treaty_url: https://laws.gov.ag/wp-content/uploads/2018/08/a2003-24.pdf
+  Immunity_url: https://laws.gov.ag/wp-content/uploads/2018/08/a2003-24.pdf
+  Source:
+  OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
