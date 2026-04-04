@@ -3742,7 +3742,7 @@ Commonwealth Secretariat:
   Name_uk: Секретаріат Співдружності
   Name_zh: 英联邦秘书处
   Website: http://thecommonwealth.org/
-Commonwealth Secretariat Aribtral Tribunal:
+Commonwealth Secretariat Arbitral Tribunal:
   SPRVD_id: SPRVD0230217
   Wikidata_code: '[No code found.]'
   Entity_type: International organisation
@@ -3752,6 +3752,7 @@ Commonwealth Secretariat Aribtral Tribunal:
   Abbreviation_en: CSAT
   Treaty_url: https://production-new-commonwealth-files.s3.eu-west-2.amazonaws.com/s3fs-public/2022-02/Tribunal%20(amended)%20Statute%20adopted%2028%20May%202015.pdf?VersionId=HtqpX3_CbRLaeLjziV6JrsAQv71Z1eba
   Source: https://thecommonwealth.org/tribunal
+  Source_2: https://www.legislation.gov.uk/ukpga/2005/20/section/2
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
@@ -10555,6 +10556,7 @@ Office of the United Nations High Commissioner for Refugees:
   Org_family: UN and affiliates
   Country: ZZ
   Name_en: Office of the United Nations High Commissioner for Refugees
+  Name_other_en: United Nations High Commissioner for Refugees
   Leadership_role_en: United Nations High Commissioner for Refugees
   Leadership_role_Wikidata_code: Q27832358
   Name_fr: null
@@ -11885,6 +11887,7 @@ United Nations Institute for Training and Research:
   Name_en: United Nations Institute for Training and Research
   Name_fr: Institut des Nations unies pour la formation et la recherche
   Abbreviation_en: UNITAR
+  Abbreviation_other_en: UN Institute for Training and Research
   Abbreviation_fr: null
   Name_other_en: null
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
