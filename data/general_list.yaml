@@ -4256,6 +4256,7 @@ World Customs Organisation:
   Org_family: none
   Country: ZZ
   Name_en: World Customs Organisation
+  Name_other_en: Customs Co-operation Council
   Abbreviation_en: null
   Treaty_url: https://www.wcoomd.org/-/media/wco/public/global/pdf/about-us/legal-instruments/conventions-and-agreements/ccc/convccc.pdf?la=en
   Name_fr: Organisation mondiale des douanes
@@ -5002,6 +5003,7 @@ Central American Integration System:
   Org_family: Central American Integration System entities
   Country: ZZ
   Name_en: Central American Integration System
+  Name_other_en: General Secretariat of the Central American Integration System
   Abbreviation_en: null
   Treaty_url: https://www.sica.int/busqueda/busqueda_archivo.aspx?Archivo=prot_320_1_04052005.htm
   Name_fr: système d'intégration centraméricain
@@ -6011,6 +6013,7 @@ Conseil de l'Entente:
   Org_family: none
   Country: ZZ
   Name_en: Conseil de l'Entente
+  Name_other_en: Council of the Entente
   Abbreviation_en: null
   Treaty_url: http://www.conseildelentente.org/images/pdf/charte/charte_du_conseil_de_lentente.pdf
   Name_fr: Conseil de l'Entente
@@ -8113,6 +8116,7 @@ Central Bank of West African States:
   Org_family: West African Economic and Monetary Union
   Country: ZZ
   Name_en: Central Bank of West African States
+  Nane_other_en: West African Central Bank
   Abbreviation_en: BCEAO
   Treaty_url: https://edit.wti.org/document/show/pdf/57ce5bd9-ef38-4a1d-abd5-ed07f1f155bf
   Name_fr: Banque centrale des États de l'Afrique de l'Ouest
@@ -10444,6 +10448,7 @@ United Nations Children’s Fund:
   Org_family: UN and affiliates
   Country: ZZ
   Name_en: United Nations Children’s Fund
+  Name_other_en: United Nations Children's Fund
   Leadership_role_en: Executive Director of UNICEF
   Leadership_role_Wikidata_code: Q67199671
   Name_fr: null
@@ -10632,6 +10637,7 @@ United Nations World Food Programme:
   Org_family: UN and affiliates
   Country: ZZ
   Name_en: United Nations World Food Programme
+  Name_other_en:  World Food Programme
   Name_fr: Programme alimentaire mondial
   Abbreviation_en: WFP
   Abbreviation_fr: null
@@ -11613,6 +11619,7 @@ United Nations Human Settlements Programme:
   Org_family: UN and affiliates
   Country: ZZ
   Name_en: United Nations Human Settlements Programme
+  Name_other_en: UN Human Settlements Programme
   Name_fr: Programme des Nations unies pour les établissements humains
   Abbreviation_en: UN-HABITAT
   Abbreviation_fr: null
@@ -12363,7 +12370,7 @@ United Nations Joint Staff Pension Fund:
   Name_fr: Caisse commune des pensions du personnel des Nations Unies
   Abbreviation_en: UNJSPF
   Abbreviation_fr: null
-  Name_other_en: null
+  Name_other_en: United Nations Joint Staff Pension Board
   Source: https://www.un.org/internaljustice/oaj/en/united-nations-joint-staff-pension-fund-unjspf
   Name_es: Caja Común de Pensiones del Personal de las Naciones Unidas
   OpenSanctions_id: NK-43DMmwFqwbXZHDFcovCyWF
@@ -13084,7 +13091,9 @@ United Nations Framework Convention for Climate Change secretariat:
   Type: null
   Country: ZZ
   Name_en: United Nations Framework Convention for Climate Change secretariat
-  Name_other_en: null
+  Name_other_en: United Nations Framework Convention on Climate Change
+  Name_other_1_en: Secretariat of the United Nations Framework Convention on Climate Change
+  Name_other_2_en: UN Framework Convention on Climate Change
   Name_former_en: null
   Abbreviation_en: UNFCCC secretariat
   Abbreviation_other_en: UN Framework Convention for Climate Change secretariat
@@ -13162,3 +13171,4 @@ Cherenkov Telescope Array Observatory:
     OpenSanctions_id: '[No code found.]'
     Assessment_against_FATF_definition: Included
     Basis_for_assessment: B44
+**New**
