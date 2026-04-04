@@ -13146,18 +13146,18 @@ International Committee of the Red Cross:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B43
-  [Name]:
+Cherenkov Telescope Array Observatory:
     SPRVD_id: SPRVD0638357
     Entity_type: International organisation
-    Wikidata_code:
-    Org_family:
-    Type:
+    Wikidata_code: Q1070229
+    Org_family: EU institutions and bodies
+    Type: European Research Infrastructure Consortium
     Country: ZZ
-    Name_en:
-    Abbreviation_en:
+    Name_en: Cherenkov Telescope Array Observatory
+    Abbreviation_en: CTAO ERIC
     Treaty_url:
     Immunity_url:
-    Source:
-    OpenSanctions_id:
-    Assessment_against_FATF_definition:
-    Basis_for_assessment:
+    Source: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:C_202500211
+    OpenSanctions_id: '[No code found.]'
+    Assessment_against_FATF_definition: Included
+    Basis_for_assessment: B44
