@@ -13176,18 +13176,18 @@ Cherenkov Telescope Array Observatory:
     OpenSanctions_id: '[No code found.]'
     Assessment_against_FATF_definition: Included
     Basis_for_assessment: B44
-[Name]:
+Eastern Caribbean Civil Aviation Authority:
   SPRVD_id: SPRVD0753560
   Entity_type: International organisation
-  Wikidata_code:
+  Wikidata_code: Q5330038
   Org_family:
   Type:
   Country: ZZ
-  Name_en:
-  Abbreviation_en:
-  Treaty_url:
-  Immunity_url:
+  Name_en: Eastern Caribbean Civil Aviation Authority
+  Abbreviation_en: ECCAA
+  Treaty_url: https://laws.gov.ag/wp-content/uploads/2018/08/a2003-24.pdf
+  Immunity_url: https://laws.gov.ag/wp-content/uploads/2018/08/a2003-24.pdf
   Source:
-  OpenSanctions_id:
-  Assessment_against_FATF_definition:
-  Basis_for_assessment:
+  OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
