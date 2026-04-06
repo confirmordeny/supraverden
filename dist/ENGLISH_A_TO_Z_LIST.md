@@ -121,6 +121,7 @@
 - Central Bank of West African States
 - Central Commission for the Navigation of the Rhine
 - Centre on Integrated Rural Development for Asia and the Pacific
+- Cherenkov Telescope Array Observatory
 - Chips Joint Undertaking
 - Circular Bio-based Europe Joint Undertaking
 - Civil Aviation Safety and Security Oversight Agency
@@ -184,6 +185,7 @@
 - East Mediterranean Gas Forum
 - Eastern and Southern African Trade and Development Bank
 - Eastern Caribbean Central Bank
+- Eastern Caribbean Civil Aviation Authority
 - Eastern Caribbean Supreme Court
 - Economic and Social Commission for Asia and the Pacific
 - Economic and Social Commission for Western Asia
@@ -376,6 +378,7 @@
 - International Commission on Civil Status
 - International Commission on Missing Persons
 - International Committee of Military Medicine
+- International Committee of the Red Cross
 - International Copper Study Group
 - International Cospas-Sarsat Programme
 - International Cotton Advisory Committee
