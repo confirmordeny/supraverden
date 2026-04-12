@@ -13167,12 +13167,15 @@ Cherenkov Telescope Array Observatory:
     Wikidata_code: Q1070229
     Org_family: EU institutions and bodies
     Type: European Research Infrastructure Consortium
-    Country: ZZ
+    Country: EU
     Name_en: Cherenkov Telescope Array Observatory
     Abbreviation_en: CTAO ERIC
     Treaty_url:
     Immunity_url:
     Source: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:C_202500211
+    Source_2: https://eur-lex.europa.eu/eli/reg/2009/723/oj/eng
+    Source_3: https://web.archive.org/web/20260228012133/https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/eric/eric-landscape_en
+    Source_4: https://www.gov.uk/hmrc-internal-manuals/diplomatic-privileges/dippriv7100
     OpenSanctions_id: '[No code found.]'
     Assessment_against_FATF_definition: Included
     Basis_for_assessment: B44
@@ -13191,3 +13194,594 @@ Eastern Caribbean Civil Aviation Authority:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+European Plate Observing System:
+  SPRVD_id: SPRVD0544036
+  Entity_type: International organisation
+  Wikidata_code: Q111431904
+  Org_family: EU institutions and bodies
+  Type: European Research Infrastructure Consortium
+  Country: EU
+  Name_en: European Plate Observing System
+  Name_other_en: European Plate Observing System European Research Infrastructure Consortium
+  Name_other_2_en: European Plate Observing System ERIC
+  Abbreviation_en: EPOS ERIC
+  Abbreviation_other_en: EPOS
+  Treaty_url:
+  Immunity_url:
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018Y1123(01)
+  Source_2: https://eur-lex.europa.eu/eli/reg/2009/723/oj/eng
+  Source_3: https://web.archive.org/web/20260228012133/https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/eric/eric-landscape_en
+  Source_4: https://www.gov.uk/hmrc-internal-manuals/diplomatic-privileges/dippriv7100
+  OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B44
+Aerosol, Clouds and Trace Gases Research Infrastructure:
+  Entity_type: International organisation
+  Wikidata_code: Q133811902
+  Org_family: EU institutions and bodies
+  Type: European Research Infrastructure Consortium
+  Country: EU
+  Name_en: Aerosol, Clouds and Trace Gases Research Infrastructure
+  Name_other_en: Aerosol, Clouds and Trace Gases Research Infrastructure European Research Infrastructure Consortium
+  Name_other_2_en: Aerosol, Clouds and Trace Gases Research Infrastructure ERIC
+  Abbreviation_en: ACTRIS
+  Abbreviation_other_en: ACTRIS ERIC
+  Abbreviation_other_2_en: 
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AJOC_2023_156_R_0002&qid=1683103665359
+  Source_2: https//eur-lex.europa.eu/eli/reg/2009/723/oj/eng
+  Source_3: https://web.archive.org/web/20260228012133/https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/eric/eric-landscape_en
+  Source_4: https://www.gov.uk/hmrc-internal-manuals/diplomatic-privileges/dippriv7100
+  OpenSanctions_id: [No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B44
+Analysis and Experimentation on Ecosystems:
+  Entity_type: International organisation
+  Wikidata_code: Q123695001
+  Org_family: EU institutions and bodies
+  Type: European Research Infrastructure Consortium
+  Country: EU
+  Name_en: Analysis and Experimentation on Ecosystems
+  Name_other_en: Analysis and Experimentation on Ecosystems European Research Infrastructure Consortium
+  Name_other_2_en: Analysis and Experimentation on Ecosystems ERIC
+  Abbreviation_en: AnaEE
+  Abbreviation_other_en: AnaEE ERIC
+  Abbreviation_other_2_en: AnaEE-ERIC
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:JOC_2022_088_R_0001
+  Source_2: https//eur-lex.europa.eu/eli/reg/2009/723/oj/eng
+  Source_3: https://web.archive.org/web/20260228012133/https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/eric/eric-landscape_en
+  Source_4: https://www.gov.uk/hmrc-internal-manuals/diplomatic-privileges/dippriv7101
+  OpenSanctions_id: [No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B44
+Biobanking and Biomolecular Resources Research Infrastructure:
+  Entity_type: International organisation
+  Wikidata_code: Q30294972
+  Org_family: EU institutions and bodies
+  Type: European Research Infrastructure Consortium
+  Country: EU
+  Name_en: Biobanking and Biomolecular Resources Research Infrastructure
+  Name_other_en: Biobanking and Biomolecular Resources Research Infrastructure European Research Infrastructure Consortium
+  Name_other_2_en: Biobanking and Biomolecular Resources Research Infrastructure ERIC
+  Abbreviation_en: BBMRI
+  Abbreviation_other_en: BBMRI ERIC
+  Abbreviation_other_2_en: BBMRI-ERIC
+  Source: https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:320:0063:0080:EN:PDF
+  Source_2: https//eur-lex.europa.eu/eli/reg/2009/723/oj/eng
+  Source_3: https://web.archive.org/web/20260228012133/https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/eric/eric-landscape_en
+  Source_4: https://www.gov.uk/hmrc-internal-manuals/diplomatic-privileges/dippriv7102
+  OpenSanctions_id: [No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B44
+Central European Research Infrastructure Consortium:
+  Entity_type: International organisation
+  Wikidata_code: Q47519380
+  Org_family: EU institutions and bodies
+  Type: European Research Infrastructure Consortium
+  Country: EU
+  Name_en: Central European Research Infrastructure Consortium
+  Name_other_en: Central European Research Infrastructure Consortium European Research Infrastructure Consortium
+  Name_other_2_en: Central European Research Infrastructure Consortium ERIC
+  Abbreviation_en: CERIC
+  Abbreviation_other_en: CERIC ERIC
+  Abbreviation_other_2_en: CERIC-ERIC
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_184_R_0010&from=EN
+  Source_2: https//eur-lex.europa.eu/eli/reg/2009/723/oj/eng
+  Source_3: https://web.archive.org/web/20260228012133/https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/eric/eric-landscape_en
+  Source_4: https://www.gov.uk/hmrc-internal-manuals/diplomatic-privileges/dippriv7103
+  OpenSanctions_id: [No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B44
+Consortium of European Social Science Data Archives:
+  Entity_type: International organisation
+  Wikidata_code: Q19372318
+  Org_family: EU institutions and bodies
+  Type: European Research Infrastructure Consortium
+  Country: EU
+  Name_en: Consortium of European Social Science Data Archives
+  Name_other_en: Consortium of European Social Science Data Archives European Research Infrastructure Consortium
+  Name_other_2_en: Consortium of European Social Science Data Archives ERIC
+  Abbreviation_en: CESSDA
+  Abbreviation_other_en: CESSDA ERIC
+  Abbreviation_other_2_en: 
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017D0995
+  Source_2: https//eur-lex.europa.eu/eli/reg/2009/723/oj/eng
+  Source_3: https://web.archive.org/web/20260228012133/https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/eric/eric-landscape_en
+  Source_4: https://www.gov.uk/hmrc-internal-manuals/diplomatic-privileges/dippriv7104
+  OpenSanctions_id: [No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B44
+Common Language Resources and Technology Infrastructure:
+  Entity_type: International organisation
+  Wikidata_code: Q2986825
+  Org_family: EU institutions and bodies
+  Type: European Research Infrastructure Consortium
+  Country: EU
+  Name_en: Common Language Resources and Technology Infrastructure
+  Name_other_en: Common Language Resources and Technology Infrastructure European Research Infrastructure Consortium
+  Name_other_2_en: Common Language Resources and Technology Infrastructure ERIC
+  Abbreviation_en: CLARIN
+  Abbreviation_other_en: CLARIN ERIC
+  Abbreviation_other_2_en: 
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012D0136
+  Source_2: https//eur-lex.europa.eu/eli/reg/2009/723/oj/eng
+  Source_3: https://web.archive.org/web/20260228012133/https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/eric/eric-landscape_en
+  Source_4: https://www.gov.uk/hmrc-internal-manuals/diplomatic-privileges/dippriv7105
+  OpenSanctions_id: [No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B44
+International Centre for Advanced Science on River-Sea Systems:
+  Entity_type: International organisation
+  Wikidata_code: [No code found.]'
+  Org_family: EU institutions and bodies
+  Type: European Research Infrastructure Consortium
+  Country: EU
+  Name_en: International Centre for Advanced Science on River-Sea Systems
+  Name_other_en: International Centre for Advanced Science on River-Sea Systems European Research Infrastructure Consortium
+  Name_other_2_en: International Centre for Advanced Science on River-Sea Systems ERIC
+  Abbreviation_en: DANUBIUS
+  Abbreviation_other_en: DANUBIUS ERIC
+  Abbreviation_other_2_en: DANUBIUS-ERIC
+  Source: 
+  Source_2: https//eur-lex.europa.eu/eli/reg/2009/723/oj/eng
+  Source_3: https://web.archive.org/web/20260228012133/https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/eric/eric-landscape_en
+  Source_4: https://www.gov.uk/hmrc-internal-manuals/diplomatic-privileges/dippriv7106
+  OpenSanctions_id: [No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B44
+Digital Research Infrastructure for the Arts and Humanities:
+  Entity_type: International organisation
+  Wikidata_code: Q49103279
+  Org_family: EU institutions and bodies
+  Type: European Research Infrastructure Consortium
+  Country: EU
+  Name_en: Digital Research Infrastructure for the Arts and Humanities
+  Name_other_en: Digital Research Infrastructure for the Arts and Humanities European Research Infrastructure Consortium
+  Name_other_2_en: Digital Research Infrastructure for the Arts and Humanities ERIC
+  Abbreviation_en: DARIAH
+  Abbreviation_other_en: DARIAH ERIC
+  Abbreviation_other_2_en: 
+  Source: https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=celex:32014D0526
+  Source_2: https//eur-lex.europa.eu/eli/reg/2009/723/oj/eng
+  Source_3: https://web.archive.org/web/20260228012133/https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/eric/eric-landscape_en
+  Source_4: https://www.gov.uk/hmrc-internal-manuals/diplomatic-privileges/dippriv7107
+  OpenSanctions_id: [No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B44
+European Advanced Translational Research Infrastructure:
+  Entity_type: International organisation
+  Wikidata_code: Q81805283
+  Org_family: EU institutions and bodies
+  Type: European Research Infrastructure Consortium
+  Country: EU
+  Name_en: European Advanced Translational Research Infrastructure
+  Name_other_en: European Advanced Translational Research Infrastructure European Research Infrastructure Consortium
+  Name_other_2_en: European Advanced Translational Research Infrastructure ERIC
+  Abbreviation_en: EATRIS
+  Abbreviation_other_en: EATRIS ERIC
+  Abbreviation_other_2_en: EATRIS-ERIC
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013D0640&rid=1
+  Source_2: https//eur-lex.europa.eu/eli/reg/2009/723/oj/eng
+  Source_3: https://web.archive.org/web/20260228012133/https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/eric/eric-landscape_en
+  Source_4: https://www.gov.uk/hmrc-internal-manuals/diplomatic-privileges/dippriv7108
+  OpenSanctions_id: [No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B44
+European Carbon Dioxide Capture and Storage Laboratory Infrastructure:
+  Entity_type: International organisation
+  Wikidata_code: [No code found.]'
+  Org_family: EU institutions and bodies
+  Type: European Research Infrastructure Consortium
+  Country: EU
+  Name_en: European Carbon Dioxide Capture and Storage Laboratory Infrastructure
+  Name_other_en: European Carbon Dioxide Capture and Storage Laboratory Infrastructure European Research Infrastructure Consortium
+  Name_other_2_en: European Carbon Dioxide Capture and Storage Laboratory Infrastructure ERIC
+  Abbreviation_en: ECCSEL
+  Abbreviation_other_en: ECCSEL ERIC
+  Abbreviation_other_2_en: 
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1497601099992&uri=CELEX:32017D0996
+  Source_2: https//eur-lex.europa.eu/eli/reg/2009/723/oj/eng
+  Source_3: https://web.archive.org/web/20260228012133/https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/eric/eric-landscape_en
+  Source_4: https://www.gov.uk/hmrc-internal-manuals/diplomatic-privileges/dippriv7109
+  OpenSanctions_id: [No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B44
+European Clinical Research Infrastructure Network:
+  Entity_type: International organisation
+  Wikidata_code: Q59536568
+  Org_family: EU institutions and bodies
+  Type: European Research Infrastructure Consortium
+  Country: EU
+  Name_en: European Clinical Research Infrastructure Network
+  Name_other_en: European Clinical Research Infrastructure Network European Research Infrastructure Consortium
+  Name_other_2_en: European Clinical Research Infrastructure Network ERIC
+  Abbreviation_en: ECRIN
+  Abbreviation_other_en: ECRIN ERIC
+  Abbreviation_other_2_en: ECRIN-ERIC
+  Source: https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:324:0008:0020:EN:PDF
+  Source_2: https//eur-lex.europa.eu/eli/reg/2009/723/oj/eng
+  Source_3: https://web.archive.org/web/20260228012133/https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/eric/eric-landscape_en
+  Source_4: https://www.gov.uk/hmrc-internal-manuals/diplomatic-privileges/dippriv7110
+  OpenSanctions_id: [No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B44
+European Holocaust Research Infrastructure:
+  Entity_type: International organisation
+  Wikidata_code: Q21755493
+  Org_family: EU institutions and bodies
+  Type: European Research Infrastructure Consortium
+  Country: EU
+  Name_en: European Holocaust Research Infrastructure
+  Name_other_en: European Holocaust Research Infrastructure European Research Infrastructure Consortium
+  Name_other_2_en: European Holocaust Research Infrastructure ERIC
+  Abbreviation_en: EHRI
+  Abbreviation_other_en: EHRI ERIC
+  Abbreviation_other_2_en: EHRI-ERIC
+  Source: 
+  Source_2: https//eur-lex.europa.eu/eli/reg/2009/723/oj/eng
+  Source_3: https://web.archive.org/web/20260228012133/https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/eric/eric-landscape_en
+  Source_4: https://www.gov.uk/hmrc-internal-manuals/diplomatic-privileges/dippriv7111
+  OpenSanctions_id: [No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B44
+Extreme Light Infrastructure:
+  Entity_type: International organisation
+  Wikidata_code: Q753269
+  Org_family: EU institutions and bodies
+  Type: European Research Infrastructure Consortium
+  Country: EU
+  Name_en: Extreme Light Infrastructure
+  Name_other_en: Extreme Light Infrastructure European Research Infrastructure Consortium
+  Name_other_2_en: Extreme Light Infrastructure ERIC
+  Abbreviation_en: ELI
+  Abbreviation_other_en: ELI ERIC
+  Abbreviation_other_2_en: 
+  Source: https://eur-lex.europa.eu/eli/dec_impl/2021/960
+  Source_2: https//eur-lex.europa.eu/eli/reg/2009/723/oj/eng
+  Source_3: https://web.archive.org/web/20260228012133/https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/eric/eric-landscape_en
+  Source_4: https://www.gov.uk/hmrc-internal-manuals/diplomatic-privileges/dippriv7112
+  OpenSanctions_id: [No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B44
+European Marine Biology Resource Center:
+  Entity_type: International organisation
+  Wikidata_code: Q113551509
+  Org_family: EU institutions and bodies
+  Type: European Research Infrastructure Consortium
+  Country: EU
+  Name_en: European Marine Biology Resource Center
+  Name_other_en: European Marine Biology Resource Center European Research Infrastructure Consortium
+  Name_other_2_en: European Marine Biology Resource Center ERIC
+  Abbreviation_en: EMBRC
+  Abbreviation_other_en: EMBRC ERIC
+  Abbreviation_other_2_en: EMBRC-ERIC
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018D0272
+  Source_2: https//eur-lex.europa.eu/eli/reg/2009/723/oj/eng
+  Source_3: https://web.archive.org/web/20260228012133/https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/eric/eric-landscape_en
+  Source_4: https://www.gov.uk/hmrc-internal-manuals/diplomatic-privileges/dippriv7113
+  OpenSanctions_id: [No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B44
+European Multidisciplinary Seafloor and Water Column Observatory:
+  Entity_type: International organisation
+  Wikidata_code: Q17075202
+  Org_family: EU institutions and bodies
+  Type: European Research Infrastructure Consortium
+  Country: EU
+  Name_en: European Multidisciplinary Seafloor and Water Column Observatory
+  Name_other_en: European Multidisciplinary Seafloor and Water Column Observatory European Research Infrastructure Consortium
+  Name_other_2_en: European Multidisciplinary Seafloor and Water Column Observatory ERIC
+  Abbreviation_en: EMSO
+  Abbreviation_other_en: EMSO ERIC
+  Abbreviation_other_2_en: 
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016Y1001%2801%29&from=EN
+  Source_2: https//eur-lex.europa.eu/eli/reg/2009/723/oj/eng
+  Source_3: https://web.archive.org/web/20260228012133/https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/eric/eric-landscape_en
+  Source_4: https://www.gov.uk/hmrc-internal-manuals/diplomatic-privileges/dippriv7115
+  OpenSanctions_id: [No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B44
+European Research Infrastructure for Heritage Science:
+  Entity_type: International organisation
+  Wikidata_code: [No code found.]'
+  Org_family: EU institutions and bodies
+  Type: European Research Infrastructure Consortium
+  Country: EU
+  Name_en: European Research Infrastructure for Heritage Science
+  Name_other_en: European Research Infrastructure for Heritage Science European Research Infrastructure Consortium
+  Name_other_2_en: European Research Infrastructure for Heritage Science ERIC
+  Abbreviation_en: E-RIHS
+  Abbreviation_other_en: E-RIHS ERIC
+  Abbreviation_other_2_en: 
+  Source: https://eur-lex.europa.eu/eli/dec_impl/2025/709/oj
+  Source_2: https//eur-lex.europa.eu/eli/reg/2009/723/oj/eng
+  Source_3: https://web.archive.org/web/20260228012133/https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/eric/eric-landscape_en
+  Source_4: https://www.gov.uk/hmrc-internal-manuals/diplomatic-privileges/dippriv7116
+  OpenSanctions_id: [No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B44
+European Social Survey:
+  Entity_type: International organisation
+  Wikidata_code: Q1376959
+  Org_family: EU institutions and bodies
+  Type: European Research Infrastructure Consortium
+  Country: EU
+  Name_en: European Social Survey
+  Name_other_en: European Social Survey European Research Infrastructure Consortium
+  Name_other_2_en: European Social Survey ERIC
+  Abbreviation_en: ESS 
+  Abbreviation_other_en: ESS  ERIC
+  Abbreviation_other_2_en: 
+  Source: https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:320:0044:0062:EN:PDF
+  Source_2: https//eur-lex.europa.eu/eli/reg/2009/723/oj/eng
+  Source_3: https://web.archive.org/web/20260228012133/https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/eric/eric-landscape_en
+  Source_4: https://www.gov.uk/hmrc-internal-manuals/diplomatic-privileges/dippriv7117
+  OpenSanctions_id: [No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B44
+European Infrastructure of Open Screening Platforms for Chemical Biology:
+  Entity_type: International organisation
+  Wikidata_code: [No code found.]'
+  Org_family: EU institutions and bodies
+  Type: European Research Infrastructure Consortium
+  Country: EU
+  Name_en: European Infrastructure of Open Screening Platforms for Chemical Biology
+  Name_other_en: European Infrastructure of Open Screening Platforms for Chemical Biology European Research Infrastructure Consortium
+  Name_other_2_en: European Infrastructure of Open Screening Platforms for Chemical Biology ERIC
+  Abbreviation_en: INFRAFRONTIER
+  Abbreviation_other_en: INFRAFRONTIER ERIC
+  Abbreviation_other_2_en: 
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023D2865&qid=1703343437132
+  Source_2: https//eur-lex.europa.eu/eli/reg/2009/723/oj/eng
+  Source_3: https://web.archive.org/web/20260228012133/https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/eric/eric-landscape_en
+  Source_4: https://www.gov.uk/hmrc-internal-manuals/diplomatic-privileges/dippriv7118
+  OpenSanctions_id: [No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B44
+European Solar Research Infrastructure for Concentrated Solar Power:
+  Entity_type: International organisation
+  Wikidata_code: [No code found.]'
+  Org_family: EU institutions and bodies
+  Type: European Research Infrastructure Consortium
+  Country: EU
+  Name_en: European Solar Research Infrastructure for Concentrated Solar Power
+  Name_other_en: European Solar Research Infrastructure for Concentrated Solar Power European Research Infrastructure Consortium
+  Name_other_2_en: European Solar Research Infrastructure for Concentrated Solar Power ERIC
+  Abbreviation_en: EU-SOLARIS
+  Abbreviation_other_en: EU-SOLARIS ERIC
+  Abbreviation_other_2_en: 
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022D2297
+  Source_2: https//eur-lex.europa.eu/eli/reg/2009/723/oj/eng
+  Source_3: https://web.archive.org/web/20260228012133/https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/eric/eric-landscape_en
+  Source_4: https://www.gov.uk/hmrc-internal-manuals/diplomatic-privileges/dippriv7119
+  OpenSanctions_id: [No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B44
+Euro-Argo Research Infrastructure:
+  Entity_type: International organisation
+  Wikidata_code: Q83006305
+  Org_family: EU institutions and bodies
+  Type: European Research Infrastructure Consortium
+  Country: EU
+  Name_en: Euro-Argo Research Infrastructure
+  Name_other_en: Euro-Argo Research Infrastructure European Research Infrastructure Consortium
+  Name_other_2_en: Euro-Argo Research Infrastructure ERIC
+  Abbreviation_en: Euro-Argo
+  Abbreviation_other_en: Euro-Argo ERIC
+  Abbreviation_other_2_en: 
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2014:136:FULL&from=EN
+  Source_2: https//eur-lex.europa.eu/eli/reg/2009/723/oj/eng
+  Source_3: https://web.archive.org/web/20260228012133/https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/eric/eric-landscape_en
+  Source_4: https://www.gov.uk/hmrc-internal-manuals/diplomatic-privileges/dippriv7120
+  OpenSanctions_id: [No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B44
+European Research Infrastructure for Imaging Technologies in Biological and Biomedical Sciences:
+  Entity_type: International organisation
+  Wikidata_code: [No code found.]'
+  Org_family: EU institutions and bodies
+  Type: European Research Infrastructure Consortium
+  Country: EU
+  Name_en: European Research Infrastructure for Imaging Technologies in Biological and Biomedical Sciences
+  Name_other_en: European Research Infrastructure for Imaging Technologies in Biological and Biomedical Sciences European Research Infrastructure Consortium
+  Name_other_2_en: European Research Infrastructure for Imaging Technologies in Biological and Biomedical Sciences ERIC
+  Abbreviation_en: Euro-BioImaging
+  Abbreviation_other_en: Euro-BioImaging ERIC
+  Abbreviation_other_2_en: 
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2019:377:FULL
+  Source_2: https//eur-lex.europa.eu/eli/reg/2009/723/oj/eng
+  Source_3: https://web.archive.org/web/20260228012133/https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/eric/eric-landscape_en
+  Source_4: https://www.gov.uk/hmrc-internal-manuals/diplomatic-privileges/dippriv7121
+  OpenSanctions_id: [No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B44
+European Spallation Source:
+  Entity_type: International organisation
+  Wikidata_code: Q839231
+  Org_family: EU institutions and bodies
+  Type: European Research Infrastructure Consortium
+  Country: EU
+  Name_en: European Spallation Source
+  Name_other_en: European Spallation Source European Research Infrastructure Consortium
+  Name_other_2_en: European Spallation Source ERIC
+  Abbreviation_en: 
+  Abbreviation_other_en: 
+  Abbreviation_other_2_en: 
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2015.225.01.0016.01.ENG
+  Source_2: https//eur-lex.europa.eu/eli/reg/2009/723/oj/eng
+  Source_3: https://web.archive.org/web/20260228012133/https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/eric/eric-landscape_en
+  Source_4: https://www.gov.uk/hmrc-internal-manuals/diplomatic-privileges/dippriv7122
+  OpenSanctions_id: [No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B44
+INFRAFRONTIER:
+  Entity_type: International organisation
+  Wikidata_code: Q30267344
+  Org_family: EU institutions and bodies
+  Type: European Research Infrastructure Consortium
+  Country: EU
+  Name_en: INFRAFRONTIER
+  Name_other_en: INFRAFRONTIER European Research Infrastructure Consortium
+  Name_other_2_en: INFRAFRONTIER ERIC
+  Abbreviation_en: 
+  Abbreviation_other_en: 
+  Abbreviation_other_2_en: 
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023D2865&qid=1703343437132
+  Source_2: https//eur-lex.europa.eu/eli/reg/2009/723/oj/eng
+  Source_3: https://web.archive.org/web/20260228012133/https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/eric/eric-landscape_en
+  Source_4: https://www.gov.uk/hmrc-internal-manuals/diplomatic-privileges/dippriv7123
+  OpenSanctions_id: [No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B44
+Integrated Carbon Observation System:
+  Entity_type: International organisation
+  Wikidata_code: Q3147739
+  Org_family: EU institutions and bodies
+  Type: European Research Infrastructure Consortium
+  Country: EU
+  Name_en: Integrated Carbon Observation System
+  Name_other_en: Integrated Carbon Observation System European Research Infrastructure Consortium
+  Name_other_2_en: Integrated Carbon Observation System ERIC
+  Abbreviation_en: ICOS
+  Abbreviation_other_en: ICOS ERIC
+  Abbreviation_other_2_en: 
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015D2097&from=FI
+  Source_2: https//eur-lex.europa.eu/eli/reg/2009/723/oj/eng
+  Source_3: https://web.archive.org/web/20260228012133/https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/eric/eric-landscape_en
+  Source_4: https://www.gov.uk/hmrc-internal-manuals/diplomatic-privileges/dippriv7124
+  OpenSanctions_id: [No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B44
+Integrated Structural Biology:
+  Entity_type: International organisation
+  Wikidata_code: [No code found.]'
+  Org_family: EU institutions and bodies
+  Type: European Research Infrastructure Consortium
+  Country: EU
+  Name_en: Integrated Structural Biology
+  Name_other_en: Integrated Structural Biology European Research Infrastructure Consortium
+  Name_other_2_en: Integrated Structural Biology ERIC
+  Abbreviation_en: INSTRUCT
+  Abbreviation_other_en: INSTRUCT ERIC
+  Abbreviation_other_2_en: Instruct-ERIC
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017D1213
+  Source_2: https//eur-lex.europa.eu/eli/reg/2009/723/oj/eng
+  Source_3: https://web.archive.org/web/20260228012133/https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/eric/eric-landscape_en
+  Source_4: https://www.gov.uk/hmrc-internal-manuals/diplomatic-privileges/dippriv7124
+  OpenSanctions_id: [No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B44
+Joint Institute for Very Long Baseline Interferometry:
+  Entity_type: International organisation
+  Wikidata_code: Q17088342
+  Org_family: EU institutions and bodies
+  Type: European Research Infrastructure Consortium
+  Country: EU
+  Name_en: Joint Institute for Very Long Baseline Interferometry
+  Name_other_en: Joint Institute for Very Long Baseline Interferometry European Research Infrastructure Consortium
+  Name_other_2_en: Joint Institute for Very Long Baseline Interferometry ERIC
+  Abbreviation_en: JIV
+  Abbreviation_other_en: JIV ERIC
+  Abbreviation_other_2_en: JIV-ERIC
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2014:363:FULL&from=EN
+  Source_2: https//eur-lex.europa.eu/eli/reg/2009/723/oj/eng
+  Source_3: https://web.archive.org/web/20260228012133/https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/eric/eric-landscape_en
+  Source_4: https://www.gov.uk/hmrc-internal-manuals/diplomatic-privileges/dippriv7125
+  OpenSanctions_id: [No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B44
+e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research:
+  Entity_type: International organisation
+  Wikidata_code: Q17088342
+  Org_family: EU institutions and bodies
+  Type: European Research Infrastructure Consortium
+  Country: EU
+  Name_en: e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research
+  Name_other_en: e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research European Research Infrastructure Consortium
+  Name_other_2_en: e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research ERIC
+  Abbreviation_en: 
+  Abbreviation_other_en:  ERIC
+  Abbreviation_other_2_en: 
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017D0499&from=EN
+  Source_2: https//eur-lex.europa.eu/eli/reg/2009/723/oj/eng
+  Source_3: https://web.archive.org/web/20260228012133/https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/eric/eric-landscape_en
+  Source_4: https://www.gov.uk/hmrc-internal-manuals/diplomatic-privileges/dippriv7126
+  OpenSanctions_id: [No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B44
+Low-Frequency Array:
+  Entity_type: International organisation
+  Wikidata_code: Q1192324
+  Org_family: EU institutions and bodies
+  Type: European Research Infrastructure Consortium
+  Country: EU
+  Name_en: LOw Frequency ARray
+  Name_other_en: LOw Frequency ARray European Research Infrastructure Consortium
+  Name_other_2_en: LOw Frequency ARray ERIC
+  Abbreviation_en: LOFAR
+  Abbreviation_other_en: LOFAR ERIC
+  Abbreviation_other_2_en: 
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202302881
+  Source_2: https//eur-lex.europa.eu/eli/reg/2009/723/oj/eng
+  Source_3: https://web.archive.org/web/20260228012133/https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/eric/eric-landscape_en
+  Source_4: https://www.gov.uk/hmrc-internal-manuals/diplomatic-privileges/dippriv7127
+  OpenSanctions_id: [No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B44
+Microbial Resource Research Infrastructure :
+  Entity_type: International organisation
+  Wikidata_code: [No code found.]'
+  Org_family: EU institutions and bodies
+  Type: European Research Infrastructure Consortium
+  Country: EU
+  Name_en: 
+  Name_other_en:  European Research Infrastructure Consortium
+  Name_other_2_en:  ERIC
+  Abbreviation_en: MIRRI
+  Abbreviation_other_en: MIRRI ERIC
+  Abbreviation_other_2_en: MIRRI-ERIC
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2022.186.01.0014.01.ENG
+  Source_2: https//eur-lex.europa.eu/eli/reg/2009/723/oj/eng
+  Source_3: https://web.archive.org/web/20260228012133/https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/eric/eric-landscape_en
+  Source_4: https://www.gov.uk/hmrc-internal-manuals/diplomatic-privileges/dippriv7128
+  OpenSanctions_id: [No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B44
+Survey of Health, Ageing and Retirement in Europe:
+  Entity_type: International organisation
+  Wikidata_code: Q122873030
+  Org_family: EU institutions and bodies
+  Type: European Research Infrastructure Consortium
+  Country: EU
+  Name_en: 
+  Name_other_en:  European Research Infrastructure Consortium
+  Name_other_2_en:  ERIC
+  Abbreviation_en: SHARE
+  Abbreviation_other_en: SHARE ERIC
+  Abbreviation_other_2_en: SHARE-ERIC
+  Source: https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ%3AL%3A2011%3A071%3ATOC
+  Source_2: https//eur-lex.europa.eu/eli/reg/2009/723/oj/eng
+  Source_3: https://web.archive.org/web/20260228012133/https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/eric/eric-landscape_en
+  Source_4: https://www.gov.uk/hmrc-internal-manuals/diplomatic-privileges/dippriv7129
+  OpenSanctions_id: [No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B44"
