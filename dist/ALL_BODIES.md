@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 580 international organisations in the table.
+There are currently 583 international organisations in the table.
 
 | English Name | Wikidata Code | OpenSanctions | Family | Source |
 |---|---|---|---|---|
@@ -107,6 +107,7 @@ There are currently 580 international organisations in the table.
 | Central Bank of West African States | [Q620942](https://www.wikidata.org/wiki/Q620942) | [NK-mxyB8RdssqTPhWAWwS9dyb](https://www.opensanctions.org/entities/NK-mxyB8RdssqTPhWAWwS9dyb/) | West African Economic and Monetary Union | [Treaty](https://edit.wti.org/document/show/pdf/57ce5bd9-ef38-4a1d-abd5-ed07f1f155bf) |
 | Central Commission for the Navigation of the Rhine | [Q190650](https://www.wikidata.org/wiki/Q190650) | [No code found.] | none | [Treaty](https://www.ccr-zkr.org/files/conventions/convrev_e.pdf) |
 | Centre on Integrated Rural Development for Asia and the Pacific | [Q5011840](https://www.wikidata.org/wiki/Q5011840) | [No code found.] | none | [Treaty](https://faolex.fao.org/docs/pdf/mal33937.pdf) |
+| Cherenkov Telescope Array Observatory | [Q1070229](https://www.wikidata.org/wiki/Q1070229) | [No code found.] | EU institutions and bodies | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:C_202500211) |
 | Chips Joint Undertaking | [Q133884004](https://www.wikidata.org/wiki/Q133884004) | [No code found.] | EU institutions and bodies | [web.archive.org](https://web.archive.org/web/20231025101944/https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1782) |
 | Circular Bio-based Europe Joint Undertaking | [Q133884431](https://www.wikidata.org/wiki/Q133884431) | [No code found.] | EU institutions and bodies | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085) |
 | Civil Aviation Safety and Security Oversight Agency | [Q5008878](https://www.wikidata.org/wiki/Q5008878) | [No code found.] | East African Community entities | [Treaty](https://www.cassoa.org/wp-content/uploads/2019/01/EAC-Civil-Aviation-Act-2009.pdf) |
@@ -160,6 +161,7 @@ There are currently 580 international organisations in the table.
 | East Mediterranean Gas Forum | [Q97163711](https://www.wikidata.org/wiki/Q97163711) | [No code found.] | none | [Treaty](https://www.parliament.cy/images/media/redirectfile/EMGF%20signed%20Statute_%CE%9C%CE%AD%CF%81%CE%BF%CF%82%20%CE%99%20%CE%9D%CE%BF%CE%BC%CE%BF%CF%83%CF%87%CE%B5%CE%B4%CE%AF%CE%BF%CF%85.pdf) |
 | Eastern and Southern African Trade and Development Bank | [Q13657031](https://www.wikidata.org/wiki/Q13657031) | [bic-ESATKENA](https://www.opensanctions.org/entities/bic-ESATKENA/) | Common Market for Eastern and Southern Africa entities | [Treaty](https://www.tdbgroup.org/wp-content/uploads/2024/01/TDB-Charter-English-01.01.2024.pdf) |
 | Eastern Caribbean Central Bank | [Q1210260](https://www.wikidata.org/wiki/Q1210260) | [NK-YDpCtketszPUchCK72QJ9B](https://www.opensanctions.org/entities/NK-YDpCtketszPUchCK72QJ9B/) | Caribbean Community entities | [Treaty](https://www.eccb-centralbank.org/viewPDF/documents/2022-05-27-06-12-30-ECCB-Agreement.pdf) |
+| Eastern Caribbean Civil Aviation Authority | [Q5330038](https://www.wikidata.org/wiki/Q5330038) | [No code found.] | N/A | [Treaty](https://laws.gov.ag/wp-content/uploads/2018/08/a2003-24.pdf) |
 | Eastern Caribbean Supreme Court | [Q3001122](https://www.wikidata.org/wiki/Q3001122) | [No code found.] | none | [Treaty](https://www.govt.lc/media.govt.lc/www/resources/legislation/revisedtreatyofbasseterre.pdf) |
 | Economic and Social Commission for Asia and the Pacific | [Q1142901](https://www.wikidata.org/wiki/Q1142901) | [No code found.] | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Economic and Social Commission for Western Asia | [Q1355485](https://www.wikidata.org/wiki/Q1355485) | [No code found.] | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
@@ -332,6 +334,7 @@ There are currently 580 international organisations in the table.
 | International Commission on Civil Status | [Q677893](https://www.wikidata.org/wiki/Q677893) | [No code found.] | none | [Treaty](https://ciec1.org/wp-content/uploads/2025/03/Rules_of_the_ICCS.pdf) |
 | International Commission on Missing Persons | [Q676812](https://www.wikidata.org/wiki/Q676812) | [No code found.] | none | [Treaty](https://assets.publishing.service.gov.uk/media/5a80296de5274a2e87db836f/TS_9.2015_Cm_9063_WEB_ACC.pdf) |
 | International Committee of Military Medicine | [Q1257637](https://www.wikidata.org/wiki/Q1257637) | [No code found.] | none | [Treaty](https://cimm-icmm.org/wp-content/uploads/2025/03/241008-ENG-Statutes-of-the-ICMM.pdf) |
+| International Committee of the Red Cross | [Q5987345](https://www.wikidata.org/wiki/Q5987345) | [No code found.] | International Red Cross and Red Crescent Movement entities | [Treaty](https://www.icrc.org/sites/default/files/document/file_list/icrc-statutes-01-2018.pdf) |
 | International Copper Study Group | [Q17084551](https://www.wikidata.org/wiki/Q17084551) | [No code found.] | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201662/v1662.pdf) |
 | International Cospas-Sarsat Programme | [Q605177](https://www.wikidata.org/wiki/Q605177) | [No code found.] | none | [Treaty](https://treaties.un.org/doc/Publication/UNTS/Volume%201518/v1518.pdf) |
 | International Cotton Advisory Committee | [Q6049865](https://www.wikidata.org/wiki/Q6049865) | [No code found.] | none | [Treaty](https://icac.org/wp-content/uploads/2025/09/E_RulesRegs_15oct2020.pdf) |

@@ -2229,6 +2229,7 @@ Commonwealth of Independent States:
   Name_sw: Jumuiya ya Nchi Huru
   Name_tr: Bağımsız Devletler Topluluğu
   Name_ur: آزاد ریاستوں کی دولت مشترکہ
+  Name_da: Fællesskabet af Uafhængige Stater
 Organisation of Eastern Caribbean States:
   SPRVD_id: SPRVD0742814
   Wikidata_code: Q392770
@@ -2620,6 +2621,30 @@ North Atlantic Treaty Organisation:
   Name_uk: НАТО
   Name_zh: 北大西洋公約組織
   Website: https://nato.int
+  Name_ar: حلف شمال الأطلسي
+  Name_bn: ন্যাটো
+  Name_cy: NATO
+  Name_da: NATO
+  Name_el: ΝΑΤΟ
+  Name_et: NATO
+  Name_fi: Nato
+  Name_ga: Eagraíocht Chonradh an Atlantaigh Thuaidh
+  Name_he: נאט"ו
+  Name_hi: नाटो
+  Name_hu: Észak-atlanti Szerződés Szervezete
+  Name_id: Pakta Pertahanan Atlantik Utara
+  Name_is: Atlantshafsbandalagið
+  Name_it: NATO
+  Name_ja: 北大西洋条約機構
+  Name_ko: 북대서양 조약 기구
+  Name_lt: NATO
+  Name_nl: Noord-Atlantische Verdragsorganisatie
+  Name_pl: NATO
+  Name_ro: NATO
+  Name_sv: Nato
+  Name_sw: NATO
+  Name_tr: NATO
+  Name_ur: نیٹو
 Caribbean Community:
   SPRVD_id: SPRVD0393511
   Wikidata_code: Q205995
@@ -9682,6 +9707,30 @@ Arab League:
   Name_uk: Ліга арабських держав
   Name_zh: 阿拉伯国家联盟
   Website: http://www.leagueofarabstates.net/
+  Name_ar: جامعة الدول العربية
+  Name_bn: আরব লিগ
+  Name_cy: Y Cynghrair Arabaidd
+  Name_da: Den Arabiske Liga
+  Name_el: Αραβικός Σύνδεσμος
+  Name_et: Araabia Liiga
+  Name_fi: Arabiliitto
+  Name_ga: Léig na nArabach
+  Name_he: הליגה הערבית
+  Name_hi: अरब लीग
+  Name_hu: Arab Liga
+  Name_id: Liga Arab
+  Name_is: Arababandalagið
+  Name_it: Lega araba
+  Name_ja: アラブ連盟
+  Name_ko: 아랍 연맹
+  Name_lt: Arabų Lyga
+  Name_nl: Arabische Liga
+  Name_pl: Liga Państw Arabskich
+  Name_ro: Liga Arabă
+  Name_sv: Arabförbundet
+  Name_sw: Jumuiya ya Nchi za Kiarabu
+  Name_tr: Arap Birliği
+  Name_ur: عرب لیگ
 Arab Industrial Development Standardization and Mining Organization:
   SPRVD_id: SPRVD0402551
   Wikidata_code: Q4783189
@@ -10311,6 +10360,7 @@ Food and Agriculture Organization:
   Name_sw: Shirika la Chakula na Kilimo la Umoja wa Mataifa
   Name_tr: Birleşmiş Milletler Gıda ve Tarım Örgütü
   Name_ur: ادارہ برائے خوراک و زراعت
+  Name_da: FN's fødevare- og landbrugsorganisation
 International Bank for Reconstruction and Development:
   SPRVD_id: SPRVD0614040
   Entity_type: International organisation
@@ -11014,6 +11064,7 @@ International Monetary Fund:
   Name_sv: Internationella valutafonden
   Name_tr: Uluslararası Para Fonu
   Name_ur: بین الاقوامی مالیاتی فنڈ
+  Name_sw: Shirika la Kifedha la Kimataifa
 International Atomic Energy Agency:
   SPRVD_id: SPRVD0243685
   Entity_type: International organisation
@@ -13148,7 +13199,7 @@ International Committee of the Red Cross:
   Entity_type: International organisation
   Wikidata_code: Q5987345
   Org_family: International Red Cross and Red Crescent Movement entities
-  Type:
+  Type: null
   Country: ZZ
   Name_en: International Committee of the Red Cross
   Abbreviation_en: ICRC
@@ -13161,6 +13212,7 @@ International Committee of the Red Cross:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B43
+  Website: https://icrc.org
 Cherenkov Telescope Array Observatory:
     SPRVD_id: SPRVD0638357
     Entity_type: International organisation
@@ -13173,9 +13225,6 @@ Cherenkov Telescope Array Observatory:
     Treaty_url:
     Immunity_url:
     Source: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:C_202500211
-    Source_2: https://eur-lex.europa.eu/eli/reg/2009/723/oj/eng
-    Source_3: https://web.archive.org/web/20260228012133/https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/eric/eric-landscape_en
-    Source_4: https://www.gov.uk/hmrc-internal-manuals/diplomatic-privileges/dippriv7100
     OpenSanctions_id: '[No code found.]'
     Assessment_against_FATF_definition: Included
     Basis_for_assessment: B44
