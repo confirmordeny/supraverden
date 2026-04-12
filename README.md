@@ -32,7 +32,7 @@ See [Code of conduct](CODE_OF_CONDUCT.md)
 ## Not endorsed by anyone
 This repo is not endorsed by any international organisation, government or public authority anywhere in the world. In fact, this repo is not currently endorsed by anyone.
 
-# Using this repo
+## Using this repo
 The content should not be relied upon as legal or professional advice.
 
 ## Copyright and license
