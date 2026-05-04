@@ -3607,7 +3607,7 @@ Common Fund for Commodities:
   Org_family: none
   Country: ZZ
   Name_en: Common Fund for Commodities
-  Abbreviation_en: null
+  Abbreviation_en: CFC
   Treaty_url: https://treaties.un.org/pages/ViewDetailsIII.aspx?src=TREATY&mtdsg_no=XIX-21&chapter=19&Temp=mtdsg3&clang=_en
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
@@ -4283,7 +4283,7 @@ World Customs Organisation:
   Country: ZZ
   Name_en: World Customs Organisation
   Name_other_en: Customs Co-operation Council
-  Abbreviation_en: null
+  Abbreviation_en: WCO
   Treaty_url: https://www.wcoomd.org/-/media/wco/public/global/pdf/about-us/legal-instruments/conventions-and-agreements/ccc/convccc.pdf?la=en
   Name_fr: Organisation mondiale des douanes
   Name_es: Organización Mundial de Aduanas
@@ -4471,7 +4471,7 @@ Permanent Court of Arbitration:
   Org_family: none
   Country: ZZ
   Name_en: Permanent Court of Arbitration
-  Abbreviation_en: null
+  Abbreviation_en: PCA
   Treaty_url: https://docs.pca-cpa.org/2016/01/1899-Convention-for-the-Pacific-Settlement-of-International-Disputes.pdf
   Name_fr: Cour permanente d'arbitrage
   Name_es: Corte Permanente de Arbitraje
@@ -5512,7 +5512,7 @@ Organisation of African, Caribbean and Pacific States:
   Org_family: none
   Country: ZZ
   Name_en: Organisation of African, Caribbean and Pacific States
-  Abbreviation_en: null
+  Abbreviation_en: ACP
   Treaty_url: https://www.jus.uio.no/english/services/library/treaties/14/14-03/acp.html
   Name_fr: Organisation des États d’Afrique, des Caraïbes et du Pacifique
   Name_es: Estados de África, del Caribe y del Pacífico
@@ -7269,7 +7269,7 @@ Benelux Organisation for Intellectual Property:
   Org_family: Benelux entities
   Country: ZZ
   Name_en: Benelux Organisation for Intellectual Property
-  Abbreviation_en: null
+  Abbreviation_en: BOIP
   Treaty_url: https://www.boip.int/uploads/inline/230210%20Benelux%20Convention%20on%20Intellectual%20Property.pdf
   Name_fr: Office Benelux de la propriété intellectuelle
   OpenSanctions_id: '[No code found.]'
@@ -7700,6 +7700,7 @@ International Institute for Democracy and Electoral Assistance:
   Country: ZZ
   Name_en: International Institute for Democracy and Electoral Assistance
   Abbreviation_en: International IDEA
+  Abbreviation_other_en: IDEA
   Treaty_url: https://www.idea.int/sites/default/files/media_resources/International-IDEA-statutes-EN-2023.pdf
   Name_fr: International IDEA
   Name_es: Instituto Internacional para la Democracia y Asistencia Electoral
@@ -10725,7 +10726,7 @@ World Bank:
   Country: ZZ
   Name_en: World Bank
   Name_fr: Banque mondiale
-  Abbreviation_en: null
+  Abbreviation_en: W B
   Abbreviation_fr: null
   Name_other_en: null
   Type: UN specialized agency
