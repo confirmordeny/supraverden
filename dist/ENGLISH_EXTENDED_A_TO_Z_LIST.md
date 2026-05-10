@@ -23,13 +23,19 @@ This list includes current English names, former English names, other English na
 - ACAO (Abbreviation: Arab Civil Aviation Organization)
 - ACAP (Abbreviation: Agreement on the Conservation of Albatrosses and Petrels)
 - ACER (Abbreviation: Agency for the Cooperation of Energy Regulators)
+- ACP (Abbreviation: Organisation of African, Caribbean and Pacific States)
 - ACS (Abbreviation: Association of Caribbean States)
 - ACSAD (Abbreviation: Arab Center for the Studies of Arid Zones and Dry Lands)
 - ACSO (Abbreviation: African Civil Service Observatory)
+- ACTRIS (Abbreviation: Aerosol, Clouds and Trace Gases Research Infrastructure)
+- ACTRIS ERIC (Other abbreviation: Aerosol, Clouds and Trace Gases Research Infrastructure)
 - Administrative Tribunal of the OAS (Other name: Administrative Tribunal of the Organization of American States)
 - Administrative Tribunal of the Organization of American States
 - Advisory Centre on World Trade Organization Law
 - Advisory Centre on WTO Law (Other name: Advisory Centre on World Trade Organization Law)
+- Aerosol, Clouds and Trace Gases Research Infrastructure
+- Aerosol, Clouds and Trace Gases Research Infrastructure ERIC (Other name: Aerosol, Clouds and Trace Gases Research Infrastructure)
+- Aerosol, Clouds and Trace Gases Research Infrastructure European Research Infrastructure Consortium (Other name: Aerosol, Clouds and Trace Gases Research Infrastructure)
 - AFCAC (Abbreviation: African Civil Aviation Commission)
 - AFESD (Abbreviation: Arab Fund for Economic and Social Development)
 - AFREC (Abbreviation: African Energy Commission)
@@ -67,6 +73,12 @@ This list includes current English names, former English names, other English na
 - Amazon Cooperation Treaty Organization
 - AMF (Abbreviation: Arab Monetary Fund)
 - AMLA (Abbreviation: EU Authority for Anti-Money Laundering and Countering the Financing of Terrorism)
+- AnaEE (Abbreviation: Analysis and Experimentation on Ecosystems)
+- AnaEE ERIC (Other abbreviation: Analysis and Experimentation on Ecosystems)
+- AnaEE-ERIC (Other abbreviation: Analysis and Experimentation on Ecosystems)
+- Analysis and Experimentation on Ecosystems
+- Analysis and Experimentation on Ecosystems ERIC (Other name: Analysis and Experimentation on Ecosystems)
+- Analysis and Experimentation on Ecosystems European Research Infrastructure Consortium (Other name: Analysis and Experimentation on Ecosystems)
 - Andean Community
 - Andean Development Corporation (Former name: CAF - Development Bank of Latin America and the Caribbean)
 - Andean Parliament
@@ -131,7 +143,11 @@ This list includes current English names, former English names, other English na
 - Baltic Marine Environment Protection Commission
 - Bank for International Settlements
 - Bank of the Central African States
+- Bank of the West African States (Other name: Central Bank of West African States)
 - Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation
+- BBMRI (Abbreviation: Biobanking and Biomolecular Resources Research Infrastructure)
+- BBMRI ERIC (Other abbreviation: Biobanking and Biomolecular Resources Research Infrastructure)
+- BBMRI-ERIC (Other abbreviation: Biobanking and Biomolecular Resources Research Infrastructure)
 - BCEAO (Abbreviation: Central Bank of West African States)
 - BEAC (Abbreviation: Bank of the Central African States)
 - Benelux
@@ -141,6 +157,9 @@ This list includes current English names, former English names, other English na
 - BIC (Abbreviation: British-Irish Council)
 - BIE (Abbreviation: International Exhibition Bureau)
 - BIMSTEC (Abbreviation: Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation)
+- Biobanking and Biomolecular Resources Research Infrastructure
+- Biobanking and Biomolecular Resources Research Infrastructure ERIC (Other name: Biobanking and Biomolecular Resources Research Infrastructure)
+- Biobanking and Biomolecular Resources Research Infrastructure European Research Infrastructure Consortium (Other name: Biobanking and Biomolecular Resources Research Infrastructure)
 - Biodiversity International (Other name: International Plant Genetic Resources Institute)
 - BIPM (Abbreviation: International Bureau of Weights and Measures)
 - BIS (Abbreviation: Bank for International Settlements)
@@ -148,6 +167,7 @@ This list includes current English names, former English names, other English na
 - Bladex (Abbreviation: Foreign Trade Bank of Latin America)
 - BOAD (Abbreviation: West African Development Bank)
 - Board of Peace
+- BOIP (Abbreviation: Benelux Organisation for Intellectual Property)
 - Brazilian-Argentine Agency for Accounting and Control of Nuclear Materials
 - British-Irish Council
 - BSEC (Abbreviation: Organization of the Black Sea Economic Cooperation)
@@ -216,9 +236,18 @@ This list includes current English names, former English names, other English na
 - Central Asian and Caucasus Regional Fisheries and Aquaculture Commission
 - Central Bank of West African States
 - Central Commission for the Navigation of the Rhine
+- Central European Research Infrastructure Consortium
+- Central European Research Infrastructure Consortium ERIC (Other name: Central European Research Infrastructure Consortium)
+- Central European Research Infrastructure Consortium European Research Infrastructure Consortium (Other name: Central European Research Infrastructure Consortium)
 - Centre on Integrated Rural Development for Asia and the Pacific
 - CEPOL (Abbreviation: European Union Agency for Law Enforcement Training)
+- CERIC (Abbreviation: Central European Research Infrastructure Consortium)
+- CERIC ERIC (Other abbreviation: Central European Research Infrastructure Consortium)
+- CERIC-ERIC (Other abbreviation: Central European Research Infrastructure Consortium)
 - CERN (Abbreviation: European Organization for Nuclear Research)
+- CESSDA (Abbreviation: Consortium of European Social Science Data Archives)
+- CESSDA ERIC (Other abbreviation: Consortium of European Social Science Data Archives)
+- CFC (Abbreviation: Common Fund for Commodities)
 - CGIAR (Abbreviation: Consultative Group on International Agricultural Research)
 - CGIAR (Former name: Consultative Group on International Agricultural Research)
 - Cherenkov Telescope Array Observatory
@@ -240,6 +269,8 @@ This list includes current English names, former English names, other English na
 - CIS (Abbreviation: Commonwealth of Independent States)
 - Civil Aviation Safety and Security Oversight Agency
 - CJEU (Abbreviation: Court of Justice of the European Union)
+- CLARIN (Abbreviation: Common Language Resources and Technology Infrastructure)
+- CLARIN ERIC (Other abbreviation: Common Language Resources and Technology Infrastructure)
 - CLE (Abbreviation: Caribbean Council of Legal Education)
 - Clean Aviation Joint Undertaking
 - Clean Aviation JU (Other name: Clean Aviation Joint Undertaking)
@@ -248,7 +279,7 @@ This list includes current English names, former English names, other English na
 - CND (Abbreviation: Commission on Narcotic Drugs)
 - Coalition for Disaster Resilient Infrastructure
 - COCATRAM (Abbreviation: Central American Maritime Transport Commission)
-- COE (Other name: Council of Europe)
+- COE (Abbreviation: Council of Europe)
 - COE Development Bank (Other name: Council of Europe Development Bank)
 - Collaborative Inter-Governmental Scientific Research Institute
 - Collective Security Treaty Organization
@@ -271,6 +302,9 @@ This list includes current English names, former English names, other English na
 - Commission on the Status of Women
 - Committee for Inland Fisheries and Aquaculture of Africa
 - Common Fund for Commodities
+- Common Language Resources and Technology Infrastructure
+- Common Language Resources and Technology Infrastructure ERIC (Other name: Common Language Resources and Technology Infrastructure)
+- Common Language Resources and Technology Infrastructure European Research Infrastructure Consortium (Other name: Common Language Resources and Technology Infrastructure)
 - Common Market for Eastern and Southern Africa
 - Commonwealth of Independent States
 - Commonwealth Secretariat
@@ -282,6 +316,9 @@ This list includes current English names, former English names, other English na
 - Comprehensive Nuclear-Test-Ban Treaty Organisation
 - Comprehensive Nuclear-Test-Ban Treaty Organization Preparatory Commission (Other name: Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organization)
 - Conseil de l'Entente
+- Consortium of European Social Science Data Archives
+- Consortium of European Social Science Data Archives ERIC (Other name: Consortium of European Social Science Data Archives)
+- Consortium of European Social Science Data Archives European Research Infrastructure Consortium (Other name: Consortium of European Social Science Data Archives)
 - Consultative Group on International Agricultural Research
 - Convention for the Conservation of Antarctic Marine Living Resources
 - Cooperation Council for the Arab States of the Gulf
@@ -300,6 +337,7 @@ This list includes current English names, former English names, other English na
 - Court of Conciliation and Arbitration
 - Court of Justice of the Andean Community
 - Court of justice of the EFTA States (Other name: EFTA Court)
+- Court of Justice of the European Free Trade Association (Other name: EFTA Court)
 - Court of Justice of the European Union
 - Court of the Eurasian Economic Union
 - CPD (Abbreviation: Commission on Population and Development)
@@ -323,14 +361,28 @@ This list includes current English names, former English names, other English na
 ## D
 
 - Danube Commission
+- Danube Commission Secretariat (Other name: Danube Commission)
+- DANUBIUS (Abbreviation: International Centre for Advanced Science on River-Sea Systems)
+- DANUBIUS ERIC (Other abbreviation: International Centre for Advanced Science on River-Sea Systems)
+- DANUBIUS-ERIC (Other abbreviation: International Centre for Advanced Science on River-Sea Systems)
+- DARIAH (Abbreviation: Digital Research Infrastructure for the Arts and Humanities)
+- DARIAH ERIC (Other abbreviation: Digital Research Infrastructure for the Arts and Humanities)
 - Desert Locust Control Organisation for Eastern Africa
 - Dhaman (Other name: Inter-Arab Investment Guarantee Corporation)
+- Digital Research Infrastructure for the Arts and Humanities
+- Digital Research Infrastructure for the Arts and Humanities ERIC (Other name: Digital Research Infrastructure for the Arts and Humanities)
+- Digital Research Infrastructure for the Arts and Humanities European Research Infrastructure Consortium (Other name: Digital Research Infrastructure for the Arts and Humanities)
 - Dutch Language Union
 
 [↑ Back to Top](#top)
 
 ## E
 
+- E-RIHS (Abbreviation: European Research Infrastructure for Heritage Science)
+- E-RIHS ERIC (Other abbreviation: European Research Infrastructure for Heritage Science)
+- e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research
+- e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research ERIC (Other name: e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research)
+- e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research European Research Infrastructure Consortium (Other name: e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research)
 - EACEA (Abbreviation: European Education and Culture Executive Agency)
 - EADB (Abbreviation: East African Development Bank)
 - EAEC (Abbreviation: European Atomic Energy Community)
@@ -349,14 +401,20 @@ This list includes current English names, former English names, other English na
 - Eastern Caribbean Civil Aviation Authority
 - Eastern Caribbean Supreme Court
 - EastMed Gas Forum (Abbreviation: East Mediterranean Gas Forum)
+- EATRIS (Abbreviation: European Advanced Translational Research Infrastructure)
+- EATRIS ERIC (Other abbreviation: European Advanced Translational Research Infrastructure)
+- EATRIS-ERIC (Other abbreviation: European Advanced Translational Research Infrastructure)
 - EBA (Abbreviation: European Banking Authority)
 - EBID (Abbreviation: ECOWAS Bank for Investment and Development)
+- EBRD (Abbreviation: European Bank for Reconstruction and Development)
 - ECA (Abbreviation: Economic Commission for Africa)
 - ECA (Abbreviation: European Court of Auditors)
 - ECB (Abbreviation: European Central Bank)
 - ECCAA (Abbreviation: Eastern Caribbean Civil Aviation Authority)
 - ECCB (Abbreviation: Eastern Caribbean Central Bank)
 - ECCC (Abbreviation: European Cybersecurity Competence Centre)
+- ECCSEL (Abbreviation: European Carbon Dioxide Capture and Storage Laboratory Infrastructure)
+- ECCSEL ERIC (Other abbreviation: European Carbon Dioxide Capture and Storage Laboratory Infrastructure)
 - ECDC (Abbreviation: European Centre for Disease Prevention and Control)
 - ECE (Abbreviation: Economic Commission for Europe)
 - ECHA (Abbreviation: European Chemicals Agency)
@@ -365,6 +423,7 @@ This list includes current English names, former English names, other English na
 - ECMWF (Abbreviation: European Centre for Medium-Range Weather Forecasts)
 - Economic and Social Commission for Asia and the Pacific
 - Economic and Social Commission for Western Asia
+- Economic and Social Council (Other name: United Nations Economic and Social Council)
 - Economic Commission for Africa
 - Economic Commission for Europe
 - Economic Commission for Latin America and the Caribbean
@@ -379,6 +438,9 @@ This list includes current English names, former English names, other English na
 - ECOWAS Bank for Investment and Development
 - ECOWAS Court of Justice
 - ECOWAS Parliament
+- ECRIN (Abbreviation: European Clinical Research Infrastructure Network)
+- ECRIN ERIC (Other abbreviation: European Clinical Research Infrastructure Network)
+- ECRIN-ERIC (Other abbreviation: European Clinical Research Infrastructure Network)
 - EDA (Abbreviation: European Defence Agency)
 - EDPB (Abbreviation: European Data Protection Board)
 - EDPS (Abbreviation: European Data Protection Supervisor)
@@ -389,28 +451,46 @@ This list includes current English names, former English names, other English na
 - EFSA (Abbreviation: European Food Safety Authority)
 - EFTA (Abbreviation: European Free Trade Association)
 - EFTA Court
+- EHRI (Abbreviation: European Holocaust Research Infrastructure)
+- EHRI ERIC (Other abbreviation: European Holocaust Research Infrastructure)
+- EHRI-ERIC (Other abbreviation: European Holocaust Research Infrastructure)
 - EIFAAC (Abbreviation: European Inland Fisheries and Aquaculture Advisory Commission)
 - EIGE (Abbreviation: European Institute for Gender Equality)
 - EIOPA (Abbreviation: European Insurance and Occupational Pensions Authority)
 - EISMEA (Abbreviation: European Innovation Council and Small and Medium-sized Executive Agency)
 - ELA (Abbreviation: European Labour Authority)
+- ELI (Abbreviation: Extreme Light Infrastructure)
+- ELI ERIC (Other abbreviation: Extreme Light Infrastructure)
 - EMA (Abbreviation: European Medicines Agency)
+- EMBL (Abbreviation: European Molecular Biology Laboratory)
+- EMBRC (Abbreviation: European Marine Biology Resource Center)
+- EMBRC ERIC (Other abbreviation: European Marine Biology Resource Center)
+- EMBRC-ERIC (Other abbreviation: European Marine Biology Resource Center)
 - EMSA (Abbreviation: European Maritime Safety Agency)
+- EMSO (Abbreviation: European Multidisciplinary Seafloor and Water Column Observatory)
+- EMSO ERIC (Other abbreviation: European Multidisciplinary Seafloor and Water Column Observatory)
 - Energy Charter Conference
 - Energy Community
 - ENISA (Abbreviation: European Union Agency for Cybersecurity)
 - EP (Abbreviation: European Parliament)
 - EPLO (Abbreviation: European Public Law Organization)
 - EPOrg (Abbreviation: European Patent Organisation)
+- EPOS (Other abbreviation: European Plate Observing System)
+- EPOS ERIC (Abbreviation: European Plate Observing System)
 - EPPO (Abbreviation: European Public Prosecutor’s Office)
 - ERA (Abbreviation: European Union Agency for Railways)
 - ERCEA (Abbreviation: European Research Council Executive Agency)
 - EREA (Abbreviation: European Research Executive Agency)
+- ERIC (Other abbreviation: e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research)
+- ERIC (Other name: Microbial Resource Research Infrastructure)
+- ERIC (Other name: Survey of Health, Ageing and Retirement in Europe)
 - ESA (Abbreviation: Supply Agency of the European Atomic Energy Community)
 - ESCAP (Abbreviation: Economic and Social Commission for Asia and the Pacific)
 - ESCWA (Abbreviation: Economic and Social Commission for Western Asia)
 - ESM (Abbreviation: European Stability Mechanism)
 - ESMA (Abbreviation: European Securities and Markets Authority)
+- ESS (Abbreviation: European Social Survey)
+- ESS  ERIC (Other abbreviation: European Social Survey)
 - ETF (Abbreviation: European Training Foundation)
 - ETI (Abbreviation: European Institute of Innovation and Technology)
 - EU (Abbreviation: European Union)
@@ -430,6 +510,8 @@ This list includes current English names, former English names, other English na
 - EU-LAC International Foundation
 - eu-LISA (Abbreviation: European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice)
 - EU-OSHA (Abbreviation: European Agency for Safety and Health at Work)
+- EU-SOLARIS (Abbreviation: European Solar Research Infrastructure for Concentrated Solar Power)
+- EU-SOLARIS ERIC (Other abbreviation: European Solar Research Infrastructure for Concentrated Solar Power)
 - EUAA (Abbreviation: European Union Agency for Asylum)
 - EUCLID University
 - EUCO (Abbreviation: European Council)
@@ -442,24 +524,41 @@ This list includes current English names, former English names, other English na
 - Eurasian Patent Organization
 - Euratom (Other name: European Atomic Energy Community)
 - Euratom Supply Agency (Other name: Supply Agency of the European Atomic Energy Community)
+- Euro-Argo (Abbreviation: Euro-Argo Research Infrastructure)
+- Euro-Argo ERIC (Other abbreviation: Euro-Argo Research Infrastructure)
+- Euro-Argo Research Infrastructure
+- Euro-Argo Research Infrastructure ERIC (Other name: Euro-Argo Research Infrastructure)
+- Euro-Argo Research Infrastructure European Research Infrastructure Consortium (Other name: Euro-Argo Research Infrastructure)
+- Euro-BioImaging (Abbreviation: European Research Infrastructure for Imaging Technologies in Biological and Biomedical Sciences)
+- Euro-BioImaging ERIC (Other abbreviation: European Research Infrastructure for Imaging Technologies in Biological and Biomedical Sciences)
 - EUROCONTROL (Abbreviation: European Organisation for the Safety of Air Navigation)
 - EUROFIMA (Abbreviation: European Company for the Financing of Railroad Rolling Stock)
 - EUROFISH (Abbreviation: International Organisation for the Development of Fisheries in Eastern and Central Europe)
 - Eurofound (Other name: European Foundation for the Improvement of Living and Working Conditions)
 - EuroHPC JU (Abbreviation: European High Performance Computing Joint Undertaking)
 - Eurojust (Other name: European Union Agency for Criminal Justice Cooperation)
+- European Advanced Translational Research Infrastructure
+- European Advanced Translational Research Infrastructure ERIC (Other name: European Advanced Translational Research Infrastructure)
+- European Advanced Translational Research Infrastructure European Research Infrastructure Consortium (Other name: European Advanced Translational Research Infrastructure)
 - European Agency for Safety and Health at Work
 - European and Mediterranean Plant Protection Organization
 - European Atomic Energy Community
 - European Bank for Reconstruction and Development
 - European Banking Authority
 - European Border and Coast Guard Agency
+- European Carbon Dioxide Capture and Storage Laboratory Infrastructure
+- European Carbon Dioxide Capture and Storage Laboratory Infrastructure ERIC (Other name: European Carbon Dioxide Capture and Storage Laboratory Infrastructure)
+- European Carbon Dioxide Capture and Storage Laboratory Infrastructure European Research Infrastructure Consortium (Other name: European Carbon Dioxide Capture and Storage Laboratory Infrastructure)
 - European Central Bank
 - European Centre for Disease Prevention and Control
+- European Centre for Medium Range Weather Forecasts (Other name: European Centre for Medium-Range Weather Forecasts)
 - European Centre for Medium-Range Weather Forecasts
 - European Centre for the Development of Vocational Training
 - European Chemicals Agency
 - European Climate, Infrastructure and Environment Executive Agency
+- European Clinical Research Infrastructure Network
+- European Clinical Research Infrastructure Network ERIC (Other name: European Clinical Research Infrastructure Network)
+- European Clinical Research Infrastructure Network European Research Infrastructure Consortium (Other name: European Clinical Research Infrastructure Network)
 - European Commission
 - European Committee for Prevention of Torture
 - European Committee of the Regions
@@ -485,6 +584,12 @@ This list includes current English names, former English names, other English na
 - European Health and Digital Executive Agency
 - European High Performance Computing Joint Undertaking
 - European High Performance Computing JU (Other name: European High Performance Computing Joint Undertaking)
+- European Holocaust Research Infrastructure
+- European Holocaust Research Infrastructure ERIC (Other name: European Holocaust Research Infrastructure)
+- European Holocaust Research Infrastructure European Research Infrastructure Consortium (Other name: European Holocaust Research Infrastructure)
+- European Infrastructure of Open Screening Platforms for Chemical Biology
+- European Infrastructure of Open Screening Platforms for Chemical Biology ERIC (Other name: European Infrastructure of Open Screening Platforms for Chemical Biology)
+- European Infrastructure of Open Screening Platforms for Chemical Biology European Research Infrastructure Consortium (Other name: European Infrastructure of Open Screening Platforms for Chemical Biology)
 - European Inland Fisheries and Aquaculture Advisory Commission
 - European Innovation Council and Small and Medium-sized Executive Agency
 - European Innovation Council and SMEs Executive Agency (Other name: European Innovation Council and Small and Medium-sized Executive Agency)
@@ -494,9 +599,15 @@ This list includes current English names, former English names, other English na
 - European Investment Bank
 - European Investment Fund
 - European Labour Authority
+- European Marine Biology Resource Center
+- European Marine Biology Resource Center ERIC (Other name: European Marine Biology Resource Center)
+- European Marine Biology Resource Center European Research Infrastructure Consortium (Other name: European Marine Biology Resource Center)
 - European Maritime Safety Agency
 - European Medicines Agency
 - European Molecular Biology Laboratory
+- European Multidisciplinary Seafloor and Water Column Observatory
+- European Multidisciplinary Seafloor and Water Column Observatory ERIC (Other name: European Multidisciplinary Seafloor and Water Column Observatory)
+- European Multidisciplinary Seafloor and Water Column Observatory European Research Infrastructure Consortium (Other name: European Multidisciplinary Seafloor and Water Column Observatory)
 - European Network and Information Security Agency (Former name: European Union Agency for Cybersecurity)
 - European Nuclear Energy Tribunal
 - European Ombudsman
@@ -506,6 +617,9 @@ This list includes current English names, former English names, other English na
 - European Organization for Nuclear Research
 - European Parliament
 - European Patent Organisation
+- European Plate Observing System
+- European Plate Observing System ERIC (Other name: European Plate Observing System)
+- European Plate Observing System European Research Infrastructure Consortium (Other name: European Plate Observing System)
 - European Police College (Former name: European Union Agency for Law Enforcement Training)
 - European Police Office (Other name: Europol)
 - European Public Law Organization
@@ -513,10 +627,27 @@ This list includes current English names, former English names, other English na
 - European Railway Agency (Former name: European Union Agency for Railways)
 - European Research Council Executive Agency
 - European Research Executive Agency
+- European Research Infrastructure Consortium (Other name: Microbial Resource Research Infrastructure)
+- European Research Infrastructure Consortium (Other name: Survey of Health, Ageing and Retirement in Europe)
+- European Research Infrastructure for Heritage Science
+- European Research Infrastructure for Heritage Science ERIC (Other name: European Research Infrastructure for Heritage Science)
+- European Research Infrastructure for Heritage Science European Research Infrastructure Consortium (Other name: European Research Infrastructure for Heritage Science)
+- European Research Infrastructure for Imaging Technologies in Biological and Biomedical Sciences
+- European Research Infrastructure for Imaging Technologies in Biological and Biomedical Sciences ERIC (Other name: European Research Infrastructure for Imaging Technologies in Biological and Biomedical Sciences)
+- European Research Infrastructure for Imaging Technologies in Biological and Biomedical Sciences European Research Infrastructure Consortium (Other name: European Research Infrastructure for Imaging Technologies in Biological and Biomedical Sciences)
 - European Schools
 - European Securities and Markets Authority
+- European Social Survey
+- European Social Survey ERIC (Other name: European Social Survey)
+- European Social Survey European Research Infrastructure Consortium (Other name: European Social Survey)
+- European Solar Research Infrastructure for Concentrated Solar Power
+- European Solar Research Infrastructure for Concentrated Solar Power ERIC (Other name: European Solar Research Infrastructure for Concentrated Solar Power)
+- European Solar Research Infrastructure for Concentrated Solar Power European Research Infrastructure Consortium (Other name: European Solar Research Infrastructure for Concentrated Solar Power)
 - European Southern Observatory (Other name: European Organization for Astronomical Research in the Southern Hemisphere)
 - European Space Agency
+- European Spallation Source
+- European Spallation Source ERIC (Other name: European Spallation Source)
+- European Spallation Source European Research Infrastructure Consortium (Other name: European Spallation Source)
 - European Stability Mechanism
 - European Telecommunications Satellite Organization
 - European Training Foundation
@@ -544,6 +675,9 @@ This list includes current English names, former English names, other English na
 - EUSC (Abbreviation: European Union Satellite Centre)
 - EUSPA (Abbreviation: European Union Agency for the Space Programme)
 - Eutelsat IGO (Abbreviation: European Telecommunications Satellite Organization)
+- Extreme Light Infrastructure
+- Extreme Light Infrastructure ERIC (Other name: Extreme Light Infrastructure)
+- Extreme Light Infrastructure European Research Infrastructure Consortium (Other name: Extreme Light Infrastructure)
 
 [↑ Back to Top](#top)
 
@@ -558,7 +692,10 @@ This list includes current English names, former English names, other English na
 - Fishery Committee for the Eastern Central Atlantic
 - FLACSO (Abbreviation: Latin American Faculty of Social Sciences)
 - FLAR (Abbreviation: Latin American Reserve Fund)
+- Food and Agriculture Organisation (Other name: Food and Agriculture Organization)
+- Food and Agriculture Organisation of the UN (Other name: Food and Agriculture Organization)
 - Food and Agriculture Organization
+- Food and Agriculture Organization of the United Nations (Other name: Food and Agriculture Organization)
 - Food Safety Promotion Board (Other name: Safefood)
 - Foreign Trade Bank of Latin America
 - Foyle, Carlingford and Irish Lights Commission
@@ -578,6 +715,7 @@ This list includes current English names, former English names, other English na
 - Gas Exporting Countries Forum
 - GCC (Abbreviation: Cooperation Council for the Arab States of the Gulf)
 - General Fisheries Commission for the Mediterranean
+- General Secretariat of the Benelux Union (Other name: Benelux)
 - General Secretariat of the Central American Integration System (Other name: Central American Integration System)
 - GEPLACEA (Abbreviation: Group of Latin American and Caribbean Sugar Exporting Countries)
 - GFCM (Abbreviation: General Fisheries Commission for the Mediterranean)
@@ -597,8 +735,11 @@ This list includes current English names, former English names, other English na
 ## H
 
 - HaDEA (Abbreviation: European Health and Digital Executive Agency)
+- Hague Conference on International Private Law (Other name: Hague Conference on Private International Law)
 - Hague Conference on Private International Law
+- HCCH (Abbreviation: Hague Conference on Private International Law)
 - HELCOM (Abbreviation: Baltic Marine Environment Protection Commission)
+- High Commissioner for Refugees (Other name: Office of the United Nations High Commissioner for Refugees)
 - High-Level Political Forum on Sustainable Development
 - HLPF (Abbreviation: High-Level Political Forum on Sustainable Development)
 - Human Rights Council (Other name: United Nations Human Rights Council)
@@ -625,12 +766,15 @@ This list includes current English names, former English names, other English na
 - ICMM (Abbreviation: International Committee of Military Medicine)
 - ICMP (Abbreviation: International Commission on Missing Persons)
 - ICMPD (Abbreviation: International Centre for Migration Policy Development)
+- ICOS (Abbreviation: Integrated Carbon Observation System)
+- ICOS ERIC (Other abbreviation: Integrated Carbon Observation System)
 - ICPDR (Abbreviation: International Commission for the Protection of the Danube River)
 - ICPE (Abbreviation: International Center for Promotion of Enterprises)
 - ICRC (Abbreviation: International Committee of the Red Cross)
 - ICSID (Abbreviation: International Centre for Settlement of Investment Disputes)
 - IDA (Abbreviation: International Development Association)
 - IDB (Abbreviation: Inter-American Defense Board)
+- IDEA (Other abbreviation: International Institute for Democracy and Electoral Assistance)
 - IDLO (Abbreviation: International Development Law Organization)
 - IFAD (Abbreviation: International Fund for Agricultural Development)
 - IFC (Abbreviation: International Finance Corporation)
@@ -654,10 +798,24 @@ This list includes current English names, former English names, other English na
 - Indian Ocean Commission
 - Indian Ocean Rim Association
 - Indian Ocean Tuna Commission
+- INFRAFRONTIER (Abbreviation: European Infrastructure of Open Screening Platforms for Chemical Biology)
+- INFRAFRONTIER
+- INFRAFRONTIER ERIC (Other abbreviation: European Infrastructure of Open Screening Platforms for Chemical Biology)
+- INFRAFRONTIER ERIC (Other name: INFRAFRONTIER)
+- INFRAFRONTIER European Research Infrastructure Consortium (Other name: INFRAFRONTIER)
 - INL (Abbreviation: International Iberian Nanotechnology Laboratory)
 - Innovative Health Initiative Joint Undertaking
 - Innovative Health Initiative JU (Other name: Innovative Health Initiative Joint Undertaking)
 - Institute of Nutrition of Central America and Panama
+- INSTRUCT (Abbreviation: Integrated Structural Biology)
+- INSTRUCT ERIC (Other abbreviation: Integrated Structural Biology)
+- Instruct-ERIC (Other abbreviation: Integrated Structural Biology)
+- Integrated Carbon Observation System
+- Integrated Carbon Observation System ERIC (Other name: Integrated Carbon Observation System)
+- Integrated Carbon Observation System European Research Infrastructure Consortium (Other name: Integrated Carbon Observation System)
+- Integrated Structural Biology
+- Integrated Structural Biology ERIC (Other name: Integrated Structural Biology)
+- Integrated Structural Biology European Research Infrastructure Consortium (Other name: Integrated Structural Biology)
 - Inter-American Center for Tax Administrations
 - Inter-American Commission on Human Rights
 - Inter-American Court of Human Rights
@@ -682,6 +840,9 @@ This list includes current English names, former English names, other English na
 - International Center for Promotion of Enterprises
 - International Center for Tropical Agriculture
 - International Centre for Advanced Mediterranean Agronomic Studies
+- International Centre for Advanced Science on River-Sea Systems
+- International Centre for Advanced Science on River-Sea Systems ERIC (Other name: International Centre for Advanced Science on River-Sea Systems)
+- International Centre for Advanced Science on River-Sea Systems European Research Infrastructure Consortium (Other name: International Centre for Advanced Science on River-Sea Systems)
 - International Centre for Agriculture Research in the Dry Areas
 - International Centre for Food Micro-Algae Against Malnutrition
 - International Centre for Genetic Engineering and Biotechnology
@@ -702,6 +863,7 @@ This list includes current English names, former English names, other English na
 - International Commission on Missing Persons
 - International Committee of Military Medicine
 - International Committee of the Red Cross
+- International Committee on Military Medicine (Other name: International Committee of Military Medicine)
 - International Copper Study Group
 - International Cospas-Sarsat Programme
 - International Cotton Advisory Committee
@@ -725,6 +887,7 @@ This list includes current English names, former English names, other English na
 - International Institute of Refrigeration
 - International Investment Bank
 - International Joint Commission
+- International Labour Organisation (Other name: International Labour Organization)
 - International Labour Organization
 - International Law Commission
 - International Lead and Zinc Study Group
@@ -742,6 +905,7 @@ This list includes current English names, former English names, other English na
 - International Oil Pollution Compensation Fund 1992
 - International Olive Council
 - International Olive Oil Council (Former name: International Olive Council)
+- International Organisation for Migration (Other name: International Organization for Migration)
 - International Organisation for the Development of Fisheries in Eastern and Central Europe
 - International Organisation of La Francophonie
 - International Organisation of Legal Metrology
@@ -751,6 +915,7 @@ This list includes current English names, former English names, other English na
 - International Pacific Halibut Commission
 - International Pepper Community
 - International Plant Genetic Resources Institute
+- International Police Organisation (Other name: International Criminal Police Organization)
 - International Potato Center
 - International Renewable Energy Agency
 - International Residual Mechanism for Criminal Tribunals
@@ -783,6 +948,7 @@ This list includes current English names, former English names, other English na
 - Inter‐American Children’s Institute
 - Inter‐American Commission of Women
 - Inter‐American Institute for Cooperation on Agriculture
+- IOC (Abbreviation: International Olive Council)
 - IOM (Abbreviation: International Organization for Migration)
 - IOTC (Abbreviation: Indian Ocean Tuna Commission)
 - IPGRI (Abbreviation: International Plant Genetic Resources Institute)
@@ -811,9 +977,15 @@ This list includes current English names, former English names, other English na
 - JCPC (Abbreviation: Judicial Committee of the Privy Council)
 - JINR (Abbreviation: Joint Institute for Nuclear Research)
 - JIU (Abbreviation: Joint Inspection Unit of the United Nations System)
+- JIV (Abbreviation: Joint Institute for Very Long Baseline Interferometry)
+- JIV ERIC (Other abbreviation: Joint Institute for Very Long Baseline Interferometry)
+- JIV-ERIC (Other abbreviation: Joint Institute for Very Long Baseline Interferometry)
 - Joint Inspection Unit (Other name: Joint Inspection Unit of the United Nations System)
 - Joint Inspection Unit of the United Nations System
 - Joint Institute for Nuclear Research
+- Joint Institute for Very Long Baseline Interferometry
+- Joint Institute for Very Long Baseline Interferometry ERIC (Other name: Joint Institute for Very Long Baseline Interferometry)
+- Joint Institute for Very Long Baseline Interferometry European Research Infrastructure Consortium (Other name: Joint Institute for Very Long Baseline Interferometry)
 - Joint Vienna Institute
 - JSCA (Abbreviation: Justice Studies Center for the Americas)
 - Judicial Committee of the Privy Council
@@ -825,6 +997,7 @@ This list includes current English names, former English names, other English na
 
 - KAICIID (Abbreviation: King Abdullah Bin Abdulaziz International Centre for Interreligious and Intercultural Dialogue)
 - King Abdullah Bin Abdulaziz International Centre for Interreligious and Intercultural Dialogue
+- King Abdullah International Centre for Interreligious and Intercultural Dialogue (Other name: King Abdullah Bin Abdulaziz International Centre for Interreligious and Intercultural Dialogue)
 
 [↑ Back to Top](#top)
 
@@ -845,7 +1018,12 @@ This list includes current English names, former English names, other English na
 - LIMCOM (Abbreviation: Limpopo Watercourse Commission)
 - Limpopo Watercourse Commission
 - Liptako-Gourma Region Integrated Development Authority
+- LOFAR (Abbreviation: LOw Frequency ARray)
+- LOFAR ERIC (Other abbreviation: LOw Frequency ARray)
 - Loss and Damahe Fund (Other name: Fund for responding to Loss and Damage)
+- LOw Frequency ARray
+- LOw Frequency ARray ERIC (Other name: LOw Frequency ARray)
+- LOw Frequency ARray European Research Infrastructure Consortium (Other name: LOw Frequency ARray)
 - LTA (Abbreviation: Lake Tanganyika Authority)
 
 [↑ Back to Top](#top)
@@ -857,6 +1035,10 @@ This list includes current English names, former English names, other English na
 - Melanesian Spearhead Group
 - Mercosur
 - Mercosur Parliament
+- Microbial Resource Research Infrastructure
+- MIRRI (Abbreviation: Microbial Resource Research Infrastructure)
+- MIRRI ERIC (Other abbreviation: Microbial Resource Research Infrastructure)
+- MIRRI-ERIC (Other abbreviation: Microbial Resource Research Infrastructure)
 - Moselle Commission
 - MRC (Abbreviation: Mekong River Commission)
 - MSG (Abbreviation: Melanesian Spearhead Group)
@@ -969,6 +1151,7 @@ This list includes current English names, former English names, other English na
 - Parliamentary Assembly of the Mediterranean
 - Parliamentary Assembly of Turkic States
 - PBC (Abbreviation: United Nations Peacebuilding Commission)
+- PCA (Abbreviation: Permanent Court of Arbitration)
 - PCB (Abbreviation: UNAIDS Programme Coordinating Board)
 - Permanent Court of Arbitration
 - Permanent Inter-State Committee for Drought Control in the Sahel
@@ -978,6 +1161,7 @@ This list includes current English names, former English names, other English na
 - PJTC (Abbreviation: Permanent Joint Technical Commission for Nile Waters)
 - Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organization
 - Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organisation (Other name: Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organization)
+- Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organization (Other name: Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organization)
 - PTA Bank (Former name: Eastern and Southern African Trade and Development Bank)
 
 [↑ Back to Top](#top)
@@ -1010,12 +1194,16 @@ This list includes current English names, former English names, other English na
 - Secretariat of the BBNJ Agreement
 - Secretariat of the Central European Free Trade Agreement
 - Secretariat of the Convention on Biological Diversity
+- Secretariat of the Council of Baltic Sea States (Other name: Council of the Baltic Sea States)
 - Secretariat of the United Nations Framework Convention on Climate Change (Other name: United Nations Framework Convention for Climate Change secretariat)
 - SELA (Abbreviation: Latin American and the Caribbean Economic System)
 - SESAME (Abbreviation: International Centre for Synchrotron-Light for Experimental Science Applications in the Middle East)
 - SESAR 3 Joint Undertaking
 - SESAR 3 JU (Other name: SESAR 3 Joint Undertaking)
 - Shanghai Cooperation Organisation
+- SHARE (Abbreviation: Survey of Health, Ageing and Retirement in Europe)
+- SHARE ERIC (Other abbreviation: Survey of Health, Ageing and Retirement in Europe)
+- SHARE-ERIC (Other abbreviation: Survey of Health, Ageing and Retirement in Europe)
 - Simón Bolívar Andean University
 - Single European Sky ATM Research 3 Joint Undertaking (Other name: SESAR 3 Joint Undertaking)
 - Single Resolution Board
@@ -1041,6 +1229,7 @@ This list includes current English names, former English names, other English na
 - STCU (Abbreviation: Science and Technology Center in Ukraine)
 - Supply Agency of the European Atomic Energy Community
 - Surveillance Authority of the European Free Trade Association
+- Survey of Health, Ageing and Retirement in Europe
 - SWIOFC (Abbreviation: South West Indian Ocean Fisheries Commission)
 - Synchrotron-Light for Experimental Science Applications in the Middle East (Other name: International Centre for Synchrotron-Light for Experimental Science Applications in the Middle East)
 
@@ -1068,11 +1257,13 @@ This list includes current English names, former English names, other English na
 - UN Children's Fund (Other name: United Nations Children’s Fund)
 - UN Development Programme (Other name: United Nations Development Programme)
 - UN Economic and Social Council (Other name: United Nations Economic and Social Council)
+- UN Educational, Scientific and Cultural Organisation (Other name: United Nations Educational, Scientific and Cultural Organization)
 - UN Environment Programme (Other name: United Nations Environment Programme)
 - UN Forum on Forests (Other name: United Nations Forum on Forests)
 - UN Framework Convention for Climate Change secretariat (Other abbreviation: United Nations Framework Convention for Climate Change secretariat)
 - UN Framework Convention on Climate Change (Other name: United Nations Framework Convention for Climate Change secretariat)
 - UN General Assembly (Other name: United Nations General Assembly)
+- UN High Commissioner for Refugees (Other name: Office of the United Nations High Commissioner for Refugees)
 - UN Industrial Development Organization (Other name: United Nations Industrial Development Organization)
 - UN Institute for Disarmament Research (Other name: United Nations Institute for Disarmament Research)
 - UN Institute for Training and Research (Other abbreviation: United Nations Institute for Training and Research)
@@ -1111,11 +1302,13 @@ This list includes current English names, former English names, other English na
 - UNIDROIT (Abbreviation: International Institute for the Unification of Private Law)
 - Unified Patent Court
 - Union for the Mediterranean
+- Union for the Mediterranean Secretariat (Other name: Union for the Mediterranean)
 - Union of South American Nations
 - Union State
 - UNITAR (Abbreviation: United Nations Institute for Training and Research)
 - United Nations
 - United Nations Capital Development Fund
+- United Nations Children's Fund (Other name: United Nations Children’s Fund)
 - United Nations Children’s Fund
 - United Nations Commission for Social Development (Other name: Commission for Social Development)
 - United Nations Commission on Crime Prevention and Criminal Justice (Other name: Commission on Crime Prevention and Criminal Justice)
@@ -1133,17 +1326,23 @@ This list includes current English names, former English names, other English na
 - United Nations Economic Commission for Europe (Other name: Economic Commission for Europe)
 - United Nations Economic Commission for Latin America and the Caribbean (Other name: Economic Commission for Latin America and the Caribbean)
 - United Nations Educational, Scientific and Cultural Organization
+- United Nations Entity for Gender Equality and the Empowerment of Women (Other name: UN Women)
 - United Nations Environment Programme
+- United Nations Environmental Program (Other name: United Nations Environment Programme)
 - United Nations Forum on Forests
 - United Nations Framework Convention for Climate Change secretariat
 - United Nations Framework Convention on Climate Change (Other name: United Nations Framework Convention for Climate Change secretariat)
 - United Nations General Assembly
+- United Nations High Commissioner for Refugees (Other name: Office of the United Nations High Commissioner for Refugees)
 - United Nations Human Rights Council
 - United Nations Human Settlements Programme
+- United Nations Industrial Development Organisation (Other name: United Nations Industrial Development Organization)
 - United Nations Industrial Development Organization
 - United Nations Institute for Disarmament Research
 - United Nations Institute for Training and Research
+- United Nations International Children’s Emergency Fund (Other name: United Nations Children’s Fund)
 - United Nations Interregional Crime and Justice Research Institute
+- United Nations Interregional Crime and Justice Research Institute Centre for Artificial Intelligence and Robotics (Other name: United Nations Interregional Crime and Justice Research Institute)
 - United Nations Joint Staff Pension Board (Other name: United Nations Joint Staff Pension Fund)
 - United Nations Joint Staff Pension Fund
 - United Nations Office for Project Services
@@ -1188,13 +1387,17 @@ This list includes current English names, former English names, other English na
 - WAMI (Abbreviation: West African Monetary Institute)
 - WARDA (Former abbreviation: Africa Rice Center)
 - Waterways Ireland
+- WB (Abbreviation: World Bank)
+- WCO (Abbreviation: World Customs Organisation)
 - WCPFC (Abbreviation: Western and Central Pacific Fisheries Commission)
 - WECAFC (Abbreviation: Western Central Atlantic Fishery Commission)
 - West Africa Rice Development Association (Former name: Africa Rice Center)
+- West African Central Bank (Other name: Central Bank of West African States)
 - West African Development Bank
 - West African Economic and Monetary Union
 - West African Health Organisation
 - West African Monetary Agency
+- West African Monetary and Economic Union (Other name: West African Economic and Monetary Union)
 - West African Monetary Institute
 - West African Monetary Union
 - Western and Central Pacific Fisheries Commission
@@ -1206,6 +1409,8 @@ This list includes current English names, former English names, other English na
 - World Bank
 - World Bank Group
 - World Customs Organisation
+- World Food Programme (Other name: United Nations World Food Programme)
+- World Health Organisation (Other name: World Health Organization)
 - World Health Organization
 - World Intellectual Property Organization
 - World Meteorological Organization
