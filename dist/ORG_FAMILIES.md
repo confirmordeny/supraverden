@@ -18,7 +18,7 @@
 * Economic and Monetary Community of Central Africa (3 entities)
 * ECOWAS entities (7 entities)
 * EFTA entities (3 entities)
-* EU institutions and bodies (81 entities)
+* EU institutions and bodies (112 entities)
 * Eurasian Economic Union entities (3 entities)
 * International Red Cross and Red Crescent Movement entities (1 entity)
 * Mercosur entities (3 entities)
