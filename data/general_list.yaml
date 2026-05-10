@@ -2056,8 +2056,7 @@ Council of Europe:
   Org_family: Council of Europe entities
   Country: ZZ
   Name_en: Council of Europe
-  Name_other_en: COE
-  Abbreviation_en: null
+  Abbreviation_en: COE
   Treaty_url: https://rm.coe.int/1680a1c6b3
   OpenSanctions_id: '[No code found.]'
   RIAD_code: N$0ECBM00826
@@ -2104,8 +2103,10 @@ Benelux:
   Org_family: Benelux entities
   Country: ZZ
   Name_en: Benelux
+  Name_other_en: General Secretariat of the Benelux Union
   Abbreviation_en: null
   Treaty_url: https://www.benelux.int/wp-content/uploads/2023/02/BeneluxVerdrag_2008.pdf
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202300724
   Name_fr: Benelux
   Name_es: Benelux
   OpenSanctions_id: '[No code found.]'
@@ -2465,6 +2466,7 @@ Inter-American Development Bank:
   Name_en: Inter-American Development Bank
   Abbreviation_en: IADB
   Treaty_url: https://www.oas.org/dil/treaties_C-15_Agreement_Establishing_the_Inter-American_Development_Bank.htm
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202300724
   OpenSanctions_id: NK-9VyvKXyemqBPyAVRHKVBmq
   RIAD_code: N$0ECBM00347
   Name_fr: banque interaméricaine de développement
@@ -2606,6 +2608,7 @@ North Atlantic Treaty Organisation:
   Country: ZZ
   Name_en: North Atlantic Treaty Organisation
   Abbreviation_en: NATO
+  Abbreviation_es: OTAN
   Treaty_url: https://www.nato.int/cps/en/natohq/official_texts_17120.htm
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B5
@@ -3121,8 +3124,10 @@ European Centre for Medium-Range Weather Forecasts:
   Org_family: none
   Country: ZZ
   Name_en: European Centre for Medium-Range Weather Forecasts
+  Name_other_en: European Centre for Medium Range Weather Forecasts
   Abbreviation_en: ECMWF
   Treaty_url: https://www.ecmwf.int/sites/default/files/amended_convention_protocol_privileges_en.pdf
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202300724
   Name_fr: centre européen de prévision météorologique à moyen terme
   Name_es: Centro Europeo de Previsiones Meteorológicas a Plazo Medio
   OpenSanctions_id: '[No code found.]'
@@ -3541,9 +3546,11 @@ International Criminal Police Organization:
   Org_family: none
   Country: ZZ
   Name_en: International Criminal Police Organization
+  Name_other_en: International Police Organisation
   Abbreviation_en: INTERPOL
   Treaty_url: https://web.archive.org/web/20160222055903/https://www.interpol.int/content/download/9429/69209/version/9/file/Constitution.pdf
   Immunity_url: https://www.interpol.int/content/download/23852/file/General%20agreement%20on%20the%20privileges%20and%20immunities%20of%20the%20International%20Criminal%20Police%20Organization%20%E2%80%93%20INTERPOL_EN.pdf
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202300724
   Name_fr: Interpol
   Name_es: Interpol
   OpenSanctions_id: '[No code found.]'
@@ -3860,7 +3867,7 @@ European Bank for Reconstruction and Development:
   Org_family: none
   Country: ZZ
   Name_en: European Bank for Reconstruction and Development
-  Abbreviation_en: null
+  Abbreviation_en: EBRD
   Treaty_url: https://www.ebrd.com/content/dam/ebrd_dxp/assets/pdfs/institutional-documents/basic-documents-of-the-ebrd-july-2025-english.pdf
   Name_fr: Banque européenne pour la reconstruction et le développement
   Name_es: Banco Europeo para la Reconstrucción y el Desarrollo
@@ -4228,9 +4235,11 @@ Union for the Mediterranean:
   Org_family: none
   Country: ZZ
   Name_en: Union for the Mediterranean
+  Name_other_en: Union for the Mediterranean Secretariat
   Abbreviation_en: null
   Treaty_url: https://ufmsecretariat.org/wp-content/uploads/2012/09/Statutes-UfMS.pdf
   Immunity_url: https://ufmsecretariat.org/wp-content/uploads/2018/12/HeadquartersAgreement.pdf
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202300724
   Name_fr: Union pour la Méditerranée
   Name_es: Unión para el Mediterráneo
   OpenSanctions_id: '[No code found.]'
@@ -4425,7 +4434,7 @@ International Olive Council:
   Country: ZZ
   Name_en: International Olive Council
   Name_former_en: International Olive Oil Council
-  Abbreviation_en: null
+  Abbreviation_en: IOC
   Treaty_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A22016A1028%2801%29
   Name_fr: Conseil oléicole international
   Name_es: Consejo Oleícola Internacional
@@ -4849,10 +4858,12 @@ Danube Commission:
   Org_family: none
   Country: ZZ
   Name_en: Danube Commission
+  Name_other_en: Danube Commission Secretariat
   Abbreviation_en: null
   Notes: Not to be confused with the International Commission for the Protection of the Danube River.
   Immunity_url: https://www.danubecommission.org/uploads/doc/convention-en.pdf
   Treaty_url: https://www.danubecommission.org/uploads/doc/convention-en.pdf
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202300724
   Name_fr: Commission du Danube
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
@@ -6193,8 +6204,9 @@ European Molecular Biology Laboratory:
   Org_family: none
   Country: ZZ
   Name_en: European Molecular Biology Laboratory
-  Abbreviation_en: null
+  Abbreviation_en: EMBL
   Treaty_url: https://www.embl.org/documents/wp-content/uploads/2020/05/establishingEMBL.pdf
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202300724
   Name_fr: Laboratoire européen de biologie moléculaire
   Name_es: Laboratorio Europeo de Biología Molecular
   OpenSanctions_id: '[No code found.]'
@@ -6330,8 +6342,10 @@ West African Economic and Monetary Union:
   Org_family: West African Economic and Monetary Union
   Country: ZZ
   Name_en: West African Economic and Monetary Union
+  Name_other_en: West African Monetary and Economic Union
   Abbreviation_en: null
   Treaty_url: https://www.bceao.int/sites/default/files/inline-files/TraiteUMOA2010_tr_Eng.pdf
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202300724
   Name_fr: Union économique et monétaire ouest-africaine
   Name_es: Unión Económica y Monetaria del África Occidental
   OpenSanctions_id: '[No code found.]'
@@ -6506,8 +6520,10 @@ International Committee of Military Medicine:
   Org_family: none
   Country: ZZ
   Name_en: International Committee of Military Medicine
+  Name_other_en: International Committee on Military Medicine
   Abbreviation_en: ICMM
   Treaty_url: https://cimm-icmm.org/wp-content/uploads/2025/03/241008-ENG-Statutes-of-the-ICMM.pdf
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202300724
   Name_fr: Comité international de médecine militaire
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
@@ -6636,8 +6652,10 @@ Hague Conference on Private International Law:
   Org_family: none
   Country: ZZ
   Name_en: Hague Conference on Private International Law
-  Abbreviation_en: null
+  Name_other_en: Hague Conference on International Private Law
+  Abbreviation_en: HCCH
   Treaty_url: https://assets.hcch.net/docs/d7d051ae-6dd1-4881-a3b5-f7dbcaad02ea.pdf
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202300724
   Name_fr: Conférence de la Haye de droit international privé
   Name_es: Conferencia de La Haya de Derecho Internacional Privado
   OpenSanctions_id: '[No code found.]'
@@ -7203,8 +7221,10 @@ King Abdullah Bin Abdulaziz International Centre for Interreligious and Intercul
   Org_family: none
   Country: ZZ
   Name_en: King Abdullah Bin Abdulaziz International Centre for Interreligious and Intercultural Dialogue
+  Name_other_en: King Abdullah International Centre for Interreligious and Intercultural Dialogue
   Abbreviation_en: KAICIID
   Treaty_url: https://www.kaiciid.org/node/2641
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202300724
   Name_fr: KAICIID Dialogue Centre
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
@@ -8145,9 +8165,11 @@ Central Bank of West African States:
   Org_family: West African Economic and Monetary Union
   Country: ZZ
   Name_en: Central Bank of West African States
-  Nane_other_en: West African Central Bank
+  Name_other_en: West African Central Bank
+  Name_other_2_en: Bank of the West African States
   Abbreviation_en: BCEAO
   Treaty_url: https://edit.wti.org/document/show/pdf/57ce5bd9-ef38-4a1d-abd5-ed07f1f155bf
+  Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202300724
   Name_fr: Banque centrale des États de l'Afrique de l'Ouest
   Name_es: Banco Central de los Estados de África Occidental
   OpenSanctions_id: NK-mxyB8RdssqTPhWAWwS9dyb
@@ -8682,10 +8704,12 @@ Council of the Baltic Sea States:
   Org_family: none
   Country: ZZ
   Name_en: Council of the Baltic Sea States
+  Name_other_en: Secretariat of the Council of Baltic Sea States
   Abbreviation_en: CBSS
   Treaty_url: https://cbss.org/wp-content/uploads/2020/05/Host_country_Agreement_on_the_Privileges__Immunities_of_the_Secretariat_Oct_981-2.pdf
   Immunity_url: https://www.regeringen.se/contentassets/ff75e9254d0c4ea48fba1871e1814453/avtal-med-ostersjostaternas-rads-sekretariat-om-immunitet-och-privilegier-for-sekretariatet/
   Source: https://lagen.nu/prop/1998/99:24
+  Source_2: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202300724
   Name_fr: Conseil des États de la mer Baltique
   Name_es: Consejo de Estados del Mar Báltico
   OpenSanctions_id: '[No code found.]'
@@ -8850,9 +8874,11 @@ EFTA Court:
   Name_en: EFTA Court
   Name_other_en: Court of justice of the EFTA States
   Name_other_2_en: European Free Trade Association Court
+  Name_other_3_en: Court of Justice of the European Free Trade Association
   Abbreviation_en: null
   Treaty_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:E1994A1231(01)
   Source: https://www.efta.int/sites/default/files/documents/legal-texts/the-surveillance-and-court-agreement/agreement-annexes-and-protocols/Surveillance-and-Court-Agreement-consolidated.pdf
+  Source_2: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202300724
   Name_fr: Cour de justice de l'Association européenne de libre-échange
   Name_es: Tribunal de la Asociación Europea de Libre Comercio
   OpenSanctions_id: '[No code found.]'
@@ -10166,7 +10192,9 @@ United Nations Economic and Social Council:
   Abbreviation_en: ECOSOC
   Abbreviation_fr: null
   Name_other_en: UN Economic and Social Council
+  Name_other_2_en: Economic and Social Council
   Source: https://www.un.org/en/about-us/main-bodies
+  Source_2: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202300724
   OpenSanctions_id: '[No code found.]'
   Name_es: Consejo Económico y Social de las Naciones Unidas
   Assessment_against_FATF_definition: Included
@@ -10313,9 +10341,12 @@ Food and Agriculture Organization:
   Name_fr: Organisation des Nations unies pour l'alimentation et l'agriculture
   Abbreviation_en: FAO
   Abbreviation_fr: null
-  Name_other_en: null
+  Name_other_1_en: Food and Agriculture Organisation
+  Name_other_2_en: Food and Agriculture Organisation of the UN
+  Name_other_3_en: Food and Agriculture Organization of the United Nations
   Type: UN specialized agency
   Source: https://www.un.org/Depts/ptd/about-us/un-organisations
+  Source_2: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202300724
   OpenSanctions_id: NK-NuGLAXMYwi7QnLjQKKoByS
   RIAD_code: N$0ECBM00958
   Name_es: Organización de las Naciones Unidas para la Alimentación y la Agricultura
@@ -10502,14 +10533,16 @@ United Nations Children’s Fund:
   Org_family: UN and affiliates
   Country: ZZ
   Name_en: United Nations Children’s Fund
-  Name_other_en: United Nations Children's Fund
+  Name_other_1_en: United Nations Children's Fund
+  Name_other_2_en: UN Children's Fund
+  Name_other_3_en: United Nations International Children’s Emergency Fund
   Leadership_role_en: Executive Director of UNICEF
   Leadership_role_Wikidata_code: Q67199671
   Name_fr: null
   Abbreviation_en: UNICEF
   Abbreviation_fr: null
-  Name_other_en: UN Children's Fund
   Source: https://www.un.org/Depts/ptd/about-us/un-organisations
+  Source_2: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202300724
   OpenSanctions_id: NK-RwFaSVsHm7tyoSHDSdL47E/
   RIAD_code: N$0ECBM00651
   Name_es: Unicef
@@ -10589,7 +10622,9 @@ United Nations Environment Programme:
   Abbreviation_en: UNEP
   Abbreviation_fr: null
   Name_other_en: UN Environment Programme
+  Name_other_2_en: United Nations Environmental Program
   Source: https://www.un.org/Depts/ptd/about-us/un-organisations
+  Source_2: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202300724
   OpenSanctions_id: '[No code found.]'
   Name_es: Programa de las Naciones Unidas para el Medio Ambiente
   Assessment_against_FATF_definition: Included
@@ -10609,14 +10644,17 @@ Office of the United Nations High Commissioner for Refugees:
   Org_family: UN and affiliates
   Country: ZZ
   Name_en: Office of the United Nations High Commissioner for Refugees
-  Name_other_en: United Nations High Commissioner for Refugees
+  Name_other_1_en: United Nations High Commissioner for Refugees
+  Name_other_2_en: Office of the UN High Commissioner for Refugees
+  Name_other_3_en: High Commissioner for Refugees
+  Name_other_4_en: UN High Commissioner for Refugees
   Leadership_role_en: United Nations High Commissioner for Refugees
   Leadership_role_Wikidata_code: Q27832358
   Name_fr: null
   Abbreviation_en: UNHCR
   Abbreviation_fr: null
-  Name_other_en: Office of the UN High Commissioner for Refugees
   Source: https://www.un.org/sites/un2.un.org/files/un_system_chart.pdf
+  Source_2: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202300724
   OpenSanctions_id: '[No code found.]'
   RIAD_code: N$ECBM846394
   Assessment_against_FATF_definition: Included
@@ -10692,12 +10730,13 @@ United Nations World Food Programme:
   Org_family: UN and affiliates
   Country: ZZ
   Name_en: United Nations World Food Programme
-  Name_other_en:  World Food Programme
+  Name_other_1_en: World Food Programme
+  Name_other_2_en: UN World Food Programme
   Name_fr: Programme alimentaire mondial
   Abbreviation_en: WFP
   Abbreviation_fr: null
-  Name_other_en: UN World Food Programme
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
+  Source_2: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202300724
   OpenSanctions_id: '[No code found.]'
   Name_es: Programa Mundial de Alimentos
   Assessment_against_FATF_definition: Included
@@ -10778,9 +10817,10 @@ World Health Organization:
   Name_fr: Organisation mondiale de la santé
   Abbreviation_en: WHO
   Abbreviation_fr: null
-  Name_other_en: null
+  Name_other_en: World Health Organisation
   Type: UN specialized agency
   Source: https://www.un.org/en/about-us/specialized-agencies
+  Source_2: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202300724
   OpenSanctions_id: '[No code found.]'
   RIAD_code: N$0ECBM00768
   Name_es: Organización Mundial de la Salud
@@ -10902,9 +10942,10 @@ United Nations Educational, Scientific and Cultural Organization:
   Name_fr: Organisation des Nations unies pour l'éducation, la science et la culture
   Abbreviation_en: UNESCO
   Abbreviation_fr: null
-  Name_other_en: null
+  Name_other_en: UN Educational, Scientific and Cultural Organisation
   Type: UN specialized agency
   Source: https://www.un.org/en/about-us/specialized-agencies
+  Source_2: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202300724
   OpenSanctions_id: '[No code found.]'
   RIAD_code: N$0ECBM01196
   Name_es: UNESCO
@@ -10963,9 +11004,10 @@ International Labour Organization:
   Name_fr: Organisation internationale du travail
   Abbreviation_en: ILO
   Abbreviation_fr: null
-  Name_other_en: null
+  Name_other_en: International Labour Organisation
   Type: UN specialized agency
   Source: https://www.un.org/en/about-us/specialized-agencies
+  Source_2: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202300724
   OpenSanctions_id: '[No code found.]'
   RIAD_code: N$0ECBM00461
   Name_es: Organización Internacional del Trabajo
@@ -11141,8 +11183,9 @@ International Organization for Migration:
   Name_fr: Organisation internationale pour les migrations
   Abbreviation_en: IOM
   Abbreviation_fr: null
-  Name_other_en: null
+  Name_other_en: International Organisation for Migration
   Source: https://www.un.org/en/about-us/specialized-agencies
+  Source_2: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202300724
   OpenSanctions_id: NK-behW9iF6wk8trvEFcHVZYe
   RIAD_code: N$0ECBM00487
   Name_es: Organización Internacional para las Migraciones
@@ -11202,8 +11245,10 @@ Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organizatio
   Abbreviation_fr: null
   Name_other_en: Comprehensive Nuclear-Test-Ban Treaty Organization Preparatory Commission
   Name_other_2_en: Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organisation
+  Name_other_3_en: Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organization
   Treaty_url: https://www.ctbto.org/sites/default/files/2022-10/Resolution_English_3.pdf
   Source: https://www.un.org/en/about-us/specialized-agencies
+  Source_2: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202300724
   OpenSanctions_id: '[No code found.]'
   Name_es: Comisión Preparatoria del Tratado de Prohibición Completa de los Ensayos Nucleares
   Assessment_against_FATF_definition: Included
@@ -11310,8 +11355,10 @@ United Nations Industrial Development Organization:
   Abbreviation_en: UNIDO
   Abbreviation_fr: null
   Name_other_en: UN Industrial Development Organization
+  Name_other_2_en: United Nations Industrial Development Organisation
   Type: UN specialized agency
   Source: https://www.un.org/en/about-us/specialized-agencies
+  Source_2: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202300724
   OpenSanctions_id: '[No code found.]'
   Name_es: Organización de las Naciones Unidas para el Desarrollo Industrial
   Assessment_against_FATF_definition: Included
@@ -11606,7 +11653,9 @@ United Nations Interregional Crime and Justice Research Institute:
   Abbreviation_en: UNICRI
   Abbreviation_fr: null
   Name_other_en: UN Interregional Crime and Justice Research Institute
+  Name_other_2_en: United Nations Interregional Crime and Justice Research Institute Centre for Artificial Intelligence and Robotics
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
+  Source_2: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202300724
   OpenSanctions_id: '[No code found.]'
   Name_es: Instituto Interregional de las Naciones Unidas para Investigaciones sobre el Crimen y la Justicia
   Assessment_against_FATF_definition: Included
@@ -11789,8 +11838,9 @@ UN Women:
   Name_fr: ONU Femmes
   Abbreviation_en: null
   Abbreviation_fr: null
-  Name_other_en: null
+  Name_other_en: United Nations Entity for Gender Equality and the Empowerment of Women
   Source: https://www.un.org/en/pdfs/un_system_chart.pdf
+  Source_2: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202300724
   Name_es: ONU Mujeres
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
@@ -13210,6 +13260,7 @@ International Committee of the Red Cross:
   Source_2: https://www.legislation.gov.uk/ukpga/2025/2/section/2
   Source_3: https://classic.austlii.edu.au/au/legis/cth/num_reg/ioaicotrcr2013n237o20131107/
   Source_4: https://www.icty.org/x/cases/simic/tdec/en/90727EV59549.htm
+  Source_5: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202300724
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B43
