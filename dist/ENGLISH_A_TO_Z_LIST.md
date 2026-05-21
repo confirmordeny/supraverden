@@ -10,6 +10,7 @@
 
 - Administrative Tribunal of the Organization of American States
 - Advisory Centre on World Trade Organization Law
+- Aerosol, Clouds and Trace Gases Research Infrastructure
 - Africa Centres for Disease Control and Prevention
 - Africa Finance Corporation
 - Africa Rice Center
@@ -35,6 +36,7 @@
 - Agency for the Cooperation of Energy Regulators
 - Agreement on the Conservation of Albatrosses and Petrels
 - Amazon Cooperation Treaty Organization
+- Analysis and Experimentation on Ecosystems
 - Andean Community
 - Andean Parliament
 - Andrés Bello convention for the educational, scientific and cultural integration of Latin America and Spain
@@ -83,6 +85,7 @@
 - Benelux
 - Benelux Court of Justice
 - Benelux Organisation for Intellectual Property
+- Biobanking and Biomolecular Resources Research Infrastructure
 - Black Sea Trade and Development Bank
 - Board of Peace
 - Brazilian-Argentine Agency for Accounting and Control of Nuclear Materials
@@ -120,6 +123,7 @@
 - Central Asian and Caucasus Regional Fisheries and Aquaculture Commission
 - Central Bank of West African States
 - Central Commission for the Navigation of the Rhine
+- Central European Research Infrastructure Consortium
 - Centre on Integrated Rural Development for Asia and the Pacific
 - Cherenkov Telescope Array Observatory
 - Chips Joint Undertaking
@@ -144,6 +148,7 @@
 - Commission on the Status of Women
 - Committee for Inland Fisheries and Aquaculture of Africa
 - Common Fund for Commodities
+- Common Language Resources and Technology Infrastructure
 - Common Market for Eastern and Southern Africa
 - Commonwealth of Independent States
 - Commonwealth Secretariat
@@ -153,6 +158,7 @@
 - Community Plant Variety Office
 - Comprehensive Nuclear-Test-Ban Treaty Organisation
 - Conseil de l'Entente
+- Consortium of European Social Science Data Archives
 - Consultative Group on International Agricultural Research
 - Convention for the Conservation of Antarctic Marine Living Resources
 - Cooperation Council for the Arab States of the Gulf
@@ -172,12 +178,14 @@
 
 - Danube Commission
 - Desert Locust Control Organisation for Eastern Africa
+- Digital Research Infrastructure for the Arts and Humanities
 - Dutch Language Union
 
 [↑ Back to Top](#top)
 
 ## E
 
+- e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research
 - East African Community
 - East African Court of Justice
 - East African Development Bank
@@ -209,18 +217,22 @@
 - Eurasian Development Bank
 - Eurasian Economic Union
 - Eurasian Patent Organization
+- Euro-Argo Research Infrastructure
+- European Advanced Translational Research Infrastructure
 - European Agency for Safety and Health at Work
 - European and Mediterranean Plant Protection Organization
 - European Atomic Energy Community
 - European Bank for Reconstruction and Development
 - European Banking Authority
 - European Border and Coast Guard Agency
+- European Carbon Dioxide Capture and Storage Laboratory Infrastructure
 - European Central Bank
 - European Centre for Disease Prevention and Control
 - European Centre for Medium-Range Weather Forecasts
 - European Centre for the Development of Vocational Training
 - European Chemicals Agency
 - European Climate, Infrastructure and Environment Executive Agency
+- European Clinical Research Infrastructure Network
 - European Commission
 - European Committee for Prevention of Torture
 - European Committee of the Regions
@@ -243,6 +255,8 @@
 - European Free Trade Association
 - European Health and Digital Executive Agency
 - European High Performance Computing Joint Undertaking
+- European Holocaust Research Infrastructure
+- European Infrastructure of Open Screening Platforms for Chemical Biology
 - European Inland Fisheries and Aquaculture Advisory Commission
 - European Innovation Council and Small and Medium-sized Executive Agency
 - European Institute for Gender Equality
@@ -251,9 +265,11 @@
 - European Investment Bank
 - European Investment Fund
 - European Labour Authority
+- European Marine Biology Resource Center
 - European Maritime Safety Agency
 - European Medicines Agency
 - European Molecular Biology Laboratory
+- European Multidisciplinary Seafloor and Water Column Observatory
 - European Nuclear Energy Tribunal
 - European Ombudsman
 - European Organisation for the Exploitation of Meteorological Satellites
@@ -262,13 +278,19 @@
 - European Organization for Nuclear Research
 - European Parliament
 - European Patent Organisation
+- European Plate Observing System
 - European Public Law Organization
 - European Public Prosecutor’s Office
 - European Research Council Executive Agency
 - European Research Executive Agency
+- European Research Infrastructure for Heritage Science
+- European Research Infrastructure for Imaging Technologies in Biological and Biomedical Sciences
 - European Schools
 - European Securities and Markets Authority
+- European Social Survey
+- European Solar Research Infrastructure for Concentrated Solar Power
 - European Space Agency
+- European Spallation Source
 - European Stability Mechanism
 - European Telecommunications Satellite Organization
 - European Training Foundation
@@ -289,6 +311,7 @@
 - European University Institute
 - Europe’s Rail Joint Undertaking
 - Europol
+- Extreme Light Infrastructure
 
 [↑ Back to Top](#top)
 
@@ -333,8 +356,11 @@
 - Indian Ocean Commission
 - Indian Ocean Rim Association
 - Indian Ocean Tuna Commission
+- INFRAFRONTIER
 - Innovative Health Initiative Joint Undertaking
 - Institute of Nutrition of Central America and Panama
+- Integrated Carbon Observation System
+- Integrated Structural Biology
 - Inter-American Center for Tax Administrations
 - Inter-American Commission on Human Rights
 - Inter-American Court of Human Rights
@@ -359,6 +385,7 @@
 - International Center for Promotion of Enterprises
 - International Center for Tropical Agriculture
 - International Centre for Advanced Mediterranean Agronomic Studies
+- International Centre for Advanced Science on River-Sea Systems
 - International Centre for Agriculture Research in the Dry Areas
 - International Centre for Food Micro-Algae Against Malnutrition
 - International Centre for Genetic Engineering and Biotechnology
@@ -461,6 +488,7 @@
 
 - Joint Inspection Unit of the United Nations System
 - Joint Institute for Nuclear Research
+- Joint Institute for Very Long Baseline Interferometry
 - Joint Vienna Institute
 - Judicial Committee of the Privy Council
 - Justice Studies Center for the Americas
@@ -487,6 +515,7 @@
 - Latin-American Centre for Physics
 - Limpopo Watercourse Commission
 - Liptako-Gourma Region Integrated Development Authority
+- LOw Frequency ARray
 
 [↑ Back to Top](#top)
 
@@ -497,6 +526,7 @@
 - Melanesian Spearhead Group
 - Mercosur
 - Mercosur Parliament
+- Microbial Resource Research Infrastructure
 - Moselle Commission
 - Multilateral Investment Guarantee Agency
 
@@ -613,6 +643,7 @@
 - Statistical Commission
 - Supply Agency of the European Atomic Energy Community
 - Surveillance Authority of the European Free Trade Association
+- Survey of Health, Ageing and Retirement in Europe
 
 [↑ Back to Top](#top)
 
