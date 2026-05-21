@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 614 international organisations in the table.
+There are currently 615 international organisations in the table.
 
 | English Name | Wikidata Code | OpenSanctions | Family | Source |
 |---|---|---|---|---|
@@ -541,6 +541,7 @@ There are currently 614 international organisations in the table.
 | Single Resolution Board | [Q19516507](https://www.wikidata.org/wiki/Q19516507) | [No code found.] | EU institutions and bodies | [european-union.europa.eu](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC) |
 | Smart Networks and Services Joint Undertaking | [Q133886014](https://www.wikidata.org/wiki/Q133886014) | [No code found.] | EU institutions and bodies | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R2085) |
 | South Asian Association for Regional Cooperation | [Q145700](https://www.wikidata.org/wiki/Q145700) | [No code found.] | none | [Treaty](https://www.saarc-sec.org/index.php/about-saarc/saarc-charter) |
+| South Asian University | [Q7566050](https://www.wikidata.org/wiki/Q7566050) | [No code found.] | none | [Treaty](https://nepal.saarc-sec.org/index.php/resources/agreements-conventions/29-agreement-for-establishment-of-south-asian-univeristy/file) |
 | South Centre | [Q498517](https://www.wikidata.org/wiki/Q498517) | [No code found.] | none | [Treaty](https://www.southcentre.int/wp-content/uploads/2013/02/Intergovernmental-Agreement_EN.pdf) |
 | South East Atlantic Fisheries Organisation | [Q3492244](https://www.wikidata.org/wiki/Q3492244) | [No code found.] | none | [Treaty](http://www.seafo.org/About/Convention-Text) |
 | South Pacific Regional Fisheries Management Organisation | [Q21663305](https://www.wikidata.org/wiki/Q21663305) | [No code found.] | none | [Treaty](https://www.austlii.edu.au/au/other/dfat/treaties/ATS/2012/28.html) |

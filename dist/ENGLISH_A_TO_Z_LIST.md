@@ -630,6 +630,7 @@
 - Single Resolution Board
 - Smart Networks and Services Joint Undertaking
 - South Asian Association for Regional Cooperation
+- South Asian University
 - South Centre
 - South East Atlantic Fisheries Organisation
 - South Pacific Regional Fisheries Management Organisation

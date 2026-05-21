@@ -482,8 +482,6 @@ This list includes current English names, former English names, other English na
 - ERCEA (Abbreviation: European Research Council Executive Agency)
 - EREA (Abbreviation: European Research Executive Agency)
 - ERIC (Other abbreviation: e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research)
-- ERIC (Other name: Microbial Resource Research Infrastructure)
-- ERIC (Other name: Survey of Health, Ageing and Retirement in Europe)
 - ESA (Abbreviation: Supply Agency of the European Atomic Energy Community)
 - ESCAP (Abbreviation: Economic and Social Commission for Asia and the Pacific)
 - ESCWA (Abbreviation: Economic and Social Commission for Western Asia)
@@ -627,8 +625,6 @@ This list includes current English names, former English names, other English na
 - European Railway Agency (Former name: European Union Agency for Railways)
 - European Research Council Executive Agency
 - European Research Executive Agency
-- European Research Infrastructure Consortium (Other name: Microbial Resource Research Infrastructure)
-- European Research Infrastructure Consortium (Other name: Survey of Health, Ageing and Retirement in Europe)
 - European Research Infrastructure for Heritage Science
 - European Research Infrastructure for Heritage Science ERIC (Other name: European Research Infrastructure for Heritage Science)
 - European Research Infrastructure for Heritage Science European Research Infrastructure Consortium (Other name: European Research Infrastructure for Heritage Science)
@@ -1185,6 +1181,7 @@ This list includes current English names, former English names, other English na
 - Safefood
 - Salzburg Forum
 - SATCEN (Other name: European Union Satellite Centre)
+- SAU (Abbreviation: South Asian University)
 - Science and Technology Center in Ukraine
 - SDF (Abbreviation: SAARC Development Fund)
 - SEAFDEC (Abbreviation: Southeast Asian Fisheries Development Center)
@@ -1210,6 +1207,7 @@ This list includes current English names, former English names, other English na
 - Smart Networks and Services Joint Undertaking
 - Smart Networks and Services JU (Other name: Smart Networks and Services Joint Undertaking)
 - South Asian Association for Regional Cooperation
+- South Asian University
 - South Centre
 - South East Atlantic Fisheries Organisation
 - South Pacific Forum (Former name: Pacific Islands Forum)
