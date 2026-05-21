@@ -2827,12 +2827,13 @@ African Union:
   Name_other_en: null
   Abbreviation_en: AU
   Treaty_url: https://au.int/sites/default/files/treaties/7758-treaty-0021_-_CONSTITUTIVE_ACT_OF_THE_AFRICAN_UNION_E.pdf
+  Immunity_url: https://web.archive.org/web/20250220014428/https://au.int/sites/default/files/treaties/7760-treaty-0001_-_general_convention_on_the_privileges_and_immunities_of_the_oau_e.pdf
   OpenSanctions_id: bic-AFUNETAA
   RIAD_code: N$0ECBM00073
   Name_fr: Union africaine
   Name_es: Unión Africana
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
   Year_established: 1999
   Headquarters: Johannesburg, South Africa
   LEI: 254900Q0J01340FOTP78
@@ -3957,11 +3958,12 @@ Economic Cooperation Organization:
   Name_en: Economic Cooperation Organization
   Abbreviation_en: null
   Treaty_url: https://eco.int/wp-content/uploads/2017/05/Agreement-on-Legal-Status-of-the-ECO-National-Representatives-and-International-Staff.pdf
+  Immunity_url: https://eco.int/wp-content/uploads/2017/05/Agreement-on-Legal-Status-of-the-ECO-National-Representatives-and-International-Staff.pdf
   Name_fr: Organisation de coopération économique
   Name_es: Organización de Cooperación Económica
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
   Year_established: 1985
   Headquarters: Tehran, Iran
   Name_de: Organisation für wirtschaftliche Zusammenarbeit
@@ -4092,11 +4094,12 @@ Pacific Islands Forum:
   Name_former_en: South Pacific Forum
   Abbreviation_en: null
   Treaty_url: https://forumsec.org/publications/treaty-collection
+  Immunity_url: https://forumsec.org/sites/default/files/2024-03/Agreement-Establishing-the-Pacific-Islands-Forum-Secretariat-2000.pdf
   Name_fr: Forum des îles du Pacifique
   Name_es: Foro de las Islas del Pacífico
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
   Year_established: 1971
   Headquarters: Suva, Fiji
   LEI: 254900TLPKM7IXXN3S43
@@ -6691,11 +6694,12 @@ Inter-American Center for Tax Administrations:
   Name_en: Inter-American Center for Tax Administrations
   Abbreviation_en: CIAT
   Treaty_url: https://ciatorg.sharepoint.com/sites/cds/Conocimientos/Gerencia_Ejecutiva_Operaciones/GestionInstitucional/LinieamientosEstrategicos/EstatutosyReglamentos/pdf/bylaws_regulatios_en.pdf?ga=1
+  Immunity_url: http://gacetas.procuraduria-admon.gob.pa/TRATADO-6_1969.pdf
   Name_fr: centre inter-américain des administrations fiscales
   Name_es: Centro Interamericano de Administraciones Tributarias
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
   Year_established: 1967
   Headquarters: Panama City, Panama
   Name_pt: Centro Interamericano de Administrações Tributárias
@@ -8982,12 +8986,13 @@ Inter-American Statistical Institute:
   Name_en: Inter-American Statistical Institute
   Abbreviation_en: IASI
   Treaty_url: https://www.inec.gob.pa/iasi/docs/ingles/CONSTITUTION.doc
+  Immunity_url: https://www.archives.gov/federal-register/codification/executive-order/09698.html
   Source: https://www.archives.gov/federal-register/codification/executive-order/09698.html
   Source_2: https://www.inec.gob.pa/iasi/presentation.html
   Name_es: Instituto Interamericano de Estadística
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
   Year_established: 1940
   Name_zh: 美洲统计协会
   Website: http://www.contraloria.gob.pa/inec/IASI/
@@ -9108,10 +9113,11 @@ Asia-Pacific Economic Cooperation Secretariat:
   Name_other_en: APEC Secretariat
   Abbreviation_en: APEC
   Treaty_url: https://www.apec.org/meeting-papers/annual-ministerial-meetings/1992/1992_amm/annex3
+  Immunity_url: https://sso.agc.gov.sg/SL/IOIPA1948-OR14?DocDate=19940330
   Source: https://sso.agc.gov.sg/SL/IOIPA1948-OR14?DocDate=19940330
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
 Asian Reinsurance Corporation:
   SPRVD_id: SPRVD0033465
   Wikidata_code: '[No code found.]'
@@ -9548,10 +9554,11 @@ African Risk Capacity Agency:
   Name_fr: null
   Abbreviation_en: ARC Agency
   Treaty_url: https://web.archive.org/web/20250220014432/https://au.int/sites/default/files/treaties/7800-treaty-0043_-_agreement_for_the_establishment_of_the_african_risk_capacity_arc_agency_e.pdf
+  Immunity_url: https://web.archive.org/web/20250220014432/https://au.int/sites/default/files/treaties/7800-treaty-0043_-_agreement_for_the_establishment_of_the_african_risk_capacity_arc_agency_e.pdf
   Source: null
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
 British-Irish Council:
   SPRVD_id: SPRVD0829276
   Entity_type: International organisation
@@ -9720,12 +9727,13 @@ Arab League:
   Name_other_en: League of Arab States
   Abbreviation_en: null
   Treaty_url: https://www.refworld.org/legal/constinstr/las/1945/en/13854
+  Immunity_url: https://avalon.law.yale.edu/20th_century/arableag.asp
   OpenSanctions_id: '[No code found.]'
   RIAD_code: N$0ECBM00560
   Name_fr: Ligue arabe
   Name_es: Liga Árabe
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
   Year_established: 1945
   Headquarters: Headquarters of the Arab League, Egypt
   Name_de: Arabische Liga
@@ -13884,7 +13892,6 @@ Microbial Resource Research Infrastructure:
   Type: European Research Infrastructure Consortium
   Country: EU
   Name_en: Microbial Resource Research Infrastructure
-  Name_other_en:  European Research Infrastructure Consortium
   Name_other_2_en:  ERIC
   Abbreviation_en: MIRRI
   Abbreviation_other_en: MIRRI ERIC
@@ -13904,7 +13911,6 @@ Survey of Health, Ageing and Retirement in Europe:
   Type: European Research Infrastructure Consortium
   Country: EU
   Name_en: Survey of Health, Ageing and Retirement in Europe
-  Name_other_en:  European Research Infrastructure Consortium
   Name_other_2_en:  ERIC
   Abbreviation_en: SHARE
   Abbreviation_other_en: SHARE ERIC
@@ -13916,3 +13922,18 @@ Survey of Health, Ageing and Retirement in Europe:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B44
+South Asian University:
+  SPRVD_id: SPRVD0772258
+  Entity_type: International organisation
+  Wikidata_code: Q7566050
+  Org_family: none
+  Type: 
+  Country: ZZ
+  Name_en: South Asian University
+  Abbreviation_en: SAU
+  Source: https://indianexpress.com/article/cities/delhi/sau-an-international-organisation-has-privileges-and-immunity-delhi-hc-9126612/
+  Treaty_url: https://nepal.saarc-sec.org/index.php/resources/agreements-conventions/29-agreement-for-establishment-of-south-asian-univeristy/file
+  Immunity_url: https://indianexpress.com/article/cities/delhi/sau-an-international-organisation-has-privileges-and-immunity-delhi-hc-9126612/
+  OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition: Included
+  Basis_for_assessment: B22
