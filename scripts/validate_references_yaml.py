@@ -20,6 +20,7 @@ ALLOWED_REFERENCE_TYPES = {
     "International Standard",
     "Legislation",
     "Paper",
+    "Parliamentary Debate",
     "Structure Chart",
     "Treaty",
     "Webpage",

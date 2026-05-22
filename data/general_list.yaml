@@ -2044,9 +2044,10 @@ European Schools:
   Name_en: European Schools
   Abbreviation_en: null
   Treaty_url: https://www.eursc.eu/BasicTexts/SW1_21994A0817-en.pdf
+  Immunity_url: https://publications.parliament.uk/pa/cm200102/cmstand/deleg7/st011101/11101s01.htm
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
   Headquarters: City of Brussels, Belgium
   Website: https://www.eursc.eu
 Council of Europe:
@@ -2112,7 +2113,7 @@ Benelux:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
-  Immunity_url: https://www.benelux.int/wp-content/uploads/2023/02/BeneluxVerdrag_2008.pdf
+  Immunity_url: https://www.wipo.int/wipolex/en/text/592180
   Year_established: 1944
   Headquarters: City of Brussels, Belgium
   Name_de: Benelux
@@ -2690,7 +2691,7 @@ Caribbean Examinations Council:
   Name_en: Caribbean Examinations Council
   Abbreviation_en: CXC
   Treaty_url: https://caricom.org/wp-content/uploads/Revised-Agreement-Establishing-the-Caribbean-Examinations-Council-CXC.pdf
-  Immunity_url: https://caricom.org/wp-content/uploads/Revised-Agreement-Establishing-the-Caribbean-Examinations-Council-CXC.pdf
+  Immunity_url: https://www.ttparliament.org/wp-content/uploads/2022/01/a2006-21.pdf
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
@@ -5473,11 +5474,12 @@ North Atlantic Marine Mammal Commission:
   Name_en: North Atlantic Marine Mammal Commission
   Abbreviation_en: null
   Treaty_url: https://nammco.wpengine.com/wp-content/uploads/2016/10/nammco-agreement-with-signatures-and-logo.pdf
+  Immunity_url: https://nammco.wpengine.com/wp-content/uploads/2016/10/nammco-host-agreement-english-signed.pdf
   Name_fr: North Atlantic Marine Mammal Commission
   Name_es: Comisión Para los Mamíferos Marinos del Atlántico Norte
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
   Headquarters: Tromsø Municipality, Norway
   Name_de: North Atlantic Marine Mammal Commission
   Name_zh: 北大西洋海洋哺乳動物委員會
@@ -9099,10 +9101,11 @@ Orange-Senqu River Commission:
   Name_other_en: null
   Abbreviation_en: ORASECOM
   Treaty_url: https://orasecom.org/wp-content/uploads/2020/09/ORASECOM_Agreement_Reprint-August-2012.pdf
+  Immunity_url: https://www.gov.za/sites/default/files/gcis_document/201409/29240c0.pdf
   Source: null
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
 Asia-Pacific Economic Cooperation Secretariat:
   SPRVD_id: SPRVD0595777
   Wikidata_code: '[No code found.]'
