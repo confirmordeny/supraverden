@@ -6003,9 +6003,10 @@ Association of Iron Ore Exporting Countries:
   Name_en: Association of Iron Ore Exporting Countries
   Abbreviation_en: null
   Treaty_url: https://international.vlex.com/vid/accord-portant-creation-l-851216190
+  Immunity_url: https://www.legislation.gov.au/F1997B01688/latest/text
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
 African Groundnut Council:
   SPRVD_id: SPRVD0071692
   Wikidata_code: Q4689777
@@ -6617,10 +6618,11 @@ International Institute of Refrigeration:
   Name_en: International Institute of Refrigeration
   Abbreviation_en: IIR
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/Volume%20826/volume-826-I-11837-English.pdf
+  Immunity_url: https://treaties.un.org/doc/Publication/UNTS/Volume%20826/volume-826-I-11837-English.pdf
   Name_fr: Institut international du froid
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
   Year_established: 1908
   Headquarters: Paris, France
   Name_de: Internationales Kälteinstitut
@@ -6735,11 +6737,12 @@ Joint Institute for Nuclear Research:
   Name_en: Joint Institute for Nuclear Research
   Abbreviation_en: JINR
   Treaty_url: https://www.jinr.ru/wp-content/uploads/Advisory_Bodies/Agreement_JINR_English.pdf
+  Immunity_url: https://www.jinr.ru/wp-content/uploads/Advisory_Bodies/Charter_JINR_1999_eng.pdf
   Name_fr: Institut unifié de recherches nucléaires
   Name_es: Instituto Central de Investigaciones Nucleares
   OpenSanctions_id: NK-VzW4UF3eA7ydeHU3hgN3Cc
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
   Year_established: 1956
   Headquarters: Dubna, Russia
   Name_de: Vereinigtes Institut für Kernforschung
@@ -6757,9 +6760,10 @@ Joint Vienna Institute:
   Name_en: Joint Vienna Institute
   Abbreviation_en: null
   Treaty_url: https://www.elibrary.imf.org/display/book/9781451971125/ch062.xml
+  Immunity_url: https://www.ris.bka.gv.at/Dokumente/BgblPdf/1997_187_3/1997_187_3.pdf
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
 International Tropical Timber Organization:
   SPRVD_id: SPRVD0636726
   Wikidata_code: Q869610
@@ -6828,11 +6832,12 @@ World Organisation for Animal Health:
   Name_en: World Organisation for Animal Health
   Abbreviation_en: null
   Treaty_url: https://api.parliament.uk/uk-treaties/treaties/8880
+  Immunity_url: https://www.woah.org/en/who-we-are/structure-and-governance/framework/basic-texts/agreement-for-the-regional-representation-for-americas/
   Name_fr: Organisation mondiale de la santé animale
   Name_es: Organización Mundial de Sanidad Animal
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
   Year_established: 1924
   Headquarters: 17th arrondissement of Paris, France
   Name_de: Weltorganisation für Tiergesundheit (OIE)
@@ -7000,10 +7005,11 @@ Central Africa Forests Commission:
   Name_en: Central Africa Forests Commission
   Abbreviation_en: COMIFAC
   Treaty_url: https://comifac.org/wp-content/uploads/2017/12/Trait%C3%A9%20COMIFAC%202005_fr_ang_esp_por.pdf
+  Immunity_url: https://comifac.org/wp-content/uploads/2016/08/Trait%C3%A9%20COMIFAC%202005.pdf
   Name_fr: Commission des forêts d'Afrique centrale
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
   Year_established: 1999
 Caribbean Court of Justice:
   SPRVD_id: SPRVD0213456
@@ -9274,12 +9280,13 @@ International Potato Center:
   Name_other_en: null
   Abbreviation_en: CIP
   Treaty_url: https://hdl.handle.net/10947/3876
+  Immunity_url: https://malawilaws.com/StatutesActpdf/2016subsidiarypdf/011.pdf
   Source: https://apps.rree.gob.pe/portal/webtratados.nsf/xsp/.ibmmodres/domino/OpenAttachment/VICUS/MREPERU!!portal/tratados.nsf/348053BF2DE693820525769A005863F0/$FILE/B-2697.pdf
   Name_fr: centre international de la pomme de terre
   Name_es: Centro Internacional de la Papa
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
   Year_established: 1971
   Headquarters: Lima, Peru
   VAT_number: PE20142582725
