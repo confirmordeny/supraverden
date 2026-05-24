@@ -267,4 +267,11 @@ B43:
 B44:
   Basis_text: "The FATF definition of International organisations includes institutions of the European Union in the 
    examples.[R1.1][R2.1] The European Research Infrastructure Consortia (ERICS) are established under EU law and benefits
-   from certain exemptions from certain rules in connection with procurement and VAT.[R14] Accordingly, ERICs have been assessed as meeting the definition."
+   from certain exemptions from certain rules in connection with procurement and VAT.[R14] Accordingly, ERICs have been assessed
+    as meeting the definition."
+
+B45:
+  Basis_text: "The FATF definition of International organisations refers to entities established by international treaties 
+  that are not treated as resident institutional units of the countries in which they are located. [R1.1][R2.1] The International
+  Sericultural Commission was expressly established as an international organisation in 1957-1960 by the Convention Establishing
+  an International Sericultural Commission and has therefore been assessed as meeting the definition. [R17]"

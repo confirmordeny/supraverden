@@ -7599,11 +7599,12 @@ International Organisation of La Francophonie:
   Name_en: International Organisation of La Francophonie
   Abbreviation_en: null
   Treaty_url: https://www.francophonie.org/sites/default/files/2019-09/charte_francophonie_antananarivo_2005.pdf
+  Immunity_url: https://www.francophonie.org/sites/default/files/2022-10/Accord%20de%20Si%C3%A8ge%20-%20OIF%20BELGIQUE%20-%20RPUE_1995.pdf
   Name_fr: Organisation internationale de la francophonie
   Name_es: Organización Internacional de la Francofonía
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
   Year_established: 1970
   Headquarters: Paris, France
   Name_de: Internationale Organisation der Frankophonie
@@ -7802,9 +7803,10 @@ Caribbean Telecommunications Union:
   Name_en: Caribbean Telecommunications Union
   Abbreviation_en: CTU
   Treaty_url: https://ctu.int/wp-content/uploads/2023/09/1.-Agreement-for-the-Establishment-of-the-Caribbean-Telecommunications-Union.pdf
+  Immunity_url: http://laws.gov.tt/ttdll-web/revision/download/29499?type=amendment
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
   Year_established: 1990
   Headquarters: Port of Spain, Trinidad and Tobago
   Name_zh: 加勒比电信联盟
@@ -8204,11 +8206,12 @@ West African Development Bank:
   Name_en: West African Development Bank
   Abbreviation_en: BOAD
   Treaty_url: https://edit.wti.org/document/show/pdf/57ce5bd9-ef38-4a1d-abd5-ed07f1f155bf
+  Immunity_url: https://www.bceao.int/sites/default/files/inline-files/Recueil%20des%20textes%20l%C3%A9gaux%20et%20r%C3%A9glementaires%20r%C3%A9gissant%20l%27activit%C3%A9%20bancaire%20et%20financi%C3%A8re%20dans%20l%27UMOA%2C%20Vol.%20I%2C%20%C3%A9d.%202018.pdf
   Name_fr: Banque ouest-africaine de développement
   Name_es: Banco de Desarrollo del África Occidental
   OpenSanctions_id: bic-BOADTGTG
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
   Year_established: 1973
   Headquarters: Lomé, Togo
   LEI: 529900LIZJABE4JJS826
@@ -8695,7 +8698,7 @@ International Sericultural Commission:
   Source: null
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B45
 Arab Authority for Agricultural Investment and Development:
   SPRVD_id: SPRVD0827554
   Wikidata_code: '[No code found.]'
@@ -8775,11 +8778,12 @@ Andean Parliament:
   Name_es: Parlamento Andino
   Abbreviation_en: null
   Treaty_url: https://www.wipo.int/wipolex/en/text/593530
+  Immunity_url: https://www.iri.edu.ar/publicaciones_iri/manual/Listos%20para%20subir%20III/Integraci%F3n-Latinoamerica/CAN/protocolo_%20_tratado_parlamento_andino_1997.pdf
   Source: null
   Name_fr: Parlement andin
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
   Year_established: 1979
   Headquarters: Bogotá, Colombia
   Name_de: Andenparlament
@@ -9013,12 +9017,13 @@ International Solar Alliance:
   Name_en: International Solar Alliance
   Abbreviation_en: ISA
   Treaty_url: https://treaties.un.org/doc/Publication/UNTS/No%20Volume/54949/Part/I-54949-08000002804ed824.pdf
+  Immunity_url: https://isolaralliance.org/uploads/docs/04519cec12c15e9bc80ad92b3cb10e.pdf
   Source: null
   Name_fr: Alliance solaire internationale
   Name_es: Alianza Solar Internacional
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
   Year_established: 2015
   Headquarters: Gurgaon, India
   LEI: 335800TI2VJT9YHOXL60
@@ -9074,10 +9079,11 @@ International Plant Genetic Resources Institute:
   Name_other_en: Biodiversity International
   Abbreviation_en: IPGRI
   Treaty_url: https://cgspace.cgiar.org/server/api/core/bitstreams/00e346a8-faa4-4e7e-a5ae-89f66b66cb92/content
+  Immunity_url: https://cgspace.cgiar.org/server/api/core/bitstreams/2053bfa6-a429-43b5-b1a3-2c3eb08e9ebf/content
   Source: null
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
 Permanent Okavango River Basin Water Commission:
   SPRVD_id: SPRVD0985057
   Wikidata_code: Q96097566
@@ -9137,10 +9143,11 @@ Asian Reinsurance Corporation:
   Name_other_en: null
   Abbreviation_en: null
   Treaty_url: http://lawinfochina.com/display.aspx?id=7447&lib=tax
+  Immunity_url: http://bdlaws.minlaw.gov.bd/upload/act/1137___Schedule.pdf
   Source: null
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
 International Commission for the Protection of the Rhine:
   SPRVD_id: SPRVD0909580
   Wikidata_code: Q1667341
@@ -9189,11 +9196,12 @@ Melanesian Spearhead Group:
   Name_other_en: null
   Abbreviation_en: MSG
   Treaty_url: https://msgsec.info/wp-content/uploads/2024/10/UN-Depository-_-Agreement-Establishng-the-MSG-2007.pdf
+  Immunity_url: https://msgsec.info/wp-content/uploads/msghistoricaldocuments/UN-Depository-_-Agreement-Establishng-the-MSG-2007.pdf
   Source: null
   Name_fr: Groupe mélanésien Fer de lance
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
   Year_established: 1983
   Name_de: Melanesian Spearhead Group
   Name_pt: Melanesian Spearhead Group
@@ -9305,12 +9313,13 @@ International Center for Tropical Agriculture:
   Name_other_en: null
   Abbreviation_en: CIAT
   Treaty_url: https://hdl.handle.net/10947/420
+  Immunity_url: https://treaties.un.org/doc/publication/UNTS/Volume%201515/v1515.pdf
   Source: null
   Name_fr: centre international d’agriculture tropicale
   Name_es: Centro Internacional de Agricultura Tropical
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
   Year_established: 1967
   Headquarters: Rome, Italy
   Name_de: CIAT
@@ -9409,11 +9418,12 @@ Parliamentary Assembly of Turkic States:
   Name_other_en: null
   Abbreviation_en: TURKPA
   Treaty_url: https://web.archive.org/web/20230329043622/https://www.turk-pa.org/file/236_1580134295_5318.pdf
+  Immunity_url: https://phpstack-965667-3374080.cloudwaysapps.com/files/235_1500486356_7338.pdf
   Source: null
   Name_fr: Assemblée parlementaire des États turciques
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
   Name_ru: Парламентская ассамблея тюркских государств
   Name_zh: 突厥國家議會
   Website: https://turkpa.org/
@@ -9527,10 +9537,11 @@ Caribbean Centre for Development Administration:
   Name_fr: null
   Abbreviation_en: CARICAD
   Treaty_url: https://www.caricad.net/wp-content/themes/caricad/includes/pdf/Treaty-Establishing-CARICAD.pdf
+  Immunity_url: https://www.caricad.net/download-library/?lib_post=748
   Source: null
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
   Year_established: 1975
   Headquarters: Saint Michael, Barbados
   Website: https://www.caricad.net/
@@ -9807,11 +9818,12 @@ Arab States Broadcasting Union:
   Name_en: Arab States Broadcasting Union
   Abbreviation_en: ASBU
   Treaty_url: https://haqqi.s3.eu-north-1.amazonaws.com/2014-04/HRIDRL0151_ArabBroadcastUnion_Ar_19.pdf
+  Immunity_url: https://www.files.ethz.ch/isn/125350/8005_arableaguecharter.pdf
   OpenSanctions_id: '[No code found.]'
   Name_fr: Union de radiodiffusion des États arabes
   Name_es: Unión de Radiodifusión de los Estados Árabes
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
   Year_established: 1969
   Headquarters: Tunis, Tunisia
   LEI: 4117KG5WLI9LY4I6AW83
@@ -9833,9 +9845,10 @@ Arab Center for the Studies of Arid Zones and Dry Lands:
   Name_en: Arab Center for the Studies of Arid Zones and Dry Lands
   Abbreviation_en: ACSAD
   Treaty_url: https://unesdoc.unesco.org/ark:/48223/pf0000056473
+  Immunity_url: https://www.files.ethz.ch/isn/125350/8005_arableaguecharter.pdf
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
   Year_established: 1968
   Website: http://www.acsad.org/index.php/en/
 Arab Fund for Economic and Social Development:
@@ -9847,12 +9860,13 @@ Arab Fund for Economic and Social Development:
   Name_en: Arab Fund for Economic and Social Development
   Abbreviation_en: AFESD
   Treaty_url: https://www.arabfund.org/wp-content/uploads/2023/12/agreement0000.pdf
+  Immunity_url: https://www.files.ethz.ch/isn/125350/8005_arableaguecharter.pdf
   OpenSanctions_id: bic-AFEDKWKW
   RIAD_code: N$0ECBM00107
   Name_fr: Fonds arabe pour le développement économique et social
   Name_es: Fondo árabe para desarrollo económico y social
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
   Year_established: 1968
   Headquarters: Kuwait City, Kuwait
   Name_pt: Fundo Árabe para Desenvolvimento Econômico e Social
@@ -9894,9 +9908,10 @@ Arab Civil Aviation Organization:
   Name_en: Arab Civil Aviation Organization
   Abbreviation_en: ACAO
   Treaty_url: https://www.legalaffairs.gov.bh/FullEn/L1295.docx
+  Immunity_url: https://www.files.ethz.ch/isn/125350/8005_arableaguecharter.pdf
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
   Year_established: 1996
   LEI: 894500SO2Q3W5BRPU384
   LEI_jurisdiction: XX
@@ -9947,9 +9962,10 @@ Arab Labor Organization:
   Name_en: Arab Labor Organization
   Abbreviation_en: null
   Treaty_url: https://haqqi.s3.eu-north-1.amazonaws.com/2014-04/HRIDRL0124_ALOConstitution_Ar_1970.pdf
+  Immunity_url: https://www.files.ethz.ch/isn/125350/8005_arableaguecharter.pdf
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
   Headquarters: Giza, Egypt
 Arab Monetary Fund:
   SPRVD_id: SPRVD0690200
@@ -9960,12 +9976,13 @@ Arab Monetary Fund:
   Name_en: Arab Monetary Fund
   Abbreviation_en: AMF
   Treaty_url: https://www.amf.org.ae/sites/default/files/uploads/The%20Articles%20of%20Agreement%20of%20the%20AMF%20-%20English_0.pdf
+  Immunity_url: https://www.files.ethz.ch/isn/125350/8005_arableaguecharter.pdf
   OpenSanctions_id: NK-aXUnszYW37RSDPv2bzwNA9
   RIAD_code: N$0ECBM00115
   Name_fr: Fonds monétaire arabe
   Name_es: Fondo Monetario Árabe
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
   Year_established: 1976
   Headquarters: Abu Dhabi, United Arab Emirates
   LEI: 549300WT3YR8YON1F749
@@ -9990,11 +10007,12 @@ Arab Satellite Communications Organisation:
   Name_en: Arab Satellite Communications Organisation
   Abbreviation_en: ARABSET
   Treaty_url: https://www.lloc.gov.bh/FullEn/L0199.docx
+  Immunity_url: https://www.files.ethz.ch/isn/125350/8005_arableaguecharter.pdf
   OpenSanctions_id: '[No code found.]'
   Name_fr: Organisation arabe des satellites de communications
   Name_es: Organización árabe de comunicaciones por satélite
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
   Year_established: 1976
   Headquarters: Riyadh, Saudi Arabia
   Name_de: Arabsat
@@ -10028,11 +10046,12 @@ Arab Organization for Communication and Information Technologies:
   Name_en: Arab Organization for Communication and Information Technologies
   Abbreviation_en: AICTO
   Treaty_url: https://decree.om/2005/tre20050026a/
+  Immunity_url: https://www.files.ethz.ch/isn/125350/8005_arableaguecharter.pdf
   OpenSanctions_id: '[No code found.]'
   Name_fr: null
   Name_es: null
   Assessment_against_FATF_definition: Included
-  Basis_for_assessment: B40
+  Basis_for_assessment: B22
   Headquarters: Tunis, Tunisia
   Website: http://www.aicto.org/
 Simón Bolívar Andean University:
