@@ -13,7 +13,7 @@
 * Colombo Plan entities (2 entities)
 * Common Market for Eastern and Southern Africa entities (4 entities)
 * Commonwealth of Nations entities (4 entities)
-* Council of Europe entities (4 entities)
+* Council of Europe entities (5 entities)
 * East African Community entities (4 entities)
 * Economic and Monetary Community of Central Africa (3 entities)
 * ECOWAS entities (7 entities)
