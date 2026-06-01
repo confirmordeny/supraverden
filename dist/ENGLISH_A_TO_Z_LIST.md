@@ -640,6 +640,7 @@
 - Southern African Customs Union
 - Southern African Development Community
 - Special EU Programmes Body
+- Special Tribunal for the Crime of Aggression against Ukraine
 - Square Kilometre Array Observatory
 - Statistical Commission
 - Supply Agency of the European Atomic Energy Community

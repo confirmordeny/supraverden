@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 615 international organisations in the table.
+There are currently 616 international organisations in the table.
 
 | English Name | Wikidata Code | OpenSanctions | Family | Source |
 |---|---|---|---|---|
@@ -551,6 +551,7 @@ There are currently 615 international organisations in the table.
 | Southern African Customs Union | [Q1344350](https://www.wikidata.org/wiki/Q1344350) | [No code found.] | none | [Treaty](https://www.sacu.int/uploads/documents/6a7ae39b41cba945b083e93a2e1a103d7cee629c.pdf) |
 | Southern African Development Community | [Q816706](https://www.wikidata.org/wiki/Q816706) | [No code found.] | Southern African Development Community | [Treaty](https://www.sadc.int/sites/default/files/2021-11/Declaration__Treaty_of_SADC_0.pdf) |
 | Special EU Programmes Body | [Q7574528](https://www.wikidata.org/wiki/Q7574528) | [No code found.] | North South bodies | [www.northsouthministerialcouncil.org](https://www.northsouthministerialcouncil.org/north-south-implementation-bodies) |
+| Special Tribunal for the Crime of Aggression against Ukraine | [Q114352162](https://www.wikidata.org/wiki/Q114352162) | [No code found.] | Council of Europe entities | [Treaty](https://rm.coe.int/agreement-and-statut-english/1680b66127) |
 | Square Kilometre Array Observatory | N/A | [No code found.] | none | [Treaty](https://assets.publishing.service.gov.uk/media/5d3197f3ed915d2fe2d7e1bc/MS_27.2019_SKAO_Convention_Square_Kilometre_Array_Telescope.pdf) |
 | Statistical Commission | [Q15042419](https://www.wikidata.org/wiki/Q15042419) | [No code found.] | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | Supply Agency of the European Atomic Energy Community | [Q1374308](https://www.wikidata.org/wiki/Q1374308) | [No code found.] | EU institutions and bodies | [Treaty](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:12016A/TXT) |

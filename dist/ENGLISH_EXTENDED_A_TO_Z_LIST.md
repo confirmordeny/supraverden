@@ -1220,10 +1220,12 @@ This list includes current English names, former English names, other English na
 - Southern Common Market (Other name: Mercosur)
 - SPC (Abbreviation: Pacific Community)
 - Special EU Programmes Body
+- Special Tribunal for the Crime of Aggression against Ukraine
 - SPRFMO (Abbreviation: South Pacific Regional Fisheries Management Organisation)
 - Square Kilometre Array Observatory
 - SRB (Abbreviation: Single Resolution Board)
 - Statistical Commission
+- STCoA (Abbreviation: Special Tribunal for the Crime of Aggression against Ukraine)
 - STCU (Abbreviation: Science and Technology Center in Ukraine)
 - Supply Agency of the European Atomic Energy Community
 - Surveillance Authority of the European Free Trade Association
