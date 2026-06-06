@@ -3818,6 +3818,7 @@ CAB International:
   Name_en: CAB International
   Abbreviation_en: CABI
   Treaty_url: https://www.cabi.org/wp-content/uploads/PDFs/AboutCABI/CABI-Agreement-2016.pdf
+  Name_former_en: Commonwealth Agricultural Bureaux
   Name_fr: CAB International
   Name_es: CAB International
   OpenSanctions_id: '[No code found.]'
@@ -8188,6 +8189,7 @@ Central Bank of West African States:
   Name_en: Central Bank of West African States
   Name_other_en: West African Central Bank
   Name_other_2_en: Bank of the West African States
+  Name_other_3_en: Central Bank of the West African States
   Abbreviation_en: BCEAO
   Treaty_url: https://edit.wti.org/document/show/pdf/57ce5bd9-ef38-4a1d-abd5-ed07f1f155bf
   Source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202300724
