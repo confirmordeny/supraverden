@@ -5,6 +5,8 @@
 * Abbreviation_former
   * en
 * Abbreviation_other
+  * 2
+    * en
   * en
 * Assessment_against_FATF_definition
 * Basis_for_assessment
@@ -58,7 +60,13 @@
 * Name_former
   * en
 * Name_other
+  * 1
+    * en
   * 2
+    * en
+  * 3
+    * en
+  * 4
     * en
   * en
 * Notes
@@ -72,6 +80,7 @@
   * 2
   * 3
 * Source_4
+* Source_5
 * Treaty_url
 * Type
 * VAT_number
