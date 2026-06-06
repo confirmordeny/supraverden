@@ -13987,3 +13987,18 @@ Special Tribunal for the Crime of Aggression against Ukraine:
   OpenSanctions_id: '[No code found.]'
   Assessment_against_FATF_definition: Included
   Basis_for_assessment: B22
+United Nations Latin American Institute for the Prevention of Crime and the Treatment of Offenders:
+  SPRVD_id: SPRVD0411972
+  Entity_type: International organisation
+  Wikidata_code: Q54556161
+  Org_family: UN and affiliates
+  Country: ZZ
+  Name_en: United Nations Latin American Institute for the Prevention of Crime and the Treatment of Offenders
+  Name_other_en: Latin American Institute for the Prevention of Crime and the Treatment of Offenders
+  Abbreviation_en: ILANUD
+  Source: https://www.icc-cpi.int/sites/default/files/2025-11/ICC-PRES_30-01-2024-ENG.pdf
+  Treaty_url: https://treaties.un.org/doc/publication/UNTS/Volume%20973/v973.pdf
+  Immunity_url: https://treaties.un.org/doc/publication/UNTS/Volume%20973/v973.pdf
+  OpenSanctions_id: '[No code found.]'
+  Assessment_against_FATF_definition:
+  Basis_for_assessment: B22
