@@ -1,6 +1,6 @@
 # All Supranational Bodies
 
-There are currently 616 international organisations in the table.
+There are currently 617 international organisations in the table.
 
 | English Name | Wikidata Code | OpenSanctions | Family | Source |
 |---|---|---|---|---|
@@ -586,6 +586,7 @@ There are currently 616 international organisations in the table.
 | United Nations Institute for Training and Research | [Q131878](https://www.wikidata.org/wiki/Q131878) | [No code found.] | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations Interregional Crime and Justice Research Institute | [Q1427752](https://www.wikidata.org/wiki/Q1427752) | [No code found.] | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations Joint Staff Pension Fund | [Q28455859](https://www.wikidata.org/wiki/Q28455859) | [NK-43DMmwFqwbXZHDFcovCyWF](https://www.opensanctions.org/entities/NK-43DMmwFqwbXZHDFcovCyWF/) | UN and affiliates | [www.un.org](https://www.un.org/internaljustice/oaj/en/united-nations-joint-staff-pension-fund-unjspf) |
+| United Nations Latin American Institute for the Prevention of Crime and the Treatment of Offenders | [Q54556161](https://www.wikidata.org/wiki/Q54556161) | [No code found.] | UN and affiliates | [Treaty](https://treaties.un.org/doc/publication/UNTS/Volume%20973/v973.pdf) |
 | United Nations Office for Project Services | [Q2531088](https://www.wikidata.org/wiki/Q2531088) | [NK-ijZcLvfYrYTcHqGkftojPm](https://www.opensanctions.org/entities/NK-ijZcLvfYrYTcHqGkftojPm/) | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations Peacebuilding Commission | [Q1534084](https://www.wikidata.org/wiki/Q1534084) | [No code found.] | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |
 | United Nations Population Fund | [Q623036](https://www.wikidata.org/wiki/Q623036) | [No code found.] | UN and affiliates | [UN system chart](https://www.un.org/en/delegate/page/un-system-chart) |

@@ -234,6 +234,7 @@ This list includes current English names, former English names, other English na
 - Central American Maritime Transport Commission
 - Central American Parliament
 - Central Asian and Caucasus Regional Fisheries and Aquaculture Commission
+- Central Bank of the West African States (Other name: Central Bank of West African States)
 - Central Bank of West African States
 - Central Commission for the Navigation of the Rhine
 - Central European Research Infrastructure Consortium
@@ -306,6 +307,7 @@ This list includes current English names, former English names, other English na
 - Common Language Resources and Technology Infrastructure ERIC (Other name: Common Language Resources and Technology Infrastructure)
 - Common Language Resources and Technology Infrastructure European Research Infrastructure Consortium (Other name: Common Language Resources and Technology Infrastructure)
 - Common Market for Eastern and Southern Africa
+- Commonwealth Agricultural Bureaux (Former name: CAB International)
 - Commonwealth of Independent States
 - Commonwealth Secretariat
 - Commonwealth Secretariat Aribtral Tribunal
@@ -780,6 +782,7 @@ This list includes current English names, former English names, other English na
 - IIMSAM (Abbreviation: International Centre for Food Micro-Algae Against Malnutrition)
 - IIN (Abbreviation: Inter‐American Children’s Institute)
 - IIR (Abbreviation: International Institute of Refrigeration)
+- ILANUD (Abbreviation: United Nations Latin American Institute for the Prevention of Crime and the Treatment of Offenders)
 - ILC (Abbreviation: International Law Commission)
 - ILO (Abbreviation: International Labour Organization)
 - ILRI (Abbreviation: International Livestock Research Institute)
@@ -1007,6 +1010,7 @@ This list includes current English names, former English names, other English na
 - Latin American Civil Aviation Commission
 - Latin American Energy Organization
 - Latin American Faculty of Social Sciences
+- Latin American Institute for the Prevention of Crime and the Treatment of Offenders (Other name: United Nations Latin American Institute for the Prevention of Crime and the Treatment of Offenders)
 - Latin American Integration Association
 - Latin American Reserve Fund
 - Latin-American Centre for Physics
@@ -1345,6 +1349,7 @@ This list includes current English names, former English names, other English na
 - United Nations Interregional Crime and Justice Research Institute Centre for Artificial Intelligence and Robotics (Other name: United Nations Interregional Crime and Justice Research Institute)
 - United Nations Joint Staff Pension Board (Other name: United Nations Joint Staff Pension Fund)
 - United Nations Joint Staff Pension Fund
+- United Nations Latin American Institute for the Prevention of Crime and the Treatment of Offenders
 - United Nations Office for Project Services
 - United Nations Peacebuilding Commission
 - United Nations Population Fund

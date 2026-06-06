@@ -685,6 +685,7 @@
 - United Nations Institute for Training and Research
 - United Nations Interregional Crime and Justice Research Institute
 - United Nations Joint Staff Pension Fund
+- United Nations Latin American Institute for the Prevention of Crime and the Treatment of Offenders
 - United Nations Office for Project Services
 - United Nations Peacebuilding Commission
 - United Nations Population Fund
