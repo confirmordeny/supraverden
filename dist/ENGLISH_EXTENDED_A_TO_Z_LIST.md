@@ -336,6 +336,7 @@ This list includes current English names, former English names, other English na
 - Council of the Entente (Other name: Conseil de l'Entente)
 - Council of the EU (Other name: Council of the European Union)
 - Council of the European Union
+- Council of Turkic Speaking States (Other name: Organization of Turkic States)
 - Court of Conciliation and Arbitration
 - Court of Justice of the Andean Community
 - Court of justice of the EFTA States (Other name: EFTA Court)
