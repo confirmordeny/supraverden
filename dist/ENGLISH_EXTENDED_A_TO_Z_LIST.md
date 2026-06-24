@@ -1305,6 +1305,7 @@ This list includes current English names, former English names, other English na
 - UNIDO (Abbreviation: United Nations Industrial Development Organization)
 - UNIDROIT (Abbreviation: International Institute for the Unification of Private Law)
 - Unified Patent Court
+- Union for the Dutch Language (Other name: Dutch Language Union)
 - Union for the Mediterranean
 - Union for the Mediterranean Secretariat (Other name: Union for the Mediterranean)
 - Union of South American Nations
