@@ -878,6 +878,7 @@ This list includes current English names, former English names, other English na
 - International Fund for Agricultural Development
 - International Grains Council
 - International Hydrographic Organisation
+- International Hydrographic Organization (Other name: International Hydrographic Organisation)
 - International Iberian Nanotechnology Laboratory
 - International IDEA (Abbreviation: International Institute for Democracy and Electoral Assistance)
 - International Institute for Democracy and Electoral Assistance
